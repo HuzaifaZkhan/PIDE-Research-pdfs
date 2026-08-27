@@ -1,0 +1,115 @@
+EXECUTIVE SUMMAR Y
+
+The RLNG challenge for Pakistan has evolved from a generation issue into a broader ﬁnancial and ﬁscal risk. While RLNG generation is decreasing because of subdued demand from the grid, increasing tariﬀs, and fast growth of solar, the power sector is still vulnerable to long-term contracts, ﬁxed capacity obligations, and external price shocks. RLNG still accounts for around 21 percent of total generation and 31.56 percent of thermal generation, while Pakistan remains committed to approximately 6.75 MTPA of contracted LNG supply. LNG import payments of US$3.52 billion, RLNG-linked capacity payments of 8.1 percent, and estimated tariﬀ impacts ranging from PKR -0.29 to PKR 1.61 per kWh illustrate that declining dispatch does not automatically reduce ﬁnancial exposure. This Policy Viewpoint, therefore, recommends a risk-management approach focusing on enhanced monitoring, least-cost dispatch, greater contractual ﬂexibility, and the transparent disclosure of tariﬀ, circular-debt and ﬁscal risks associated with RLNG.
+
+R isk chain: LNG shock → higher system cost → FCA/QTA or circular debt → ﬁscal stress
+
+N o t e: Indicators use diﬀerent denominators: total generation, thermal generation, total capacity payments, DISCO sales and SBP import payments.
+
+1. Introduction
+
+RLNG was introduced in response to the energy shortages of the mid-2010s to curtail load-shedding, promote eﬃcient combined-cycle gas turbine (CCGT) plants, and make up for domestic gas shortfalls (NEPRA, 2014). However, slower demand growth, rising electricity tariﬀs, and rapid solar adoption have reduced grid dependence, making imported-fuel-based generation increasingly less attractive. As a result, RLNG plants are now being dispatched at lower than previously anticipated levels but still bound by long-term ﬁnancial obligations (CPPA-G, 2025). In FY2024–25, Pakistan imported LNG worth US$3.52 billion, equivalent to about 23.5 percent of petroleum-group import payments and 6 percent of total imports. RLNG generated 27,970 GWh, or 20.7 percent of national electricity generation, and accounted for 31.6 percent of thermal generation.
+
+Yet Pakistan remains committed to approximately 6.75 MTPA of long-term LNG supply, while RLNG-linked plants continue to account for 8.1 percent of total capacity payments. This leads to a structural mismatch: less dispatch may reduce fuel consumption, but it does not eliminate contractual, capacity payment, exchange rate or cost recovery commitments. This Policy Viewpoint is based on a single critical question: How can Pakistan mitigate the risk of RLNG-related tariﬀ, circular debt and ﬁscal risk given that RLNG-based generation is receding, while long-term LNG supply contracts, RLNG-linked power purchase agreements, and capacity-payment obligations continue?
+
+2. RLNG Exposure: From Supply Risk to Cost and Fiscal Vulnerability
+
+Pakistan’s RLNG exposure operates through multiple but distinct channels.
+
+i. Supply exposure: It arises from reliance on imported LNG and concentrated external suppliers.
+
+ii. G eneration exposure: It reﬂects the role of RLNG in total electricity generation and, more importantly, within the thermal generation segment that may require replacement during a supply disruption.
+
+iii. Financial exposure: It arises from long-term LNG supply contracts, RLNG-linked power purchase agreements, capacity payments, fuel-price volatility, and exchange-rate movements.
+
+iv. T ariﬀ and ﬁscal exposure: I t arises when the increased system costs are either transferred to the consumers via FCA/QTA or are piled up in the form of circular debt and pressure on the government budget.
+
+2.1 Import Concentration and External Supply Exposure
+
+Pakistan’s exposure to RLNG starts with import concentration. Unlike indigenous gas or hydropower, RLNG-based power generation requires uninterrupted seaborne supply, principally from Gulf States. Pakistan’s long-term contracts (almost all of which are sourced from Qatar) of around 6.75 MTPA of LNG, pose concentrated supply risk (State Bank of Pakistan, 2021; IEEFA, 2025). This concentration creates a multi-layered external exposure.
+
+i. Supplier concentration limits Pakistan’s ﬂexibility when LNG demand weakens or when domestic power-sector dispatch shifts away from RLNG.
+
+ii. Route concentration exposes LNG cargoes to disruptions in Gulf shipping lanes, including the Strait of Hormuz.
+
+iii. Price indexation to international fuel prices transmits global oil and LNG price volatility directly into Pakistan’s import bill.
+
+iv. Higher LNG payments place pressure on the current account and exchange rate, particularly when export earnings and foreign exchange reserves remain constrained.
+
+Figure 1: Share of LNG in Petroleum Import Payments (US $Millions; FY2024-25)
+
+Source: State Bank of Pakistan, Import Payments by Commodities and Groups, 2025
+
+LNG is still a notable element of Pakistan’s petroleum import bills. As international LNG prices surged, Pakistan faced greater ﬁscal and balance-of-payments pressures while maintaining fuel supplies to the power and industrial sectors.
+
+Figure 2: Pakistan’s LNG Import Dependence: Share in Petroleum Imports, Total Imports, and International LNG Prices
+
+Source: State Bank of Pakistan (2026)
+
+2.2 RLNG in the Generation Mix: Total Share versus Thermal Exposure
+
+Figure 3: Share of Electricity Generation by Source in Pakistan (FY2025)
+
+Source: National Electric Power Regulatory Authority (NEPRA), State of Industry Report 2025.
+
+Pakistan generated approximately 135,079 GWh of electricity in FY2024–25, of which thermal sources accounted for 88,623 GWh (65.61 %). RLNG accounted for 21 percent of total generation and 31.56 percent of thermal generation (NEPRA, 2025).
+
+Table 1: Estimated RLNG Generation Requiring Replacement under LNG Disruption Scenarios
+
+L NG Supply Shock
+G eneration Exposure (%)
+
+20 % LNG reduction
+6.32
+
+50 % LNG reduction
+15.78
+
+1 0 0 % LNG reduction
+31.56
+
+Source: Author’s own calculations.
+
+N ot e: Estimates refer to RLNG’s share in thermal generation, not total electricity generation. The eventual supply impact would depend on substitute fuel availability, plant readiness, transmission constraints, and dispatch requirements.
+
+2.3 Contractual Rigidity and Capacity-Payment Exposure
+
+The ﬁrst major LNG Sales and Purchase Agreement (SPA) was concluded in February 2016 between Pakistan State Oil (PSO) and Qatar Gas (now Qatar Energy) for the supply of 3.75 million tons per annum (MTPA) of LNG for the term of 15 years to cover Pakistan’s increasing energy deﬁcit (PSO & Qatar Gas, 2016). The contract was linked to crude oil prices at a factor of approximately 13.37% for the sale of LNG, considered competitive at the time of signing. But over time, it became expensive relative to some regional LNG contracts that were reportedly priced at lower Brent-linked slopes and allowed greater ﬂexibility in cargo scheduling and offtake (Gas Outlook, 2025).
+
+To guarantee additional LNG supplies, Qatar Petroleum, now QatarEnergy, announced a long-term agreement with Pakistan State Oil in 2021 for the supply of up to 3 MTPA of LNG to Pakistan for ten years, covering deliveries from 2022 to 2031.
+
+The arrangement was publicly reported as being linked to Brent at a lower slope than the 2016 contract, improving the pricing terms relative to the earlier agreement (Embassy of the State of Qatar in Islamabad, 2021). Together, these agreements account for approximately 6.75 MTPA of Pakistan’s LNG imports under long-term contractual arrangements. RLNG also brings Pakistan’s external account under stress, as rising costs of LNG imports add to current account and exchange rate pressures. Capacity payment liabilities continue to be incurred by RLNG-based power plants (8.1%)1 even when they are being under-utilized. When these costs are not fully recovered through tariﬀs, they accumulate as circular debt and ﬁscal pressure.
+
+Table 2: Channels of RLNG-Related Financial Exposure in Pakistan’s Power Sector
+
+E x p o s u r e T y p e
+M eaning
+W h y I t Matters
+
+F u el cost exposure
+RLNG prices rise with global LNG/oil price
+
+and exchange rate
+Raises EPPand FCA pressure
+
+S u pp l y contract exposure
+Long-term LNG contracts may include firm
+
+offtake obligations
+Limits flexibility when domestic
+
+demand weakens
+
+PP A / capacity exposure
+Capacity payments continue even if plants are underutilized
+Creates fixed cost burden
+
+Ci r cular d ebt exposure
+Costs not recovered through tariffs accumulate in payables
+Creates fiscal risk later
+
+N ot e: These channels represent ﬁnancial exposure and should not be interpreted as RLNG’s share in generation.
+
+Policy message
+
+The RLNG conundrum for Pakistan is now not just about the use of fuel. It is now about ﬁxed ﬁnancial commitments when dispatch declines. As a result, future LNG contracting or RLNG-linked power procurement should entail ﬂexibility clauses, seasonal offtake options, resale/deferral and better risk-sharing. Without that ﬂexibility, a lower RLNG generation will lead to fuel savings but will not reduce capacity-payment pressure, tariﬀ adjustment and circular debt risk.

@@ -1,0 +1,164 @@
+A Nation’s Future is Forged in the HERIs
+
+Human societies have long sought sustained prosperity in the accumulation of labor and capital. Robert Solow’s seminal work, however, revealed that these traditional inputs could not explain a significant portion of cross-country income differences. The black box, termed the Solow Residual, was subsequently interpreted as reflecting total factor productivity, technological progress, research and development, innovation, or the efficient use of intangible capital. Ultimately, the Solow residual proved not to be a mystery, but a mirror reflecting how much of economic growth can be traced to knowledge creation and innovation, mostly emerging from Higher Education and Research Institutions (HERIs)[1].
+
+R&D, even in its most basic academic form, contributes to increased scientific output[2]. The scientific output, in turn, enhances firms’ technological capabilities and supports accelerated economic growth[3]. Although globalization allows countries to import advanced technologies, evidence shows that indigenous R&D and domestic innovations often generate stronger and more sustained economic benefits than technology imports alone[4]. While R&D and innovation frequently depend on substantial funding[5], the significant differences in scientific output among otherwise similar countries[6] suggest that developing and emerging economies can also achieve significant gains through effective local research and home-grown innovation.
+
+Rewarding the Wrong Science: The Incentive Crisis in Academia
+
+Publications, citations, and patents are frequently used as measures of the scientific output of scholars and HERIs[7]. However, it is equally important to understand why scholars invest time and effort in conducting scientific research and publishing their work. The motivations, shaped by institutional and national frameworks[8], include the desire to disseminate knowledge, build prestige and reputation[9], and obtain rewards through monetary and career advancement incentives[10]. Public policy frameworks, institutional mechanisms, and peer dynamics collectively reinforce these incentive structures, encouraging scholars and HERIs to enhance their research productivity. Ideally, such a drive to excel translates into greater relevance, where research evolves into patents, innovations, and stronger industry-academia linkages that explore and stimulate emerging fields.
+
+However, this risk-reward mechanism often breaks down in developing and emerging economies, where systems tend to reward quantity over quality. Evidence clearly suggests that an excessive focus on quantity may even correlate negatively with innovation[11], as it is the higher quality of scientific research that leads to meaningful and superior innovations[12].
+
+In Pakistan, the evidence is no different. The incentive structure governing scientific work is largely counterproductive. Promotion to associate and full professor ranks, as well as eligibility for a PhD degree, depends mainly on meeting quantitative publication requirements in Higher Education Commission (HEC)-recognized journals, often with limited regard for research quality, relevance, or its potential to generate innovation. So much so, publication counts and citation metrics frequently determine who is entrusted with leadership positions in HERIs, irrespective of administrative competence or broader social contributions.
+
+This dynamic mirrors the logic of Gresham’s law[13], which states that when two forms of currency are treated as equivalent despite differences in intrinsic value, rational agents will spend the inferior currency and hoard the superior one. Adam Smith extended a similar insight to academic labor[14], arguing that when scholars receive comparable rewards regardless of effort, they tend to perform in “ as careless and slovenly a manner as that authority will permit ”. The implication for academia is clear: when research output and academic degrees, requiring different levels of rigor and intellectual effort, are rewarded equally, both students and faculty choose the lower-effort options. The predictable outcome is that poor-quality scholarship drives out high-quality scholarship[15].
+
+The Publication Rat Race: Evidence of Compromised Quality
+
+When research evaluation becomes detached from quality and publications are reduced to a numerical target, academic norms and ethics are inevitably strained. In such an environment, the emphasis shifts toward publication speed rather than the relevance or impact of research on society and the economy, creating conditions that may enable questionable research practices. To assess the extent of these concerns in Pakistan, this study uses databases such as the Retraction Watch (RW)[16] and the HEC of Pakistan[17].
+
+The RW dataset documents 1,420 retractions involving Pakistani authors between 2005 and 2025, recording a steady increase over time, with annual retractions peaking in the most recent year (n = 587 in 2025). In total, RW identifies 111 distinct reasons for retraction[18], with many articles withdrawn for multiple reasons simultaneously. As shown in Figure 1, most retracted articles authored by Pakistani researchers are associated with multiple retraction causes, pointing to systematic concerns about research integrity rather than isolated instances of error.
+
+Figure 1: Distribution of Retracted Articles by Total Number of Stated Retraction Reasons
+
+To better understand the underlying causes of these retractions, the 111 categories in the RW database were consolidated into 13 broader groups, and the frequency of articles in each group was calculated. The results, presented in Figure 2, reveal a distinct pattern. The largest share of retractions (23.5%) falls under the Error/Unreliable or Unrealistic category, encompassing analytical, methodological, textual, and results-related issues. This is followed by retractions arising from investigations conducted by journals, institutions, or third parties (19.9%). The third most common category involves peer review and editorial irregularities, including manipulated review processes and articles linked to paper mills (17.5%).
+
+Figure 2: Breakdown of Retracted Articles by Consolidated Retraction Categories
+
+The results presented in Figures 1 & 2 indicate substantive quality- and integrity-related concerns among some Pakistani authors publishing internationally. To provide a more comprehensive view of the research landscape, the analysis now turns to locally published work and the characteristics of Pakistani journals themselves. Specifically, this section examines HEC-recognized journals in the Y category[19].
+
+Figure 3 Growth of Pakistani Journals (Y-Category; 1952-2024)
+
+Figure 3 illustrates the growth in the number of Pakistani journals since 1952 that are currently classified in the HEC Y category. Journals with inaccessible websites at the time of data collection are excluded from both the figure and subsequent analysis[20]. The data indicate substantial expansion in the total number of journals, including those in Business, Management, Accounting, Economics, Econometrics, and Finance (BMAEEF) disciplines. The analysis that follows focuses specifically on BMAEEF journals.
+
+Before proceeding, it is important to clarify the criteria used in the subsequent analysis. Journals that prioritize self-interest over scholarly standards often employ several strategies to attract authors. Given space limitations, and since many of such practices are readily verifiable[21], the analysis focuses on four observable indicators: (a) whether the journal is affiliated with a recognized HERI or located in a shopping plaza or residential space; (b) transparency in the disclosure of Article Processing Charges (APCs); (c) use of consumer (e.g., Gmail, Yahoo) versus institutional email domains; and (d) completeness of editorial members information, including academic affiliations.
+
+Table 1 : Annual Publications and APC Revenue by Journal Category
+
+Journal’s Affiliation
+Average Annual Publications
+Average Annual Revenue (Rs. 000)
+
+Min
+Max
+Mean
+No Info. (n)
+Min
+Max
+Mean
+
+Unspecified (n =1)
+156
+156
+156
+0
+3900
+3900
+3900
+
+Private Ltd. (n = 22)
+5
+120
+33
+3
+0
+3000
+1078
+
+Private HEIs (n = 27)
+8
+42
+14
+6
+0
+350
+78
+
+Public HEIs (n = 20)
+6
+20
+12
+5
+0
+250
+46
+
+Overall (n = 70)
+5
+156
+21
+14
+0
+3900
+477
+
+Note. Values are rounded to the nearest unit. APCs are reported in Rupees (USD 1 = Rs. 278.73)
+
+Applying these indicators to the sample of 70 journals, it is found that 20 are linked to public-sector HEIs, 27 to private-sector HEIs, 22 list addresses in residential or commercial locations (classified as Private Ltd.), and 1 provides no address (classified as Unspecified). Regarding APC transparency, 5 journals in public HEIs, 6 in private HEIs, and 3 operated as Private Ltd. do not disclose APCs. Moreover, as shown in Table 1, the annual average publication output per journal and estimated APC revenue both increase progressively from public HEIs to private HEIs, Private Ltd. entities, and the unspecified category. This suggests that journals outside the public HEIs tend to have higher publication volumes and APC revenues.
+
+Figure 4 Email Domain Preference by Journal Affiliation Status
+
+Figure 4 indicates that the single unspecified journal, along with 36% of those operated by Private Ltd. companies, use consumer webmail services. For approximately 9% of journals in the Private Ltd. category, no information on email type was available on their websites. In contrast, journals associated with public and private HEIs consistently use institutional email domains.
+
+Figure 5 Editorial Transparency: Profile Availability by Journal Ownership Type
+
+Figure 5 contains two related indicators: Chief Editor/Editor (CE/Ed) profile availability (first half), and CE/Ed affiliation (local versus international; second half). Regarding CE/Ed profile availability, all journals affiliated with public and private HEIs provide at least some information on their websites. In contrast, no profiles are listed for the unspecified category (100%), and 41% of journals in the Private Ltd. category also lack CE/Ed profiles or biographical information.
+
+Regarding composition, the affiliation of CE/Ed reported on journal websites shows that 100% of CE/Ed in public HEIs and 96% in private HEIs are locally affiliated. This proportion declines to 63% in the Private Ltd. category, where over 18% of journals report internationally affiliated CE/Ed. Affiliation details were unavailable for 3.7% of the journals in private HEIs and 18% of those operated by Private Ltd. companies.
+
+The Way Forward: A Course Correction or Total Disarray
+
+The findings of this study, while revealing, likely represent only the visible portion of a much larger problem, particularly as the disciplines examined here account for a relatively small share of publications in problematic journals[22]. Taken together, these indicators point to systemic vulnerabilities that hinder the quality of R&D and the development of homegrown innovations in the country. To sum up, the evidence suggests that an overemphasis on publication counts continues to drive researchers towards both domestic and international outlets that prioritize quantity over quality.
+
+Addressing this challenge requires coordinated interventions by the HEC and HERIs to establish mechanisms with in-built corrective and refinement processes that strengthen the institutional reward system. Such a system should incentivize research that fosters academia-industry linkages, generates measurable social impact, and contributes to patentable innovations. Once aligned with these objectives, peer dynamics within the academic community can serve as a powerful force in promoting higher standards and nurturing a culture of meaningful innovation. Ultimately, “ the only place to find the Golden Age of Science is in the future – by making it ourselves. ”[23]
+
+Ikram Ullah is an Assistant Professor in the Department of Economics at the University of Malakand.
+
+Iftikhar Ahmad is the Director of the PIDE School of Economics at the Pakistan Institute of Development Economics (PIDE).
+
+[1] See Pastor, J. M., & Serrano, L. (2016). The Determinants of the Research Output of Universities: Specialization, Quality, and Inefficiencies. Scientometrics, 109(2), 1255-1281, who reported that HEIs in the European Union generate 64.3% of all scientific publications and 2.9% of all patents.
+
+[2] Jonkers, K., & Sachwald, F. (2018). The dual impact of ‘excellent’research on science and innovation: the case of Europe. Science and Public Policy , 45 (2), 159-174.
+
+[3] Arana-Barbier, P. J. (2023). The relationship between scientific production and economic growth through R&D investment: A bibliometric approach. Journal of Scientometric Research , 12 (3), 596-602; Gonzales, J. T. (2023). Implications of AI innovation on economic growth: a panel data study. Journal of Economic Structures , 12 (1), 13.
+
+[4] Yu, L., Li, H., Wang, Z., & Duan, Y. (2019). Technology imports and self-innovation in the context of innovation quality. International Journal of Production Economics , 214 , 44-52.
+
+[5] Alvarado-Vargas, M. J., Callaway, S. K., & Ariss, S. (2017). Explaining innovation outputs by different types of R&D inputs: evidence from US universities. Journal of Strategy and Management , 10 (3), 326-341.
+
+[6] Rodríguez-Navarro, A., & Brito, R. (2022). The link between countries’ economic and scientific wealth has a complex dependence on technological activity and research policy. Scientometrics , 127 (5), 2871-2896.
+
+[7] Ibid., p. 1.
+
+[8] Mills, D., & Inouye, K. (2021). Problematizing ‘predatory publishing’: A systematic review of factors shaping publishing motives, decisions, and experiences. Learned Publishing , 34 (2), 89-104.
+
+[9] Eve, M., & Priego, E. (2017). Who is actually harmed by predatory publishers?. tripleC: Communication, Capitalism & Critique. Open Access Journal for a Global Sustainable Information Society , 15 (2), 755-770.
+
+[10] Hedding, D. W. (2019). Payouts push professors towards predatory journals. Nature , 565 (7737), 267-268.
+
+[11] Azmeh, C. (2022). Quantity and quality of research output and economic growth: Empirical investigation for all research areas in the MENA countries. Scientometrics , 127 (11), 6147-6163.
+
+[12] Zahringer, K., Kolympiris, C., & Kalaitzandonakes, N. (2017). Academic knowledge quality differentials and the quality of firm innovation. Industrial and Corporate Change , 26 (5), 821-844.
+
+[13] This exposition follows Mundell’s clarification that Gresham’s law operates under fixed exchange conditions: when monies of unequal value are forced to circulate at parity. See Mundell, R. (1998). Uses and Abuses of Gresham’s Law in the History of Money. Zagreb Journal of Economics , 2(2), 3-38.
+
+[14] Smith, A. (1776/1981,Book V, Chapter I, Part III, Article II). An inquiry into the nature and causes of the wealth of nations (R. H. Campbell & A. S. Skinner, Eds.). Liberty Fund. (Original work published 1776).
+
+[15] For empirical evidence, see Alt, A. (2026). The evolution of predatory Journals-New strategies and threats. A letter to the editor. European Journal of Physiotherapy , 28 (1), 88-90; Balehegn, M. (2017). Increased publication in predatory journals by developing countries’ institutions: What it entails? And what can be done?. International Information & Library Review , 49 (2), 97-100.
+
+[16] Data for Figures 1 & 2 were obtained from the RW database on March 14, 2026. Source: https://gitlab.com/crossref/retraction-watch-data/-/blob/main/retraction_watch.csv?ref_type=heads .
+
+[17] HEC’s recognized journals list was obtained from: https://www.hec.gov.pk/english/services/faculty/journals/Documents/List%20of%20national%20journals%202024-25.pdf .
+
+[18] Details can be found at: Link: https://retractionwatch.com/retraction-watch-database-user-guide/retraction-watch-database-user-guide-appendix-b-reasons/ .
+
+[19] One might reason that selecting the lowest category of HEC-recognized journals inherently means focusing on the lowest-quality outlets. However, the Y category comprises 649 journals, approximately 87% of all journals published in Pakistan. With only 9% indexed in Scopus and 4% in the Web of Science, the Y category represents the main body of Pakistan’s scholarly publishing landscape.
+
+[20] Since the HEC list does not provide several details needed for this analysis, we relied to the websites of the listed journals. The websites of 87 journals were inaccessible for various reasons (e.g., suspended, inactive, or relocated). Although website inaccessibility may itself reveal operational or quality-related issues, we do not draw any definitive conclusions about these journals beyond noting their exclusion.
+
+[21] Other examples include the use of grand titles (e.g., international, global, British, European, American), unusually broad or multidisciplinary scopes, diverse and unrelated topics within a single issue, very short review cycles, and unsolicited email invitations for submissions or editorial roles.
+
+[22] Frandsen, T. F. (2022). Authors publishing repeatedly in predatory journals: An analysis of Scopus articles. Learned Publishing , 35 (4), 598-604; Marina, T., & Sterligov, I. (2021). Prevalence of potentially predatory publishing in Scopus on the country level. Scientometrics , 126 (6), 5019-5077.
+
+[23] https://theconversation.com/science-isnt-broken-but-we-can-do-better-heres-how-95139

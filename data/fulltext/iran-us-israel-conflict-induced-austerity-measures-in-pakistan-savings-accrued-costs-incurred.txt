@@ -1,0 +1,62 @@
+Executive Summary
+
+The total savings that could be realized from the austerity measures in Pakistan due to the Iran-US/Israel conflict is estimated to be around USD 482.7 million, which is a consolidated, albeit limited, fiscal effort. Nevertheless, the net effect on national fuel consumption is small, since government operations contribute to 2.05% of total domestic fuel consumption. As a result, the aggregate fuel savings (approximately 12.63%) are relatively small in comparison to the overall national demand, which restricts the macro-level effectiveness. More importantly, there is also opportunity cost of these actions , estimated at USD 1314.7 million, which is mainly caused due to productivity and learning losses. This gives a cost to benefit ratio of approximately 2.7, which means that each dollar saved from austerity measures has the opportunity cost/losses of 2.7 dollars, making the package economically suboptimal in net terms. Although, some of the administrative actions, including fleet limits, work-from-home, and non-essential spending reductions, do play a significant role in savings. However, most of the interventions are short-term in nature, resulting in deferred, not permanent fiscal benefits. Symbolic measures, including salary reductions and forfeitures, are meant to be political signaling mechanism to positively influence behavioral change across the board, rather than a substantive part of fiscal consolidation. The analysis indicates that the measures can be justified as short-term responses to the crisis in a limited policy space, but they do not provide long-term or structurally meaningful economic gains. These measures would not be adequate in the case of a long-lasting conflict or further escalation (e.g., the blockage of the Strait of Hormuz). More detailed demand management approach, especially in the transport sector (MS and HSD consumption) would be needed to realize significant and sustainable savings, in such scenario.
+
+Key Highlights
+
+Most of the austerity measures are aimed at the government sector. However, the share of government fuel consumption in total domestic consumption of fuel is just 2.05%.
+
+The policies that are aimed at fuel conservation when implemented accrue relatively small fuel savings compared to Pakistan’s total domestic demand. Approximately 12.63% of monthly total domestic fuel consumption savings.
+
+The total savings in monetary terms from imposition of austerity measures (of phase I)are approximately USD 482.7 Million. Total monthly savings from the austerity measures are approximately USD 317.63 million
+
+The total opportunity cost that these measure incur due to productivity s and learning losses is approximately USD 1314.7 million.
+
+The benefit to cost ratio of the proposed measures is 1:2.7 which implies that for every dollar that is saved, approximately USD 2.7 is lost in productivity and learning losses.
+
+Objective
+
+The objective is to carry out a quick assessment of Iran-US/Israel conflict induced austerity measures, which will be based on fuel saving and spending cuts. It assesses the realization of savings along with the opportunity costs and how much benefits outweigh costs. Thus, determining measures that have the highest net economic returns. The study also seeks to guide future policy responses and increase the clarity of decisions, especially in case of a long-term conflict situation.
+
+Background
+
+Given the state of the economy and vulnerabilities that it is enduring, a shock in the wake of the Iran-US/Israel could possibly have severe economic implications for the country. To mitigate any possible effect well in time, the government took some drastic measures with an aim to curtail the impact of the war, which could undo the stability gains within the past few months. Though, as of now, the macroeconomic stabilization was almost entirely gained through the compression of demand rather than the supply side productivity. And the IMF EEF program was also designed for such a setting, which given its design, cannot by default deal with the external supply shock generated as a result of war and subsequent closure of the Strait of Hormuz. The standard response in practice for the economies in such a situation, i.e., mitigating external terms of trade deterioration through currency depreciation plus expansionary fiscal policy in order to cushion the income shock, is not possible here. Pakistan can’t neither depreciate its way out nor spend its way out, given the primary surplus requirement. So, the government is practically left with limited policy options in short-run i.e., conservation of fuel, in light of which austerity measures were proposed and implemented. Pakistan’s total domestic consumption of fuel stood at 16.46 MMT of which only transport accounts for 89.23 percent (OCAC, 2025). Out of this MS (Petrol) and HSD (Diesel) together account for more than 85 percent. The measures are aimed at curbing the fiscal outlay and domestic fuel consumption. An inventory of the measures is presented in the Annexure as Table 2.
+
+Decoding the Savings from Austerity Measures
+
+The fiscal savings as a result of the imposed measures amounts to USD 206 Million[1] of which the significant share of savings is from the 20 percent cut of non-employee related expenditures for three months. The decrease in expenditure is for both essential and non-essential items, without making any distinction, which may affect the productivity and efficacy of overall operations. The other component of the fiscal savings is the cabinet salary forfeitures and legislative pay cuts, both of which amounts to USD 1.92 million over the period of two months. The restriction imposed on foreign travels will save around USD 0.36 million. The monthly savings from cabinet salary forfeitures, legislative pay cuts, non-salary departmental expenditures cut and foreign travel restriction is 0.49, 0.47, 68.82 and 0.18 million USD respectively[2].
+
+Table 1 Total Fiscal Savings
+
+Total PKR (Million)
+Total USD (Million)
+Monthly (USD Million)
+
+Cabinet Salary Forfeitures
+275.03
+0.99
+0.49
+
+Legislative Pay Cuts
+261.90
+0.94
+0.47
+
+Non-Salary Departmental Expenditure Cut
+57600
+206.45
+51.61
+
+Foreign Travel Restriction
+100.00
+0.36
+0.18
+
+Total
+77436.94
+208.73
+52.75
+
+Source: Authors’ calculations
+
+Most of the fuel that is consumed is imported, so the evolving situation due to war prompted the state to introduce measures to reduce the domestic fuel consumption, in order to mitigate the impact on balance of payments due to the increase in international fuel price, and to protect the consumers from the sudden spike in the price of oil in the domestic markets later. The imposed measures will accrue almost USD 274 million in savings. The measures are mostly targeted to contain the use of fuel in transport. The schools and university closure will result in saving of USD 221.31 million. The imposition of restriction for use of official vehicles will accrue savings of USD 25.33 million, where half of the fleet is grounded and other half will be facing a 50% reduction in fuel allowances. Taking the figure of 1.39 million employees working at home as an estimate at any given point, the measure would save USD 27 million in 40 days, and monthly saving of 13.7 million, which is one of the most effective elements of the austerity package. The work from home (WFH) policy will not require any budget cuts but will save money by behavioral adjustment, which means that the people will not have to commute as often. This implies that it is a relatively inexpensive, high-impact intervention, but the sustainability of it is contingent upon institutional ability to conduct remote work and the character of government activities.

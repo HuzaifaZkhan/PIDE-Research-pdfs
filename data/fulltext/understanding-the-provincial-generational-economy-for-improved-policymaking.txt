@@ -1,0 +1,69 @@
+Introduction
+
+In understanding Pakistan’s economy, the national-level analysis of National Transfer Accounts (NTA) has been instrumental in providing overarching insights into the generational economy and its macroeconomic implications[1]. Yet, each province in Pakistan has its unique characteristics, like demographics and economic structures, making a provincial estimation imperative. Additionally, the 18th Amendment devolved major subjects to provinces, making it crucial to look closely at each province’s generational economy.
+
+The demographic transition currently underway in Pakistan presents an opportune moment, often referred to as the ‘demographic dividend,’ wherein the country’s large working-age population can potentially drive economic growth. However, unlocking this potential requires policymakers to be equipped with precise and province-specific data on age structure changes and their economic ramifications. The adoption of the NTA framework at the provincial level emerges as a strategic approach to gaining deeper insights into the wealth flows occurring within each province’s population. This localized analysis allows for a granular understanding of how individuals across different age groups contribute to, consume, and share resources, both in private and public spheres. By focusing on provinces, it aims to estimate age-specific economic indicators, spot disparities in economic behaviors across regions, analyze contributions from public and private sources, guide provincial policies, and ultimately provide policymakers with informed insights to foster inclusive, sustainable development tailored to the unique characteristics of each province.
+
+Methodology and Data Description
+
+The study uses the established NTA methodology[2] to estimate the accounts at the provincial level. The methodology designed to construct the NTA has massive data needs covering all aspects of income and consumption. Using the weights, the analysis is conducted for the entire population both at per capita and at the aggregate level. The estimations so reached are then smoothed using the Friedman’s Supersmoother as provided by the R statistical package.
+
+The study used a number of datasets, including Household Income and Expenditure Survey (HIES) 2018-19, Pakistan Social and Living Measurement (PSLM) 2019-20, National Health Accounts 2018-19, and Public Sector Development Expenditure data for 2018-19. Using these datasets, the study estimated the following accounts for the four provinces:
+
+Economic lifecycle at each age, including labour income and consumption on education, health and other consumption through both private and public sources.
+
+Private age reallocations , including transfers and asset income mediated by households, families, and other private institutions. This includes private capital income and private property income.
+
+Due to the paucity of data at the provincial level, the third component, public age reallocation , cannot be estimated.
+
+___________
+
+[1] Nayab and Siddique (2020) National Transfer Accounts for Pakistan: Estimating the Generational Economy for Pakistan . Islamabad: PIDE and UNFPA
+
+[2] See Op cit
+
+___________
+
+Findings
+
+Life Cycle Deficit
+
+The economic lifecycle account is composed of consumption, labor income and the difference between the two—the lifecycle deficit or surplus, whatever the case may be. Figure 1 presents the average per capita consumption, labor income and deficit at the provincial level with respect to age. The difference between the two is the lifecycle deficit or surplus, whichever is the case.
+
+The graphs show that variation exists in the income and consumption pattern with respect to age groups among the provinces. As one would expect, the younger cohorts tend to consume without any earnings or negligible earnings irrespective of the province. In Punjab and KP the income and consumption are in equilibrium by the age of 30, while, in Sindh and Balochistan consumption and income meet by the age of 29 and 28, respectively. The peak earning is at the age of 50 in Punjab and KP, and at 48 in Sindh and Balochistan. In a nutshell, the graph depicts that earnings are low or negligible in the younger and older age, with consumption far exceeding their income. There is a surplus in the middle of the lifecycle, i.e. between the age of 30-60.
+
+Irrespective of the province, on average more than half of the life span, consumption exceeds income. Across provinces, the trend is the same where the income of the individuals in working ages exceed their consumption. This conforms to the Lifecycle Theory that working adults save and old people dis-save.
+
+Figure 2 presents the estimates for aggregate labor income and consumption. The aggregate number is the weighted income and consumption of the whole population at a particular age. The finding largely reflects the concentration of population in various age cohorts, as one may see high consumption in early ages (till age 20) in all provinces due to the young age-structure of the population. Overall the lifecycle deficit in each province persists roughly till 29 years of age. The surplus cycle begins at the age of 31 till 65 in Punjab, from 30 to 62 years in Sindh, from 35 to 61 years in KP, and from 35 to 65 years of age in Balochistan. Furthermore, on average after 60s, it again moves to the deficit cycle in all provinces.
+
+In analysing consumption patterns across provinces in Pakistan, a consistent trend emerges — ‘Other consumption’ consistently holds the top spot across all ages. Notably, the composition of secondary consumption varies with age groups. For the youth, education consumption takes precedence, while health consumption becomes the second most significant category for the elderly. This demographic-specific distinction underscores the importance of tailoring policies to address the evolving needs of different age cohorts.
+
+Crucial disparities are observed in the source of education consumption , both in terms of public and private contributions, and across educational levels. Balochistan relies predominantly on public consumption for all education levels. Conversely, Punjab exhibits a reliance on private education. Interestingly, for higher education, there’s a notable reliance on public consumption across all provinces.
+
+In the realm of health consumption , a consistent pattern emerges where it is the highest for the elderly in all provinces. Moreover, private health consumption significantly outweighs public health consumption across all four provinces.
+
+b) Private Age Reallocations
+
+Intra and inter-household transactions exhibit distinct patterns among provinces. Notably, per capita private inter-household transfers take the lead in Punjab, followed closely by KP. These variations underscore the diverse socioeconomic and cultural contexts of each province. In KP, transfers persist into late ages, while in Balochistan and Sindh, they plateau before declining among the elderly.
+
+Despite Punjab’s larger population, it stands out with the highest aggregate for inter-household transfer inflows. In contrast, KP, with a smaller population than Sindh, matches or even surpasses inter-household transfer amounts. This phenomenon can be attributed to substantial remittances, making it a significant factor influencing the transfer landscape.
+
+Asset-based reallocations , a fundamental aspect of the economic lifecycle, contribute significantly to understanding the variance in labor income and consumption patterns across age groups. Private asset income, comprising private capital income and private property income, unveils distinctive trends.
+
+The analysis of private asset-based reallocations further accentuates provincial disparities. Sindh outpaces Punjab in per capita income, propelled by a concentration of financial institutions and imputed rent. However, Punjab’s larger population ensures higher aggregate capital income. Owner-occupied housing income peaks between 40-60 years in all provinces, with subtle variations. Private property income inflows consistently peak at 59 across provinces, showcasing a uniform trend. Notably, Balochistan emerges with net inflows surpassing outflows for most ages, indicating unique economic dynamics that set it apart from other provinces.
+
+Policy Implications:
+
+The study shows that the four provinces show distinct patterns, and one-size-fits-all policies will not achieve the desired outcomes. The areas that need special attention are as follows:
+
+Increase Public Spending on Health: Urgent need to boost public expenditure on health to alleviate the burden of out-of-pocket expenses, preventing households from slipping into poverty.
+
+Encourage Fertility Decline: Formulate policies to promote smaller families, recognizing the link between a demographic dividend and fertility decline. There is an urgent need to formulate policies that improve access to sexual and reproductive health and family planning services for those who want to space births or limit fertility.
+
+Create Better Employment Opportunities: Address the inadequacy of surplus income by focusing on job creation. The study emphasizes the necessity of more gainful employment for sustainable economic growth.
+
+Enhance Spending on Education: Increase per capita spending on public education to ensure quality human capital development. Address the imbalance between higher education and early schooling, fulfilling the government’s responsibility for twelve years of education.
+
+Improve Provincial Data Collection: Recognize the critical role of data in policymaking, advocating for enhanced data gathering at the provincial level. The Pakistan Bureau of Statistics (PBS) needs to improve performance in regional offices for more accurate data collection at the provincial level.
+
+In conclusion, the study not only provides valuable insights into the generational economy of Pakistan’s provinces but also sets the stage for targeted and nuanced policy interventions. Addressing these implications can pave the way for more inclusive, effective, and context-specific policymaking, fostering sustainable and equitable economic development across all provinces.

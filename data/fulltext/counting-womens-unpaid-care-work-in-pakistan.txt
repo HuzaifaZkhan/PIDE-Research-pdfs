@@ -1,0 +1,51 @@
+Introduction
+
+In the intricate web of household dynamics in Pakistan, the often overlooked yet vital role of unpaid care work, predominantly carried by women, becomes the focal point of this study conducted in Pakistan. Everyday tasks like cooking, cleaning, and caregiving, vital for societal well-being, are frequently sidelined by traditional economic definitions. This disproportionate burden on women affects their engagement in paid employment, education, and personal leisure. While these activities are indispensable for sustainable economic growth, their non-monetized nature has led to their dismissal as ‘non-economic’ work. The time-intensive nature of these responsibilities’ further limits women’s participation in other pursuits. The division of household chores, particularly along gender lines, has broader implications for economic, social, and educational outcomes.
+
+As a signatory of the Sustainable Development Goals (SDGs), Pakistan aspires to address gender inequality, with Target 5.4 of SDG 5 focusing on recognizing and valuing unpaid care and domestic work. By navigating the nuances of unpaid work in Pakistan, this policy brief aims to estimate the magnitude of unpaid work performed in the country. The study, thus, examines the distribution of housework between genders in Pakistan to shed light on the potential gender disadvantage faced by women. It also aims to provide insights into policies aimed at reducing the time women spend on housework and enhancing their economic empowerment.
+
+Data and Methodology
+
+National Transfer Accounts (NTA)[1] is a framework for studying the age dimension of economic activity by disaggregating national accounts by age and measuring transfers of resources from the working ages. To take into account the unpaid care work (UCW) that is not valued in the market economy, we have the National Time Transfer Accounts (NTTA) that considers women’s specialization in UCW production which is outside of the national income. Ideally it requires time-use survey (TUS) data to estimate NTTA, however, in Pakistan the TUS was conducted in 2007/08 and too old for analysis.
+
+This policy brief utilizes data from the Household Income and Expenditure Survey (HIES) 2018-19 and the Pakistan Labor Force Survey (LFS) 2018-19. The HIES offers insights into market-based consumption and income, while the LFS provides information on unpaid work. For the market economy, labor income and consumption profiles are estimated using individual-level HIES data. Labor income considers both earnings and self-employment income. Private and public consumption profiles are constructed using HIES and National Health Accounts 2018-19.
+
+The National Time Transfer Accounts (NTTA) framework is applied for the non-market economy. Unpaid production activities, including general household and care production, are derived from LFS 2018-19. The value of unpaid work is quantified using wages from similar occupations. Unpaid consumption involves assumptions for equitable distribution among household members. The total life-cycle deficit, combining unpaid and paid deficits, is calculated using the National Transfer Accounts (NTA) and NTTA methodologies.
+
+_______________
+
+[1] For a detailed explanation of the NTA methodology, see the manual, United Nations (2013) National Transfer Accounts: Measuring and Analysing the Generational Economy.
+
+_______________
+
+Findings
+
+Unpaid Care Work: A Hidden Economic Force
+
+Using the LFS, we have calculated the average daily hours spent on market and non-market work (Figure 1 & 2). Market work primarily defines the time spent on economic activities that are remunerated, while non-market work is mainly household production activities that are unpaid. Men spend a significant time on market work, whereas women in Pakistan play a significant role in non-market activities, dedicating considerable time to household tasks across various age groups.
+
+On average, a women daily spends around 3 hours on non-market work that is economically not counted. Women allocate their longest time in kitchen for cooking food, followed by cleaning home and washing, and child/old care. Figure 3 summarizes the pattern of unpaid work. Although women spend limited hours, and labor, in the market economy, their time is diverted to non-market economy which is not given any value, monetary or otherwise, in the conventional economic contribution. The present study shows that time spent by women on work is close to men’s when we take a holistic view by taking into account market and non-market activities together. For all population aged 10 years and above, men spend 4.7 hours on market and non-market work, whereas women spend 3.5 hours on market and non-market work.
+
+Valuing Unpaid Work
+
+We have used the shadow prices to quantity the value of unpaid work by using wages of workers who are working in similar occupations. The same exercise is carried out for paid workers who are working in unpaid activities as their wages are usually not reported. As shown in Figure 4, while looking at the aggregate value of market-based work, we see males having a much higher aggregate value than female workers (NTA); however, the reverse holds true while quantifying the value of unpaid care work (NTTA) where female production value is much higher than their male counterparts.
+
+The figure also shows that when we take a holistic view of market cum non-market production value, women in Pakistan surpass men. The working age cohorts are able to produce more value for both market and non-market-based work across genders. The value declines considerably for the children and elderly, as both age groups have limited participation in both market and non-market activities.
+
+Way Forward
+
+The findings underscore the imperative to recognize and value the substantial contributions women make to the non-market economy in Pakistan, particularly in household production and caregiving. The study reveals a significant gender disparity, emphasizing that women bear a disproportionate burden of housework and caregiving responsibilities from a young age, impacting their education and economic participation. In the pursuit of gender equality, the study recommends several policy interventions:
+
+Acknowledge and value the unpaid care-giving and domestic work performed by women. This recognition is vital for achieving gender equality in the labor market and is aligned with the Sustainable Development Goal (SDG) 5.4.
+
+Develop and implement policies aimed at promoting shared responsibilities within households. Encouraging men to take a more active role in traditionally perceived ‘female tasks’ can alleviate the burden on women and contribute to a more equitable distribution of household responsibilities.
+
+Launch education and awareness campaigns to challenge societal norms and gender roles. Foster a dialogue that shifts away from traditional expectations, promoting the idea that both men and women can contribute to economic activities and caregiving responsibilities.
+
+Recognize the impact of high fertility rates on women’s ability to participate in education and the labor market. Implement measures to reduce fertility rates, providing women with more opportunities for education and economic participation.
+
+Implement targeted policies to empower women, including initiatives to support education, skill development, and economic independence. Empowered women are better positioned to challenge and reshape societal norms.
+
+Conduct periodic time-use surveys to capture the evolving dynamics of unpaid work and caregiving responsibilities. Updated data is essential for informed policymaking and assessing the effectiveness of interventions over time.
+
+In conclusion, achieving gender equality in Pakistan requires a comprehensive approach that addresses societal attitudes, redistributes caregiving responsibilities, and recognizes the value of women’s contributions to both the market and non-market economies. The findings of this study provide a roadmap for policymakers to formulate strategies that empower women, break gender stereotypes, and foster a more inclusive and equitable society.

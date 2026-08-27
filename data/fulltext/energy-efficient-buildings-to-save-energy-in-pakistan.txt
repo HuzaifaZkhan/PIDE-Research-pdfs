@@ -1,0 +1,63 @@
+INTRODUCTION
+
+Global energy consumption is increasing rapidly. Pakistan is also facing a severe energy crisis. A glimpse of energy consumption patterns in developing countries compared to those in developed countries depicts that energy consumption in developing countries, including Pakistan, has been rising (Figure 1).
+
+Figure 1. Primary Energy Consumption since 2000
+
+Source: https://ourworldindata.org/energy/country/pakistan?country=IND~CHN~USA~DEU~NLD~PAK#how-much-energy-does-the-country-consume-each-year
+
+Since 2002, Primary Energy Consumption in Pakistan has increased from 484 terawatt-hours (TWh) in 2000 to 1071TWh in 2021 [1] . However, the decline in energy consumption in developed countries like the United States, Germany, and the Netherlands manifests that these countries are becoming more energy efficient with time. By 2022, the Netherlands and Germany became the top energy-efficient countries in the world, with
+
+[1] https://ourworldindata.org/energy/country/pakistan?country=IND~CHN~USA~DEU~NLD~PAK#how-much-energy-does-the-country-consume-each-year
+
+China and India in 9 th and 16 th positions, respectively [1] , showing their efforts to be energy efficient. This knowledge brief offers a solution for sustainably managing the increasing energy demand in Pakistan’s building sector.
+
+ENERGY CONSUMPTION IN PAKISTAN
+
+In Pakistan, electricity consumption in the domestic sector has risen continuously since 1986 due to rural electrification and urbanisation. Pakistan’s total energy consumption is 60.21 MTOE [2] . By 2030 [3] , a spike in energy consumption is expected, such that natural gas consumption will be 55 percent, followed by electricity (40 percent) in the energy mix for the domestic sector (IEP, 2021) (Figure 2).
+
+Fig. 2. Historical Energy Consumption & Energy Forecast in
+
+Domestic Sector in Pakistan
+
+Source: IEP, 2021.
+
+There are over 29 million households in the residential sector of Pakistan, consuming about 20.98 percent of the country’s total energy consumption. The electricity consumption pattern in Pakistan is in stark contrast with the global trend: 48.5 percent of the total electricity consumption is in the domestic sector, followed by industry, which consumes 27.2 percent of the total electricity[4]. On the contrary, globally, more electricity is consumed in the industrial sector (41.9 percent) as compared to the domestic sector (26.6 percent)[5]. Even in India, industry consumes 41 percent of total electricity, while the domestic sector consumes only 26 percent[6].
+
+ENERGY CONSUMPTION IN BUILDINGS IN PAKISTAN
+
+A major portion of energy is consumed to condition the buildings (residential, commercial, public, and private) during extreme weather conditions. One reason for high energy consumption in the buildings can be attributed to the construction materials and designs.
+
+Looking deeper highlights that buildings have been constructed using thermally conductive materials without having the insulation capacity, making buildings warmer in the summers and cooler in the winters, leading to high energy usage for regulating the temperature.
+
+For example, the energy demand in Pakistan fluctuates significantly between winters (12 KMW) and summers (32 KMW), with the high cooling load being the primary contributing factor. Domestic cooling accounts for nearly 37.10 percent of the total capacity, while commercial cooling contributes to approximately 65 percent of the total energy demand. The difference is around 20 KMW. Electricity has to be generated at high rates to meet this additional demand, resulting in high tariffs and capacity.
+
+By 2025, the peak electricity demand in Pakistan is expected to increase by an additional 4000 MW. This gap is anticipated to widen due to various factors, including the growing electricity consumption in the building sector.
+
+The buildings sector consumes more electricity than any other sector for space heating and cooling, refrigeration, cooking, lighting, etc. Effective Energy Efficiency and Conservation (EE&C) measures could save Pakistan up to 2.63 MTOE in energy in these areas[7]. Globally, in 2020, the building sector consumes 35 percent of the world’s energy, with residential buildings accounting for 22 percent of that consumption (Abergel, 2020). Efficiently managing energy demand can reduce peak load during extreme seasons in the building sector.
+
+ENERGY CONSERVATION BUILDING CODES FOR
+
+ENERGY EFFICIENT BUILDINGS
+
+The demand for new construction in Pakistan is increasing. This presents a great opportunity to use energy-efficient equipment, materials, and practices to develop an improved building envelope to reduce energy wastage. For instance, due to high population growth and rapid urbanisation in Pakistan, there is a 5.3 percent annual demand for new construction. By 2023, over 40 million people will live in urban areas, requiring new buildings and accelerating energy demand[8]. There is a need to enforce the Energy Conservation Building Code (ECBC) in the building sector.
+
+The improved building envelope efficiency can reduce the electricity demand for air conditioning by 20 percent [9] . One potential solution is to introduce energy-efficient measures in new construction using sustainable materials, technologies, and design strategies such as Building Information Modeling (BIM) (Box 1). In other words, implementing building codes in Pakistan’s buildings is a promising path to reaching energy efficiency goals amidst the energy crisis.
+
+[1] https://www.aceee.org/international-scorecard
+
+[2] Pakistan Energy Yearbook 2021
+
+[3] https://www.pc.gov.pk/uploads/report/IEP_Report_FINAL.pdf
+
+[4] NEPRA State of Industry Report, 2022.
+
+[5] https://www.iea.org/data-and-statistics/charts/world-electricity-final-consumption-by-sector-1974-2019
+
+[6] https://www.statista.com/statistics/1130112/india-electricity-consumption-share-by-sector/
+
+[7] https://neeca.gov.pk/SiteImage/Downloads/DRAFT%20NEEC%20ACTION%20PLAN%202023-2030.pdf
+
+[8]https://neeca.gov.pk/SiteImage/Downloads/DRAFT%20NEEC%20ACTION%20PLAN%202023-2030.pdf
+
+[9] Sustainable Energy Efficiency Program, ADB (2009)

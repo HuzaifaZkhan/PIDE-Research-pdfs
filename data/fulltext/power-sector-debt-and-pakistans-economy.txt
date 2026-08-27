@@ -1,0 +1,27 @@
+ABSTRACT
+
+The electricity sector’s financial stability is crucial for the smooth functioning of power systems. However, in Pakistan, circular debt is holding the sector and the entire economy hostage. To quantify the impact of this problem, a study is conducted using standard econometric techniques to investigate circular debt effects on the industrial sector at both the firm and macro levels. The study also measured the impact of circular debt on different sectors, sub-sectors, and factor inputs in the economy using a Computed General Equilibrium model through cost of production path. The study revealed that circular debt hurts real GDP and all sectors, increasing fiscal deficit and trade imbalance. The study also estimated a total public welfare loss of US$13 billion due to a 10 percent growth in circular debt. At the firm level, circular debt via an increase in tariffs is causing a reduction in profitability due to a significant increase in production costs. At the macro level, this is causing a decrease in industrial output and export competitiveness.
+
+1. INTRODUCTION
+
+There is an abundance of reasonably priced energy supplies available worldwide. However, Pakistan’s energy history has been characterised by erratic growth caused by energy shortages (Box 1). The most recent energy crisis, which emerged in 2005 and continued has led to exemplary increases in electricity tariffs, thus adversely affecting economic activities.
+
+Box 1. Energy Crisis in Pakistan
+
+First crisis erupted before the commissioning of Mangla Dam in 1968.
+
+Second , it started in the early 1970s and continued till the commissioning of Tarbela Dam (four units of 700 MW) in 1977. Both Mangla and Tarbela dams led to a robust hydrobased energy generation that satisfied rising demand, but only for a few years
+
+Third , energy demand soared in 1980s, leading to energy crises in 1984 and onwards. The crunch saw the unveiling of the 1994 power policy and the induction of IPPs.
+
+Fourth , it started in 2005 and continued.
+
+Source: Cheema, et al. 2022.
+
+It is widely recognised that a state’s socio-economic development is closely linked to the performance of its energy sector. Electricity is a versatile form of energy that stimulates economic performance and is an essential driver of growth and development in the agricultural, industrial, and various services sectors and also affects domestic life. Any disruption in the supply of electricity can significantly impact the entire economic supply chain. Therefore, it is crucial to ensure that energy is available and at a reasonable cost to maintain a country’s competitiveness in the global arena.
+
+The electricity sector’s financial viability is critical in electric power systems. But in Pakistan, circular debt (CD), a power sector financial deficit that originated in FY2006 to the tune of PKR 111 billion has reached now PKR 2.3 trillion (as of June 30, 2023) (Figure 2). The cumulative losses since FY2006 have crossed Rs 6 trillion (3 percent of current GDP).
+
+The CD is affecting the power sector’s health and further weakening Pakistan’s already struggling economy. Maintaining macroeconomic sector efficiency has become challenging for fiscal and administrative managers; the industrial sector is adversely affected (Malik, 2012; Malik, et al. 2023).
+
+For Full Text Download PDF

@@ -1,0 +1,23 @@
+INTRODUCTION
+
+Coal contributes significantly to global energy supplies. In 2021, coal was the second-largest energy source consumed globally (Chart 1). Over the years, coal demand has increased substantially from 2.6 billion tons in 1980 to 5.5 billion tons in 2021 (Chart 2). Because of environmental concerns and the increasing trend towards renewables, its share declined in the United States and many European countries, decreasing global consumption in 2014 and onwards. But the trend reversed in 2020. It is because of the Russia-Ukraine war leading to the worldwide energy crisis that the demand for coal has increased[1].
+
+Chart 1. World Energy Consumption by Source (2021)
+
+Source: BP Statistical Review 2022.
+
+According to the International Energy Agency (IEA) forecast, coal demand is expected to exceed the previous coal demand record of 2014 in the next few years. The United States and many European countries are shifting back to coal as it is still one of the cheapest energy sources.
+
+Chart 2. World Coal Consumption (Billion Tons)
+
+Source: BP Statistical Review 2022.
+
+The primary coal-consuming sector is electricity generation. High natural gas prices have increased reliance on coal for generating power. Coal consumption in electricity generation is expected to grow by more than 2 percent[2]. If the gas prices continue to increase in 2023 or onwards, dependence on coal will remain, and demand will surge further[3]. Besides gas prices, coal prospects will depend on the transition speed towards renewable energy sources[4].
+
+[1] https://www.iea.org/news/the-world-s-coal-consumption-is-set-to-reach-a-new-high-in-2022-as-the-energy-crisis-shakes-markets
+
+[2] In 2022, coal was the primary source of electricity generation, accounting for 36 percent of the share compared to 22 percent of natural gas share (Statista, 2023). These shares were 35 percent for coal and 24 percent for gas in 2020 (BP Statistical Review, 2022).
+
+[3] Fossil fuels are deemed suitable for meeting baseload demands.
+
+[4] https://www.barrons.com/articles/coal-use-hits-new-record-the-stocks-are-soaring-51671473657

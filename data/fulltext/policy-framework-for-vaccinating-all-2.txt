@@ -1,0 +1,71 @@
+The government has started vaccination against coronavirus for citizens aged 18 and above with a walk-in facility for all aged 30 and above. Despite easy access and free vaccination, the citizens are reluctant to vaccinate themselves. As of May 31, 2021, only 3 million citizens are partially vaccinated, and around 1.5 million are fully vaccinated across the country[1] against 137 million eligible citizens (aged 18 and above) (Nayab, 2021).
+
+These statistics show that a significant number of people are unwilling to get vaccinated. This alludes to the fact, substantiated by several surveys, that many people are afraid of taking the vaccine dose because of proliferating rumours and misconceptions regarding the nature of the vaccine. The acceptance rate to vaccinate is very low, especially among people living in rural areas and low-income families. About 90 percent of households are not interested in registering for vaccination in rural areas; the ratio is high among females compared to males and among poor households than rich (Gull, 2021). As more than 60 percent of the population lives in rural areas, a significant fraction of the population is not inclined to vaccinate themselves. The failure to fully vaccinate all citizens may cause long-term health deprivations. Health deprivation has broader impacts on development and leads to a substantial economic burden (Butt et al., 2020).
+
+Reasons for Vaccine Hesitancy
+
+(i) Government-created hoax : Most rural respondents believed it is a government-created hoax to collect funds from international bodies (Khan, 2021; Grossman, 2021). Most people know about COVID-19 and its implications due to lockdowns and information from different media sources. However, their shared understanding is that government creates this issue intentionally due to international pressure.
+
+(ii) Fear of side effects : The majority of respondents reluctant to vaccinate due to fear of side effects such as fever, infertility problems, die and other diseases (Khan, 2021; Qadir, 2021).
+
+(iii) Religious reasons : It is a common belief among many respondents (even from international literature) that vaccine is religiously prohibited; hence people avoid vaccinating (Rafique, 2021; Osama et al., 2021). It is also commonly believed that a pandemic was created to restricts people from practising religious activities such as prayers in Mosques etc. A respondent said that “ COVID-19 and its vaccine is a conspiracy against Muslims. It aims to close the mosques or decrease the number of people attending the mosques daily .”
+
+(iv) Lack of information and misinformation : Lack of information to register for vaccination and vaccination centre are also vital factors inducing vaccine hesitancy. One common belief among citizens is that they don’t need vaccines due to good health, indicating a lack of understanding of the need for vaccination (Sallam, 2021). One respondent said that “ those who work in the sunshine are not affected by COVID, hence do not require vaccination .” Misinformation can seriously reduce vaccine uptake. Loomba et al. (2021) show that misinformation significantly decreased the willingness to get the vaccine in the US.
+
+(v) Out-of-Pocket Expense : One reason for the denial from rural communities is the out-of-pocket expense to get vaccinated. The travel cost is very high for poor people to visit vaccination centres, mainly located in cities. Travel cost, income loss, and weak demand are major hurdles in increasing the vaccination rate among the poor.
+
+(vi) Indifferentattitude/behaviour : Rural communities are mainly concerned with day-to-day needs and remain indifferent about getting vaccinated. One of the respondents said that “ if someone comes to me with vaccinate, I will go for vaccination, else I don’t have time to visit vaccination centre .”
+
+How can the demand be created? The Proposed Policy Actions
+
+(i) Dealing with low demand: There are various ways to increase demand for vaccination among rural and poor communities. First, the government can link Ehsaas cash transfer instalment with vaccination. The government has planned to register around 8 million beneficiaries in the Ehsaas Kafaalat program. A mandatory vaccination certificate of both beneficiary and her spouse can push poor people to vaccinate. This intervention would vaccinate around 16 million citizens, most notably both male and female. Second, all Ehsaas initiatives can be linked with vaccination, such as the Ehsaas Amdan program. Thirdly, the government should strictly monitor the vaccination among government employees to increase vaccination.
+
+(ii) Vaccine for private workers: the government should be made mandatory for all private sector businesses and services sector to ensure 100 percent vaccination among their employees. The government should make it compulsory that all informal markets (shops) should display vaccine certificates for their employees. This intervention would ensure vaccination among the informal labour force (around 10 million).
+
+(iii) Compulsory vaccination certificate for new entrants in universities: All universities start new enrolment in the coming months. The Higher Education Commission (HEC), in consultation with Education Ministry and NCOC, makes it mandatory for all students to submit vaccination certificates for admission to any university.
+
+(iv) Tackling with misinformation: A consistent message approved by NCOC may be used by a local cleric, influencer, and all media sources to disseminate appropriate vaccination efficacy and registration process information. In this context, Pakistan Telecommunication Authority (PTA) or any other relevant authority should screen and stop the campaign against vaccination. Concerned authorities must ban the campaign against vaccination, mainly on YouTube and Facebook.
+
+(v) Provision of Vaccine without CNIC: Many older people in rural areas do not have CNIC. The National Socio-Economic Survey (NSER) shows that most people do not have CNIC due to the lack of documentation and cost involved in the CNIC process. The government shall devise a mechanism for these vulnerable people by allowing them to get vaccinated without CNIC.
+
+(vi) Vaccine for international migrant families: Pakistan hosts millions of international migrant workers and their families all over the country. These international migrant workers and their families do not pose any legal document to register for the vaccine. The government shall develop a mechanism with support from the international community to provide vaccines to these migrant workers and their families.
+
+(vii) Covering the Out-of-Pocket Expense: The government should facilitate the poor by covering out-of-pocket expenses incurred to get vaccinated under the Ehsaas program. Ehsaas has a comprehensive database of those people who received Emergency Cash Transfers. The same data can be used to design a conditional program to support out-of-pocket expenses.
+
+(viii) Mobile Vaccination Services for rural Communities: The government shall use mobile vaccination services for rural communities to vaccine them, keeping in view their indifferent behaviour. Local Basic Health Units (BHUs) can also be used as a vaccination centre to reduce travel costs.
+
+(ix) User-specific Messages to Promote Vaccination: The government can use technology to disseminate user-specific messages. Telco and NADRA data can be used to send a by-name message that you “Mr. XYZ” and your family members are not vaccinated yet as per the NADRA record. You are advised to visit the vaccine centre located at “ADD” for vaccination. Your mobile number will be blocked in a month if not vaccinated.
+
+(x) Issuance of Bank Account and Mobile Sim: The government can also link the issuance of bank account and mobile sim with the vaccine.
+
+(xi) Messaging through Lady Health Workers (LHWs): The LHWs can be mobilised to create awareness among people on the importance of the vaccine. LHWs can also be used to facilitate the registration process. Word of Mouth is the primary source of information for rural communities; hence LHWs can bridge the information gap by visiting in person to these communities.
+
+Finally, an important proposal is of instituting technology in the vaccine administration process. It is observed that many people have discarded their vaccines by bribing the vaccine providers and getting fake vaccine certificates. Apart from that, people have also received fake certificates from their relatives who are vaccine providers. NCOC can devise a mechanism for online verification of certificates. So that fake certificate may be checked and caught by government officials in airports, motorways, educational institutions, etc.
+
+REFERENCES
+
+Khan, Z. J. (2021). Covid-19 vaccination and hurdles in district Mardan. Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+Gull, A. (2021) COVID-19 vaccine hesitancy and resistance in Pakistan: Bridging the information gap in rural communities. Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+Qadir, F. (2021). A survey for not taking Covid-19 vaccination of Chitral. Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+Rafique, A. (2021). Behavioural inspection for uptake and acceptance of available COVID-19 vaccine. Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+Ghafoor, T. (2021). COVID-19 vaccination drive and the low take-up rate in rural area. Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+Loomba, S., de Figueiredo, A., Piatek, S. J., de Graaf, K., & Larson, H. J. (2021). Measuring the impact of COVID-19 vaccine misinformation on vaccination intent in the UK and USA. Nature Human Behaviour , 5(3), 337–348.
+
+Grossman, V. A. (2021). The COVID-19 vaccine: Why the hesitancy? Journal of Radiology Nursing .
+
+Sallam, M. (2021). COVID-19 vaccine hesitancy worldwide: A concise systematic review of vaccine acceptance rates. Vaccines , 9(2), 160.
+
+Osama, T., Razai, M. S., & Majeed, A. (2021) What is behind the low covid-19 vaccine take-up in some ethnic minorities? The BMJ Blogs, https://blogs.bmj.com/bmj/2021/04/08/what-is-behind-the-low-covid-19-vaccine-take-up-in-some-ethnic-minorities/
+
+Nayab, D. (2021) Vaccine for All, PIDE COVID-19 Bulletin, No. 22 . Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+Butt, M., Mohammed, R., Butt, E., Butt, S., & Xiang, J. (2020). Why have immunisation efforts in Pakistan failed to achieve global standards of vaccination uptake and infectious disease control? Risk Management and Healthcare Policy , 13, 111.
+
+____________________________
+
+[1] https://ncoc.gov.pk/covid-vaccination-en.php

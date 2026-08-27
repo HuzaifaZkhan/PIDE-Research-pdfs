@@ -1,0 +1,59 @@
+In a recent virtual book launch [1] at PIDE for the book Public Value and the Post-pandemic Society , it was distinctly noted that a comparison between public value theory and public choice theory would be highly warranted, and I was advised to analyse both theories in light of their presuppositions, analytical bases, and policy recommendations. I also believe this is a useful exercise and, in that regard, I offer a brief comparative analysis of both theories here.
+
+The fields of public administration and political science have long grappled with the question of how best to manage and evaluate government activities. Public choice theory and public value theory, both of which are highly influential in academia as well as policy praxis, offer contrasting frameworks for understanding the dynamics of public sector decision-making and the creation of societal value. Although both theories provide valuable insights into the workings of government and public institutions, they diverge significantly in their foundational assumptions, perspectives on government intervention, and implications for policy and management. These may be examined sequentially.
+
+First, the foundational assumptions, the very points of departure, of public choice and public value are markedly different. Public choice theory is grounded in the economic principle of individual self-interest, and it views politicians, bureaucrats, and voters as rational actors who pursue their personal objectives within the public sector. This perspective is akin to the neoclassical economic analysis of markets, where individuals’ pursuit of self-interest is seen as the driving force behind economic transactions. Conversely, public value theory posits that public sector organisations and their stakeholders are motivated by the desire to create societal value, focusing on collective interests and the public good. This theory assumes that public institutions have the unique capacity to pursue objectives that enhance social welfare, beyond mere economic efficiency.
+
+Second, the two theories offer divergent views on government intervention. Public choice theory tends to view government action skeptically, highlighting the potential for inefficiency, rent-seeking behaviour, and the influence of special interest groups that can distort policy outcomes away from the general public’s interest. In contrast, public value theory advocates for proactive government involvement in creating value for the public, arguing that public sector innovation and leadership are essential in addressing societal challenges that cannot be effectively resolved by market mechanisms alone.
+
+Third, concerning the role of markets, public choice theory often champions market-based solutions to societal problems, suggesting that markets are more efficient at allocating resources than government interventions. On the other hand, public value theory recognises that whilst markets play a critical role in economic systems, they are not always capable of addressing all societal needs, particularly in areas like public health, education, and environmental protection, where public sector leadership is crucial.
+
+Fourth, the governance and decision-making processes are seen differently through the lenses of public choice and public value theories. Public choice theory argues that political and bureaucratic decision-making is prone to being influenced by narrow interests at the expense of the broader public good, due to the rational self-interest of those involved in the process. Public value theory, however, emphasises transparent, inclusive, and democratic decision-making that seeks to serve the public interest, advocating for engagement with citizens and stakeholders in defining and achieving public value objectives.
+
+Fifth, the measurement of success diverges between the two theories. Public choice theory focuses on the efficiency of public sector outcomes, often measured through economic cost-benefit analyses. Public value theory, in contrast, assesses success through the achievement of societal objectives and the creation of value for the public, incorporating qualitative measures such as well-being, equity, and environmental sustainability, in addition to economic efficiency.
+
+Sixth, the policy implications derived from public choice and public value theories are distinct. Public choice theory often leads to recommendations for reducing the size and scope of government, arguing for deregulation, privatisation, and policies that limit government’s role in the economy. Public value theory, conversely, encourages policies designed to enhance social welfare, foster public sector innovation, and engage citizens in the policymaking process, supporting a more active and expansive role for government in solving complex societal issues.
+
+Seventh, both theories place emphasis on a proactive civil society role. In public choice, the people and their civil society formations need to remain vigilant to political and bureaucratic capture by special interest groups. Public choice also implies that civil society itself can be hijacked by special interest groups, of course, but the best check on that is likely to be other civil society groups. Meanwhile, in public value, civil society was historically ignored, but in recent research [2] it has been emphasised that civil society is and can be a mainstay of value creation rather than a mere spectator or customer for the value paradigm. This is an important recognition, because the decentralised non-state formations of the 21 st century need to look beyond just state bureaucracies and elected officials, and empower civil society to drive the social direction and bargain with elite structures, as Acemoglu has also argued [3] separately.
+
+Eighth, and finally, while public choice theory provides a critical analysis of the potential pitfalls of government action, highlighting the importance of safeguards to prevent inefficiency and special interest influence, public value theory offers a normative framework for enhancing the role of public institutions in creating societal value. Public value theory encourages a visionary approach to public management, advocating for leadership, innovation, and accountability in pursuing the public interest.
+
+In the context of Pakistan, the application of public choice and public value theories reveals a nuanced picture of public sector dynamics, reflecting the interplay between theoretical ideals and practical realities. Public value theory, with its emphasis on the potential of public institutions to create societal value, presents an aspirational vision for governance. This vision aligns with the collective efforts and innovative responses observed during crises, such as the Covid-19 pandemic [4] , where the government, civil society, and public institutions collaborated to address the health emergency, showcasing the capacity for public value creation in times of dire need. Such instances highlight the potential for public sector leadership and innovation in mobilising resources, implementing public health measures, and engaging with communities to mitigate the impact of the crisis, embodying the aspirations of public value theory.
+
+However, the everyday experience of governance in Pakistan often mirrors the scenarios depicted by public choice theory more closely, where self-interest, bureaucratic inefficiencies, and the influence of special interest groups play a significant role in shaping government actions and policies. Public choice theory provides a lens through which to understand the challenges of corruption, rent-seeking behaviour, and the inefficiency of public services that are frequently encountered by the Pakistani people. This theory elucidates the complexities of political and bureaucratic decision-making in an environment where the pursuit of individual and group interests can overshadow the collective good, leading to outcomes that may not align with the broader public interest. The lived experience of the Pakistani populace, vis-à-vis their government, thus often reflects the practical realities underscored by public choice theory, highlighting the gap between the aspirational goals of public value creation and the constraints imposed by political and economic self-interests.
+
+These observations underscore the importance of fostering transparency, accountability, and public engagement in Pakistan’s governance processes to bridge the gap between the aspirational ideals of public value theory and the practical realities illuminated by public choice theory. While public value remains an aspirational goal, its sporadic manifestation during crises suggests the potential for broader application with concerted effort and reform. Simultaneously, the insights from public choice theory offer valuable lessons in designing governance structures and policies that can mitigate the influence of self-interest and enhance the capacity for public value creation, aiming for a governance model that not only reflects but also elevates the lived experiences of its citizens.
+
+As such, whilst public choice and public value theories both contribute important perspectives to the study of public administration and policy, they embody fundamentally different views of the nature of public sector activities, the motivations of public sector actors, and the goals of government intervention. Public choice theory, with its emphasis on individual self-interest and the potential for government failure, calls for caution in expanding the government’s role in society. In contrast, public value theory champions the potential of public institutions to create significant societal value, advocating for an engaged, innovative, and accountable public sector that actively pursues the public good. Understanding these differences is crucial for policymakers, public managers, and scholars as they navigate the complexities of government action and strive to enhance the public value generated by public sector endeavors.
+
+____________
+
+[1] https://pide.org.pk/webinar/public-value-and-the-post-pandemic-society/
+
+[2] https://www.tandfonline.com/doi/abs/10.1080/01900692.2022.2043365
+
+[3] https://www.goodreads.com/book/show/52884091-the-narrow-corridor
+
+[4] https://www.taylorfrancis.com/chapters/mono/10.4324/9781003223139-6/comparative-public-value-developing-countries-usman-chohan?context=ubx&refId=bdd82529-9986-480f-9c7e-160996eb3c48
+
+____________
+
+The author is an Advisor in the Economic Affairs & National Development Divion at the Centre of Aerospace and Security Studies.
+
+References
+
+Benington, J., & Moore, M. H. (2011). Public value in complex and changing times. In Public value (pp. 1-30). Palgrave, London.
+
+Brown, P. R., Cherney, L., & Warner, S. (2021). Understanding public value–why does it matter?. International Journal of Public Administration , 44 (10), 803-807.
+
+Buchanan, J. M., & Tollison, R. D. (Eds.). (1984). The Theory of public choice–II. University of Michigan Press.
+
+Chohan, U. W. (2022). Pandemics and public value management. Routledge.
+
+Chohan, U. W. (2023). Public value and the post-pandemic society . Routledge.
+
+Rowley, C. K., Schneider, F. G., & Mueller, D. C. (2008). Public choice: an introduction. Readings in public choice and constitutional political economy, 31-46.
+
+Self, P. (2021). Government by the market?: the politics of public choice . Routledge.
+
+Tõnurist, P., & Bækgaard, M. (2018). Economics and PA: Public Choice Theory, Transaction Costs Theory, Theory of Expectations, and the Enduring Influence of Economics Modeling on PA—Comparing the Debate in the US and Europe. The Palgrave Handbook of Public Administration and Management in Europe , 1105-1120.

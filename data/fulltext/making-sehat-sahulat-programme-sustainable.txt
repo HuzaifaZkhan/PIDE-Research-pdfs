@@ -1,0 +1,59 @@
+Today, millions of people in low-income countries lack access to health services due to accessibility and affordability issues. Health financing refers to the “function of a health system concerned with mobilizing and allocating money to cover health needs. There are various healthcare financing models around the globe; the two broader ones are;
+
+The supply-side models provide free-of-cost health services in public hospitals, i.e., Canada, Taiwan, South Korea, etc.
+
+The demand-driven models encourage citizens to purchase health insurance, the government only partly finances the premium for marginalized segments, i.e., USA, UK, and many others.
+
+The Sustainability Issues of Sehat Sahulat Program (SSP)
+
+Pakistan has a mixed health financing system where the private sector dominates. Before the SSP’s emergence, the country faced a twofold burden: only 0.6% of the health budget as percentage of GDP, and more than two-thirds of the financing by households themselves.
+
+The federal government took a major initiative in 2015 by launching the Sehat Sahulat Program (SSP) in a few districts (excluding the KP province) to provide free in-door health services to poor and vulnerable segments having poverty scores up to 32.5 in the BISP database. At the same time, the Khyber Pakhtunkhwa (KP) government independently started it in four districts. Until 2020, the program served only marginalized segments by using the BISP data. However, the KP government declared it universal in 2020, and the same approach was followed by the federal government in 2021. There are settled package rates against each sickness; however, the federal and KP vary over premium rates and treatment packages.
+
+There are five stakeholders to run the program; the primary stakeholder is the State Life Insurance Company (SLIC), which is responsible for all operational activities, including; onboard empanel hospitals, providing free-of-cost in-door health services, and addressing all service-related grievances. So far the program has enrolled 43 million families by covering 190 million population of country. More than 14.6 million individuals have used in-door health facility in empanel hospitals (till November 2023).
+
+The program seems revolutionary in improving the accessibility and affordability of healthcare services. However, it is largely politicized overtime with less attention is made to make it modest and financially sustainable. The government entirely pays the premium of enrolled families. This commitment led to several duplications, making it financially unsustainable when, at the same time, the government was paying a premium to SLIC and financing the public hospitals.
+
+The program is facing following broader design and operational issues:
+
+There is yet to be a consensus among provinces about the program’s future. Sindh is yet to opt for it, whereas AJK and GB rely on the federal government for premiums.
+
+The program restricts the treatment only to those having CNIC/B-form. Many of the population need more documentation and automatic record updation to avail indoor health services. Sixty million children lack birth registrations in the country, and around 18% of the adults lack CNIC (10% male and 26% female).
+
+The government still needs to be able to create competition among insurance providers. Only one vendor (State Life) holds a monopoly and has no health-related experience. As a result, there is underutilization of in-door health services due to limited empanelled hospitals, poor quality of services provided by them, and denial of services by various hospitals as they opt for a ‘pick and choose behavior’ by offering services only in treatments that are more profitable.
+
+The government is paying premium for even those citizens who can afford healthcare on their own, making the universal health insurance model unsustainable.
+
+The program led to duplications in public health spending. The federal and provincial governments spend more than PKR 600 billion on public health infrastructure annually, and logically, the in-door services in public hospitals after the inception of SSP should be financed from the program and not the annual health budget. Second, health entitlement to citizens by various other initiatives must be stopped to avoid duplications, e.g., government employees and their families, including army, that have their own healthcare systems, various other social protection initiatives, etc.
+
+Policy Guidelines to Make SSP Sustainable
+
+The SSP model seems too ambitious and unrealistic as no developing country has a universal health insurance scheme. Some co-payment formulas can optimize public resources. For example, the government should pay the premium for the poor and vulnerable segments, whereas the economically stable households pay themselves. Again, the role of government is crucial as being a regulator to promote healthy competition in the insurance market by allowing multiple service providers. The following recommendations may help in improving efficiency, effectiveness, and sustainability of program.
+
+(a) Limit the mandate only for poor and promote health insurance competition
+
+The country is facing a huge debt burden where more than half of the budget goes to finance interest payments. The economic growth is sluggish, whereas social safety net expenditures are rising day-by-day, mainly due to the donor push. All such spending without economic growth and job creation are meaningless. The idea of universal health insurance in a country like Pakistan is unviable. We strongly recommend limiting the program’s mandate to only the poor and marginalized segments (i.e., BISP beneficiaries) rather than all citizens. The government must promote fair competition, as a single health insurance company cannot provide an innovative solution. The government must involve multiple insurance service providers to create fair competition so insurance companies compete on services and citizens can choose the better service provider.
+
+(b) Development of a national health financing framework
+
+Making the program apolitical requires national consensus on the health financing framework across provinces and regions. The framework must provide the guiding principles and roadmaps for federal and provincial governments. The framework must focus on the following policy actions:
+
+What healthcare financing model should the country follow to make healthcare affordable for the poor citizens?
+
+How can the health insurance model be competitive in the country?
+
+Effectively use the insurance program in public hospitals to finance in-door services, instead of relying on the annual health budget. It is not easy keeping in view the existing red-tapism, doctors unions, and vestige interests by politicians and bureaucrats.
+
+(c) Autonomy of public sector hospitals and abolish duplication
+
+As mentioned earlier, the SSP program was initiated without devising a public health spending framework having agreement among various governmental tiers. Resultantly, it led wastage of public resources as the public health spending drastically increased (from Rs. 470 billion in 2017 to Rs. more than 800 billion in 2023) due to additional financial burden allocated to the SSP (Table 2). Ideally the health spending for in-door health services in public hospitals should be stopped; however, no such regulatory framework was devised by the federal/provincial governments to make the hospitals nancially autonomous. Many of the public hospitals gathered more than 40 million revenues from the SSP premium (as paid by the State Life), however, they were clueless how to utilize insurance-generated revenues. Resultantly, the government.
+
+The provincial governments must amend the regulatory framework to make public hospitals autonomous, where each hospital finances its in-door services from insurance revenues. The government should finance only the outpatient services in public hospitals.
+
+Overall the health insurance model is cheaper if the government diverges resources from hospital financing to premium payments, even in the case of universal health insurance; however, currently, there is duplication in health payments by paying premiums on one side and financing the public sector hospitals on the other side (Table 2 & Table 3). The government must decide about the health entitlements of public sector employees, including both civil and military.
+
+All other initiatives under the social protection umbrella (i.e., zakat, social security, etc.) should also be the part of the SSP. There is, thus, a need to abolish all duplications in health financing by stopping health entitlements to public sector employees, and through other social protection programs if a person is part of the SSP.
+
+(d) Empanel every public and private hospital
+
+A limited number of hospitals are empaneled  (22% of public and 11% of private). To incentivize, the treatment packages must be market-based so every hospital has an incentive to participate in the program and avoid fake admissions. Second, the provincial regulatory framework must ensure that every registered private hospital must be empaneled. Third, every government hospital must be empaneled and manage the in-door services from the insurance budget.

@@ -1,0 +1,129 @@
+The Global EV Shift and Pakistan’s Position
+
+The global automotive industry is undergoing a seismic shift, transitioning from internal combustion engine (ICE) vehicles to New Energy Vehicles (NEVs), with electric vehicles (EVs) leading the way. This shift is driven by multiple factors: stringent environmental regulations, concerns over energy security, and technological advancements that have significantly reduced battery costs.
+
+China, the European Union (EU), and the United States have emerged as dominant players in the EV landscape. China alone accounted for over 60% of global EV production and nearly 50% of global EV sales in 2023 (IEA, 2024). Countries such as Thailand, Indonesia, and Vietnam are also positioning themselves as key players in the global EV supply chain, leveraging foreign direct investment (FDI) and industrial policy to develop domestic capabilities.
+
+Pakistan, however, remains largely absent from this transformation. The country’s Electric Vehicle Policy 2020-2025 aimed to electrify 30% of passenger vehicles and 90% of two- and three-wheelers by 2030, yet progress has been slow due to a lack of coordinated industrial policy, financial constraints, and a weak innovation ecosystem (PIDE, 2023). While the automotive sector continues to rely heavily on imports and assembly-based production, the China-Pakistan Economic Corridor (CPEC) presents a unique opportunity to integrate into global EV value chains.
+
+CPEC, originally focused on infrastructure and energy projects, has evolved into a broader platform for industrial collaboration between Pakistan and China. Given China’s dominance in EV technology, battery manufacturing, and supply chain networks, Pakistan can leverage this partnership to accelerate its EV transition—not just for domestic adoption but also as a potential manufacturing and export hub for the broader region.
+
+This article explores Pakistan’s current auto sector challenges, opportunities under CPEC, comparative lessons from regional competitors, and key policy recommendations for developing a sustainable and competitive EV industry.
+
+Pakistan’s Auto Industry: Stagnation and the Need for Reform
+
+Pakistan’s automotive sector has long been characterized by a lack of technological advancement, protectionist policies, and a limited focus on genuine localization. PIDE’s research highlights that the industry remains dominated by a few major players that operate within a tariff-driven protectionist structure rather than through market-driven competition (Qadir, 2023).
+
+Key challenges faced by the industry include High Dependence on Imports, Supply Chain Weaknesses, Inefficient Policy Interventions, and Limited R&D Investment .
+
+Import Dependence and Lack of Localization
+
+Pakistan’s auto industry is characterized by a heavy reliance on Completely Knocked Down (CKD) kits and imported components, limiting local value addition. Despite various localization policies, domestic production capabilities remain weak, with localization levels at 30-40% for passenger vehicles—far below India and Thailand, where localization exceeds 60-80% (PIDE, 2023).
+
+Pakistan also has no fully localized EV manufacturer; even existing players like MG Motors and Sazgar rely on imported parts. Moreover, key inputs such as lithium, cobalt, and nickel—critical for battery manufacturing—are not produced locally, increasing dependence on imports.
+
+Ineffective Industrial Policy and Protectionism
+
+Pakistan’s auto industry operates under a highly protectionist regime, where high tariff barriers protect inefficient incumbents while discouraging competition and innovation. The Automotive Development Policy (ADP) 2016-2021 failed to attract high-tech investments, as new entrants focused on assembly operations rather than full-scale manufacturing.
+
+Similarly, the NEV Policy 2020-2025 primarily incentivizes duty-free imports of EVs and offers tax exemptions on CKD kits, but lacks a structured road-map for developing a domestic EV ecosystem. Key shortcomings include: no clear technology transfer requirements for foreign investors, absence of R&D incentives for universities and industry collaborations, and limited focus on building EV component supply chains, such as batteries and power electronics.
+
+Absence of an R&D and Innovation Ecosystem
+
+PIDE’s research (Qadir, 2023) highlights that Pakistan’s low investment in R&D has hindered the development of indigenous capabilities in EV batteries, software, and powertrain technologies. Unlike China, which has developed specialized EV research parks and state-led innovation clusters, Pakistan lacks an ecosystem that integrates academia, industry, and government support.
+
+Lack of Export Vision
+
+Pakistan’s EV policy is overwhelmingly domestically focused, lacking a regional export strategy. In contrast, Thailand and Indonesia have successfully positioned themselves as EV manufacturing and export hubs, leveraging: strategic trade agreements with key markets, alignment with global regulatory standards, and incentives for global automakers to set up export-oriented production.
+
+Without an export-oriented vision, Pakistan risks being confined to a limited domestic market, which will hamper economies of scale and long-term industrial growth.
+
+The recently announced NEV policy aims to shift 30% of Pakistan’s vehicle fleet to electric by 2030. However, the policy has been criticized for focusing primarily on import facilitation rather than fostering local manufacturing. This risks increasing Pakistan’s dependence on imported EVs rather than building a sustainable domestic industry.
+
+CPEC as a Catalyst for Pakistan’s EV Sector
+
+CPEC is not merely an infrastructure initiative; it represents an opportunity for industrial collaboration between Pakistan and China. Given China’s dominance in the NEV sector, Pakistan can leverage this partnership to build its own EV ecosystem and integrate into China’s supply chain network in the following ways:
+
+Attracting Chinese Investment in EV Manufacturing
+
+China’s EV industry is led by companies such as BYD, NIO, and CATL, which are expanding globally. Pakistan can leverage CPEC to attract Chinese EV manufacturers into local joint ventures (JVs), ensuring:
+
+Technology transfer agreements that facilitate local capability building.
+
+Investment in localized component manufacturing to reduce import dependence.
+
+Training and workforce development programs to equip engineers with EV expertise.
+
+Establish EV Technology Parks to attract Chinese investment and facilitate R&D collaboration.
+
+Developing a Localized Battery Supply Chain
+
+Battery production is central to cost competitiveness in EVs, as batteries account for 40% of total EV costs. Pakistan can develop a localized battery industry by:
+
+Partnering with Chinese battery giants like CATL to set up battery production plants.
+
+Incentivizing local battery cell assembly using imported lithium-ion components.
+
+Expanding renewable energy integration into EV charging networks to ensure sustainability.
+
+Develop battery manufacturing by giving incentives through tax breaks and research grants.
+
+Positioning Pakistan as a Regional EV Export Hub
+
+One of the key shortcomings of Pakistan’s NEV policy is the absence of an export vision. Countries such as Thailand and Indonesia have positioned themselves as regional EV manufacturing hubs by aligning their policies with global demand trends. Given Pakistan’s geographic position, it can target regional export markets such as South Asia, Central Asia, and the Middle East, taking advantage of:
+
+Lower labor costs than China, making Pakistan a competitive assembly hub.
+
+Strategic location along CPEC trade routes for efficient regional exports.
+
+Market potential in Afghanistan, Uzbekistan, and the GCC, where EV penetration is still low.
+
+Develop an EV Export Strategy under CPEC, aligning Pakistan’s EV production with global safety and regulatory norms. And align Pakistani production standards with global safety and regulatory norms.
+
+Comparative Lessons from Regional Competitors
+
+China’s success in the EV industry is a direct result of long-term state-led industrial policy and strategic investment. Over the past two decades, the Chinese government has provided more than USD 60 billion in subsidies to support research and development (R&D), incentivize local manufacturing, and promote consumer adoption of EVs. Foreign automakers entering China were required to form joint ventures with local companies, ensuring technology transfer and the development of domestic capabilities. Additionally, China aggressively invested in battery production and charging infrastructure, establishing itself as the global leader in battery supply chains. For Pakistan, the key takeaway from China’s approach is that policy consistency, strategic investment in R&D, and technology transfer mechanisms are essential for developing a competitive EV industry. Without a clear, long-term vision backed by state support, Pakistan’s EV ambitions will struggle to gain momentum.
+
+Thailand, often referred to as the “Detroit of Asia,” has successfully positioned itself as an EV manufacturing and export hub through a strategically designed investment-friendly policy framework. The Thai government has actively courted foreign automakers by offering tax holidays, investment incentives, and regulatory support, making it an attractive destination for companies looking to establish regional production bases. Crucially, Thailand has mandated export quotas for global automakers setting up plants, ensuring that local production is not limited to domestic consumption but is integrated into global supply chains. Furthermore, Thailand has aligned its vehicle safety and emissions standards with international markets, facilitating smooth export operations to Europe and ASEAN countries. Pakistan can learn from Thailand’s success by shifting from a domestically focused EV policy to an export-driven strategy, integrating with regional trade networks and ensuring that its production meets international quality and safety standards.
+
+Key Policy Interventions for a Sustainable EV Industry
+
+For Pakistan to maximize its EV potential under CPEC, it must adopt a comprehensive industrial strategy that prioritizes domestic capability-building, technology transfer, and long-term economic sustainability. The following are critical policy recommendations:
+
+Rethinking Protectionist Tariffs
+
+Pakistan’s current tariff structure discourages investment in local manufacturing. While high tariffs on imports protect existing players, they also stifle competition and technological innovation. Instead of blanket protection, Pakistan should introduce smart tariff policies that encourage investment in EV production and gradually phase out high tariffs on EV components while linking tariff reductions to localization targets.
+
+Strengthening Industrial and Research Linkages
+
+Pakistan’s industrial policies have historically overlooked the importance of R&D and collaboration between academia and industry. A successful EV strategy must include investments in research to develop indigenous capabilities. Pakistan must focus on e stablishing EV research and testing centers in collaboration with Chinese partners, and encourage Pakistani universities to partner with leading Chinese EV research institutes.
+
+Infrastructure Development for EVs
+
+A major bottleneck in EV adoption is the lack of charging infrastructure. Without widespread charging stations, EV adoption will remain slow. Given the energy sector’s existing issues, a focus on renewable energy-based charging solutions is necessary. Pakistan needs to develop a national EV charging infrastructure plan under CPEC, and encourage private sector participation in charging station deployment through public-private partnerships.
+
+Creating a Favorable Business Environment
+
+Attracting investment in the EV sector requires policy consistency and a business-friendly regulatory environment. Investors are wary of unpredictable shifts in policy, particularly in sectors where long-term planning is required. It is high time Pakistan ensures regulatory consistency by locking in EV incentives for a fixed period and provides clear investment roadmaps for both domestic and foreign investors.
+
+From Policy to Action
+
+Pakistan’s journey towards becoming an EV player will require a shift from ad-hoc policy-making to a structured, long-term industrial vision. Learning from China’s experience, Pakistan must move beyond mere incentives and create an enabling environment for domestic firms to scale up production and compete in global markets.
+
+The key takeaways for policymakers include:
+
+Leverage CPEC for joint ventures and technology transfer in NEV manufacturing.
+
+Prioritize local battery production and research into alternative energy storage.
+
+Develop a regional export strategy to ensure long-term industry viability.
+
+Invest in EV infrastructure, particularly in renewable energy-based charging networks.
+
+Ensure policy consistency to attract long-term investment.
+
+With a clear strategy and effective execution, Pakistan can position itself as an emerging player in the global NEV market, leveraging its CPEC partnership to drive economic growth, industrial development, and environmental sustainability.
+
+About the Author
+
+Dr. Usman Qadir is an Industry and Trade expert, currently working as a Senior Research Economist at the Pakistan Institute of Development Economics

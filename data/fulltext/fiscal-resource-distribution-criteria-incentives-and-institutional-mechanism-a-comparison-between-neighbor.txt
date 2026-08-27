@@ -1,0 +1,428 @@
+Fiscal Resource Distribution Mechanism in India
+
+The Indian federation faces the classic vertical fiscal gap problem, where the center assumes the revenue collection responsibility while the states are entrusted with expenditure responsibilities. Table 1 indicates the total vertical fiscal gap for FY 2018-19. With the system built fiscal gap, it necessitates systematic funds transfer from the center to the states to ensure sustainability and predictability in states’ finances. For this purpose, Indian Finance Commission (FC) is assigned the responsibility to propose feasible resource transfer mechanism between the center and the states.
+
+Table 1: Vertical Fiscal Gap (2018-19) (Percent)
+
+Level of Government
+Total Resources Generated
+Total Government Expenditures
+
+Indian Central Government
+62.7
+37.6
+
+Indian State Governments
+37.3
+62.4
+
+Source: 15 th FC Report (2020)
+
+Institutional mechanism of Indian Finance Commission: The Structure
+
+The President constitutes and announces the Finance Commission (FC) after every five years. The commission comprises of Chairman[1] and four members who are experts in the field of public policy and economics. The FC is provided with a secretariat along with special powers to engage with relevant stakeholders (central and states’ government officials, academia, researchers, public policy experts etc.), prepare reports and can even commission studies; indicating government’s seriousness to the cause.
+
+The FC also undertakes extensive visits throughout the country to grasp ground realities and invites proposals on desired FC formula from the state governments. The head of the commission is empowered to engage professionals and support staff (from the market as well as on deputation). Intensive field visits to states, research institutions and other relevant stakeholders takes place and the commission also arranges and facilitate conferences on relevant issues as per assigned ToRs. The recent appointments of the Chairman FC (who are experienced professionals and belongs to academia) suggests that Indian government wants to approach the resource distribution issues professionally and efficiently.
+
+The commission is required to make recommendations to the President on the vertical and horizontal resource distribution[2]. In addition to the formula transfers, the FC also make recommendations on the Grants-in-Aid to the states. The commission also deals with supplementary fund allocation to the local governments (including municipalities and Panchayats), which obviously is meant to shield the LGs from full financial dependence on states.
+
+15 th FC award
+
+Divisible Pool: The FC deal with the defined divisible pool, which currently consists of the net proceeds of all taxes[3] collected by Union. This also includes GST on Good and Services; the matter amicably settled in 14 th FC ward.
+
+Table 2: Criteria for Horizontal Devolution-15 th FC Award (2020-2025)
+
+Criteria
+Weight (%)
+
+Population
+15.0
+
+Area
+15.0
+
+Forest and ecology
+10.0
+
+Income distance
+45.0
+
+Tax and fiscal efforts
+2.5
+
+Demographic Performance
+12.5
+
+Total
+100
+
+Source: 15 th FC report (2020)
+
+Table 3: Historic trend of States’ Share in Divisible Pool (Percent)
+
+Finance Commission Award
+11 th
+12 th
+13 th
+14 th
+15 th
+
+States share in DP
+29.5
+30.5
+32.0
+42.0
+41.0
+
+The FC formula in India is based on three main pillars i.e. the need based principal, the equity based principal and the performance based principal. The criteria including population, area and forest cover[4] constitute the ‘basic need’ principle for the states and each aspect is covered in the resource distribution formula by assigning different weights to each criteria. Similarly, the criteria of income distance, infrastructure and fiscal capacity have been historically used to fulfil the ‘equity’ principle and has historically enjoyed the highest weightage throughout. Lastly, the ‘performance’ principal is used to reward the demographic performance, the tax effort and the fiscal efforts by the states. The demographic performance is measured as inverse of age-specific fertility rate.
+
+Thus, despite being criticized in the literature for adopting multi criteria formula, the Indian FC award covered the need and equity criteria as well as has accommodated incentive for the states that perform better on agreed national goals. This aspect is missing in Pakistan’s NFC award, which predominantly takes into account the needs and cost disabilities mainly. Another important lesson to learn from the Indian FC awards, as presented in Table 5, is the continuous experimentation in search of optimal balance of ‘needs’ versus ‘effort’. Historically, all finance commission yielded awards and each commission has experimented by assigning different weights to different criteria in search of the optimal, which deserves appreciation.
+
+Table 5: Criteria and Weightage in Previous Finance Commission awards
+
+Column1
+Criteria
+FC-XI (2000-05)
+FC-XII (2005-10)
+FC-XIII (2010-15)
+FC-XIV (2015-20)
+
+Need and
+
+cost disability
+
+Population (1971)
+10
+25
+25
+17.5
+
+Population (2011)
+
+10
+
+Area adjusted
+7.5
+10
+10
+15
+
+Forest cover
+
+7.5
+
+Equity
+
+Index of infrastructure
+7.5
+
+Income distance
+62.5
+50
+
+50
+
+Fiscal capacity distance
+
+47.5
+
+Performance
+
+Tax efforts
+5
+7.5
+
+Fiscal discipline
+7.5
+7.5
+17.5
+
+100
+100
+100
+100
+
+Equalization transfers :
+
+In addition to criteria based transfers, the FC award allocates equalization funds to different states. This is in line with international practice such as Canada and Australia, where the central government makes equalization transfers to states to enable the states to provide reasonably comparable level of public services. This happens while ensuring that states have made adequate tax effort and worked with acceptable efficiency. Thus, equalization transfers need to be designed in a way where states are enabled to provide comparable services, barring their capacity to externalize their costs to others without making comparable effort. Thus, needs and cost disabilities are to be covered only after the states have exhausted their true potential to raise revenues and have achieved fiscal efficiency.
+
+Empowering Local Government
+
+Another unique feature of the Indian FC award is that it engages with the local governments and provides performance incentives. Following the need-based principal, the FC directly transfer[5] funds to the local governments by allocating 90 percent weightage to ‘population’ while 10 percent weight is assigned to ‘area’. The FC awards apportion these funds with a ratio of 67.5:32.5 between rural and urban local bodies. During 2021-26, the FC has recommended total grants of Indian Rs. 436,361 crore for local governments to cater with their emerging needs and act as the engines of growth. This again is futuristic in nature and is bound to bring long run benefits to the economy. This arrangement ensures avoiding the concentration of fiscal power at the second tier, allowing LGs to take local policy decisions. However, 60 percent of the total grants is tied to national priorities while 40 percent is left at the discretion of the LGs. However, in order to qualify for the federal grants, LGs are required to meet some basic prerequisites. These include digitalization of annual audited accounts at LG level. Additionally, the urban local bodies are required to have state’s notified minimum floor rates for property taxes and a decent collection effort. Thus, LGs transfers are not guaranteed rather these are treated as reward performances.
+
+Table 6: Criteria for Grants to LGs by FC awards
+
+(in per cent)
+
+FC-X
+FC-XI
+FC-XII
+
+RLB*
+FC-XIII
+
+ULB**
+FC-XIV
+FC- XV
+
+Population
+100
+40
+40
+
+50
+
+90
+90
+
+(Census)
+1971
+1971
+2001
+
+2001
+
+2011
+2011
+
+Geographical area
+–
+10
+10
+
+10
+
+10
+10
+
+Distance from highest per capita income
+–
+20
+20
+10
+
+20
+–
+–
+
+Index of decentralization
+–
+20
+–
+
+15
+
+–
+–
+
+Index of deprivation
+–
+
+10
+
+–
+–
+
+Revenue effort
+–
+10
+20
+
+–
+
+–
+–
+
+Proportion of scheduled castes/scheduled tribes in population
+–
+–
+–
+10
+–
+0
+–
+–
+
+FC local body grants
+
+utilization index
+–
+–
+–
+
+5
+
+–
+–
+
+Source: 15 th FC award report
+
+*RLBs – rural local bodies; ** ULBs – urban local bodies
+
+Fiscal Resource Distribution Mechanism in Pakistan
+
+Given the fiscal imbalances between federal and provincial tiers, Pakistan need to adopt an efficient resource distribution mechanism. For this purpose, the National Finance Commission (NFC) Award mechanism is in place to resolve the financial discrepancies among the government tiers and to manage the financial resources in Pakistan. This mechanism is aimed to arrive at an amicable resource distribution criteria where the center and provinces are able to meet their expenditure obligation for efficient public service delivery (Ahmad, 2021). Fiscal resources and responsibilities need to be distributed in a way so that sub-governments have a clear mandate, adequate resources, and the flexibility to make decisions (Bird & Smart, 2002). Furthermore, any efficient resource distribution mechanism is ideally a source of competition among the provincial governments, where each have the incentive to provide public services efficiently, make coordinated efforts for macroeconomic management and encourage savings in operational cost (Iqbal, Din, & Ghani, 2013). Around the world, countries have employed fiscal allocation as a reform to make an effort to improve the efficiency of public services while reducing poverty and corruption (Fisman & Gatti, 2002).
+
+According to the Article-61 of the constitution of Pakistan, the NFC is constituted to propose a resource distribution mechanism between the federal and provinces and subsequently among the provinces. The history of resource distribution in Pakistan goes back to 1951, however, following
+
+the currently enforced 1973 Constitution of Pakistan, seven[6] awards have so far been announced. The NFC comprises of the federal finance minister (chairperson) and the provincial finance ministers along with their nominated member from each province. The NFC is meant to distribute the given divisible pool as defined in the presidential order at the time of announcement of the commission. Currently the divisible pool consists of all major taxes (i.e. Income Tax, General Sales Tax on goods, Wealth Tax, Capital Gains Tax, and Custom Duty Tax) collected at federal level. The pool, however, does not include any levy or duty imposed by the federal government.
+
+Despite having an elaborated forum, few inbuilt problems have resulted in inconclusive NFC awards, violating the constitutional mandated. If we analyze the design, it is clear that NFC in Pakistan is a political forum, which is mandated to take economic decisions. Secondly, in order to announce an award, members are required to have achieved a complete consensus, which is not easy at times due to diverging interests and dissimilar strengths of the federating units, thus leads to compromises or failure. Any change in the share of one federating unit affects the rest of the members accordingly, thus it is not easy to develop consensus among the members unless based on clear economic rationale, which the given NFC forum seems to have failed to ensure. History of NFC awards in Pakistan reflects the repeated failure of the forum (Table 7), the necessitating reconsideration.
+
+Table 7: NFC Awards in Pakistan
+
+S.No
+NFC Award
+Prime Minister/
+
+President
+Period
+Distribution
+
+1
+NFC Award 1974
+Zulfiqar Ali Bhutto
+1974–79
+Fed: 20 Prov:80
+
+2
+NFC Award 1979
+Zia-ul-Haq
+1979–84
+Inconclusive
+
+3
+NFC Award 1985
+Zia-ul-Haq
+1985–90
+Inconclusive
+
+4
+NFC Award 1991
+Nawaz Sharif
+1990–95
+Fed: 20 Prov:80
+
+5
+NFC Award 1996
+Malik Meraj Khalid
+1996–2000
+Fed: 62.5 Prov:37.5
+
+6
+NFC Award 2002
+Pervez Musharraf
+2001–06
+Inconclusive
+
+7
+NFC Award 2006
+Pervez Musharraf
+2006–10
+Fed: 50 Prov:50*
+
+8
+NFC Award 2010
+Yousaf Raza Gillani
+2010–15
+Fed: 42.5 Prov:57.5
+
+9
+NFC Award 2015
+Mian Muhammad Nawaz Sharif
+2015–20
+Inconclusive
+
+10
+NFC Award 2020
+Imran Khan
+2020–25
+Inconclusive
+
+*: The share was 55:45, where the provincial share was gradually increased till the ratio reached 50:50
+
+Source: Ahmad, Iqbal, & Khalid (2021); (dawn.com, 2002)
+
+18 th Amendments and 7 th NFC Award:
+
+Prior to the 7 th NFC award, shares were distributed based on population only, which was contested by the less populated provinces (Pasha, Imran, & Pasha, 2010). Discourse on the topic highlighted demands from the provinces that additional factors including revenue generation, population density, and backwardness, are essential while apportioning shares. Consequently, the 18 th constitutional amendment embedded a revised resource distribution formula, promising more financial resources and autonomy to the provinces. Resultantly, a larger share of the divisible pool was assigned to the provinces. Thus, the new NFC award was more inclusive and the new distribution mechanism brought transparency to the resource distribution.
+
+Under the 7 th NFC award, vertical resource distribution between the center and provinces was decided as 42.7% and 57.5 % of the total divisible pool, respectively. Most importantly, the new NFC award successfully transitioned from using single criteria of ‘population shares’. Honoring provincial demands, the new distribution formula was diversified, which now includes population share, revenue generation, poverty levels, and inverse population density. However, the share of population still carries 82% weight leaving only 18 percent to the rest of the three criteria in the total distribution formula. Box-1 summarizes the current NFC formula. It is important to note that within the horizontal share (57.5%), the shares of Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan are 51.74%, 24.55%, 14.62% and 9.01%, respectively, as shown in the following Graph 1 .
+
+Graph 1: Horizontal Resource Distribution
+
+Source: (Finance Department Sindh, 2021)
+
+Summary and Conclusion :
+
+The fiscal relations between different levels of government in Pakistan are characterized by imbalance. According to the Annual Budget Statement (2024), provinces are consuming around 30% of total government expenditures while generate only 8% of the consolidated national total tax revenue, or less than one percent of GDP. The provinces receive 57.5% of the federal tax revenues, which constitute predominant portion of the provincial budgets (e.g. 90% in case of Khyber Pakhtunkhwa), hence are heavily dependent on the federal government.
+
+This article has explored the structure of resource distribution mechanism in Pakistan and has compared it with the neighboring country, India. Despite the fact, that literature has criticized the Indian finance commission awards due to its multi-criteria and complex nature, there are several institutional aspects from which Pakistan can draw lessons. The economic viability of fiscal federalism depends on a system in which federation and the federating partners agree on major socio-economic targets for nation’s development. Furthermore, a mutually agreed system of resource distribution needs to be defined in a way that contains decent incentives for making best efforts for achieving optimal resource mobilization and ensuring expenditure efficiency at each level. The resource distribution mechanism should be designed in a way where each partner puts in their maximum effort followed by a mechanism to allocate equalization funds so that citizen has relatively comparable access to basic public services across the country.
+
+In this context, the resource distribution mechanism of Pakistan and India can be summarized as below:
+
+Both in Pakistan and in India, the respective Finance Commissions are responsible for the fiscal resource distribution between the federal government and provinces/states. The functions and mandate are similar, however, their structures, procedures and efforts to reach to an amicable formula are significantly different.
+
+The National Finance Commission of Pakistan is established under Article 160 of the constitution of Pakistan and it consists of the federal finance minister (Chairperson), and the four provincial finance minister (along with experts from each province) as the NFC members, appointed by the President of Pakistan. Hence, apparently the NFC is a political forum where respective finance ministers are making decisions, which inherently is inconsistent with their assigned jobs (i.e. to guard the interest of their respective jurisdiction). The reason is that any change in the formula allocations has a direct bearing on their fiscal space hence inherently carries incentive to work for individual interests instead of striving for an efficient formula which is nationally beneficial. Conversely, the Indian Finance Commission is constituted under Article 280 of the constitution and consists of a Technocrat as Chairman and three other members. Hence, the Indian FC can be characterized as an academic forum where findings and recommendations has no direct bearing on the member’s term in offices. This institutional arrangement carries the incentive to strive for a formula that is grounded in evidence and consultations based on academic exercise, which essentially makes them accountable and prone to scrutiny by the academic and policy circles.
+
+In both countries, the Finance Commission awards are for five years. In Pakistan, the NFC award should necessarily be a consensus award, which historically has resulted in failure to announce awards. Whereas in India, the commission is allowed a maximum of 22 months to consult relevant stakeholders, engage with experts and commission studies to make recommendations for the next five-year formula in the form of proposals and conferences. Unlike the well-organized and focused efforts of the Finance Commission of India, Pakistan’s system is characterized by its static nature and absence of a policy framework focused on informed economic-rational-based decision-making.
+
+Pakistan lacks a dedicated functioning secretariat for the Finance Commission, while India operates under a permanent secretariat system. In India, the Finance Commission conducts extensive field visits across the country to understanding ground realities. Additionally, it actively solicits inputs and suggestions from various state governments on desired Finance Commission’s formulas. The head of the commission is empowered to engage professionals and support staff (from the market as well as on deputation). Intensive field visits to states, research institutions and other relevant stakeholders takes place and the commission also arranges and facilitate conferences on relevant issues as per assigned ToRs.
+
+Due to the given factors, Indian FC does not have inconclusive awards while Pakistan is still following the 7 th NFC award of 2010, after which the two commissions have failed to announce new formula. The given forum lacks any accountability mechanism for inconclusive awards.
+
+Finally, the National Finance Commission in Pakistan considers various factors such as population, revenue generation, backwardness, and resource mobilization capacity of provinces while recommending the allocation of resources. On the contrary, the Finance Commission in India considers additional factors including population, area, forest cover, income distance, tax & fiscal efforts and demographic performance of states while making recommendations for resource allocation. Additionally, the LGs’ needs are also considered while making resource distribution. Considering the given facts, the Indian formula looks more dynamic and ever changing so they are constantly experimenting. However, in case of Pakistan, despite diversifying in 2010, the current NFC award formula is still stagnant because 82% of the divisible pool is still allocated on the basis of population, leaving only 18% for the rest of the three criteria. Conversely, India has allowed only 15% weight to the population criterion.
+
+Overall, while both the Finance Commissions in Pakistan and India serve similar functions of distributing financial resources, there are fundamental differences in their composition, institutional arrangements and incentive mechanisms, reflecting the need for Pakistan to reconsider.
+
+References
+
+Ahmad, I. (2021). It Is High Time We Revisited the NFC Awards in Pakistan. ICT, Pakistan. Retrieved from https://pide.org.pk/research/it-is-high-time-we-revisited-the-nfc-awards-in-pakistan/
+
+Ahmad, I., Iqbal, N., & Khalid, M. (2021). Fiscal Federalism in Pakistan: Need for a Revisit. Islamabad. Retrieved from https://pide.org.pk/research/fiscal-federalism-in-pakistan-need-for-a-revisit/
+
+Bird, R. M., & Smart, M. (2002, June). Intergovernmental Fiscal Transfers: International Lessons for Developing Countries. World Development, 30 (6), 899-912. Retrieved from https://www.sciencedirect.com/science/article/abs/pii/S0305750X02000165
+
+dawn.com. (2002, June 03). Fair NFC award vital for federation. dawn.com . Islamabad, Punjab, Pakistan. Retrieved from https://www.dawn.com/news/39567
+
+Department of Finance Canada. (2024, Feb 16). Canada.ca. Retrieved from Canada.ca: https://www.canada.ca/en/department-finance/programs/federal-transfers.html
+
+Finance Department Sindh. (2021). Finance Department Sindh Annual Report . Retrieved from finance.gos.pk: https://finance.gos.pk/
+
+Finance_Division_Islamabad. (2022-23). Federal Budget Bulletin 2022-2023. Islamabad. Retrieved from https://www.finance.gov.pk/fb_2022_23.html
+
+Fisman, R., & Gatti, R. (2002, March ). Decentralization and corruption: evidence across countries. Journal of Public Economics, 83 (3), 325-345. Retrieved from https://www.sciencedirect.com/science/article/abs/pii/S0047272700001584
+
+GOB_Finance_Department. (2021-22). Annual Budget Statement 2021-22. Balochistan. Retrieved from https://www.finance.gob.pk/wp-content/uploads/2021/06/ABS-2021-22-18.06.2021-Final.pdf
+
+GOS Finance Department. (2023-24). Annual_Budget_Estimates_2023-24. Sindh. Retrieved from https://finance.gos.pk/Home/Download?path=Budget%2FBudgetBooks%2FFY-23-24%2FVOLUME_I%2FVOLUME-I-%202023-24.pdf
+
+Iqbal, N., Din, M. U., & Ghani, E. (2013). Fiscal Decentralisation and Economic Growth: Role of Democratic Institutions. PIDE Working Papers 2013: 89 . Retrieved from https://pide.org.pk/research/fiscal-decentralisation-and-economic-growth-role-of-democratic-institutions/
+
+KP Finance Ministry. (2023-24). KP Budget Estimates. Retrieved from https://www.finance.gkp.pk/article/budget-speech-2022-23
+
+Pakistan, M. o. (2023). Public Finance FBR-Federal Board of Revenue. Islamabad. Retrieved from https://www.sbp.org.pk/reports/stat_reviews/Bulletin/2023/Dec/PublicFinance.pdf
+
+Pasha, H. A., Imran, M., & Pasha, A. G. (2010, December 01). Budgetary Consequences of the 7th NFC Award . Retrieved from https://pide.org.pk: https://pide.org.pk/research/budgetary-consequences-of-the-7th-nfc-award/
+
+PIDE, & German Government. (May 2012). Fiscal Federalism in Pakistan. Islamabad: Forum of Federation.
+
+Statistics, B. o. (2023). Development Statistics of khyber Pakhtunkhwa. Khyber Pakhtunkhwa: Bureau of Statistics: Planning and Development Department. Retrieved from http://www.kpbos.gov.pk
+
+The Government of Punjab. (2023). Annual Budget Statement 2022-23. Punjab. Retrieved from https://finance.punjab.gov.pk/system/files/ABS22-23.pdf
+
+[1] Dr. Arvind Panagariya, is appointed as Chairman for the current 16 th FC. Prior to this responsibility he was serving as Professor at Columbia University and is the former Vice-Chairman of the ‘National Institution for Transforming India (NITI)’; A public sector public policy think tank established as replacement of ‘Indian Planning Commission’
+
+[2] The commission is allowed a maximum period of 22 months (the 15 th FC: January 1 st , 2024 till October 31 st , 2025) to make recommendations for the next five years starting on April 1 st , 2026. This allow six months for the government to debate and deliberate on the FC’s recommendations.
+
+[3] Other sources like duties, cess and surcharges are not included
+
+[4] Meant to measure the opportunities foregone for country’s common prosperity
+
+[5] Pakistan used to do the same under ‘Local Government System, 2002’
+
+[6] Against the ideal Eleven Awards
+
+Dr. Iftikhar Ahmad is an Associate Professor and Head of Department, School of Economics at the Pakistan Institute of Development Economics, Islamabad.
+
+Mr. Zahanat Hussain is a M.Phil. Graduate of the Pakistan Institute Development Economics, and has also contributed as a Research Assistant at PIDE.

@@ -1,0 +1,57 @@
+1. Executive Summary
+
+Within Development Studies, the relationship between Anthropology and Development, has been documented as uneven, inconsistent, and marred with conceptual complexity and pragmatic ambivalence. The complexity becomes more vivid when Anthropology is traced within Development Studies in the context of Pakistan wherein the theoretical and applied domains of Anthropology are singularly separated. The current knowledge brief is an attempt to articulate the normative and instrumental dimensions of development, position Anthropology within Development Studies, as a theoretical domain, as an analytical inquiry, and as a pragmatic space, and finally trace ways to engage both disciplines for social change that is needed, unforced, and comes from within. The contested definitions of development, the competing debates around Development-Anthropology articulation, and the application of anthropological knowledge for meeting incremental or normative needs of development practice have also been detailed in the write-up.
+
+2. Setting Up the Context
+
+Development Studies, as where it stands today, has experienced many paradigm shifts, seen competing theoretical positions, borrowed concepts and constructs from intersecting social sciences and metamorphosed into action plans and concrete policies. The struggle for finding its theoretical and epistemological footings is also deeply-rooted in shifting frontiers of Development Studies wherein the contestations to define what actually development is, where is it located, what are its core issues, and are those issues solvable resurface after every two decades, early on in the name of modernization, intermediately in the name of dependency or rather recently in the name of neo-liberalism. The classical versus contemporary debate, just like other fields of social scientific inquiry, is also persistent in Development Studies. Considering the composite nature of Development Studies and resultant importation of theoretical concepts from related disciplines of social sciences, the influence of Sociology, Demography, Political Science, and Economics has always remained strong in articulating what development is and broadening as well as shifting the frontiers of Development Studies. The contours of what constitutes development practice, how and why is it important to dimensionalize it, and which prescriptive solutions can be made accessible for practitioners and policymakers to follow, are also deepened and widened by critical theory, primarily with the post-structural, post-modern, post-colonial, and post-developmental critiques of development. It is within these critiques, that Anthropology finds its relevance both theoretically and pragmatically. But before articulation of anthropological knowledge with development practice and theory, a brief tabulation of what development is, has been represented under next section.
+
+3. Dimensionalising Development
+
+Table 1: Dimensionalizing Development (Tabulated from Rist (2014))
+
+Dimension of Development
+What Does it Entail?
+
+Instrumental
+Speed, growth, movement, maneuver, acceleration, target-oriented, and target-achieving.
+
+Normative
+Processual: process-led and process-oriented.
+
+Self-reliant
+Endogenous, self-dependent, and self-perpetuating.
+
+The instrumental approach, given its target-oriented lens, focuses on the output and outcome. The output can be a tangible good or service or can be meeting a substantial policy objective, an outcome. Whatever the output or outcome it entails to achieve, the approach is not committed to sensitize with the process; the process to bring about the change and the process that led to meet the intended-target. In this way, the sensitization towards what human, social, economic and psychological costs have been borne to achieve the target is silence in this approach. Therefore, the dimension finds its footing in the sub-discipline of positive economics. Normative dimension, on the other hand, focuses on the process following which the target is achieved, therefore it factors in the costs, the tribulations, and the lived-in experiences, to the extent that its complete focus-shift on the process lends it both theoretical rigor and pragmatic heft. For instance, the Sen’s Capability Approach (Sen,1983), by focusing on how individual or collective capabilities can be translated into achieved functionings explicitly states that income is not always an end; sometimes it can be a means to an end or sometimes it can be irrelevant considering there are realities other than material, which actualize capabilities into functionings, for instance, inclusion, participation, voice, social environment, empathy, visibility, etc. Also, this approach holds a strong grip on ethics of change rather than incessantly succumbing to meeting targets at the cost of human displacement, environmental degradation, and social exclusion. Participatory development is also processual in which community participates on three different degrees; for obtaining knowledge from the community so that their voice can be articulated at the policy level, for economic participation and visibility of community, and finally for steering social change endogenously without exogenous social engineering (Willis, 2021). The last dimension, self-reliant, propelled by the former president of Tanzania, Julius Nyerere, reverberates the long-standing need for the post-colonial countries to develop its own targets of development, outline its own processes to achieve the targets, generate its own economic, human and social resources, and frame their own policies without being dependent on the exogenous factors which impinge upon making painful adjustments endogenously through stringent conditionalities of donors. These three different, yet overlapping approaches, also umbrella other conventional dimensions of development. For instance, instrumental approach encompasses economic dimension, normative approach encompasses socio-cultural dimension, and self-reliant approach encompasses self-sustaining and perpetuating dimension of development.
+
+4. Theorising Development
+
+The three dimensions (detailed under preceding heading) are funneled down to explaining layered complexities, complex theorizations, and intersecting concepts of development. The following table gives a comprehensive theoretical trajectory of development and where do we stand today.
+
+Table 2: Theorizing Development (Tabulated from Hopper (2012))
+
+Development Theory
+What Does it Entail?
+
+Colonial Economics
+Based on the colonial experiences, colonial economics is largely about colonial administration, construction of physical infrastructure, extraction of economic resources, expropriation of human resources, and unlawful occupation of land.
+
+Keynesian Economics
+The inexplicability of classical economics to bring economy back through free market economy, foregrounds Keynesian economics which merely fine-tuned economy through government intervention.
+
+Modernization as Development
+Post second World War, the most conventional and mainstream theory which was claimed to work as the blue-print for the post-colonial countries was modernization which by using the analogy of an airplane conceptualizes a unidirectional, ethnocentric, monolithic, and Eurocentric trajectory of development for the post-colonial countries. This essentialized conception of modernization as development is hugely debated and falsified through empirical research conducted in many developing countries, including though not limited to South American, South Asian and African countries.
+
+Dependency
+Views under-development of and in the post-colonial countries as the agenda of the West to keep growth and development per se satellized in the East. Using the concepts of core and periphery, and analogies of orbit and satellites, the theory concludes that under-development in the peripheral economies is largely due to development of the core economies in which the later does not allow the development to be self-perpetuating and self-sustaining in the former. The absolutist positioning of core and peripheral economies with no cross-mobility is challenged with the emergence of Asian Tigers, China, India, and Brazil moving closer to the core with rapid economic growth and social development, materializing into a third band; semi-periphery.
+
+Structuralism
+Reeking of the economic lucrativeness of capitalist ventures and resultant global domination, the Economic Commission of Latin America developed and proposed to implement protectionist policies in the post-colonial countries to give an economic push to nascent industries through import substitution industrialization. The protectionist policy measures couldn’t be materialized due to issues in uniform policy implementation and incapacitation.
+
+Neo-liberalism
+With the aggrandization of economic issues in the post-colonial countries, the International Monetary Fund (IMF) and the World Bank developed and institutionalized Structural Adjustment Programs, targeting structural issues of loan recipient countries; minimum government footprint, privatization, and devaluation of currency. These stringent conditionalities have caused socioeconomic unrest in the loan recipient countries including a civil unrest in Mexico, circular debts in Pakistan, and regional inequalities in India, among other adversities.
+
+Post-developmentalism
+The idea that development is a political and politicized concept, enframed, professionalized and institutionalized by the West in East to augment relationships of dependency, extraction, and appropriation. The proponents of this theory are dismissive of effective application of anthropological theory and ethnographic methods to improve material realities of people of the postcolonial countries based on the critique of development as a hegemon.
+
+Table 2, in addition to outlaying the development trajectory, also positions Anthropology as a critical theory to development practice and affirms its position in the Critical Development Studies ethos. This proposition is true but requires granular and full-roundedness and completeness of argument. Therefore, the following text details how (and if) anthropological knowledge can be of significance for Development Studies.

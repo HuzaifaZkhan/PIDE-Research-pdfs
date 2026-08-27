@@ -1,0 +1,69 @@
+Abstract
+
+Pakistan’s recent export taxation reforms represent a fundamental shift from facilitating industrial growth to maximizing advanced revenue collection. The Finance Act 2024[1] dismantled the Final Tax Regime for exporters of goods. It introduced layered advance taxation through minimum tax, corporate taxation, and additional advance recovery under section 147(6C) of the Income Tax Ordinance, 2001[2]. This article examines the economic and constitutional implications of the new framework, arguing that the cumulative burden—combined with refund accumulation—discourages investment in value‑added textile exports, Pakistan’s most important manufacturing export sector. A recalibration of export taxation policy is necessary to restore growth incentives and long‑term fiscal sustainability.
+
+Policy Takeaways
+
+• Export taxation should prioritize growth and competitiveness rather than short‑term revenue extraction.
+
+• Refund mechanisms must be automated and time‑bound to prevent liquidity blockage for exporters.
+
+• Parity between the taxation of goods exports and services exports should be ensured to avoid sectoral distortions.
+
+• Value‑added textile manufacturing should be recognized as a strategic export sector requiring predictable tax policy.
+
+Illustrative Snapshot: Exporters’ Tax Contribution (FY2025‑26, First Seven Months)
+
+Total tax contribution from exporters (July–January): ≈ Rs. 101 billion
+
+Advance income tax paid under section 147(6C): ≈ Rs51 billion
+
+Nature of taxation: Advance collection before final income determination
+
+Economic implication: Liquidity withdrawal from the export sector
+
+Periods of fiscal stress often force states to confront a difficult choice: reform the structure of revenue generation or intensify extraction from the most organized segments of the economy. Pakistan’s recent export taxation policies suggest that the latter path has increasingly been preferred. Over the past two years, the architecture of export taxation has shifted away from facilitating industrial expansion toward maximizing upfront revenue collection. The result is an inversion of priorities—revenue machinery expanding even as export momentum weakens.
+
+Value‑added textile exporters, which constitute the backbone of Pakistan’s foreign exchange earnings, now operate under a tax framework that increasingly collects income before it is realized and retains liquidity long after it becomes refundable.
+
+Until tax year 2024, exporters of goods largely operated under the Final Tax Regime (FTR), where tax withheld at source constituted the final discharge of income tax liability under section 169 of the Income Tax Ordinance, 2001. Although imperfect, the regime offered certainty and administrative simplicity—two attributes essential for export‑oriented industries exposed to intense global competition.
+
+The Finance Act 2024 fundamentally altered this framework. Exports of goods were removed from the FTR and brought within the normal tax regime (NTR), while withholding under section 154 was converted into minimum tax. Export income is now subject to corporate taxation at 29 percent, together with a super tax that may rise to 10 percent depending on income thresholds. In addition, exporters must pay an additional one per cent advance tax under subsection (6C) of section 147 at the time foreign exchange proceeds are realized. This section reads as follows:
+
+“Notwithstanding anything contained in this Ordinance, the persons specified in sub-sections (1), (3), (3A), (3B) and (3C) of section 154 shall, at the time of realization of foreign exchange proceeds, or realization of the proceeds on account of sale of goods, or export of goods, or at the time of making payment to an indirect exporter, or clearing of goods exported, respectively, deduct or collect, as the case may be, advance income tax under this section at the rate of one percent of such foreign exchange proceeds, or export proceeds, or exports, or payment, in addition to tax collectable or deductible under section 154 of this Ordinance”.
+
+The statutory language itself illustrates the layered structure of advance taxation now imposed on exporters.
+
+Section 147(6C) provides that exporters must pay advance income tax at the rate of one per cent of export proceeds “notwithstanding anything contained in this Ordinance” and “in addition to tax collectible or deductible under section 154”. The legislative language, therefore, leaves little ambiguity: export proceeds are subject to layered advance tax collection before final taxable income is determined.
+
+Recent fiscal data illustrate the consequences of this approach. During the first seven months of FY2025‑26, exporters reportedly contributed approximately Rs 101 billion in taxes, including around Rs 51 billion as advance income tax payments under the revised framework. These collections broadly match those recorded during the same period in the previous fiscal year, despite the absence of comparable export growth. The rise in early‑year collections, therefore, appears to reflect intensified pre‑collection rather than expansion in taxable profitability.
+
+In sectors such as value‑added textiles—where operating margins typically range between five and eight per cent—multiple advance collections frequently exceed final tax liability. Excess payments consequently convert into refund claims. Industry estimates suggest that combined income tax and sales tax refunds owed to exporters now run into the hundreds of billions of rupees, effectively locking up substantial working capital within the tax administration.
+
+From a constitutional perspective, the present structure also raises questions about the nature of the levy being imposed. Entry 47 of the Federal Legislative List authorizes the taxation of income, meaning profits determined after the deduction of legitimate expenses. Entry 52 permits taxation based on production capacity, but only in place of income taxation. The Supreme Court in Elahi Cotton Mills Ltd. v. Federation of Pakistan[3] emphasized that these constitutional entries operate as alternative legislative choices rather than cumulative ones.
+
+The Supreme Court, in the Elahi Cotton Mills case, enunciated that these constitutional entries operate as alternative legislative choices, not cumulative instruments. Yet the present framework compels exporters to pay tax on turnover regardless of profitability, while simultaneously subjecting the same income to corporate taxation and super tax. In substance, exporters are exposed to concurrent income taxation and capacity-based extraction—a hybrid levy that violates constitutional boundaries.
+
+Under the current framework, exporters are required to pay taxes based on turnover or cash flow, while the same income remains subject to corporate taxation and super tax. Such hybrid taxation blurs the boundary between income taxation and capacity‑based levies.
+
+Policy asymmetry further complicates the picture. Exports of services continue to operate under final taxation arrangements that provide predictability and minimal refund exposure. Manufacturing exporters generating extensive employment and domestic value addition face layered advance taxation, refund dependence, and broader audit jurisdiction.
+
+The cumulative burden confronting value‑added textile exporters is substantial. Corporate income tax, super tax, Workers’ Profit Participation Fund contributions, Workers’ Welfare Fund obligations, provincial levies, and employer contributions to social security schemes collectively reduce retained earnings available for reinvestment. When liquidity costs arising from refund delays are included, the effective fiscal burden on export manufacturing becomes significantly higher than headline statutory rates suggest.
+
+This outcome is particularly concerning because value‑added textiles remain Pakistan’s most viable engine of export growth. The textile value chain accounts for nearly sixty per cent of national exports and supports millions of livelihoods across upstream and downstream supply networks.
+
+International competitors recognize the strategic importance of export manufacturing. Bangladesh maintains reduced tax rates and a rapid VAT refund system for exporters. Vietnam integrates tax incentives with industrial zone development. India operates an automated GST refund architecture designed to preserve liquidity for export‑oriented firms.
+
+Pakistan’s policy trajectory has moved in the opposite direction—collecting revenue upfront while refund liabilities accumulate over time. The resulting fiscal illusion is subtle but significant. Advance collections inflate reported revenue during the fiscal year, while refund liabilities remain pending within the system. Fiscal consolidation must remain a national priority. Yet sustainable revenue mobilization ultimately depends on expanding productive sectors rather than compressing them. Export growth historically has generated greater tax capacity through employment income, consumption demand, and industrial linkages.
+
+A recalibration of export taxation policy is therefore necessary. Restoring predictability, ensuring parity between goods and services exports, automating refund mechanisms, and recognizing value‑added textiles as a strategic growth sector would strengthen both exports and long‑term fiscal sustainability.
+
+Taxation is a sovereign power. Used judiciously, it finances development. Used without regard for economic structure, it can unintentionally undermine the very sectors that sustain national growth. When the state begins treating exporters as instruments of advance financing rather than engines of growth, the cost is not merely economic—it is structural, which once weakened cannot be easily rebuilt.
+
+Ikramul Haq is an Advocate of the Supreme Court of Pakistan and Adjunct Faculty at Lahore University of Management Sciences (LUMS). He is a Visiting Senior Fellow and Member of the Advisory Board at the Pakistan Institute of Development Economics (PIDE), and holds an LLD in tax laws.
+
+[1] https://download1.fbr.gov.pk/Docs/2024630146346801FinanceAct-2024.pdf
+
+[2] https://download1.fbr.gov.pk/Docs/2026226162211364IncomeTaxOrdinance2001-Amended-20.02.2026.pdf
+
+[3] PLD 1997 SC 582

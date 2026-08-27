@@ -1,0 +1,77 @@
+ABSTRACT
+
+Pakistan’s groundwater crisis stems primarily from governance failures and policy distortions rather than an actual shortage of physical water resources. The unregulated expansion of tube wells over the decades, coupled with poorly designed energy and crop subsidies, has led to excessive groundwater extraction. Additionally, a consistent policy bias towards surface-water planning, along with fragmented institutional responsibilities, has hindered effective groundwater management.
+
+As a result, groundwater extraction has now surpassed natural recharge rates in many parts of the country, especially in the Indus Basin and major urban centers. Pakistan has become the world’s fourth-largest user of groundwater and is home to the second most stressed aquifer globally. This quantitative strain is exacerbated by severe degradation of water quality, which includes widespread salinity, pollution, and arsenic contamination. This has critical risks to food security, public health, and climate resilience.
+
+Drawing on secondary data and institutional analysis, this paper presents a comprehensive framework for groundwater sustainability. The framework involves immediate regulation of abstraction, medium-term reforms in efficiency and pricing, and long-term transformations in institutional and legal arrangements. The findings emphasise that without decisive governance reforms, ongoing groundwater depletion will increasingly threaten Pakistan’s economic stability and its capacity to adapt to climate change.
+
+1. INTRODUCTION
+
+Pakistan, an arid to semi-arid country, is experiencing a significant groundwater crisis that threatens food security, urban water supply, and long-term economic stability. Although climate variability and decreased surface water availability exacerbate the situation, this paper argues that the crisis primarily stems from governance and policy failures rather than unavoidable physical scarcity.
+
+Groundwater serves as the backbone of Pakistan’s water economy, supplying nearly 60 percent of irrigation, over 70 percent of drinking water, and almost all industrial usage. However, extraction remains largely unregulated, driven by harmful subsidies, incentives for water-intensive crops, and unchecked expansion of tubewells. Institutional fragmentation complicates the issue: irrigation departments focus on canals, urban agencies prioritise short-term supply, and environmental regulators lack authority over aquifers. As a result, no single institution ensures sustainability.
+
+The consequences are alarming. Water tables in Lahore, Quetta, and Karachi decline by 1 to 3 feet annually, salinity and contamination are spreading, and the Indus Basin aquifer is ranked among the most stressed globally. These trends pose serious long-term risks to Pakistan’s development, particularly in the face of rapid population growth and climate uncertainty.
+
+This paper looks at Pakistan’s groundwater crisis through a governance and policy perspective. It presents three main arguments.
+
+First, policy distortions, such as subsidies and pricing failures, lead to over-extraction of groundwater and shift costs onto society.
+
+Second, fragmented responsibilities among various agencies create regulatory gaps that contribute to resource depletion.
+
+Third, without timely and prioritised reforms, groundwater depletion will continue to threaten food security, urban resilience, and climate adaptation.
+
+The analysis draws on empirical evidence, institutional reviews, and international lessons to propose a phased framework for reform. This framework includes immediate high-impact actions, medium-term efficiency measures, and long-term structural changes. The central message is clear: Pakistan’s groundwater crisis is a failure of governance, and only governance reform can reverse this issue.
+
+Key Statistics
+
+Pakistan has the fourth-largest groundwater aquifer in the world, with a storage capacity equivalent to around 50 large dams. However, available groundwater is insufficient to meet the rising demand due to chronic over-extraction. The country is also the fourth-largest user of groundwater globally.
+
+Pakistan is the largest exporter of depleted groundwater embedded in agricultural products, such as rice, leather, and textiles, accounting for 29 percent of the global trade in agricultural goods resulting from groundwater over-extraction. This places Pakistan ahead of the United States (27 percent) and India (12 percent).
+
+The country is home to the 2 nd most overstressed aquifer in the world.
+
+The contribution of groundwater to irrigation in Pakistan has increased significantly, from just 8 percent in 1960 to over 60 percent today. This growth is largely linked to agricultural expansion driven by high water-use crops, which have been incentivised by policy.
+
+Annual groundwater extraction is estimated at 65 cubic kilometers, while recharge is only about 55 cubic kilometers, revealing a growing deficit. Over 1.5 million mostly unregulated tube wells operate across the nation, contributing to approximately 6.6 percent of global groundwater withdrawals and supporting irrigation for 4.6 percent of the world’s groundwater-fed cropland.
+
+Currently, surface water can irrigate only 27 percent of Pakistan’s land, while the remaining 73 percent relies on groundwater, either directly or indirectly. The Punjab province uses around 90 percent of the country’s total extracted groundwater, making it the country’s food basket (Zakir-Hassan, et al. 2023).
+
+Water tables are declining by 1–3 feet per year in major cities such as Lahore, Quetta, and Karachi, as well as in southern Punjab.
+
+The quality of groundwater is deteriorating due to salinity, industrial and agricultural pollution, and seawater intrusion in coastal areas. Issues like arsenic, nitrates, fluoride, and bacterial contamination are particularly common near agricultural and urban centers.
+
+Climate change worsens Pakistan’s groundwater vulnerability. Rising temperatures, altered precipitation patterns, early snowmelt, and increasingly erratic floods and droughts have disrupted the natural recharge cycles.
+
+2. RESEARCH METHODOLOGY
+
+Fig. 2.1 . Research Methodology
+
+This research follows a mixed-methods design that involves reviewing literature, secondary data analysis, and comparing institutional frameworks. Secondary data on abstraction and recharge was obtained from national databases, FAO, NASA-GRACE, and provinces. The qualitative data analysis involved an examination of policy and legislation, institutional roles and responsibilities, and other related literature. The results were evaluated using international standards for policy reform.
+
+The methodology allows for a holistic view of groundwater depletion as a physical and governance problem, which makes sure that any policy suggestions made are based on facts and are feasible from an operational perspective.
+
+3. PAKISTAN’S WATER RESOURCE profile
+
+Pakistan is one of the most arid countries in the world, with an average annual rainfall of less than 240 mm. The country’s population and economy heavily rely on an annual influx of about 180 billion cubic meters of water into the Indus river system, (World Bank, 2005) which includes the Indus, Jhelum, Chenab, Ravi, Beas, and Sutlej rivers. This water primarily originates from neighboring regions.
+
+Pakistan is currently facing a significant water crisis driven by a combination of geographic limitations, over-extraction of water resources, inefficiencies in infrastructure, and the impacts of climate change. As one of the most water-stressed countries globally, Pakistan’s per capita water availability has plummeted from over 5,000 cubic meters in 1947 to less than 1,000 cubic meters today, falling below the threshold of absolute scarcity (Figures 3.1 and 3.2).
+
+Neil Buhne, the UN humanitarian coordinator for Pakistan, states, “No person in Pakistan, whether from the north with its more than 5,000 glaciers or from the south with its hyper-arid deserts, will be immune to this scarcity.” (Baloch, 2018).
+
+Fig. 3.1 . Per Capita Water Availability in Pakistan, 1951-2025
+
+Pakistan’s water availability per person is just 1,013 cubic metres, which is more than seven times lower than the global average of 7,101 cubic metres in 2022 (see Table 3.1). This limited availability, coupled with insufficient river flows, groundwater depletion, and rapid population growth, has made the country highly vulnerable to water stress. The gap between demand and supply is expected to worsen due to climate change, which is likely to affect weather patterns. Changes in precipitation may lead to erratic and unpredictable rainfall, further influencing river flow. The challenge for South Asia is to increase food production for its growing population while also ensuring sufficient water for domestic users and meeting industrial and energy demands.
+
+Pakistan’s water system, developed over thousands of years through human activity, relies almost entirely on the Indus River system. This river system originates in the Himalayas and is sustained by glacier melt, snowmelt, and monsoon rains. The Indus River basin spans a drainage area of approximately 1,137,819 km², lying between the Tibetan Plateau and the Arabian Sea. The largest portion of this basin (60 percent) is in Pakistan, while substantial upstream areas are found in India and smaller portions in Afghanistan and China.
+
+Of the total basin area, about 228,694 km² (21 percent) is irrigated land, with 60.9 percent of this located in Pakistan and 37.2 percent in India. The river system includes the main stem of the Indus River and several key tributaries, including the Kabul, Jhelum, Chenab, Ravi, Beas, and Sutlej Rivers. The glaciers, seasonal snowmelt, and rainfall contribute to the rivers, which collectively have an annual water flow of approximately 207 km³, allowing for habitation and agriculture in large areas of this predominantly arid and semiarid region.
+
+Precipitation in the basin varies significantly, ranging from 392 to 461 mm per year, and is distributed unevenly both spatially and temporally. Notably, around 80 percent of the rainfall occurs during the summer monsoon season, which spans from July to September (Mustafa, et al., 2017).
+
+The Indus Basin Irrigation System (IBIS) is the largest contiguous irrigation system in the world, covering an area of 60,800 km and irrigating 43 million acres of land across Khyber Pakhtunkhwa (KPK), Punjab, Sindh, and Balochistan. This extensive system includes three major reservoirs—Tarbela, Mangla, and Chashma—along with 23 barrages, 12 inter-link river channels, and 45 primary canals. According to Pakistan’s Water Accord of 1991, water is allocated among the four provinces as follows: Punjab receives 49 percent, Sindh 43 percent, KPK 5 percent, and Balochistan 3 percent (PBC, 2023).
+
+Outside the Indus Basin, particularly in Balochistan, water sources include spate irrigation and groundwater-dependent systems such as the Pishin-Lora aquifer and traditional karez networks. These systems, once sustainable, are now under stress due to deep tube well extraction, reduced recharge, urbanisation, and weakening of customary water-sharing arrangements.
+
+Pakistan’s climate is heavily influenced by two main precipitation patterns: the summer monsoon and the winter western disturbances. The monsoon brings significant rainfall from July to September, with averages around 200 mm, primarily affecting the eastern regions of the country. In contrast, winter precipitation is largely due to western disturbances. Rainfall varies widely across different areas, with arid regions like Baluchistan and Sindh receiving less than 100 mm annually, while moist highland areas can exceed 1,500 mm. The Gilgit-Baltistan region, known for its glaciated terrain, can experience snowfall of over 5,000 mm annually at altitudes above 5,000 meters, highlighting the significant spatial variability in precipitation throughout Pakistan (UNDP, 2016).

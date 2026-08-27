@@ -1,0 +1,81 @@
+Agricultural revolutions around the globe have brought transformative improvements in food production, enhancing both its quality and quantity to meet the evolving needs of their times. Agricultural methodologies have evolved since the first Neolithic revolution (10,000 BC) characterized by a shift from hunter-gatherers to settled farmers and herders. The second agricultural revolution from the 17 th to 19 th century, also known as the British Agricultural Revolution, was marked by innovations like crop rotation and drainage, selective breeding, and drill mechanized operations that improved soil potency, yields, and agricultural efficiency. Subsequently, the third agricultural revolution from 1940 to 1960, universally known as the Green Revolution, is usually considered the most influential, followed by the fourth agricultural revolution i.e. present-day Digital farming. Each of these phases substantively raised food output and altered the agricultural landscape.
+
+Pakistan-An Agrarian Economy
+
+Pakistan’s perspective as an agricultural economy descends from its origin. Deprived of industries, the nation’s foreign exchange was dependent on agro-economy exports. To reduce import dependence, several initiatives were taken to achieve self-sufficiency, at least in the food sector of Pakistan. These efforts bore fruit in the 1960s with the adoption of high-yielding varieties, chemical fertilizers, mechanization, and irrigation system upgrades, a period historically known as the ‘Green Revolution’. It enhanced agricultural productivity by almost doubling the quantity of staple crops, and increased employment, and income. Backed strongly by the government, the technology was seen as a proponent of sustainable farming, augmenting yield by intensified agricultural practices (Dicks et al., 2019).
+
+However, after the green revolution, a decline in the growth rate of crops specifically wheat can be attributed to a variety of factors including land degradation, lack of investment in infrastructure, water scarcity, lack of effective regulatory processes, and inability to adopt genetically modified (GM) crops to sustain the increment in yield (Byerlee, 1994) [ 1 ] . This lack of foresightedness on the part of the government led to decreased productivity and increased costs in comparison to its competitors who transitioned from the era of conventional breeding techniques (Green revolution) to more complex molecular structures. [2] (Gene revolution) producing the same yield at a lower cost thus enhancing international competitiveness.
+
+Gene Revolution: A Global Perspective
+
+The Gene Revolution led to the development of genetically modified (GM) crops by utilizing biotechnology and genetic engineering to introduce specific desirable traits such as pest resistance, herbicide tolerance, and enhanced yields, all aimed at achieving socially beneficial outcomes.
+
+The tobacco plant was the first genetically engineered herbicide-resistant crop developed in 1983 in a laboratory in Belgium.[3] Followed by field trials in France and the US in 1986. The commercialization of transgenic crops was first done by ‘The Republic of China’ in 1992 introducing a virus-resistant tobacco. The global status of adoption of GM crops has increased significantly over the years with the US having the highest acreage of 74.4 million hectares followed by Brazil and Argentina. They have added more than 1 billion tonnes to global food, feed, and fiber production. According to a 2024 report of AgbioInvestor monitor, 11 commercially approved GM varieties have been planted by 27 countries, totaling 206.3 million hectares. [4] . The most grown GM crops are cotton, maize, wheat, canola, rice, sugarcane, and soybean.
+
+Gene Revolution in Pakistan: Initiatives & Developments
+
+Pakistan stepped into the exploratory world of modern biotechnology in 1985 by founding the National Centre for Excellence in Molecular Biology (NCEMB) in Lahore [5] . To achieve the objective of food security, 56 biotech institutes have been established which have made efforts to adopt and accelerate the pace of gene modification (Babar et al., 2021) [6] . Still, the scope has been limited to a few staple crops. The approval, cultivation, trading, and regulation of GM crops in Pakistan are managed by the National Biosafety Committee (NBC) and the Environmental Protection Agency (EPA). The Only GM crop permissible to be sown is BT cotton which is bollworm-resistant (Bakshs, 2016) [7] . Launched in 2010, GM cotton now expands to 2.3 million hectares accounting for approximately 95% of the total cotton farming area in Pakistan. It has improved dietary quality, increased yield, and positively affected the environment by reducing pesticide use. A pilot project of genetically engineered maize seeds by the Ministry of National Food Security & Research increased the production from 1 million metric tons (2013) to 10.5 million metric tons (2023). Recently, the EPA approved the commercialization of Pakistan’s first GM food crop, sugarcane with insect-resistant and herbicide-tolerant traits (ISA, 2024) [8] .
+
+Why Pakistan Needs a Gene Revolution?
+
+Presently, the agriculture sector of Pakistan contributes 24% of GDP and employs 37.4% of the labor force yet its low rank i.e. 102 nd out of 125 nations in the Global Hunger Index, 2023, with annual food inflation of 18% and a poverty rate of 39.5% emphasize the dire need to attain food security possible via the adoption of GM crops. The catastrophic floods of 2022 caused an economic loss of $3.7 billion only in the agriculture sector with crops contributing up to 82%. (World Bank, 2022) [9] . The spillover effects of this loss in industry, trade deficit, and services sector strained the already struggling economy of Pakistan. Therefore, Pakistan needs to steer its cultivation in a direction that not only reaps the benefits obtained during the Green Revolution but can also withstand the challenges of present-day global warming, plant diseases, and depleting water resources. The key factors signifying the urgency of a gene revolution include:
+
+Food Security: Enhancing crop yield by taking on high-quality seeds specifically GM seeds will help to achieve self-sufficiency in food.
+
+Biofortification: It can also address issues like malnutrition improving overall public health e.g. Golden Rice enriched with vitamin A can help overcome blindness.
+
+Crop Resilience: Pakistan, being one of the most vulnerable climatic regions of the world, needs the plantation of crops that can tolerate biotic as well as abiotic stress. Genetic manipulation has already helped in producing stress-responsive genes for drought, salinity, etc. [10]
+
+Economic Growth: High agricultural yield will lead to increased exports, more employment opportunities, and high incomes driving economic growth.
+
+Gene Revolution Controversies
+
+The major argument held against the adoption of GM crops is the potential health safety risk due to the substance ‘glyphosate’ extensively used in herbicide-resistant GM crops by humans. However, several studies have proven the safety of eating bio-engineered foods (US, FDA). Moreover, environmental degradation in the form of loss of biodiversity, religious norms, cultural beliefs, and lack of education also prevent the public from accepting them. The reluctance of Pakistan on the cultivation of GM crops also lies in the fact that most of its trading partners are non-GMO countries that prohibit the import of GM food.
+
+Genetic Engineering in Livestock:
+
+The scope of genetic engineering is not only limited to crop modification, rather it has produced genetically engineered animals to increase yield, and cost-effectiveness by making them disease-resistant and to improve the quality of products obtained from them e.g. milk meat, and eggs. An impressive overall growth in the agricultural sector provided the much-needed kick to Pakistan’s economy during the FY 2023-24 stabilization phase. A growth rate of 3.89% in livestock is a testimony of the potential for greater advancement through increased investment in gene editing technologies.
+
+In the dairy sector, Pakistan is ranked among the top 5 milk producers globally. The average yearly production quadrupled from 12m MT in 1985-86 to 55m MT by FY23. However, its milking yield is one of the lowest i.e. 14 liters of milk per day by cattle compared to the global averages of as high as 40-55 liters per cattle per day specifically in the US and Netherlands. [11] . Presently, there is no production or commercialization of GM animals in Pakistan. Genomic selection (selection of animals with competent genetic traits), crossbreeding of local cattle with the high breed, and implementation of milk pasteurization laws can lead to sustainable growth. Similarly, being the 11 th largest poultry producer in the world, livestock diversification by the genetic breeding of ducks, pigeons, cows, goats, and fish can also ensure food independence and increased earnings.
+
+For agriculture to be the real catalyst of Pakistan’s economic growth and a reservoir of foreign exchange through its exports, lessons learned from the green revolution phase should be kept in view to reach conclusive sustainable agricultural practices that ensure food security and reduce import dependence. The importation of many crops can be avoided by allowing local cultivation of GM crops for example soybeans and canola are imported to make edible oil. Since 2015, Pakistan has exported 6.6 million tons of soybeans from the US and almost 95% of the soybeans were GE varieties. The same could have been planted in our country.
+
+Challenges in the Implementation of GMOs in Pakistan:
+
+One of the most important parasites that sucks the development of the agriculture sector of Pakistan is the inefficient seed sector characterized by the availability of low-quality seeds, lack of effective regulatory policies, delayed seed approval certifications, marginalized private sector involvement, and financial constraints. Despite notable legal developments in the seed sector including the National Seed Act (1976, amended in 2015), the establishment of the Federal Seed Certification and Registration Department (FSC&RD), and the Plant Breeders’ Rights Act (2016), the practical execution remains weak.
+
+The lack of effective regulatory enforcement and intricate bureaucratic procedures failed to increase private participation in marketing creating the fear of seed piracy that led to the establishment of a large informal seed market. There is a critical need to redesign the seed sector to address governance and administrative issues and abolish the seed certification regime due to a large informal seed market. It should encourage research and development (R&D) [12] , incentivize partnerships with MNCs, and monitor seed prices to avoid sharp fluctuations in the seed market. The development and exportation of 100 tons of heat-tolerant hybrid rice seeds to the Philippines in 2018 is a testament to the existing potential of the private sector to shoulder this responsibility and boost revenue through exports. Furthermore, new initiatives taken by the private investors with international collaborations e.g. technologies, table’ by National Foods Limited, Nishat Sutas Dairy Limited by Nishat Mills Ltd will also uplift the agricultural sector by integrating advanced technologies hence improving product quality.
+
+Closing Remarks:
+
+Despite the present challenges, the potential benefits offered by the adoption of GM products cannot be negated. The global issue of food security coupled with climate change, population growth, and marginal cultivation space; all factors demand resilient crops adaptable to climate change. Pakistan, a land blessed with fertile soil and weather patterns can regain its strength as an agrarian economy by strategically devising its agriculture policies. A critical reevaluation of the existing agricultural policies, provision of high-quality certified seed to farmers, promotion of transgenic varieties, and participation of private markets necessitating a transparent intellectual property rights system (IPR) can bring agricultural boom. Additionally, a meticulously planned policy by experts targeting the genetic modification of animals should be designed to maximize the benefits of livestock. A robust regulatory system that guarantees safety supports innovation, and directs ethical concerns is fundamental to harnessing the benefits of GMO products.
+
+To sum up,
+
+“ Transitioning from ‘green’ to ‘gene’ to ‘keep the fields always green’ is essential to bolster Pakistan’s agricultural sector”
+
+The writer is a Young Researcher at RASTA, PIDE.
+
+[1] Byerlee, Derek and Akmai Siddiq. “Has the Green Revolution Been Sustained? The Quantitative Impact of the Seed-fertilizer Revolution in Pakistan revisited.” World Development Volume 22, Issue 9 September 1994: Pages 1345-1361.
+
+[2] It refers to the arrangement of molecules in DNA that is modified by using advanced genetic engineering techniques to improve crop traits.
+
+[3] Marc Van Montagu, “The Road to Plant Genetic Engineering,” Annual Review of Plant Biology 62 (2011): 1-19, https://doi.org/10.1146/annurev-arplant-042110-103906.
+
+[4] AgbioInvestor. (2024). GM Monitor . Retrieved from https://gm.agbioinvestor.com/
+
+[5] Malik, K. A. (2014). Biotechnology in Pakistan: Status and Prospects. Pakistan Academy of Sciences. Retrieved from https://paspk.org/wp-content/uploads/2015/12/Biotechnology-Report-2014.pdf
+
+[6] Babar, U., Nawaz, M. A., Arshad, U., Azhar, M. T., Atif, R. M., Golokhvast, K. S., … & Rana, I. A. (2020). Transgenic crops for the agricultural improvement in Pakistan: a perspective of environmental stresses and the current status of genetically modified crops. GM crops & food , 11 (1), 1-29.
+
+[7] Bakhsh, K., Akram, W., Jahanzeb, A., & Khan, M. (2016). ESTIMATING PRODUCTIVITY OF BT COTTON AND ITS IMPACT ON PESTICIDE USE IN PUNJAB (PAKISTAN). Pakistan Economic and Social Review , 54 (1), 15–24. https://www.jstor.org/stable/26616695
+
+[8] ISA. (2024, June 20). Pakistan Grants Approval for Cultivation of GM Sugarcane. Retrieved from https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=20868
+
+[9] World Bank. (2022). Pakistan Floods 2022: Post-Disaster Needs Assessment, Main Report . Retrieved from https://thedocs.worldbank.org/en/doc/4a0114eb7d1cecbbbf2f65c5ce0789db-0310012022/original/Pakistan-Floods-2022-PDNA-Main-Report.pdf
+
+[10] Babar, U., Nawaz, M. A., Arshad, U., Azhar, M. T., Atif, R. M., Golokhvast, K. S., … & Rana, I. A. (2020). Transgenic crops for the agricultural improvement in Pakistan: a perspective of environmental stresses and the current status of genetically modified crops. GM crops & food , 11 (1), 1-29.
+
+[11] VIS Credit Rating Company Limited. (2024). Sector Update: Dairy Sector . Retrieved from https://docs.vis.com.pk/Sector%20Update%202024/DairySector.pdf
+
+[12] https://pide.org.pk/research/evaluation-of-seed-industry-way-forward/

@@ -1,0 +1,74 @@
+Why Gene Revolution?
+
+The “Gene Revolution” marks a significant leap in agricultural science, involving the artificial manipulation, modification, and recombination of DNA to alter an organism’s characteristics. By transferring specific genes from one organism to another, the Gene Revolution enables the development of new traits that can vastly improve agricultural productivity and sustainability. In agriculture, it represents a fusion of biotechnological advancements and innovations that have substantial benefits for the sector’s growth. This technology holds great promise for boosting crop productivity, making it a vital tool in achieving Sustainable Development Goal 2, Zero Hunger.
+
+One of the primary advantages of the Gene Revolution is its potential to create crops, fruits, and livestock with greater resilience against pests and diseases. Reducing the reliance on chemical pesticides, not only cuts down on agricultural input costs but also mitigates environmental impact, promoting more sustainable farming practices. Furthermore, this biotechnology allows for the development of climate-resilient varieties of crops, fruits, livestock, and even fish, enabling agriculture to adapt to changing climate conditions. Ultimately, the Gene Revolution is instrumental in enhancing food security, advancing sustainable farming, and providing economic benefits, making it a transformative force in modern agriculture.
+
+Evolution of GMOs:
+
+The evolution of GMOs can be traced back to the discovery of DNA. In 1953 Watson and Crick discovered DNA as a source for the transmission of traits and hereditary. Later in 1973, Berg’s work at Stanford and in 1974 Boyer’s work at the University of California further accelerated this evolution process. Based upon these works in 1982, the United States Food and Drug Administration (FDA) approved the first GMO product: human insulin to treat diabetes.
+
+After this successful intervention, the government of America decided to develop a regulatory framework to regulate GMOs. In 1984, the first biosafety rules were introduced in America.
+
+The first commercial GMO product came to market in 1994 when scientists created genetically modified tomatoes. Along with this product, this wave of GMOs produced various other products of GMOs such as summer squash, soybeans, cotton, corn, papayas, potatoes, and canola. But all were not available for sale. Now in 2023, 11 different GMO products are cultivated in 27 countries on an area of 206.3 million hectares.
+
+In 2005 under the provision of the 1997 Act of the Environmental Protection of Pakistan, the government of Pakistan established a three-tiered regulatory framework for GMOs and biosafety. The National Biosafety Committee (NBC) was established as the main body for the review and approval of GMO products in Pakistan. This committee consists of representatives from federal ministries, provincial governments, the Pakistan Agricultural Research Council, and the Pakistan Atomic Energy Commission. In addition, there are two apex bodies of NBC for technical support and approval process for GMOs. The Technical Advisory Committee (TAC) is responsible for reviewing new applications of GMOs. This committee is chaired by the Director General of the Environmental Protection Agency Pakistan and members are from all four provinces, Azad Jammu and Kashmir and Gilgit Baltistan. The second body is the “Institutional Biosafety Committee (IBC) which is responsible for risk assessment and monitoring and inspecting of research and development stages of the GMO .
+
+The approval of GMOs in Pakistan consists of three tiers as explained in Figure 1. The first tier is the proposal submission to the IBC. The IBC assesses the proposal according to the Biosafety Act 2005. If the proposal is complete and meets all requirements, it will be forwarded to the TAC, otherwise, it may be denied (rejected) or a request for possible revisions. The second tier is the evaluation of the proposal by the TAC. After evaluation, the proposal may be approved to forward to NBC or like in the first tier, it may be denied (rejected) or sent back for possible revisions. Based on TAC recommendations, the NAC can approve the proposal for Confined Field Trail (FT) and Multi-Location Field Trails (MLFT) to evaluate open field trails. The NBC can deny the proposal or send it back for further revision. In the last tier, the Seed Council will evaluate the proposal. The Seed Council has the authority to reject the proposal or approve for use and marketing of GMO products.
+
+According to Pakistan’s Biosafety Rules of 2005, the timeline for the approval process is as follows:
+
+First Tier
+60 days
+
+Second Tier
+90 days
+
+Third Tier
+120 days
+
+Figure 1 GMO Approval Process in Pakistan
+
+(Source Babar et al., 2020)
+
+Challenges:
+
+Cultural and religious beliefs are other issues that prompted the gene revolution in Pakistan. Some religious leaders and local communities consider the gene revolution an alteration mechanism with natural processes and divine creation.
+
+Lack of coordination and collaboration is another challenge to the gene engineering revolution in Pakistan’s agricultural sector. The agriculture sector is not solely dependent upon the Ministry of Agriculture, but also closely related to other ministers and departments such as livestock, water and irrigation, and climate change. But after the 18 th amendment, some ministers and departments such as the agricultural sector and irrigation were included in the provincial government subject, while some like Climate Change became part of the federal subject. In Pakistan coordination and collaboration between federal and provincial governments is very weak. Without effective cooperation between them, the gene engineering revolution in Pakistan is impossible. Along with these, a lack of coordination and collaboration between different government agencies, academia, and research think tanks is also a hindrance. In Pakistan, various public sector universities, different government agencies such as the Punjab Agriculture Research Board (PARB), Agricultural Linkages Program (ALP), and research think tanks such as Pakistan Agricultural Research Council (PARC), and Pakistan Science Foundation (PSF) are engaging in different projects of gene engineering. However, they have no proper mechanism for information sharing and coordination.
+
+Way Forward
+
+For the growth and development of the agriculture sector of Pakistan, the gene engineering revolution has become necessary. Following are some ways forward for the gene engineering revolution in Pakistan.
+
+Regulatory Framework
+
+The government of Pakistan established NBC to ensure effective regulation of the GMOs in Pakistan. However, its efficacy is still lacking. The TAC is the apex body of NBC, but still, it lacks complete members. To effectively regulate GMOs, the local and lengthy process of biosafety certification needs to be replaced with certification third-party accredited biosafety certification bodies such as the International Organization for Standardization (ISO), and the Codex Alimentarius Commission (CAC). In this way, the lengthy procedure of GMO approval tiers 1 and 2 will be reduced. Furthermore, the direct involvement of the government in certification creates a conflict of interest in the private sector. Another way to reduce the lengthy procedure of approval of GMOs is to adopt E-governance. The online application system for GMOs will reduce unnecessary delays thus regulation of this
+
+The role of the federal government should be limited to the imports and exports of GMOs while the provincial government should be involved in data-driven formulation and implementation of biosafety rules in their respective provinces. The provincial government can use different technologies such as satellite imaging and drones to develop data-driven biosafety rules.
+
+Engagement with religious leaders
+
+Engagement with religious leaders for the gene revolution in Pakistan is a requisite condition. Like Turkey, the government of Pakistan should be involved in dialogue and conversation with religious leaders to address their concerns about the gene revolution. The Turkish government is involved in a series of consultative processes with religious leaders to address their concerns. Furthermore, they also arranged open public discussions and seminars with religious leaders. They also established ethical review boards including academia and religious leaders to align genetic advancement according to cultural and religious principles.
+
+Effective Coordination
+
+A special committee should be formed consisting of agriculturalists, environmentalists, researchers, and representatives from federal and provincial governments so that information sharing and coordination between all levels can improve. The committee should arrange meetings quarterly and share information with all relevant stakeholders.
+
+References
+
+Babar, U., Nawaz, M. A., Arshad, U., Azhar, M. T., Atif, R. M., Golokhvast, K. S., Tsatsakis, A. M., Shcerbakova, K., Chung, G., & Rana, I. A. (2020). Transgenic crops for the agricultural improvement in Pakistan: A perspective of environmental stresses and the current status of genetically modified crops. GM Crops & Food , 11 (1), 1–29. https://doi.org/10.1080/21645698.2019.1680078
+
+Ebrahim, Z. (2014). Pakistan Says ‘No’ to GMOs. https://www.mintpressnews.com/pakistan-says-no-to-gmos/193269/
+
+Eckstein, D., Künzel, V., Schäfer, L., & Winges, M. (2019). Global climate risk index 2020. Bonn: Germanwatch , 1–50.
+
+Ghafar, A., McGill, D., Stevenson, M. A., Badar, M., Kumbher, A., Warriach, H. M., Gasser, R. B., & Jabbar, A. (2020). A participatory investigation of bovine health and production issues in Pakistan. Frontiers in Veterinary Science , 7 , 248.
+
+GoP, G. of P. (2023). PAKISTAN ECONOMIC SURVEY 2022-23 . https://www.finance.gov.pk/survey_2023.html
+
+GoP, G. of P. (2024). Pakistan Economy Survey 2023-24 . https://www.finance.gov.pk/survey/chapter_24/Economic_Survey_2023_24.pdf
+
+Maqbool, N. (2022). Water crisis in Pakistan: Manifestation, causes and the way forward . Pakistan Institute of Development Economics.
+
+Sherin, A. (2024). Biosafety challenges and the future landscape in Pakistan. Khyber Medical University Journal , 16 (2), 83–84.

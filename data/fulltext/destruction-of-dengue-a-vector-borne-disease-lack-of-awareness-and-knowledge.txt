@@ -1,0 +1,87 @@
+Dengue fever is a viral infection spread by mosquitos that causes severe flu-like disease, and in rare cases, a potentially deadly complication known as severe dengue. In the world dengue vector-borne viral disease has widely spread everywhere, posing a serious threat to public health. Dengue fever is a mosquito-borne disease spread by Aedes mosquitoes, particularly Aedes Aegypti and Aedes albopictus (CDC, 2019), and is the most frequent arboviral illness in humans, impacting Asia and Latin America disproportionately ( Bhatt et al., 2013). Many countries throughout the world are experiencing dengue epidemics (Epidemic refers to the rapid spread of disease to many patients within a specific population within a geographic area in a short period), including the USA, Africa, the Middle East, Asia, and the Pacific Islands (CDC, 2021). These areas are continuously at high risk of dengue disease.
+
+Frequent or continuous” risk describes either frequent dengue outbreaks or ongoing transmission. The term “sporadic or uncertain” risk states that the risk varies and is unpredictable and that no country-level statistics are available. Fig. 1 also shows that Pakistan and India are included in both categories of dengue–risk areas.
+
+This disease has become more prevalent in recent decades across the world. According to Centers for Disease Control and Prevention CDC, approximately 4 billion people, or nearly half of the world’s population, live in dengue-risk areas (CDC, 2021). However, in high-risk locations, dengue fever is a common cause of disease. About 390 million infections are predicted to occur each year, with 36,000 people die from severe dengue fever (World Mosquito Program).
+
+Figure 1. Areas with Dengue Risk
+
+Source: Centers for Disease Control and Prevention CDC
+
+Dengue has been a problem for Pakistan for many years. In 1994, Pakistan saw its first documented dengue outbreak (Ahmad et al., 2022). During 1995 to 2004, only 699 dengue cases and 6 deaths were reported from three districts in the country but these numbers have been dramatically increased to 127,500 and 709 deaths respectively effecting 105 out of 154 districts/ agencies/ territories during 2005 to 2018 (IFRC, 2019). During the last year between 1st January to 25 November 2021, a total of 48,906 cases including 183 deaths had been reported from four provinces including the federally administered Islamabad Capital Territory (ICT), and Azad Jammu and Kashmir autonomous territories (AJK), Pakistan (WHO, 2021). Dengue is most prevalent in Pakistan between July and November when the weather conditions are ideal for mosquito breeding.
+
+According to the World Health Organization (WHO), the above Figure 2 shows that Pakistan has recorded 48,906 cases for the year 2021, including 183 deaths, and the situation was extremely alarming attributed to growing cases. So many people tested positive for dengue fever across the country regularly. Punjab had recorded 24,146 cases since January as of November 25, 2021, with Lahore being the region most affected. Similarly, Khyber Pakhtunkhwa KP recorded 10,223 cases, Sindh reported 5,548 cases, Islamabad Capital Territory ICT administered by the federal government reported 5,261 cases, Baluchistan reported 2054 cases, and Azad Jammu and Kashmir AJK reported 1674 cases (Rising dengue cases, 2021). The three provinces affected by the outbreak are Khyber Pakhtunkhwa KP, Punjab, and Sindh. In 2021, the cases are increasing expeditiously in different cities of Pakistan (Dawn, 2021).
+
+Figure 2. Cases of Dengue infection in the country 2021
+
+Data Source: WHO and DAWN News Report 2021. Author Estimation.
+
+This year alone Pakistan has registered 24,967 new dengue virus cases so far. The three provinces affected by the outbreak are Khyber Pakhtunkhwa, Punjab, and Sindh but Sindh and Khyber Pakhtunkhwa (KP) are most affected provinces according to the available data till now (NIH, 2022). The situation may become alarming in the coming days as the weather in the area is highly favorable to the spread of the dengue fever vector mosquitoes. Since mid-June 2022, the greatest floods in a decade have displaced more than 33 million people in Pakistan. In Khyber Pakhtunkhwa, dengue cases are also rising, according to a government flood report issued on September 17 (Zahidi, 2022). Flooding hit the southern regions of Sindh and Baluchistan the worst. The current standing floodwater in Sindh and KP provides an ideal environment for mosquito breeding, which leads to the spread of diseases such as dengue and malaria.
+
+Figure 3. Cases of Dengue Infection across the Country till Sep 26, 2022
+
+Data Source: National Institute of Health (NIH) and ARY News Reports. Author Estimation.
+
+Fig. 3 explained that Pakistan has registered 24,967 new dengue cases during the current ongoing year 2022, including 67 deaths. Punjab has reported 5202 dengue cases, while KP 6412 cases. Sindh remains the most affected province with 7951 cases of the mosquito–borne viral disease. ICT, Baluchistan, and AJK reported 1991, 3162, and 249 dengue cases, respectively.
+
+Meanwhile, the government is focused on Coronavirus and Polio control, therefore dengue is a neglected disease but with a rising number of cases. As dengue disease spreads across Pakistan, there is an immediate need to speed up health promotion efforts through campaigns aimed at eradicating dengue misconceptions and knowledge gaps (Dawn, 2022).
+
+There is no proper treatment or vaccine so for dengue virus, anyhow early identification and access to appropriate medical care can reduce death. The first stage treatment of dengue disease is freely available in hospitals, however as the patient becomes critical, the cost of treatment increases which put additional financial burden of treatment cost. To keep these expenses down, we need to raise community awareness campaigns and knowledge about the dengue outbreak, so that patient can consult with medical doctors at the initial stage of disease.
+
+Furthermore, Benthem et al., (2002) identifies dengue knowledge and prevention measures. According to them, 67% of households have been aware of dengue fever, and more prevention measures for dengue control were used with higher level of knowledge among the respondents. The elderly knew less about dengue fever than the younger population. Similarly, another study conducted in Nepal by Phuyal et al., 2022 there is a very low level of knowledge and insufficient prevention strategies. Although in KP, a study had been performed that revealed a low level of knowledge about dengue fever among the communities, with respondents’ primary sources of information being TV and radio (Hassan et al., 2017). Social media is the most popular and preferred information source for respondents for learning about dengue, and educational interventions seemed to be successful in raising awareness of dengue among them (Wan Rosli et al., 2019). It is important to have sufficient knowledge and awareness about dengue in order to prevent the spread of this disease.
+
+Khan (2020), developed a well-designed questionnaire to gather data on demographic characteristics, direct and indirect costs incurred on dengue treatment, factors (determinants) that causes dengue illness, awareness about dengue illness and prevention practices for dengue control from the districts of Swat in 2019. The random sampling technique is employed to collect data from four Union Councils in Swat city.
+
+Data was collected from 210 respondents which includes 105 respondents from each control and treated group. Although, according to population, the sample size should be higher but due to Covid19 lockdown limitation the data collection was limited to only 210 respondents.
+
+Our analysis indicates that that 84.4% of respondents had heard only the name of dengue disease, whereas 17.6% have not even heard about it. Moreover, 47.1% of respondents had a good consciousness of dengue disease and are aware that the disease is transmitted via mosquito bites during sun dawn and sundown. While 52.9% of the respondents were unaware of when mosquitoes bite and how the illness spreads, implying that increasing awareness could significantly help to reduce vulnerability (Figure 4 and 5).
+
+Among these respondents who were aware of dengue disease, 47% heard about this through Television, with the remaining heard from other sources such as community meetings, radio, social media, and other platforms.
+
+PIDE study also suggests that people would like to learn more about dengue infection. In the Fig. 6, around 25.2% of the public would like to know and understand the signs and symptoms of dengue infection, 31% would like to gain knowledge about the treatment for dengue disease, 15% would like to understand any aspect of dengue illness, 14.3% would still like to learn about the nature of dengue infection, and 6.2% would also like to gain knowledge about the prevention of dengue infection, and the remaining 8.1% of the respondent would like to get others information.
+
+Fig. 7 explained the relationship between awareness about dengue infection and education. Pearson Chi-Square value of 35.061 and P – value of 0.00 statistically significant shows that there is a positive correlation between the number of years of schooling education and awareness level about dengue illness. It is observed, those who were highly educated have more information about dengue illness as compared to their counterparts having less education or they are illiterate.
+
+Recommendations
+
+As a long run strategy, local governments should invest to improve environment conditions in their districts, including hydrological conditions, open sanitation, and the cleanup of dumping garbage because these factors contribute significantly for the breeding of dengue mosquito and also offer a favorable environment for the growth of dengue mosquitos.
+
+For the immediate relief, the government and Non-Governmental Organizations (NGOs) may provide mosquito nets to individuals who reside in high-risk locations and spray these areas.
+
+The government should educate the public by using social media platforms including television, radio, and newspapers to convey dengue-related awareness, particularly the usage of insect repellent, long-sleeved shirts, mosquito nets, avoiding standing water in open areas, and cleaning the environment.
+
+Bibliography
+
+Ahmad et al. (2022). The current dengue outbreak amidst COVID-19 pandemic in Pakistan; a major threat to Pakistan’s healthcare system. PubMed Central.
+
+Bhatt et al. (2013). The global distribution and burden of dengue.
+
+CDC. (2019, 9 26). Transmission. Retrieved from Centers for Disease Control and Prevention: https://www.cdc.gov/
+
+CDC. (2021, 11 5). Areas with Risk of Dengue. Retrieved from Centers for Disease Control and Prevention: https://www.cdc.gov/
+
+Dawn. (2021). Rising dengue cases.
+
+Dawn. (2022, August 14). Dengue spread feared in KP as health dept waiting for promised funds.
+
+Hassan et al. (2017). Assessment of knowledge, attitude and practices regarding dengue fever among adult population of district Dir Lower, Khyber Pakhtunkhwa, Pakistan. Pakistan Journal of Public Health, 7(2), 71-74.
+
+IFRC (2019). Pakistan: Dengue Outbreak Emergency Plan of Action (EPoA) DREF Operation, MDRPK017. International Federation of Red Cross And Red Crescent Societies .
+
+NIH. (2022). PAKISTAN REGISTERS 24,967 DENGUE CASES DURING ONGOING YEAR: SOURCES. ARY NEWS.
+
+Phuyal, P., Kramer, I. M., Kuch, U., Magdeburg, A., Groneberg, D. A., Lamichhane Dhimal, M., … & Müller, R. (2022). The knowledge, attitude and practice of community people on dengue fever in Central Nepal: a cross-sectional study. BMC infectious diseases , 22 (1), 1-18.
+
+Van Benthem, B. H. B., Khantikul, N., Panart, K., Kessels, P. J., Somboon, P., & Oskam, L. (2002). Knowledge and use of prevention measures related to dengue in northern Thailand. Tropical Medicine & International Health, 7(11), 993-1000.
+
+Wan Rosli et al. (2019). Positive impact of educational intervention on knowledge, attitude, and practice towards dengue among university students in Malaysia. Journal of Public Health , 27(4), 461-471.
+
+WHO (2021). Dengue fever – Pakistan
+
+WHO. (2022, 1 10). Dengue and severe dengue . Retrieved from World Health Organization: https://www.who.int/
+
+WHO. (n.d.). Dengue fever. Retrieved from World Health Organization: https://www.emro.who.int/
+
+World Mosquito Program . (n.d.). Retrieved from Dengue: https://www.worldmosquitoprogram.org/
+
+Zahidi, Z. E. (2022). Dengue surges in waterlogged Pakistan in wake of floods. The Third Pole.

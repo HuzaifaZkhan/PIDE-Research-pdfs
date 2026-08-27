@@ -1,0 +1,143 @@
+Introduction:
+
+As the world progresses towards newer technologies, advanced AI systems, modern tools, and machinery, it is still tangled in the same race of survival. The newest threat to survival that is the result of the exploitation of the same world we live in is called Climate Change. And as the trend of the rich being on the safe side while the poor bear the cost of the rich. The same story goes on for Pakistan; an underdeveloped country depending on agriculture, textile, and leather for its economy, grappling with the intense effects of climate change in the form of SMOG, floods, GLOF, droughts, etc.
+
+Pakistan is mostly an arid and semi-arid country, with approximately 80% of its area falling in these categories. Since independence in 1947, many natural resources of Pakistan have been damaged, and a large portion is under significant risk every year due to natural disasters, the lack of planning, awareness, and control before, during, and after the disaster events.[1]
+
+Pakistan’s population suffers more from climate change despite contributing less than 1 % to global greenhouse gas emissions. Rapid industrialization, fossil fuel use, plastic use, and deforestation worsen the situation.[2] Pakistan is one of the most vulnerable countries, especially in Southeast Asia, experiencing floods and droughts as a result of climate change. Variation in climate adversely affects the agriculture sector, groundwater, nutrition, soil quality and soil organic matter, health conditions, and poverty.[3]
+
+In the climate finance vulnerability index shown below, Pakistan has financial vulnerability of 90.2, while the climate risks are up to 37.7, ranking it 145 th [4]globally, making both climate risks and financial vulnerability relatively high. This positioning reflects a situation where the country is regularly exposed to hazards like floods, air pollution heat stress, while its economic capacity to manage and recover from these impacts remains limited. The presence of multiple high-risk hazards suggests that climate challenges overlap rather than occur in isolation.
+
+Hence, we experience more frequent heatwaves, dust storms, and stagnant air events. Cities like Lahore, Karachi, and Peshawar are experiencing toxic smog for longer periods each year. This directly increases respiratory and cardiovascular diseases, making clean air not just an environmental concern but a growing public health emergency. The rising death toll given in the graph below shows how polluted air is already costing Pakistani lives.
+
+Figure 1: Death Rate from Air Pollution – 1990 to 2021
+
+Source: Our World in Data[5]
+
+National Adaptation Plan to combat the effects of climate change:
+
+In general, when any climate-related natural disaster occurs, people look towards local governments and related agencies for immediate relief aid and transitional recovery assistance. Over the past decade, Pakistan has faced many natural disasters. Unfortunately, the past natural disasters show that the local and the central government departments and the related national agencies could not provide immediate relief and recovery to the affected people during an emergency[6]. Local governments can better react to the risks of environmental changes. They can produce positive results in terms of reduction of local pollution, collection of waste, natural resources management, and economic growth in a situation where local data and funding for adoption are available, and adaptive responsibilities are clear[7]. Building effective adaptation strategies to control environmental degradation that is operative from the local to the national government level will support the country’s economy.
+
+Pakistan came up with its first-ever seven-year National Adaptation Plan (NAP) spanning from 2023 to 2030. The plan aims to address the detrimental consequences of climate change on the country.[8] The NAP serves as a national framework to adapt to the impacts of climate change. It focuses on building resilience in key sectors, improving coordination between institutions, and integrating climate adaptation into development planning. It also provides a pathway for Pakistan to access international climate finance and support vulnerable communities.[9]
+
+Pakistan’s NAP framework, given below, emphasizes that climate resilience must grow from both social and economic strengths. The vision highlights community-level wellbeing and ecological protection as mutually reinforcing goals, showing that adaptation is not just technical; it is about quality of life. The six core pillars reflect a balanced approach: creating green employment, ensuring fair access to development, protecting ecosystems, aligning governance with climate priorities, enabling resilient infrastructure, and encouraging responsible private-sector behavior. Meanwhile, the foundation layer underscores persistent challenges that must be addressed for adaptation to work, such as inequality, weak institutional coordination, and limited investment in innovation. Overall, the framework signals a shift from reactive disaster response to long-term, inclusive, and development-linked adaptation planning.
+
+Figure 2: Framework of the National Adaptation Plan[10]
+
+The adaptations to prevent the consequences should be taken with high sensitivity towards the local residents, the weather patterns, the economic reliance of the sector, the conventions followed, the crops, the animals, etc. Not only should the adaptation be timely delivered, but it should be efficiently done as well. It should aim to improve the quality of life affected as well as prevent any chains of hazards that can be brought up by the change happened. The National Adaptation Plan provides a framework, but the precision of implementing that plan is dependent on the government and stakeholders involved.
+
+Maladaptation:
+
+The Intergovernmental Panel on Climate Change defines Maladaptation as;
+
+“Actions that may lead to increased risk of adverse climate-related outcomes, including via increased greenhouse gas (GHG) emissions, increased or shifted vulnerability to climate change, more inequitable outcomes, or diminished welfare, now or in the future. Most often, maladaptation is an unintended consequence.”[11]
+
+Actions that focus on sectors and risks in isolation and on short-term gains often lead to maladaptation if long-term impacts of the adaptation option and long-term adaptation commitment are not taken into account The implementation of these maladaptive actions can result in infrastructure and institutions that are inflexible and/or expensive to change For example, seawalls effectively reduce impacts to people and assets in the short-term but can also result in lock-ins and increase exposure to climate risks in the long-term unless they are integrated into a long-term adaptive plan. Maladaptation especially affects marginalized and vulnerable groups adversely (e.g., Indigenous Peoples, ethnic minorities, low-income households, informal settlements), reinforcing and entrenching existing inequities.[12]
+
+In Pakistan, the risk of maladaptation becomes particularly relevant when climate responses are driven by urgent needs but limited resources. Short-term fixes such as rapid infrastructure repairs after floods or expanding groundwater extraction during drought may offer immediate relief, yet unintentionally deepen future vulnerabilities. When adaptation efforts overlook social equity or long-term ecosystem impacts, they can place already disadvantaged groups at even greater risk, reinforcing the same fragility the policies aimed to reduce. This makes it crucial for adaptation planning to reflect the broader vision set out in Pakistan’s NAP, ensuring that climate strategies are flexible, inclusive, and aligned with sustained resilience rather than quick, isolated solutions.
+
+For this, Pakistan must prioritize indigenous research, context-specific data, and traditional knowledge that genuinely reflect local vulnerabilities. Without strong home-grown evidence and participation from affected communities, adaptation risks becoming misaligned with ground realities, ultimately recreating the very challenges it seeks to solve. Pakistan is suffering from a scarcity of domestic, indigenous research which could help identify psychosocial epidemiological patterns and viz a viz, the development of culturally appropriate policies and interventions.[13]
+
+Maladaptation in Pakistan
+
+Thar coal power development:
+
+Thar’s coal extraction and power generation were promoted as an energy security solution, but the project has intensified water scarcity for local communities while locking Pakistan into fossil-fuel infrastructure incompatible with long-term adaptation goals. The groundwater over-extraction and discharge of brine water threaten the already arid ecosystem and vulnerable Thari populations, a clear example of short-term economic gain creating long-term environmental and social vulnerability.
+
+Dawn News reported;
+
+“Speaking at a press conference at the Karachi Press Club, local activists shared the findings of a recent report that raised questions about the claims of the Engro Corporation Ltd — which owns stakes in the coal mining and coal-based power plants — that their operations are not harming the drinking water or the integrity of subsoil and water aquifers in Block II of the Thar coal area.
+
+The activists Abdul Aziz Halepoto, Abdul Hamid Somro, Lachman Borano, Leela Ram, Sooraj Jaipal, Neehal Mehranpoto, and Preetam Mehgawar raised concerns over the poisoning of drinking water for local communities and said they were now suffering from health complications due to the toxic water not being disposed of properly.
+
+They called on the government to take notice of the report on water quality and take action to save the people of Thar.”[14]
+
+The report shared by Meezan University of Engineering and Technology’s Soil and Water Pollution Control Laboratory clearly reported high levels of fluorides, arsenic. Lead levels were also found to be way higher than the prescribed standards of the World Health Organization (WHO). Prior to coal operations, the baseline mercury levels were below detectable levels, while current levels are elevated by up to 94 times in excess in drinking water. The report is based on the tests conducted by Mehran University of Engineering and Technology’s Soil and Water Pollution Control Laboratory, which is approved by the Sindh Environmental Protection Agency (Sepa).. The report also raised questions about Sepa’s willingness and capacity to monitor Thar coal activities adequately and cast doubt on the adequacy of the approved Environmental Impact Assessment (EIA) for Thar coal mining and power plants.14
+
+Karachi Urban Expansion & Drainage Canal Encroachments
+
+Karachi’s rapid urban growth has relied on informal land reclamation, covering natural drainage systems (nalas) and wetlands. Infrastructure that was meant to improve connectivity and housing has instead heightened exposure to floods, as witnessed during the 2020 and 2022 monsoon disasters. Vulnerable settlements built along nullahs were disproportionately harmed, illustrating how maladaptation entrenches inequality.
+
+Arif Hassan reported;
+
+“Due to a lack of housing, informal settlements developed along the nalas into which sewage was discharged. After the mid-1960s formal sectors also began using nalas for disposal . Sludge from sewage clogged the nalas and their tributaries, and during the heavy rains of 1978-79, much of the housing along the nalas was washed away.
+
+After that, informal settlement residents started to informally purchase solid waste from the municipal authorities and compact it along the nala edges to secure them and to create land for their homes. Nala widths decreased substantially from 20-40 meters to less than ten, and four to five meters in some places.”[15]
+
+Thatta and Coastal Embankments (Indus Delta)
+
+Hard-infrastructure defenses such as sea walls and embankments in the Indus delta were designed to protect coastal communities from storm surges, but poor maintenance and lack of ecosystem integration have led to land subsidence, accelerated erosion, and saltwater intrusion. Mangrove loss reduces natural climate buffers and increases vulnerability, especially for small-scale fisherfolk.
+
+Dam construction and mismanagement of water by the government have significantly reduced river flows, causing the delta to shrink, and threatening both human life and its ecology. The absence of flowing freshwater allows seawater into the delta, destroying the soil and the aquifers, making it unfit for humans, animals, or crops.[16]
+
+Policy recommendations
+
+Establish a centralized climate adaptation authority that aligns policies and adaptations with a Human Centered Design Approach.
+
+Expand Climate-Resilient Infrastructure through blended finance.
+
+Implement the Loss and Damage Fund at the national and provincial levels without bias.
+
+Women-led community disaster response units in flood-prone districts.
+
+Upgrade digital early-warning systems and ensure last-mile delivery through local bodies, mosques, radio, and SMS.
+
+Expand climate education in schools and technical institutes.
+
+Local-level climate data hubs supporting municipalities in risk-informed decisions.
+
+Enforce coastal setback zones and restore mangroves for nature-based resilience in the Indus Delta.
+
+Open-data portal for climate-related infrastructure and fund utilization.
+
+Urban climate-proofing: resilient drainage, heat-safe housing materials, and cool-roof mandates.
+
+Conclusion:
+
+Pakistan’s climate story is not just about rising temperatures or melting glaciers; it is about people trying to live, breathe, and earn a livelihood in changing conditions that they never created. From farmers watching their crops wither to families choking on smog in big cities, climate change is slowly tightening its grip on everyday life.
+
+Bangladesh, an underdeveloped country wrestling with the same effects of climate and being on a relatively similar economic level, is still ahead in Climate adaptation readiness. For example, a study found that in Bangladesh, 71.8 % of low-income households reported awareness of climate change, and 61.1 % used early warning systems, compared with 58.5 % awareness and only 21.7 % use of early warnings in Pakistan.[17]
+
+Similarly, Bangladesh has advanced its institutional capacity via its National Adaptation Plan and coastal resilience programs, positioning it ahead of Pakistan in integrating adaptation into development pathways. Meanwhile, Pakistan has established strong foundations (e.g., NAP framework) but continues to face significant governance, coordination, and financing gaps that hinder full implementation. The country has finally begun mapping a clear direction through its National Adaptation Plan, which recognizes that resilience must be built from the ground up in homes, in local governments, and in the environments we depend on.
+
+But planning alone does not keep communities safe. The examples of Thar, Karachi, and the Indus Delta show how well-intended projects can go wrong when decisions ignore local needs or long-term consequences. When adaptation is rushed, poorly monitored, or driven by short-term economic gain, it ends up making people even more vulnerable, especially those already living on the margins.
+
+Pakistan doesn’t need to reinvent the wheel; there is a lot to learn from neighbors like Bangladesh, where community awareness and preparedness have become essential tools for survival. What Pakistan needs most now is consistency: stronger coordination between institutions, steady climate finance that actually reaches the ground, and genuine involvement of the communities who know their vulnerabilities better than anyone.
+
+Climate adaptation here is ultimately about dignity, the right to breathe clean air, to be safe from floods, and to have stable food and livelihoods. If Pakistan can shift from reacting to disasters toward preventing and preparing for them, its future doesn’t have to be defined by vulnerability. Instead, it can be shaped by resilience, local wisdom, and the determination of its people to protect the land they call home.
+
+Ms. Inshrah Minahil is a Post-Graduate Student currently enrolled at the University of Engineering & Technology (UET).
+
+[1] (Iqbal,et al., 2014).
+
+[2] (Adnan,et al., 2024)
+
+[3] (Fahad,et al., 2019)
+
+[4] Pakistan – Climate Finance Vulnerability Index (CliF-VI)
+
+[5] IHME, Global Burden of Disease (2024) (Our World in Data)
+
+[6] (Mayo, et al., 2013).
+
+[7] (National Climate Change Adaptation Research Facility, 2012).
+
+[8] Examining Pakistan’s First National Adaptation Plan – Centre for Strategic and Contemporary Research
+
+[9] Pakistan’s Climate Change Plan: Adaptation Strategy 2025 – Bloom Pakistan
+
+[10] unfccc.int/sites/default/files/resource/National_Adaptation_Plan_Pakistan.pdf
+
+[11] Annex II: Glossary | Climate Change 2022: Impacts, Adaptation and Vulnerability
+
+[12] Summary for Policymakers | Climate Change 2022: Impacts, Adaptation and Vulnerability
+
+[13] (Khalily, 2010).
+
+[14] Concerns raised over ‘poisoning’ of potable water in Thar – Pakistan – DAWN.COM
+
+[15] Urban flooding: the case of Karachi | International Institute for Environment and Development
+
+[16] Ignored by Pakistan, the Indus delta is being lost to the sea | Dialogue Earth
+
+[17] Climate Change Awareness and Adaptive Behavior in low-Income Communities: Comparative Analysis of Pakistan and Bangladesh | Physical Education, Health and Social Sciences

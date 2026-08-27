@@ -1,0 +1,144 @@
+The Federal Board of Revenue (FBR) collects and manages major federal taxes. It plays a pivotal role in Pakistan’s fiscal system. The Strategic Planning Reforms & Statistics (SPRS) wing of FBR is responsible for forecasting federal tax revenue based on which the FBR develops an annual collection plan. SPRS conducts a forecasting exercise every year in June for the subsequent fiscal year. FBR sets targets based on these predictions. SPRS forecasts through the Buoyancy approach; the buoyancy approach assesses how sensitive tax revenue is to economic activity or tax policy changes.
+
+However, every year there are errors in FBR’s federal tax revenue forecasts. The consequences of these errors are manifold. The errors in revenue forecasts lead to budget making errors. The fiscal policy efficiency depends heavily upon the accuracy of the tax revenue forecasting. Bad decisions would be made due to inaccurate forecasts: for instance, a lower tax-to-GDP ratio than predicted. This naturally leads to cuts in due expenditures such as for development purposes, which are not desirable and create (adverse) ripples across time and jurisdictions [1] . In the end, there would be a decline in economic growth because of such poor fiscal planning.
+
+The reasons for these forecasting errors can be managerial or methodological. Some measurable methodological reasons for tax revenue forecasting errors include data discrepancy issues, inappropriate forecasting methods, or wrong choice of parameters. The managerial reasons are qualitative and can’t be measured accurately.
+
+FBR annually gives tax revenue estimates before the federal budget in June. Until that time, real data on taxes and bases are not available. FBR has to rely upon the revised data to calculate buoyancies. The tax revenue forecasts will malfunction if these estimates are inaccurate. Data accuracy can be a game-changer for tax revenue forecasting.
+
+Inaccurate federal tax revenue forecast results from an inappropriate forecasting method as well. FBR uses the buoyancy approach for forecasting purposes. The buoyancy approach involves a couple of steps. Firstly, buoyancies are calculated. Secondly, these buoyancies are multiplied with respective tax base forecasts. The ultimate results are taken as tax revenue forecasts for the upcoming fiscal year. The errors in forecasts suggest that the buoyancy approach may not be ideal for Pakistan’s tax revenue forecasting.
+
+The buoyancy approach uses GDP growth targets for forecast purposes. Moreover, every tax head has its base for buoyancy calculations. There can be some wrong choices in these parameters or a failure to take into account their particular sensitivities. What if we change the tax base of these tax revenues? What if we do not use a GDP growth target or use some alternative for multiplication? What if the bases or GDP rates are wrongly estimated? For example, the FY23 federal tax revenue estimate is Rs. 7,004 billion. It is estimated using FY22’s total tax revenue of Rs. 5,348.2 billion and FY23’s GDP growth target of 5 percent (Finance Division, 2022-23). The accuracy of the total tax revenue forecast depends on the reliability of the GDP growth target.
+
+Table 1 provides a comparison of real time tax revenues and their forecasts using different combinations of real GDP growth and inflation rate targets. The calculations are made for a 2010-11 to 2018-19 sample due to real time tax data availability for that time period. The alternatives provide insights into tax revenue forecasting errors in Pakistan. Results suggest that real GDP growth target’s revision positively affects the quality of the forecasts.
+
+Table 1: Real Time Total Taxes Vs. Forecasts (In PKR Millions)
+
+Total Tax Revenue and Forecasts
+2010-11
+2011-12
+2012-13
+2013-14
+2014-15
+2015-16
+2016-17
+2017-18
+2018-19
+
+Real Time Total Tax Revenue
+1634775
+1945697
+2048509
+2374540
+2811773
+3112472
+3367874
+3843755
+3828482
+
+Actual GDP + Actual Inflation Targets
+1748674
+2002988
+2157748
+2271027
+2557985
+2994000
+3670715
+3971324
+4380153
+
+Prov. GDP + Prov. Inflation Targets
+1705721
+2024203
+2167886
+2318334
+2602828
+3091188
+3743375
+4027356
+4497686
+
+Revised GDP + Revised Inflation Targets
+1738262
+1998442
+2161127
+2272779
+2557985
+2994000
+3652550
+3951380
+4430423
+
+Actual GDP + Prov. Inflation Targets
+1694007
+2018141
+2157748
+2313077
+2608943
+3069321
+3705873
+4012477
+4351832
+
+Actual GDP + Revised Inflation Targets
+1753881
+1999957
+2162817
+2272779
+2564100
+2991571
+3650206
+3942833
+4387233
+
+Prov. GDP + Actual Inflation Targets
+1760389
+2009049
+2167886
+2276283
+2551871
+3015868
+3708217
+3986202
+4526007
+
+Revised GDP + Actual Inflation Targets
+1733055
+2001472
+2156058
+2271027
+2551871
+2996430
+3673059
+3979871
+4423343
+
+Prov. GDP + Revised Inflation Targets
+1765595
+2006018
+2172954
+2278035
+2557985
+3013438
+3687708
+3957711
+4533087
+
+Revised GDP + Prov. Inflation Targets
+1678388
+2016626
+2156058
+2313077
+2602828
+3071751
+3708217
+4021025
+4395022
+
+Source: Author’s Own Calculations
+
+In a nutshell, Pakistan’s federal tax revenue forecasting system is imperfect. Wrong forecasting leads to problems like lower government spending, higher deficits, deferring crucial expenditures, suboptimal allocation of government resources and rising levels of debt. The possible reasons for forecasting problems are data issues, inappropriate methods, or parameter choice. There can be management problems, too. If a suitable alternative to reduce these errors is used, it can eliminate the forecasting problems of the federal tax revenue of Pakistan and help improve fiscal policy.
+
+The author is a Research Associate at the Pakistan Institute of Development Economics (PIDE), Islamabad – where she is currently pursuing her PhD in Econometrics. Her areas of interest are fiscal policy, tax revenue forecasting, and foreign aid effectiveness.
+
+[1] FBR revenue gets shared with the provinces through NFC; any prediction error leads to faulty fiscal management across Pakistan.

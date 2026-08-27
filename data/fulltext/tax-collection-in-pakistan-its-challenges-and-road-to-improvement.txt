@@ -1,0 +1,260 @@
+Introduction:
+
+Developing countries frequently struggle to meet their tax revenue targets due to inefficiencies within their tax administrative systems. This study identifies several key determinants that influence tax collection in Pakistan. Persistent challenges measure such as political instability, an underdeveloped economic structure, unclear taxation policies, and weak institutional capacity, have hindered the establishment of an effective tax regime.
+
+Numerous macroeconomic variables influence Pakistan’s economic situation, complicating the task of isolating the effects of specific factors within this analysis; therefore, the report aims;
+
+Rationally estimate Pakistan’s feasible income tax base. Assess the current revenue potential from the untapped sector. Analyze the impact of tax revenue on GDP growth. Evaluate whether Pakistan’s tax structure is regressive and progressive. Identify the deficiencies in the current tax system and propose actionable improvements.
+
+The report further examines the socio-economic effects of a regressive tax system, highlights enforcement gaps and legal loopholes that facilitate evasion and non-compliance strategic policy recommendations. These include enhancing tax compliance, broadening the tax base, and strengthening revenue mobilization.
+
+Additionally, it proposes practical such as digitalization of the tax system, harmonization of sales tax, introduction of agriculture income taxation and local government empowerment to build a fair, efficient and sustainable tax framework.
+
+Demographic and Structural Issues
+
+According to the national census 2023, our population stood at 241,499, 431 which has since increased to 253,959,011 as of March 7, 2025, based on the real-time monitoring. Demographically, approximately 35% dependent population is under age 15 children, and 4% are senior citizens aged 65 and above. Alarming nearly 140 million population remain below the poverty line, surviving a less than 2$ a day. According to the economic survey of Pakistan 2024, the employed labor force is estimated to be around 72 million with the majority residing in rural region 48.5% most of these rural worker is earning incomes either below the taxable threshold or derive earning from agriculture, which exempt from the scope of the income tax ordinance 2001.
+
+Tax non-acquiescence remains widespread due to the simplicity of avoiding the tax complexity of paying them. Many tax authorities impose intricate and varied tax rates, making acquiescence expensive and burdensome. The excise and taxation department, multiple agencies, provisional bodies, and the FBR continue to operate independently. This inefficiency encourages tax evasion and allows many to remain informal sector without fulfilling their tax obligation.
+
+Extensive exemptions and concessions reduce the taxable base, while a lack of coordination between federal and provincial tax authorities leads to fragmentation and inefficiencies.
+
+Policy Case Study: Pakistan Refinery Limited:
+
+Area
+Policy change/ finance importance
+
+Sales Tax Regime
+Exemption of petroleum sales –loss of input tax adjustment- reduces margins.
+
+Refinery Policy 2023
+Extended incentives and a deemed duty to support upgrade projects.
+
+Operational loss
+Rs. 2.35 billion in Q1, 2025, due to lower demand and tax treatment issues.
+
+REUP Status
+FEED completed EPCF tendering, and investor engagement is ongoing.
+
+Source: Pakistan Refinery Limited
+
+According to Pakistan Refinery Limited, Policy changes have exempted sales of petroleum has been exempted from sales tax. This exemption led to input tax adjustment, which means the company cannot reclaim input tax paid on goods/services used in the production process. It reduces the profit margins, making the operation less profitable. The Government has extended the incentives and is deemed under the refinery policy 2023. These measures are aimed at encouraging refineries to invest in upgrading and modernization. It provides financial assistance and support.
+
+The company reported an operational loss of Rs. 2.35 billion in the first quarter of 2025. Due to a slowdown economy and or market, changed demands decreased and suffer tax treatment issues. Refinery upgrade project status (RUPS) FEED has been completed. EPCF tendering has been underway. Investor engagement is ongoing. The project is moving toward implementation, which is positive for long-term capacity and efficiency improvement.
+
+Tax System Regressive and Inflation Impact;
+
+According to the 2023 World Bank report, the tax system is regressive, with the poorest 10% of the population paying a proportion of the income tax in both of the relative and absolute terms to their pretax income, then the wealthiest 10%. Poverty has increases 43% while indirect taxes and high inflation 17.4% disproportionally burden the population. Both rich and poor face the same tax on goods and services, contributing to a shrinking middle class, which has declined from 42% to 33%.
+
+Pakistan’s Tax to GDP Ratio and Performance and Trend;
+
+According to the World Bank that tax revenue exceeding 15% of GDP is essential for promoting economic growth and reducing poverty. However, Pakistan has remained below over the past many decades, limiting its fiscal capacity and development potential.
+
+Pakistan is tax to GDP ratio remain significantly below, its potential, which the World Bank estimates at 22.3% of GDP. This gap is highlight substantial under performance in revenue collection under the capacity of the country.
+
+The Federal Board of Revenue (FBR) achieved 100.5% of its update revenue target for the fiscal year 2023-24, collecting Rs. 9,299.1 billion –a 29.8% increase from Rs 7,163.1 billion in the previous fiscal year. This includes a surplus of 121.8% or Rs 809.7 billion over the direct tax target of 2.1 trillion in the year significance achievement.
+
+Comparison of Net Revenue Collection:
+
+Data Source: Federal Board of Revenue (FBR) Division Year Book 2023-24.
+
+During the fiscal year 2023-24 Federal Board of Revenue (FBR) recorded impressive tax collection growth despite significant national and international challenges. The industrial and services sector growth 1.21 while large-scale manufacturing (LSM) grew by 0.7% flood Flood-related expenditure, along with global economic slowdown, intensified by regional geopolitical instability, disrupted supply chains, and strained fiscal space. Fiscal Year 2024, tax collection growth remains 30.3% in the first half and 29.3% in the 2nd half, as illustrated upper table.
+
+Policy or enforcement improvements may have contributed to better collection in 2023-24. A consistent increase in direct tax collection could suggest better compliance or an expanded tax base. The upward trend in total revenue supports a narrative of improvement in fiscal policy performance by the FBR.
+
+According to the worldwide tax in Pakistan, individual income tax, this bottom figure shows the progressive income tax structure for individuals in Pakistan.
+
+As increase in income both the base tax and marginal tax rate both are increase, where higher earner pays not only more tax in total but also a higher rate on income above a threshold.
+
+Enforcement Challenges and Informal Sector:
+
+Pakistan faces numerous challenges that underscore the need for comprehensive reforms, including a heavy reliance on indirect taxes, widespread corruption, and pervasive tax evasion.
+
+The reality is that the rich and powerful are not fulfilling their tax obligation, are taking advantage of tax exemption deductions and protections, including in tax laws in addition to benefitting from tax laws in addition to benefiting from recurring, and assertive forgiveness scheme offered by the government.
+
+Pakistan’s tax-to-GDP ratio stands at approximately 12%, significantly lower than the OECD average of 34%. This disparity constrains Pakistan’s ability to underwrite public investment of the revenue it does raise, the bulk, about 6.3% of the GDP, comes from indirect levies on goods and services. The remaining 2.4% of the GDP direct taxes is chiefly extracted via business withholding on transactions, eliminating the need for individuals to file voluntarily, and as a result, individual tax compliance remains exceedingly low.
+
+This is a broad agreement that robust enforcement boosts tax revenue, weak enforcement can take many forms, from a property tax official accepting a bribe a turning a blind eye to assessments to a tax authority simply lacking the resources and capacity to carry out its duties effectively.
+
+The negative impact of high indirect tax and withholding tax burden:
+
+FBR experts must engage in some serious introspection to diagnose what has gone wrong and why so many taxpayers seem to have disappeared. Numerous analyses cautioned about the ruinous impact of high indirect levies and the heavy burden of withholding taxes. Yet the government pushes ahead with these measures even at low-income levels, and the consequences are play to be seen: widespread tax resistance. This will be reflected in the surge of nil and loss filling returns, the decline in the filers remitting their full tax liabilities, and rampant evasion under the withholding tax framework.
+
+Revenue Expansion Potential:
+
+Recent study examine Pakistan is true tax rising capacity $ 30 trillion (15% of the GDP including the informal sector) at the federal level and $ 34 trillion overall. Yet the FBR has not even tapped into the 10 million retailers who each earn more than $2 million annually. Taxing their income alone current rate could yield around $3 trillion. Expanding the net to capture all exemptions and bring the entire undocumented economy under taxation could leave total income tax revenues at nearly $15 trillion.
+
+Potential from harmonized sales tax and agriculture income tax:
+
+Meanwhile, a unified 10% harmonized sales tax has the potential to generate about $12 trillion. If all existing federal and provincial levies on goods and services are consolidated under a single efficient national tax authority or national tax council, customs duties, federal excise duties could contribute another $3 trillion. Provinces by institution and properly enforcing an agriculture income tax collection, an additional $4 trillion.
+
+Who pays tax, and how much?
+
+According to FBR, Punjab has a more diversified economy but still contributes less than Karachi, likely due to a higher proportion of agriculture and a smaller scale of industries. Karachi, despite being the largest contributor, faces significant tax evasion, particularly in the business and fashion industries. Under invoicing, informal cash transactions, tax collection, and fake invoicing are common issues. As given in the case study:
+
+Sectoral Case Study: Fashion Industry Evasion in Karachi;
+
+The cooperate office tax in Karachi has filed an FIR against prominent fashion designer Nomi for committing major sales tax fraud of Rs1.2 billion over nearly seven years. According to FBR, as under a group of associated entities is declared under the declaration of taxable sales from 2018 to 2025.
+
+This case not only underscores the fraud of 1.2 billion sales tax but also highlights the broader concern over compliance, transparency, and enforcement within Pakistan’s high-end retail and fashion sector.
+
+Regional Comparison and Informal Economy:
+
+Pakistan’s Informal Sector: 60% of the GDP, Affected by its Revenue Collection:
+
+Pakistan’s vast informal economy poses a significant barrier to effective tax collection in Pakistan, which sector is estimated from 60% of the economy’s GDP. This vast unregulated segment significantly undermines the government’s ability to collect taxes as businesses and individuals with in typical do not file returns, pay taxes, or appear on official records, making revenue mobilization a persistent challenge.
+
+Out of the total projected revenue, the FBR is expected to collect Rs 12.97 trillion in taxes, reflecting a year-on-year increase of 40%. And non-tax revenue is estimated at 4.85 trillion, making a substantial service 64% year-over-year rise. Petroleum development levy, which is projected to bring 1.3 trillion, up to 33% from the previous year.
+
+Case Study: Regional Compression:
+
+Pakistan is tax-to-GDP ratio remains lower than India, Nepal as a regional comparison that this is not inevitable, suggesting room for improvement in the tax policy in tax policy and administration. Neighboring countries, Sri Lanka and India, are also lower than by terms of compare to Pakistan. There is an upward trend is positive, but it needs reforms in its tax structure. In contrast, Bangladesh has a declining ratio, highlighting potential issues in tax compliance and economic structure. Sri Lanka’s recent recovery exhibits the impact of changes in policies and economic stabilization efforts. Iran is decreasing under the external economic pressure. Afghanistan’s figure in tax revenue to GDP% % needs structural reforms to improve fiscal capacity.
+
+Revenue Potential and Policy Recommendation:
+
+Despite persistent challenges, Pakistan must confront its income tax shortcomings, particularly rampant tax collection and tax evasion, and a narrow tax collection base tax to raise more revenue and ensure the tax system needs comprehensive digital modernization and mechanisms to curb leakages.
+
+Empowering local communities with the authority to levy the collected revenue potential in Pakistan. Although around 38% population lives in urban areas, these cities contribute more than 55% of the GDP. If urban tax collection is better managed and decentralized, it allows local government to directly raise and reinvest revenue. The Punjab government could increase tax revenue through the property tax, which is approximately Rs 25 billion.
+
+FBR’s Digital Reforms and Local Improvement:
+
+The Federal Board of Revenue (FBR) has placed strong emphasis on digitizing the economy and automating its initial and automating its internal processes. These initiatives are designed to reduce compliance costs for taxpayers, bring more economic activity into the formal sector, and expand the tax base. Over time, such digital reforms are expected to enhance transparency, improve efficiency, and set the foundation for sustainable revenue growth.
+
+Road to Improvement: “Government creates jobs through tax cuts in Pakistan”
+
+The government of Pakistan should consider strategic tax cuts to stimulate economic activity and create jobs. In particular, a 20% cut in business taxes could incentivize private sector investment, encourage business expansion, and boost job creation. Furthermore, a 10% cut in individual income tax would increase disposable income, boost consumer spending, and further increase demand for goods and services, ultimately supporting economic growth and employment. These tax measures, if well-targeted and timely, can serve as effective tools for fiscal consolidation and labor market improvement.
+
+Policy Reforms Model for Economic Governance of Pakistan;
+
+Structural Overhaul of the Tax System;
+
+Transition to a simple, broad base and low rate TAC regime featuring a 10 % individual income tax rate (with an alternative minimum wealth tax of 2.5% for net wealth above Rs. 45 million).
+
+20% corporate tax rate and 8% uniform sales tax on goods and services (0% for export), 5% customs duty, and target excise duty (e.g., 500 billion cigarettes and related products). Eliminating most withholding taxes except on salaries, dividends, interest, and non-resident payments.
+
+Creating the Unified National Tax Agency (UNTA);
+
+Established a unified, federalized, and autonomous National Tax Agency to coordinate and replace currently fragmented tax authorities at both the federal and provincial levels. Merge FBR and provisional tax agencies into a single entity responsible for tax collection across responsible for all government-level administrative functions of social and economic benefit programs. Digital integrates database taxpayer information across all sectors and government tiers for improved compliance and e-government.
+
+Federalization and Harmonization of Tax Policy;
+
+Fully harmonize the value-added tax (VAT) across provinces through the National Tax Council (NTC). Reforms exciting legislation FBR Act 2007) and utilize Article 144 of the constitution of the provisional consensus to establish the unified authority. Adopt international best practice (Nepal, Canada CRA) for federal and provincial tax coordination and social program administration.
+
+Fiscal Policy Alignment and Social Goals;
+
+Link tax compliance to the provision of universal social services, including education, healthcare, and pension and income support programs. Shift public expenditure toward a social contrast-based tax model promoting inclusivity and trust in governance.
+
+Target Outcome and Fiscal Target;
+
+Reforms in income and sales tax should be Rs. 30-31 trillion. At the provisional level, through a harmonized VAT regime, Rs. 4 trillion. Through customs and excise duties, Rs. 1.5 trillion.
+
+Achieve sustainable GDP growth above 5% by integrating tax reforms, macroeconomic reforms, and government reforms.
+
+Conclusion:
+
+The implementation of targeted tax cuts in Pakistan can play a significant role in boosting economic activity and reducing unemployment. By reducing the tax burden on businesses and individuals, the government can encourage investment, increase consumer demand, and help create sustainable jobs. However, to ensure long-term benefits, such fiscal measures should be accompanied by reforms to public financial management and broadening the tax base.
+
+Pakistan’s tax collection system is beset with deep-rooted structural, administrative, and policy-level challenges that continue to undermine its fiscal potential and economic stability. Despite repeated reforms, the system remains regressive. The analysis reveals substantial untapped revenue potential, especially in the urban sector, the service sector agriculture through harmonized sales taxation. It also addresses policy loopholes, simplifying tax structure and moving toward a more equitable and broad-based system. Recent digital reforms by the FBR and recommendations for a unified national tax authority mark a positive shift, but implementation remains critical.
+
+To achieve long-term success, Pakistan must adopt a modernized, transparent, and efficient tax regime that prioritizes equity compliance and institutional coordination. Emphasizing local government, leveraging digital tools, and integrating fiscal policy with social development goals can help build public trust, broaden the tax net, and ensure that taxation becomes a pillar of economic governance rather than an obstacle to development.
+
+References
+
+Amin, A., Majeed Nadeem, A., Parveen, S., Asif Kamran, M., & Anwar, S. (2014). Factors affecting tax collection in Pakistan: An empirical investigation. Journal of Finance and Economics, 2(5), 149–155
+
+Abbasi, M. O., & Abbasi, M. O. (2025, February 10). Tax reforms in Pakistan: Digitization and revenue leakages – South Asia Times. South Asia Times
+
+Country economy. (2022). Pakistan – tax revenue 2022. Countryeconomy.com
+
+Richter, K., & Martinez-Vazquez, J. (2009). Pakistan – tax policy report: Tapping tax bases for development. RePEc: Research Papers in Economics
+
+Shaikh, S. (2014). Tax increment financing in Pakistan. RePEc: Research Papers in Economics.
+
+(2024). Mettisglobal.news.
+
+Pasaribu, G. T. (2022). Tax reforms and financial performance of the Indonesian tax authority between 2017 and 2021: Literature review. Journal of Finance and Accounting, 6(5), 11–21.
+
+Cashin, P., Ul Haque, N., & Olekalns, N. (2003). Tax smoothing, tax tilting, and fiscal sustainability in Pakistan. Economic Modelling, 20(1), 47–67.
+
+Pakistan’s tax crisis: Bridging the gap through structural reforms. (2025, March 8). The Friday Times.
+
+Pakistan goes after hidden assets and finds nearly $450 million. (2019, July 4). Al Jazeera
+
+Ali, F. (2024, October 14). Rethinking Pakistan’s tax policy. The Friday Times.
+
+TaxationPk. (2023, May 7). Tax collection is a critical function of any government. It is the primary source of revenue for the government, which is used to fund public services such as education, healthcare, and infrastructure.
+
+masanghro. (2023, September 9). Revamping Pakistan’s tax system with a digitalization solution – maseconomics.
+
+Cooper, G. S. (2016). Tax treaty policy of developing countries post-BEPS. SSRN Electronic Journal.
+
+Pakistan – individual – taxes on personal income. (n.d.). Taxsummaries.pwc.com.
+
+Pakistan – corporate – withholding taxes. (2024). Pwc.com.
+
+Refineries barred from adjusting tax. (2024, October 30). The Express Tribune.
+
+FBR. (2024). FBR SIGNS AGREEMENT WITH KARANDAAZ PAKISTAN FOR DIGITIZATION OF TAX SYSTEM – Federal Board of Revenue, Government of Pakistan. Fbr.gov.pk
+
+Martinez-Vazquez, J. (2006). Pakistan: A preliminary assessment of the federal tax system.
+
+Hansberry, C. (2025, April). Rescuing Pakistan’s economy. Atlantic Council.
+
+PAKISTAN INSTITUTE OF DEVELOPMENT ECONOMICS, M. R. S. (n.d.). TAX POLICY ISSUES IN PAKISTAN PIDE RESEARCH 2000-2020. Tax Policy Issue in Pakistan.
+
+Khan, M. Z. (2024, August 4). FBR unearths Rs11bn tax fraud. DAWN.COM.
+
+Reddit – The heart of the internet. (2021). Reddit.com.
+
+IMF World Economic Outlook (WEO) Update — Global Recovery Stalls, Downside Risks Intensify, January 2012. (2012, January 24). IMF.
+
+Budget 2024-25 updates: Pakistan targets 3.6% growth, 38% higher FBR taxes as Aurangzeb presents proposals. (2024, June 12). Brecorder.
+
+Pakistan tax revenue: % of GDP, 2000 – 2023 | CEIC data. (n.d.). Www.ceicdata.com.
+
+(2025b). Mettisglobal.news.
+
+Hansberry, C. (2025b, April). Rescuing Pakistan’s economy. Atlantic Council.
+
+Ansari, I. (2024, July 17). IMF forecasts 3 5 growth for Pakistan in FY25, slightly below the government’s target. The Express Tribune.
+
+IMF World Economic Outlook (WEO) Update — Global Recovery Stalls, Downside Risks Intensify, January 2012. (2012b, January 24). IMF.
+
+Pakistan tax revenue: % of GDP, 2000 – 2023 | CEIC data. (n.d.-b). www.ceicdata.com.
+
+Revenue statistics in asia and the pacific 2021. (2021). OECD.
+
+FBR’s dec tax collection reaches rs1.32tr, slightly below the target – mettis global link. (2025). Mettis Global Link.
+
+Nepal Tax Revenue: % of GDP. (2023). Ceicdata.com.
+
+India tax revenue: % of GDP, 1997 – 2022 | CEIC data. (n.d.-b). Www.ceicdata.com.
+
+Iran tax revenue: % of GDP. (2025). Ceicdata.com; CEICdata.com.
+
+Pakistan – Tax Revenue 2022. (2022). Countryeconomy.com.
+
+World economic outlook database, october 2024. (2024, October 22). IMF.
+
+World economic outlook database, october 2024. (2024b, October 22). IMF.
+
+Education archives. (2021). ProPakistani.
+
+Blocked page. (2025). Propakistani.pk.
+
+IMF world economic outlook (WEO) update — global recovery stalls, downside risks intensify, january 2012. (2012c, January 24). IMF.
+
+Tax reform: Growing our economy and creating jobs – AAF. (2018, May 16). AAF.
+
+Ullah, M. F., Badar, H., Hamid, K., & Saeed, M. Y. (2022). Tax collection in pakistan: Determinants and impact on economic growth. Journal of Accounting and Finance in Emerging Economies, 8(1).
+
+Khalid, M., & Iqbal, N. (2020, March 7). Tax policies for growth . Pide.org.pk; Pakistan Institute of Development Economics, PIDE Islamabad.
+
+Tax authorities crack down on fashion designer nomi ansari over rs. 1.2 billion sales tax fraud. (2025, April 23). The Friday Times.
+
+Reforming pakistan’s tax system: Evidence-based suggestions. (2018, December 3). International Growth Centre.
+
+Akhtar Ahmad, R., & Rider, M. (2008). Pakistan’s tax gap: Estimates by tax calculation and methodology.
+
+Tax revenue (% of GDP) – pakistan | data. (n.d.). Data.worldbank.org.
+
+Ms. Muazma Hanif is a M.Phil. Scholar at the Pakistan Institute of Development Economics

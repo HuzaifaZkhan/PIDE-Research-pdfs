@@ -1,0 +1,59 @@
+Balance of payment crises and inadequate foreign exchange reserves are considered prominent conundrums of Pakistan’s economy. However, the fiscal deficit which has historical roots and is further deteriorating, is often ignored[1]. Fiscal deficit, which erupt from time to time, led Pakistan to approach the IMF and other International Financial Institutions (IFIs) for budgetary and stabilization support. However, these programs provide emergency ward relief for the short run but do not prescribe long-term solutions. Because of these short-run arrangements, the chronic fiscal crises remerge with greater intensity leading to engagement with IMF and other IFIs on even tough terms and conditions. Continuous engagements with the IMF ultimately leads to a cycle of dependency. The massive public employees’ pension obligation is one of the major factors of fiscal deficit[2].
+
+In Pakistan on one hand, the pension liability is increasing significantly, for instance, In the fiscal year 2018-19, federal government superannuation and pension expenditures were almost 78% of the PSDP expenses value, growing to 87% in FY 2019-20 (PKR 463,419 million and PKR and 533,220 million). The pensions expenditure or liability as a proportion of current expenditures is also increasing over time, reaching nearly 7.6 % in FY 2019-20. And, for the fiscal year 2024-25, the government has allocated Rs1,014 billion for the pensions of federal government employees. It is predicted that by 2050 the share of pensions in current expenditure would be 56% and government will likely run out of funds for pension expenditures within 8-10 years[3]. On the other hand, the total number of federal government employees has been increasing rapidly. In fact, the size of federal government civil employees is 590585[4], armed forces 9,43,000[5] and Autonomous/ Semiautonomous Bodies/Corporations employees are 3,99,265[6]. Because of job security and granted pensions public sector job remain attractive for the public[7], PIDE[8] recent study also reports massive demand for public jobs.
+
+Pension reforms are taking place rapidly due to demographic changes and fiscal challenges. However, unlike many other countries, Pakistan is yet to initiate meaningful pension reforms in the public sector. The existing structure primarily relying on pay-as-you-go defined benefit models resulting in accumulation of unfunded government liabilities, a system which is naturally unsustainable (particularly for developing countries like Pakistan). Nevertheless, this time news[9] was circulating in both print media and news channels that, the government is considering a proposal to reduce the average age of superannuation by 5 years to 55, against the exciting 60 years. According to Dawn News, this proposal is said to have been put forward by a multilateral agency as a part of the pension reforms. The objective of the reform is to reduce the burden of pension, which doubles every four years. In fact, in the long term, it seems unsustainable. However, in the past authorities were considering increasing the retirement age by two years to 62 with similar objectives, and now they are contemplating early retirement. But there is no literature on the consequences of such policies in Pakistan. Recently, a study conducted by the PIDE “Lifetime Cost of Public Servants[10]”, estimates the financial implications including the salary, commuted pension and family pension of public servants in Pakistan, using revised pay scale 2022.However, the study does not take into account the implications of changing the superannuation or retirement age of public servants.
+
+Thus, realizing the sensitivity of the policy and the literature gap, I have conducted a comprehensive study on the budgetary implications of such policy proposal (yet to be published). The study focuses on the implications (financial obligations) of both reducing and increasing the retirement age of government employees in Pakistan.
+
+Let me first outline the stages at which public servants receive pensions after retirement. As illustrated in Figure 1, pension liability represents the accumulation of income flows across five distinct stages.
+
+Estimated Pension Liability and Retirement Age Policies:
+
+Figure 2 presents our estimates of the total pension liability, including commuted pensions, monthly payment to retirees, and survivor benefits or family pension for BPS Grades 1 to 19.
+
+These estimates are for two alternative retirement age policies (changing from 60 to either 55 or 62 years) against the existing one as a part of pensions reform in Pakistan. In fact, our study findings reveal that, reducing the retirement age to 55 significantly increases the government’s financial liability , as pensions must be paid over a longer period (assuming an average life expectancy of 76 years). On the other hand, increasing the retirement age to 62 reduces total pension outflows, making it the most fiscally optimal option among the three.
+
+While financial savings are substantial with delayed retirement, policymakers must also weigh other critical considerations—such as workforce productivity, youth employment, and institutional capacity—before making a final decision on adjusting the superannuation age.
+
+Net Impact of Changing Retirement Age from 60 to either 55 or 62?
+
+Similarly, we projected average net impact[11] of shifting the retirement age to either 55 or 62 years, compared to the current age of 60, on pension liabilities as illustrated in figure 3. Contrary to the expectation of proposed strategy, our findings disclose that dwindling the retirement age to 55 significantly augment the budgetary stress on the government. For instance, if a public servant (BPS 1–19) is hired today and retires at 55 instead of 60, the government would take on an additional PKR 0.16 million in commuted pension and PKR 6.59 million in monthly pension payments over time. Consequently, this leads to in an overall increase of PKR 6.75 million per retiree.
+
+In contrast, delaying retirement to 62 years yields substantial savings. Under this scenario, the government commuted pension liability would decline by around PKR 0.1 million and achieve average savings of PKR 2.90 million in monthly pensions, trimming the total pension cost by approximately PKR 3.0 million per employee.
+
+To sum up, there is definitive fiscal trade-off between retirement age pension liability. Reducing the retirement age to 55 imposes a substantial liability whereas aggrandizing to 62 leads to significant savings. Accordingly, from a strictly cost-efficiency standpoint, elevating the retirement age to 62 emerges as the optimal policy alternative, demonstrably minimizing pension expenditures across all Basic Pay Scale (BPS) grades when juxtaposed with both the prevailing norm and premature exit at 55.
+
+Suggested Policy Proposals
+
+Based on the findings of the study, the following policy recommendations are proposed.
+
+Implement the delayed retirement age policy (62 years instead of 60)
+
+Retain the prevailing retirement age strategy (60 years of age)
+
+Circumvent early superannuation policy (55 years)
+
+[1] Khalid, M. (2023). Fiscal management in Pakistan: The way forward (PIDE Discourse 2023-06, Policy and Research).
+
+[2] Beermann, J. M. (2013). The public pension crisis. Wash. & Lee L. Rev. , 70 , 3.
+
+[3]Addressing the Pension Liability by Hasaan Khawar, April 18, 2018 https://tribune.com.pk/story/ 1681449/addressing-pension-liability
+
+[4] Annual Statistical Bulletin of Federal Government Employees for (2022-23)
+
+[5] https://data.worldbank.org/indicator/MS.MIL.TOTL.P1?locations=PK
+
+[6] Annual Statistical Bulletin of Employees of Autonomous/Semi-autonomous Bodies / Corporations under the Federal Government for 2018-19
+
+[7] Dixit, Avinash (2002) Incentives and organisations in the public sector: An interpretative review. Journal of Human Resources, 37(4), Fall, 696–727.
+
+[8] Khan, M. A. (2023). Dire or dying demand for the government job: Analysing a PhD holder’s future prospects (Working Paper No. 2023:3). Pakistan Institute of Development Economics.
+
+[9] Govt considers lowering retirement age to 55, (Dawn news, 2024).
+
+[10] Haque, N. U., Kakar, M. A., Khan, N., Ellahi, K., & Rasool, H. (2024). Life Time Cost of Public Servants. The Pakistan Development Review , 63 (2), 289-306.
+
+[11] The average net impact shows savings in pension cost per employee (BPS 1-19) either reducing the superannuation to 55 or increasing the retirement age to 62, against the superannuation age of 60. The negative sign reflects the increase in pension liability and the positive sign indicates the serving in pension liability
+
+Mr. Ajmal Kakar is a Research Associate at the Pakistan Institute of Development Economics, with his work focusing on governance, transit trade and border issues

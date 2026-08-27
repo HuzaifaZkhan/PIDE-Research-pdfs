@@ -1,0 +1,115 @@
+Policy Challenges for Pakistan–Afghanistan Relations
+
+Introduction
+
+The Pak–Afghan trade corridor has long served as a critical channel for the exchange of perishable commodities, linking producers, traders, and consumers across both economies. In recent years, however, recurring border closures driven by security concerns and geopolitical tensions have increasingly disrupted this flow, particularly affecting time-sensitive goods such as fruits and vegetables (Rlung, 2024). Given the highly perishable nature of these commodities, even short delays lead to significant spoilage, income losses, and market distortions. These disruptions not only affect bilateral trade volumes but also create price volatility, supply-demand imbalances, and uncertainty across domestic markets (Qasim, 2025). Moreover, the economic costs extend beyond the immediate losses, influencing the production decisions, trade relationships, and food security outcomes over time (Herbert & Idris, 2024). PIDE’s recent research on Pak-Afghan bilateral and transit trade has clearly mentioned the decline in trade and the need for confidence building to reverse it (Khan & Iqbal, 2025). This policy viewpoint is built on the extant work by particularly focusing on border closure from October 2025 onwards. It marked the objective of the study as to see how this border closure affects the trade and value chain of perishable commodities between two countries and to identify the practical yet policy pathways that can help this trade to remain continue in future episodes of geopolitical conflict. The analysis stands on trade statistics, media reporting, and a consultation with senior custom official. This study is also based on the institutional study on trade relations between Pakistan and Afghanistan, provided by Khan and Iqbal (2025), according to which regular border management, confidence-building measures and institutional coordination are vital in maintaining bilateral trade under political uncertainty. The current Policy Viewpoint expands upon this conversation by specifically discussing the influence of border closures on the trade of perishable commodities. The analysis is merely an indicative preliminary study, pointing out the need for additional research to validate the figures provided above. In addition, the analysis does not assume that all market-related processes are attributed to border closures alone. It explores how the border disruptions have influenced other macro-economic factors affecting bilateral trade.
+
+While policy discourse has largely focused on security dimensions, limited attention has been given to the economic consequences of such disruptions, particularly in terms of value chain impacts and price dynamics The Policy Viewpoint seeks to achieve only one thing: to evaluate how the October 2025 border closure has affected the trade and value chain of perishable commodities, and what policies can be implemented to ensure continuity of trade flows. Neither does it discuss economic stability in general terms, nor does it provide a stakeholder consultation process. The single practitioner interview provided in Section 5 serves as a preliminary illustration only. Fig:1 PAK-AFGHAN Border Crossings
+
+Source: Al Jazeera News (May 5, 2017); reproduced for structural representation of primary transit channels (Torkham and Chaman)
+
+Situational Analysis
+
+Afghanistan has not only been a destination market, but also a transit route for trade to Central Asia. This makes Afghanistan significant for Pakistan’s regional trade and economic connectivity. It serves as an export corridor for surplus perishables and produce that doesn’t meet the stringent phytosanitary standards of the EU or Gulf markets. Pakistan exports fruits (citrus, mangoes), vegetables (potatoes, tomatoes) etc., to Afghanistan, and imports fresh fruits (grapes, pomegranates) and vegetables, along with multiple other goods from Afghanistan.
+
+In mid-October 2025, following a deadly military escalation and clashes between Pakistan security forces and Afghan Taliban, the Pak-Afghan border closed for trade. This border closure appears to create economic challenges for Pakistan, leading to a drop in bilateral trade of about 28%, from $2.46b in 2024 to $1.77b in 2025 (BISI, 2026). On average, Pakistan’s exports have lost $177m/month since closure, a significant drop of 56% as of early 2026 (Arab News Pakistan, 2025). An economic loss exceeding $4.5 billion has already been reported (BISI, 2026); as this is an accumulative number, and the methodology behind the figure has not been made clear by the source, it should be interpreted as an indication of the approximate scale rather than a verifiable loss estimateThe logistical overhead now exceeds the value of the produce itself, with container rent and fuel for reefers (refrigerated trucks), as well as demurrage and detention fees reaching $150 to $200 per container per day. PAJCC reports an estimated monthly loss of Rs. 50 billion (about $6 million a day), due to 10,000-12,000 containers are stuck at the main borders (The News, 8 th February 2026). Similar crisis is highlighted by CAREC Corridor Performance Measurement and Monitoring (CPMM) framework. CPMM’s empirical assessment reports that Torkham and Chaman remained the most time-consuming BCPs. There exist structural bottlenecks, complicated anti-smuggling checks and poor infrastructure that raise the clearance costs even on the normal days, which definitely spike in the period of active conflicts (CAREC, 2025). These figures have been derived from government sources, industry associations, and media reports and should thus be considered indicative estimates and not independently verified loss estimates.
+
+Table 1: FOOD GROUP EXPORTS TO AFGHANISTAN | Oct–Dec Quarterly TREND (2022–2025)
+
+(Values USD Million)
+
+Indicator
+Oct-Dec 2022
+Oct-Dec 2023
+Oct-Dec 2024
+Oct-Dec 2025*
+
+Total Pakistan Exports (USD m)
+7,073.6
+8,083.4
+8,725.7
+7,535.7
+
+Total Pakistan Imports (USD m)
+14,879.8
+14,022.6
+14,425.3
+17,473.7
+
+Trade Balance (USD m)
+-7,806.3
+-5,939.2
+-5,699.6
+-9,938.1
+
+Pakistan Exports → Afghanistan (USD m)
+267.0
+293.9
+511.6
+64.0
+
+Pakistan Imports from Afghanistan (USD m)
+302.3
+197.6
+297.1
+~5
+
+Total Food Group Exports (USD m)
+828.7
+1,542.7
+1,488.7
+834.2
+
+Fruits, Veg & Prep Exports (USD m)
+146.9
+165.9
+150.6
+126.6
+
+Rice Exports (USD m)
+525.9
+1,233.3
+1,153.3
+521.3
+
+Afghanistan Share of Pak Exports (%)
+4%
+4%
+6%
+1%
+
+Food Group Share of Pak Exports (%)
+11.72%
+19.08%
+17.06%
+11.07%
+
+Pulses Imports (USD m)
+287.1
+213.4
+324.6
+190.4
+
+Note: Data extracted from Quarterly Review of Foreign Trade published by PBS Pakistan. On October 11, 2025, Pakistan closed the Torkham and Chaman border crossings with Afghanistan following heightened security tensions. These crossings are the primary conduits for bilateral trade, including time-sensitive perishable goods. The closures coincided precisely with the Oct–Dec quarter — Pakistan’s peak export season for rice and fruits/vegetables to Afghanistan.
+
+Statistics in Table 1 depict the magnitude of disruption in Pak-Afghan trade, particularly in food group. Total exports of Pakistan are stable, but the exports to Afghanistan have declined from $ 511.6 million to $64 million (from Oct-Dec 2024 to Oct-Dec 2025), which is a very sharp decline and an immediate impact of border closure. Looking at the share of exports, a drastic decline from 6% to 1% is evident, indicating a collapse of this regional corridor. Exports of the food group fall from $1488.7 million in 2024 to $834.2 million in 2025, underlining the vulnerability of perishable trade to logistical disruptions. This observed sharp decline provides indicative evidence of on how border uncertainty can lead to enormous trade compression. The trend is consistent across the broader food group, including rice exports, which account for a major share of food exports, also declined sharply from $1,153.3 million in 2024 to $521.3 million in 2025. Perishable foods such as fruits, vegetables, and preparations dropped from $150.6 million to $126.6 million during the same period (Table 1). These numbers also suggest that even the less perishable items like rice are also disrupted due to border closure, whereas for highly perishable commodities the losses are compounded due to time sensitivity and lack of cold chain infrastructure. This analysis also confirms that border closure unevenly affects the exports of different food groups, with a disproportionately high frequency of losses for highly perishable commodities. These findings are also in line with the study conducted by Khan and Iqbal (2025), who cite policy uncertainty, border disruption, and poor institutional frameworks as the major constraints to the development of trade between Pakistan and Afghanistan. The border closure of October 2025 represents an extreme case of these long-standing institutional problems.An important dimension of this risk is the limited ability to quickly develop alternative trade channels with adequate storage capacity, which places traders under significant pressure. This is particularly critical for perishable commodities such as citrus fruits, potatoes, and tomatoes, which were already ready for export at the time of the closure. The closure of the border, however, has resulted in food wastage and degradation of food products; there have been cases reported in the trade media where there was a 100% loss of food products because of the absence of cold chain services at the borders (Shayan, 2025)5000 trucks carrying goods were stranded at the border for weeks in October 2025. Grapes from Afghanistan worth $50 million spoiled on border resultantly Pakistan face loses of around $2 million a day (Shayan, 2025). Due to trade blockage, the farmers across the borders were forced to dump their harvest or to sell at the fraction of cost. The scarcity of food items has led to a surge in prices. For instance, the price for tomatoes has increased by more than 400% in October 2025 (The Dawn, 24 Oct, 2025).
+
+The perishable goods, especially fruits and vegetables, have a short post-harvest life. For perishable goods, reaching the market quickly is more important than getting a better price. Owing to export failures, these perishables have been dumped into local markets in Peshawar, Quetta, and Lahore, which has lowered the wholesale prices, leaving farmers unable to recover their input costs (seeds, fertilizer, and electricity). This translates into significant losses for those small-scale farmers, who have taken loans to plant crops with the expectation of high-margin Afghan exports. The border closure has shifted the economic burden onto the domestic population, notably to the farmers, resulting in economic damage. Many farmers defaulted on their informal loans. Furthermore, the disruptions in exports have resulted in lower GDP growth in recent quarters, reduced agricultural income, and a decline in export earnings (Rlung, 2024). To fuel the fire is the lack of Value-Added Processing systems, such as dehydration plants or cold-storage facilities near the border. To avoid future losses, the farmers needed to adjust their behavior. To secure their annual income, the farmers have now started shifting from perishables toward less profitable but storable crops. Farmers are already facing global challenges such as increased fertilizer costs and resulting supply chain disruptions, which are forcing them to shift towards less fertilizer-intensive crops. All of this will potentially reduce productivity and output in the short run. In the long run, such crop shift might result in food security problems (Herbret & Idris, 2024). With the decrease in production of staple crops lower supply will be there in the domestic markets, and a threat of higher prices for consumers. To meet the supply shortage, the government may likely to import food from international markets (in dollars) and would subsequently subsidize to make food affordable. This can create pressure on foreign exchange reserves and a fiscal burden on the government Value
+
+The price and trade dynamics discussed above have very much been synchronized with the closure of the border on October 2025 and hence the present Policy Perspective regards it as the primary cause for the same due to the coincidence and impact of such movements. However, there were many other forces at work during the same time period which is not separately analyzed in this policy viewpoint and which includes general deterioration in security relations between Pakistan and Afghanistan, exchange rate dynamics, domestic inflation levels and commodity prices worldwide. This is just to point out that the figures discussed above are indicative of the level of disruptions caused by the border closure.
+
+National Security Perspective of Border-Closure
+
+The disruption of cross-border trade in perishable food items between Pakistan and Afghanistan, particularly during episodes of political tension and border closures, constitutes a multidimensional national security risk for Pakistan. While often framed as a bilateral trade issue, the existing literature suggests that such disruptions generate systemic vulnerabilities across food security, border governance, and internal stability with wider implications for the overall country’s stability (Pooya, 2025; The Diplomat 12 March 2026; Hasht-e- Subh, 2 Nov, 2025). It is important to keep in mind that much of the evidence used in this section is from cross-country literature regarding food price shocks and trade-related informality, and not from empirical studies relating specifically to the Pakistan-Afghanistan corridor; the mechanisms highlighted below are identified as potential risks worth watching out for. Recent studies and policy reports highlight the potential consequences of border closures, particularly their implications for national security and domestic stability, as summarized below.
+
+Urban Stability
+
+At times, disruptions in perishable trade directly translate into food price volatility and supply shocks, particularly in urban consumption centers. The Pak–Afghan trade corridor is a critical conduit for fresh fruits and vegetables, and its sudden closure leads to immediate shortages and sharp price increases due to the non-storability of these goods. This situation is supported by the extant literature. For instance, a study by Arezki and Bruckner (2011) utilizing panel data on 120 countries offers findings that low-income countries are more likely to be vulnerable to food prices, which may lead to significant deterioration of democratic institutions and an increase in the incidence of anti-government demonstrations, riots, and civil conflicts. Another highly relevant study by Hendrix and Haggard (2015) drawing on a dataset of urban unrest in 55 major cities finds the effect of global food prices on protests and rioting, where democracies are more prone to urban unrest during periods of high food prices than autocracies. In a country already experiencing inflationary pressures, such volatility can exacerbate public discontent and trigger urban instability, an established precursor to broader political and security challenges.
+
+Expansion of Informal/Illegal Trade Networks and Terror Financing Risks
+
+Alongside other structural and geopolitical factors, disruptions at the Pakistan–Afghanistan border might generate significant unintended consequences. Two interrelated policy concerns are particularly salient.
+
+First, repeated border closures and interruptions to formal transit trade tend to incentivize the expansion of illicit trade networks. While not limited to perishable commodities only, such disruptions may alter the risk–reward calculus for traders in big cities such as Peshawar and Quetta, encouraging a shift toward informal and illegal channels. The extant research suggests that constraints on formal trade are frequently accompanied by diversion into smuggling, under-invoicing, and re-export arbitrage (Khalil et al., 2025). Over time, these practices become institutionalized, undermining state authority and regulatory oversight in border areas. Moreover, such informal economies are often embedded within broader cross-border criminal ecosystems, with potential linkages to militant financing and other illicit activities (Carter et al, 2024). In this context, restrictive border measures may paradoxically weaken the very security objectives they are intended to achieve by fostering parallel, unregulated systems of exchange. Secondly, the economic fallout of disrupted trade is disproportionately borne by borderland economies, particularly in provinces of Khyber Pakhtunkhwa and Balochistan. Trade, transport, and logistics activities linked to Afghan transit trade constitute a critical source of employment and income in these regions. Prolonged disruptions can suppress formal economic activity, erode household livelihoods, and exacerbate existing vulnerabilities. Such economic dislocation can be one of the plausible reasons that may contribute to increased population movements, including cross-border migration, and heightened local insecurity.
+
+From a policy perspective, these dynamics create a feedback loop: weakened livelihoods and reduced economic opportunities increase susceptibility to social unrest and may facilitate recruitment into non-state or anti-state networks. Consequently, abrupt or prolonged disruptions to border trade risk amplifying internal security challenges rather than mitigating them. A more calibrated approach,balancing security imperatives with economic continuity remains essential for sustaining both stability and state legitimacy in border regions.

@@ -1,0 +1,95 @@
+Pakistan already has customs rules for foreign-owned bonded petroleum storage. What is missing is a bankable pilot transaction, with SIFC coordinating delivery within 120 days.
+
+At the onset of the 2026 Middle Eastern supply disruption, Pakistan lacked a dedicated strategic petroleum reserve. Almost 90 percent of Pakistan’s crude oil and liquefied natural gas supplies entered through the Strait of Hormuz. As a result of the U.S.-Israel-Iran conflict, which led to significant restrictions on the strait, Pakistan had to rely on commercial stock and imported shipments. A government review (as reported in the media) on 30 March revealed approximately 23-24 days of diesel stocks and 11 days of crude oil stockpiles. It was noted that petrol availability was satisfactory (Government of Pakistan, Ministry of Finance, 2026a). The stocks mentioned serve the operational needs of the supply chain and are not emergency reserves. Oil marketing companies are required to maintain commercial stocks equivalent to at least 20 days of sales, but that requirement alone does not create a national drawdown mechanism (OGRA, 2016).
+
+International comparisons should be made here. International Energy Agency (IEA) member countries are required to maintain emergency stocks equivalent to 90 days of net imports. However, different combinations of government, agency, and industry stocks can be used to comply with this standard (IEA, n.d.). By March 2026, India had 74 days of total reserves and about 60 days of coverage, reflecting a mix of commercial stocks and its own strategic caverns (Government of India, Press Information Bureau, 2026). China does not provide a full series of stock data. However, the U.S. Energy Information Administration (EIA) estimated that nearly 1.4 billion barrels of strategic and directed commercial inventories were held at the end of 2025 (U.S. EIA, 2026). Pakistan is among the very few countries deficient in strategic or emergency reserves but has commercial stock.
+
+The development of a government-funded reserve is not feasible in the short term. In its May 2026 framework, the government proposed allocating PKR 10 per litre from the current petroleum tax, yielding approximately $700 million annually (Reuters, 2026c). Pakistan’s Petroleum Minister independently estimated Pakistan’s monthly crude requirement at approximately USD 550 million (Abbasi, 2026). On that basis, crude alone for 90 days would cost roughly USD 1.65 billion. The proposed fund would therefore need about 2.4 years to accumulate the purchase value, before accounting for storage, the required mix of crude and refined products, replenishment, financing and operating costs. Pakistan’s USD 7 billion IMF programme further limits the scope for a large, debt-financed stock build-up in the near term (IMF, 2026).
+
+This does not mean that Pakistan must wait until it can finance every barrel itself. A practical alternative is to allow foreign suppliers to hold inventory in bonded storage on Pakistani soil, while giving Pakistan a clearly priced contractual option to purchase an agreed share during a declared supply emergency.
+
+THE CORE PROPOSITION
+
+Pakistan does not need to finance and own every barrel to gain part of the security benefit from petroleum stock held inside the country. Properly structured foreign-owned bonded inventory can lower the initial public financing requirement while giving Pakistan a clearly defined and fully priced emergency-purchase option.
+
+THE COMMERCIAL OPENING
+
+The 2026 disruption has strengthened the commercial case for geographic diversification. Fujairah, the UAE’s established storage and trading hub outside the Strait of Hormuz, has almost 18 million cubic metres of oil storage capacity. Although there have been occasional attacks and disruptions to loading activities (Port of Fujairah, n.d.; Reuters, 2026a, 2026d), Pakistan’s coast is not risk-free. However, this example illustrates why producers and traders may benefit from having another procurement location physically separated from Gulf infrastructure and closer to South Asian consumers. Linking to western China may add value, but only if there is sufficient capacity in pipelines, handling infrastructure and transport logistics to make the project economically feasible.
+
+The value for Pakistan will not be limited to emergencies. Storage rent, port fees, pipeline tolls, blending, bunkering and handling services can form the basis of a business operation in energy logistics. The key value comes from the optionality of the inventory, which Pakistan did not pay for. In addition to the physical location, contractability is the crucial component in the analysis. Usable buffer is stock that can be called up, meets domestic requirements, can be delivered to the specified terminal, and can be financed at the point of purchase. So, if 17 million barrels of petroleum products were stockpiled and there was a 30 percent first-call option for Pakistan, the usable volume would be 5.1 million barrels.
+
+Given the consumption of 13.64 million tonnes of petroleum products from July to March during FY2026 (Government of Pakistan, Ministry of Finance, 2026b), this represents two weeks of consumption, depending on the types of petroleum products used and their conversion factors. Yet the buffer is not equivalent to the accessible one-month reserve. In the model, ownership and storage costs for the first inventory are shifted away from the public sector budget. Nonetheless, payments for option rights, handling, foreign exchange costs, and the cost of the emergency purchase remain outstanding.
+
+The idea behind such a solution is quite simple. Foreign capital finances the initial inventory, and Pakistan offers its territory, market, and the opportunity to tap into domestic demand. Both sides gain from diversification. The idea itself is realistic; what is needed is simply to finalise a deal.
+
+The proposed model is not untested internationally. Japan’s Joint Crude Oil Stockpiling Project leases domestic tank capacity to Saudi Aramco, ADNOC and Kuwait Petroleum. In normal periods, these companies use the stored crude commercially as an Asian supply base; in an emergency, Japanese companies hold preferential purchasing rights. As of November 2025, contractual capacity was about 8.2 million barrels each for Saudi Arabia and the UAE and 3.1 million barrels for Kuwait (Japan Organization for Metals and Energy Security, n.d.). India has also stored ADNOC crude at Mangalore under an arrangement intended to combine commercial access with strategic availability. In May 2026, the parties agreed to explore expanding ADNOC storage in India to as much as 30 million barrels (ADNOC, 2017, 2026). Pakistan’s proposal should be presented as an adaptation of this joint stockpiling model, not as an entirely new instrument.
+
+BANKABILITY IS THE MISSING LAYER
+
+For a supplier, lender or insurer, customs legality is merely the first requirement. The business dealing with bankable prospects needs to provide clear answers to a few basic questions. Who holds title to the oil until it is unbonded? Which law governs the storage and purchase agreements, and where will disputes be settled? When does taxation occur? Can stocks be re-exported without inadvertently importing? How will rent, sales revenue and other legitimate payments be processed through the banking system? What triggers Pakistan’s emergency purchase right, and how is the price established? Finally, which clauses of the contract remain in effect in the event of policy changes after investment?
+
+It is important since investors will analyze Pakistan’s past performance concerning contract renegotiations and dispute resolution. Power purchase agreements were reopened (Reuters, 2024), and the Reko Diq dispute had to remain in international arbitration for years (International Centre for Settlement of Investment Disputes, n.d.). In contrast, Oman’s alternative solution of Duqm has the advantage of locating the terminal in operation at Ras Markaz, with its 26.7 million-barrel capacity, and of developing a new storage agreement with Royal Vopak (OQ, 2023; Royal Vopak, 2025). Therefore, Pakistan must compete by the quality of its institutions and operations rather than geography. The development of Fujairah into a key location was made possible by its connection to the pipeline network, storage capacity, refinery, bunker stations, blending plants, and trade facilities.
+
+Thus, the next goal is narrower than that of the general port plan. Pakistan needs a bankable legal, regulatory, and business environment for a foreign-owned barrel, coupled with a transaction chain that demonstrates proof of concept before approaching major investors. The emergency option also creates a contingent fiscal obligation. Any availability fee, payment guarantee, minimum-revenue commitment or purchase undertaking should be costed, capped, approved by the Finance Division and disclosed through the government’s fiscal-risk framework. Budget authority and the foreign-exchange source for an emergency exercise must be identified before the cargo arrives. Lower upfront financing is not the same as a lower total cost.
+
+THE MECHANISM: PROVE ONE CARGO FIRST
+
+The pilot should start with a single commercially viable cargo at a technically suitable terminal, selected through a rapid readiness assessment. It should not begin with a greenfield development at Gwadar or with an arbitrary 50-million-barrel target. Much of the basic legal and physical infrastructure already exists, but its suitability for this business model has not yet been demonstrated.
+
+Port Qasim already hosts Engro Vopak Terminal, Pakistan’s integrated bulk-liquid chemical and LPG facility. Its Implementation Agreement with the Port Qasim Authority was renewed in June 2026, and the company announced a potential additional investment of more than $200 million, including work on refrigerated LPG infrastructure (Engro Holdings, 2026). Cnergyico also operates crude and product storage linked to its Hub refinery complex (Cnergyico, n.d.). Neither fact proves that spare, segregated capacity is immediately available for a foreign-owned cargo. The pilot therefore requires an audit of tank availability, product compatibility, segregation, jetty and vessel access, pipeline connectivity, metering, firefighting, environmental approvals, customs controls, re-export capability, and the cost and time required for any modifications.
+
+The customs system reflects a higher level of sophistication that is often overlooked in policy discussions. Sections 1124-1135 of the Customs Bonded Facilities Rules, 2024 provide that an international supplier, or its Pakistan-registered subsidiary, may store crude oil, motor spirit, and high-speed diesel in a customs-bonded warehouse certified by the OGRA without any foreign exchange remittance being made before the sale and/or export of products from Pakistan. Under these rules, the international supplier is free to make payments in US dollars for warehouse rentals, port dues, and other specified services. The procedures for in-bond entry, ex-bond sale, and re-export are outlined in the FBR rules (2024). However, some key details remain to be added to this process. Prior authorisation for domestic sale is granted electronically by OGRA per consignment; duties and taxes are assessed at ex-bond clearance; and the supplier must inform OGRA and the Oil Companies Advisory Council 15 days before applying for re-export.
+
+What needs to be clarified here is not the absence of a stand-alone customs chapter, but rather the absence of a transaction package acceptable to boards, banks and insurance companies. The FBR needs to clarify, operationally, how the procedure will address remaining procedural uncertainties. The State Bank of Pakistan (SBP) needs to explain how it will handle the approved storage charges and the proceeds of sale. OGRA needs to confirm whether existing licences cover the new scheme or whether an amendment to these licences is required. The Petroleum Division needs to negotiate first-call purchase rights for Pakistan to buy, rather than requisition, the relevant stock in the event of a declared state of supply emergency, at an international price index plus cost and any availability fee.
+
+The first cargo test should be simple. A single commercial cargo from a qualifying international vendor would be discharged into the bonded capacity that has passed the readiness audit. It would remain there for a sufficient period to assess the effectiveness of inventory management; some of it would be re-exported to test the departure process; and a single valid payment for storage or services would be made via the banking channel. The test must also measure the pre-arranged contingency for emergency purchase. Unless this process is accomplished, Pakistan does not have its regulatory system. Once accomplished, Pakistan will have an operational product that could be shown to other vendors based on transaction history.
+
+THE FIRST CARGO TEST
+
+• one commercially viable foreign-owned petroleum cargo;
+
+• one technically suitable Pakistani terminal cleared for the pilot;
+
+• foreign title retained while the stock remains bonded;
+
+• customs, licensing and banking arrangements tested in practice;
+
+• at least part of the cargo re-exported;
+
+• one approved cross-border storage or service payment successfully processed; and
+
+• a clearly defined emergency-purchase option for Pakistan.
+
+One tanker, one tank, one verified cross-border payment.
+
+The legislation should come into effect after the pilot has shown beyond doubt that it is impossible to fill the gap through administrative or contractual processes. Further Bonded Barrel Charter will then crystallize lessons learned from the pilot, namely:
+
+fiscal treatment for the bonded stock that is being re-exported;
+
+a mechanism for emergency purchase; protection of legitimate foreign ownership;
+
+practical methods for making payments and securing foreign exchange;
+
+a decision process; reasons for denial of requests;
+
+appeal process if there is any failure by the agency to meet its deadlines; and
+
+ensuring that safety, environment and security requirements are not watered down.
+
+Commercial confidence must be grounded in specific contractual provisions, not merely rhetoric. Every licence and contract should clearly set out the governing law, dispute resolution procedures, security of payment, the approach to new laws, and the agreed term of commercial protection. Political risk insurance and/or a multilateral guarantee can complement the package. Only after consultation with the Law Division, and provided that Pakistani law and the relevant treaty permit it, should any waiver of sovereign immunity or recourse to investment treaties be considered. The above does not preclude future policy changes, but at least it will make their effects predictable.
+
+WHAT THE PILOT MUST PROVE
+
+• foreign ownership is legally protected;
+
+• the cargo can enter and remain in bonded storage without premature taxation;
+
+• domestic sale and re-export can be completed under clear, tested procedures;
+
+• approved storage, service and sale payments can move through a documented banking channel;
+
+• terminal, safety, customs and regulatory requirements are workable;
+
+• Pakistan’s emergency access is based on a priced contractual purchase option, not requisition; and
+
+• disputes are subject to credible and enforceable resolution arrangements.

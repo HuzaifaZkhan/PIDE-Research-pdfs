@@ -1,0 +1,57 @@
+Often when carbon markets are mentioned, carbon credits are followed in the chain of thoughts, and most climate change professionals in Pakistan intuitively are directed towards Voluntary Carbon Market (VCM). Hence in most policy discourses, the significance of compliance carbon markets is often undermined. Not only is the emissions coverage of global compliance markets is far greater, at 12 million tonnes of CO₂ equivalent (12 GtCO 2 e)[1], compared with 3.4 GtCO 2 e[2] emissions offset by the VCM globally. In financial terms, global compliance carbon markets dwarfs voluntary carbon markets having a market value of $781 billion[3] in 2024, while the VCM had a total market value of around $15 billion[4] in the same year.
+
+Pioneering the effort to curb emissions by putting a price on carbon, the European Union established an Emissions Trading System (EU ETS) in 2005. A ‘cap’ on emissions was set on sectors covered under the EU ETS, which is set to decline, aiming for net zero by 2040. The EU ETS continues to expand its scope and currently applies to sectors including shipping, aviation, power generation, chemicals, metals, cement and paper and where installations exceed the 20 Megawatt (MW) thermal input threshold for combustion. Regulated entities must purchase EU Allowances (EUAs) and surrender an amount each year equal to their verified emissions.
+
+EUAs, the currency of the EU ETS, function as tradable allowances. By assigning a monetary cost to every tonne of CO₂ emitted, the scheme creates a financial incentive for regulated sectors to decarbonise.
+
+EUAs, can either be procured in auctions on a dedicated platform (in this case the European Energy Exchange (EEX), referred to as the primary market, or on a digital energy or commodity exchange, also known as the secondary market. However, the financial volume of EUA traded on the secondary market is much larger. A recent report[5] highlighted that EUAs worth €644 billion were traded over exchanges like Intercontinental Exchange (ICE) and European Energy Exchange (EEX) in 2024.
+
+Alongside the primary market and the secondary market, these EUAs are also allocated for free to protect some sectors under the risk of carbon leakage. Carbon leakage refers to the phenomenon where emission intensive sectors move their production outside the EU to avoid the stringent carbon pricing mechanism.
+
+To level the playing field for EU producers, the EU came up with the Carbon Border Adjustment Mechanism (CBAM). CBAM puts a price on the embedded carbon in imported goods. It covers sectors such as aluminium, iron and steel, cement, fertiliser, electricity and hydrogen. Importers of these goods in EU who fall above the 50 tonne imported per year inclusion threshold must purchase and surrender CBAM certificates equivalent to the imported embedded emissions in the product each year.
+
+Figure 1: CBAM Costs
+
+Source: Redshaw Advisors
+
+The price of this CBAM certificate is calculated as the weekly average of the EUA auction clearing price. Since the price of EUAs is forecasted to increase up to €150 per unit by early 2030s, CBAM compliance cost is also set to exponentially increase. CBAM cost forecasting models indicate that a Turkish steel producer exporting 100,000 tonnes to EU, may have to pay more than €15 million in 2030 to comply with the mechanism. By 2034, that figure exceeds €35 million each year.
+
+However, CBAM is designed in such a way that this monumental compliance cost can be discounted if the exporting country has an ETS in place. An ETS at home country which effectively prices carbon will still increase the overall costs for producers complying with CBAM, but the carbon revenues will be retained at the home country rather than being handed over to the EU in the form of CBAM certificates. Following the EU’s decision to introduce a CBAM, many CBAM exposed countries like Turkey, China and India are moving towards establishing an ETS aligned with the EU ETS.
+
+Under the current landscape, Pakistan is not severely impacted by CBAM since textiles fall out of the current scope of CBAM. However, it is set to expand to other sectors by 2030. In 2022, Pakistan generated $2.3 billion[6] in revenue from textiles export to the EU. Should CBAM be broadened to cover textiles, Pakistan may have to choose between jeopardising a key export sector or meeting CBAM requirements and absorbing potentially substantial additional payments to the EU.
+
+To mitigate the financial risk of CBAM, retain carbon revenues within Pakistan, abate industrial emissions and place a price on carbon emissions, Pakistan needs a national ETS.
+
+Although the authors recognise that industries exposed to CBAM in Pakistan are clustered in Punjab, to mitigate the financial costs incurred due to CBAM, Pakistan would still need a national ETS. This is because fragmented, localised or provincial ETSs do not meet EU expectations for a unified carbon pricing mechanism capable of supporting carbon price discount under CBAM, and undermines national emissions-mitigation efforts.
+
+Developing a national ETS in Pakistan would require substantial planning and preparation. Typically, an ETS begins with a two-year Monitoring, Reporting and Verification (MRV) phase to help policymakers set emissions benchmarks and determine an appropriate inclusion threshold. After the MRV phase, a cap is introduced which is gradually reduced over time to move towards net-zero emissions. High-emitting installations are brought into the system, with compliance obligations applied accordingly.
+
+In certain cases, free allowances may be allocated to sectors considered vulnerable, such as emerging industries or those at risk of carbon leakage, to ease the financial burden of compliance. These allowances are distributed based on benchmarks set at the average emissions of the 10 percent most efficient installations in each sector. As a result, the most efficient operators receive all or almost all of the allowances required for compliance, while less efficient installations must either reduce their emissions or purchase additional allowances to meet their obligations.
+
+Pakistan can learn lessons from other ETSs. Out of 38 ETSs globally, 24 allow domestic voluntary carbon credits for compliance, with South Korea being the only one accepting international credits. Typically, up to five percent of a compliance obligation can be met using domestic voluntary carbon market credits. This means that, in addition to holding allowances issued by the relevant authority or platform, regulated entities may use carbon credits to cover a small share of their compliance requirement under the ETS.
+
+If implemented in Pakistan, this would create a strong demand signal for voluntary carbon market project developers and could foster the growth of both compliance and voluntary carbon markets.
+
+Pakistan’s absolute emissions are estimated at approximately 585 MtCO₂e in 2024[7], which is relatively low compared to larger emitters like China or India, but its industries are notable for their pollution levels. In addition to reducing emissions, Pakistan’s ETS could set a precedent by placing a direct price on pollution and help curb industrial pollutants.
+
+For the ETS to be effective, liquidity must be prioritised. Carbon allowances should be traded on a transparent digital exchange where, in addition to covered entities, speculators should also participate. This would enable banks and investment funds to enter the market, enhancing liquidity and reinforcing the credibility of the system.
+
+If all these measures are implemented, Pakistan could successfully develop both a voluntary and a compliance carbon market, while retaining carbon revenues domestically that would otherwise be paid to the EU under CBAM certificates.
+
+Mr. Syed Sawal Bacha is a Research Associate working at the Redshaw Advisors, with a focus on carbon markets compliance within the European Region.
+
+Ms. Muska Mukhtar is a Lecturer of Economics at the Institute of Management Sciences, Peshawar, and a PHD candidate with a research focus on water conservation behavior.
+
+[1] ICAP (2025). Emissions Trading Worldwide: Status Report 2025. Berlin: International Carbon Action Partnership.
+
+[2] Forest Trends’ Ecosystem Marketplace. 2025. State of the Voluntary Carbon Market 2025. Washington DC: Forest Trends Association.
+
+[3] Nordeng, Anders, for European Carbon, EU ETS Team. “2024 Year in Review EU ETS: Flattening out.” Veyt, 15 January, 2025. https://forums.swift.org/t/if-vs-available-vs-if-available/40266 .
+
+[4] Grand View Research, Voluntary Carbon Credit Market Size: Industry Report, 2030 (San Francisco, CA: Grand View Research, June 2025), 12.
+
+[5] Mordor Intelligence, Voluntary Carbon Credit Market Size, Share & 2025-30 Outlook (Hyderabad, India: Mordor Intelligence, September 2025).
+
+[6] Arisa. Trends in Production and Trade, Cotton, Textiles and Garments from Pakistan . Arisa, Sept. 2024.
+
+[7] Enerdata. “Pakistan’s New NDC Targets 50% Cut in GHG Emissions by 2035 Compared to BAU.” Daily Energy & Climate News , 29 Sept. 2025,

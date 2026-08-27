@@ -1,0 +1,45 @@
+Background
+
+Pakistan’s Prime Minister, in September 2024, issued a directive to urgently establish a streamlined financial framework and licensing plan aimed at accelerating electric vehicle (EV) manufacturing and encouraging user adoption across the country.
+
+As Pakistan’s leading economic think tank, the Pakistan Institute of Development Economics (PIDE) has extensively explored the dynamics of Pakistan’s automobile industry, including the shift towards EVs. PIDE’s insights in this context are encapsulated in two pivotal publications:
+
+Driving Backwards: What is Wrong with Pakistan’s Automobile Industry?
+
+Wheels of Change: Tracing Pakistan’s Automotive Evolution through Political Economy and Technology Acquisition
+
+In response to the Prime Minister’s call for a robust EV policy, PIDE presents research-driven recommendations to support the development of an effective policy framework. These recommendations aim to streamline manufacturing and create a conducive environment for consumers to adopt electric vehicles, ensuring a sustainable and progressive transition for Pakistan’s automotive sector.
+
+Why Electric Vehicles?
+
+Global warming and climate change are escalating threats, bringing us closer to irreversible damage with each passing day. This urgency has spurred a wave of global action aimed at reversing these effects and fostering a sustainable future. Shifting behaviors, overhauling traditional practices, and embracing eco-friendly innovations are critical to preserving a livable planet for future generations.
+
+Central to these efforts are the Sustainable Development Goals (SDGs), endorsed by all United Nations members, which aim to secure peace, prosperity, and planetary health. A major piece of this global commitment is the shift towards Electric Vehicles (EVs) as a more sustainable alternative to conventional transportation. Road transport, powered by Internal Combustion Engine Vehicles (ICEVs), is a leading contributor to air pollution, health issues, and growing dependency on petroleum – a non-renewable, environmentally damaging resource that demands high levels of extraction and refinement.
+
+In contrast, EVs offer a cleaner solution. By reducing harmful emissions and lowering the demand for petroleum, EVs not only benefit the environment but also require fewer manufacturing parts and resources, which lessens the overall ecological footprint of vehicle production. However, the environmental impact of lithium extraction for EV batteries and the disposal of electronic waste remains concerns that need attention. Extensive research and development are essential to find sustainable solutions for EV battery waste management as their use expands.
+
+For Pakistan, as one of the nations that is most vulnerable to climate change, this transition to EVs could be transformative. Smog and pollution plague many urban centers, leading to some of the worst air quality worldwide. Additionally, Pakistan’s heavy reliance on imported oil places immense pressure on its economy. A shift towards EVs could reduce this burden, cutting down oil imports and improving the current account balance.
+
+Ultimately, the adoption of EVs presents Pakistan with a dual opportunity: environmental protection through reduced emissions and economic resilience by curbing import costs. Embracing this shift will support Pakistan’s climate goals and bolster its economic stability.
+
+Issues & Challenges
+
+The transition to electric vehicles (EVs) presents Pakistan with a unique opportunity to advance both climate goals and economic growth. However, achieving this vision is not without significant hurdles. From two- and three-wheelers to larger commercial vehicles, the shift to EVs encounters complex challenges across all categories of transport. To realize an electric future, Pakistan’s policy framework must address these obstacles effectively and comprehensively.
+
+Some of these major challenges and issues that have been identified are:
+
+Induced High Production Costs:
+
+High Total Up Front Cost: The technology to assemble or manufacture EVs in Pakistan is in a nascent stage. As a result, the cost of production of EVs still remains high thus raising the total up front cost of EVs compared to their equivalent ICEVs.
+
+High Costs of Production: Vehicle cost of productions in Pakistan are significantly high. Primary reasons are significant import dependence, lack of allied industries in the country and high import tariffs.
+
+Low Vehicle Ownership (2/3 and 4 wheelers): Although 61% of Pakistani households own a personal vehicle, only 6% have a passenger car. Motorbikes are far more common, with 57% of households owning only a bike, and about 4.5% owning both a motorcycle and a car. Additionally, 2.7% of households own rickshaws, primarily for commercial use. This means that the market for electric vehicles, particularly in the passenger car segment, is limited, and the high upfront cost makes EVs accessible to only a small segment. Although more than half of households own two-wheelers, their high initial cost renders electric options financially impractical for the middle- and low-income groups who largely rely on them.
+
+Range Anxiety: Adopting electric vehicles demands a behavioral shift, as recharging takes considerably more time than refueling conventional vehicles. Additionally, the limited availability of commercial charging infrastructure raises the risk of being stranded if the battery depletes mid-journey, adding another layer of challenge to EV use.
+
+Low Production Volumes: Production volumes of vehicles and parts manufacturers both are limited as focus remains mostly on meeting local demand only, operating at the minimum efficient scale that allows sufficient profits while reducing average costs and not targeting export markets. Pakistan is now exporting motorcycles to some markets in African continent, but the numbers remain low. Consequently, parts manufacturers and OEMs both fail to achieve economies of scale to reduce per unit sale price.
+
+Lack of Capacity of Auto Parts Manufacturers: Auto parts manufacturers lack capacity on two fronts: financial and technological. Currently, majority auto parts manufacturers are small businesses producing products requiring low technological input and low production volumes.
+
+Disintegrated from Global Value Chain: Globally, auto parts and automobile manufacturing has shifted to a global value chain, while Pakistan continues to focus on localizing all production processes. As a result, not only have Pakistan based OEMs and auto parts manufacturers failed to build high quality production capacity but also become isolated from the global automobile industry.

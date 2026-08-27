@@ -1,0 +1,83 @@
+Executive Summary:
+
+Recent disruption in supply chains following regional conflict has created a strategic window for Pakistan to realign its ports located outside but in closest proximity of the conflict zone as alternate to major transshipment hubs of Gulf (Hassan, 2026). Port Qasim reported an 8.2 % increase in the cargo throughput for the July- March 2026. The port of Karachi handled a year’s worth of transshipments in 24 days. In April alone, Gwadar handled 11000 containers surpassing the 8,300 handled in the year 2025. Since the routing decisions are not only based on geography, but transparency, governance also, the recent windfall gains can be converted into lasting commercial relationships. As the different port activities has increased, the increased efficiency in the governance of a port would play important role to maintain the momentum of these volumes and thus shaping the economic development of the region. This would also support the several ongoing efforts by the government in reforming the maritime sector of the economy to reap its potential. With this backdrop, this knowledge brief aims to explore the existing state of transparency in Pakistan’s three ports, i.e. the Karachi Port, Port Qasim and the newly operationalized Gwadar Port. The main objective for this document is to highlight the significant gaps in governance practices of the ports by comparing them to the international transparency indicators, as identified by Brooks, et al. (2020). While examining lessons from global examples and the existing literature, this study concludes by providing some recommendations for practice implications that can allow Pakistani Ports to align with global standards.
+
+Why Transparency:
+
+Transparency is described as “openness, communication and accountability”, thus in governance terms, it refers to the principle of empowering stakeholders to have complete information regarding the operations and structures of a given entity. Transparency is linked to various notions based on the idea that proper and timely dissemination of information is important for empowering people. Following this foundation, Figure 1 illustrates the link among accountability, responsibility, and focusing on development, with transparency. By contrasting an organization’s declared objectives with its actual performance and that of others, it empowers stakeholders to hold it accountable, while also improving an organization’s performance through accessible information. enabling stakeholder groups and other businesses to compare outcomes in the same market.
+
+In the context of Port Governance, transparency can be defined as the visibility of information, both in terms of quantity and quality. Availability and accessibility in publicly accountable organizations is essential for the general public to assess the when, how and why of certain management and financial decisions, so that the stakeholders can participate in the review and oversight processes, thus leading to the accountability of management and ultimately, responsible outcomes. The information needs to be timely available, and must be understood, including being available in the majority speaking language; and it must accurately reflect the things for which the organization is responsible (i.e. in complete report formats; abstracts or summaries are therefore not transparent).
+
+Additionally, transparency also needs to be considered in relation to its intended audience, as depicted in Figure 2 , where various port stakeholders are represented.
+
+Some Snapshots from Literature on Transparency:
+
+However, uneven level of transparency is observed around the globe in the scanty literature available on the subject (Brooks et al). In the light of New Public Management principles, (Vazquez et al, 2024) discusses the role of governance as an integrative mechanism in public governance, highlighting that transparency and performance evaluation is critical for any reforms in port governance. Valencia has the best digital transparency while Genoa ranks the lowest (Gonzales, 2024). The study though highlights the role of public private partnership in adoption of innovative digital technologies; it also underscores the need for the regulatory frameworks for cyber security for successful adoption of digital governance. There is an increasing demand for environmental accountability such as European Green Deal, Sustainable Development Goals (SDGs) and circular economy principles. Incorporating block chain enabled Circular Port Management reduces transactional friction and enhances smoother interactions (Weda,2025). The development of digital infrastructure amplifies the port sustainability through public environmental concerns (Shen, 2025). (Marburn and Gabriella, 2025) highlighted that information flow increases the efficiency with digitalization along with services accountability, however the challenges in terms of resistance from human resources, limited technological infrastructure and sub optimal integration between different subsystems of different agencies. (Meiwa and Chasomeris, 2020) criticizes the governance of south African ports the governance of ports which defying legislation and promote corruption and monopolistic behavior.
+
+Nevertheless, Pakistan’s port industry, which includes Karachi Port, Port Qasim, and Gwadar Port, still has difficulties implementing thorough transparency and governance reforms in spite of these worldwide trends, which has resulted in inefficiencies and diminished stakeholder confidence, as noted by a number of academics, including Michener and Bersch (2013). In this regard, this knowledge brief aims to explore the existing gaps in port governance at the three ports of Pakistan, through comparisons of transparency indicators as identified by Brooks , et al. (2020).
+
+Cross-Contextual Insights into the Transparency Practices Across Pakistani Ports
+
+Methodology
+
+The study focuses on transparency through analyzing the public availability of critical financial and management related information, all of the data is compiled through official website analysis, and through a systematic online search of the available secondary sources, including a structured review of publicly available reports and different government databases. The indicators are then divided into three main categories, i.e. Management Information, Operational Performance and Public Disclosure. Pakistan’s standing across all these indicators, across the three ports, the Karachi Port, Port Qasim and the Gwadar Port, have been compared in the tables provided below.
+
+For Comparative purposes, the study also analyzes the available information for the country’s regional competitors aimed at providing examples from the global practices. The three ports selected for comparison are the Port of Singapore, the Jawaharlal Nehru Port in India and the Port of Columbo in Sri Lanka.
+
+The rationale behind choosing these exact regional competitors were as following: The Port of Singapore was selected being a global benchmark for transparent governance practices within a state-led framework. The Port of Columbo was chosen to be a regional example of successful port governance in South Asia, through its reform focusing on institutional restructuring, enhanced stakeholder engagement, and increased transparency despite similar political and administrative challenges as our country, and lastly Jawaharlal Nehru Port for being the India’s largest container port, with a public-sector–dominated governance model.
+
+**In the following tables, a ✔ indicates that the information is available easily on the official website. û indicates that it’s not available, and a — indicates that partial information is available. The exact details about the partiality are provided against the respective footnote.
+
+The above table provides a comprehensive overview of the transparency practices currently prevalent in the country’s three ports, i.e. the Karachi Port, managed by the Karachi Port Trust, Port Qasim, governed by the Port Qasim Authority, and the new Gwadar Port, overseen by the Gwadar Port Authority.
+
+The Findings
+
+From the analysis, it can be seen that, while Karachi Port and Port Qasim show a relatively higher level of transparency across all of the identified indicators, including operational activities and community engagements and management information publicly available, there are still noticeable gaps in some major indicators. The major shortcomings are in areas requiring disclosure of financial data and decision making. While on the other hand, Gwadar Port is lagging extremely behind, with much fewer transparency measures in place.
+
+Furthermore, none of the ports offer access to annual meeting agendas or minutes. The validity of these limitations is further underscored by the fact that the latest online available annual report for DG Ports & Shipping is for the Fiscal Year 2021-2022[1].
+
+Comparison with the regional competitors reveals that, while the public disclosure indicators are somewhat lacking in the regional competitors, as information regarding annual meetings, agendas and public inclusion in board meetings is not available, the rest of the transparency requirements are being fulfilled completely. Even among these, the Jawaharlal Nehru Port in India, takes a step further in transparency practices, while providing regular highlights and updates to major changes in both Hindi and English. They have also provided an online tariff calculator, to help shipping companies as well as importers, in calculating the exact costs incurred on their shipments. The Port of Columbo, also provides a complete stakeholder engagement plan on their official website, along with a list of all of the companies and business, and their contact information, hence enhancing their transparency practices.
+
+Following these international benchmarks could be a starting point for our country’s ports to enhance our transparency practices, and thus place our ports in a better position as compared to our regional partners in the wake of the recent crisis.
+
+Implications for Practice
+
+For the port authorities and policymakers this analysis highlights the urgent need for reforms aimed at strengthening governance, in order to build greater public trust in the country’s logistics industry. In this regards, key implications for practice include:
+
+Digital Transparency tools including real-time transparency dashboards should be adopted to provide stakeholders with access to real-time data on port operations, thus improving accountability. This would not only reduce paper-based processes by ensuring a single source of information, but would also help to transform the traditional opaque logistical processes into transparent, data-driven systems. Rolling out of the PortVerse (Pakistan’s Port Community System) is an appreciable step in this regard, however, the system still needs to be expanded as for now it is only being used to streamline trade procedures/documentations, and other aspects of transparency still need to be included.
+
+Public participation in decision-making processes is one of the crucial components of good governance practices. Thus, allowing public participation, through webcasting of the meetings, disclosing of meeting agenda beforehand, and meeting minutes after, would strengthen accountability of the Port Authorities.
+
+Public disclosure of financial data is considered to be an essential aspect of good governance practices. Hence, transparent disclosure of executive salaries and their performance reviews should be made available, so as to help to minimize conflict of interests and foster increased public confidence.
+
+The Pakistani Port authorities should adopt measurable performance indicators, while providing stakeholders with regular updates, in order to adapt a performance-based governance model, that have proven to be more effective at enhancing transparency.
+
+Maintaining transparency in port governance requires a robust legal framework. This requires that clear regulations should be drafted detailing public disclosure of port operations and financial reports, while simultaneously outlining the consequences for non-compliance.
+
+Conclusion
+
+In conclusion, although accountability and transparency have occasionally been used interchangeably, accountability can be considered an outcome that is related to building stakeholder trust through openness. Therefore, an organization’s duty to its stakeholders is the foundation of accountability.
+
+In this context, strengthening the accountability and competitiveness of Pakistan’s ports, significantly depends on improving the transparency practices. In this regards, this study’s analysis concludes that while our older ports (Port Qasim and the Karachi Port) have made relatively better progress in several governance areas, some of the financial and decision-making data is still not available. Whereas on the other hand, the Gwadar Port, which was planned to be a regional hub, is still lagging far behind in transparency indicators, with minimal data available about its operations or the governance positions online.
+
+By putting into practice international best practices like digital transparency platforms, granting public access to decision-making meetings, and holding regular stakeholder engagements, will allow to improve public trust in our port authorities. Hence, implementation of the identified reforms will allow Pakistani ports to be positioned as major participants in the international marine trade network.
+
+References
+
+Brooks, M. R. (2017). A new direction or stay the course? Canada’s port-specific challenges resulting from the port reform program of the 1990s. Research in Transportation Business & Management , 22 , 161-170.
+
+Brooks, M. R., Knatz, G., Pallis, T., & Wilmsmeier, G. (2020). Transparency in governance: Seaport practices . Port Report No. 5. Port Economics. https://www.porteconomics.eu/portreport-no-5-transparency-in-governance-seaport-practices/
+
+Brooks, M. R. (2015). Port governance as a tool of economic development: Revisiting the question . In P. T.-W. Lee & K. Cullinane (Eds.), Dynamic shipping and port development in the globalized economy (Vol. 2: Emerging trends in ports, pp. 128–157). London: Palgrave Macmillan.
+
+Brooks, M.R. and Cullinane, K. (2007) Devolution, Port Performance and Port Governance (Research in Transport Economics Volume 17). Elsevier, Oxford.
+
+González-Cancelas, N., Camarero Orive, A., Rivas Vilarchao, A., & Vaca Cabrero, J. (2024). Use of end-to-end tool for the analysis of the digital governance of ports. Logistics , 8 (2), 58. https://doi.org/10.3390/logistics8020058
+
+Hassan, N. (2026). Capitalizing on Conflict: Reimagining the Ports of Pakistan Amid Gulf War . Policy Viewpoint.
+
+Marbun, Y. V., & Gabriella, L. (2025). Peran digitalisasi pelabuhan dalam mendukung ketatalaksanaan pelayaran yang efektif dan transparan . Journal of Maritime and Education (JME), 7 (2). https://doi.org/10.54196/jme.v7i2.212
+
+Michener, G., and Bersch K. (2013). Identifying Transparency. Information Polity 18(3), 233-242.
+
+Notteboom, T., De Langen, P., & Jacobs, W. (2013). Institutional plasticity and path dependence in seaports: interactions between institutions, port governance reforms and port authority routines. Journal of transport geography , 27 , 26-35.

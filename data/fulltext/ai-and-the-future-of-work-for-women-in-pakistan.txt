@@ -1,0 +1,41 @@
+The growing integration of Artificial Intelligence (AI) into various sectors has raised significant discussions about its impact on the future of work particularly for females. This conversation is particularly relevant in Pakistan, where a disconnect exists between global technological advancements and the country’s current trajectory.
+
+Three years ago, the Pakistan Institute of Development Economics (PIDE) designated the second quarter of 2021 as “INTERNET FOR ALL.” PIDE’s rapid growth strategy pioneered “internet for all” as a central pillar. The strategy recommended selling spectrum to mobile operators at nominal prices, prioritizing 5G, ensuring availability of low cost smart phones and more operators to achieve widespread internet access. This effort aimed at enhancing connectivity rather than generating revenue from spectrum sales. Since then PIDE has consistently promoted digital inclusion through webinars, policy briefs, and collaborative events like Econfest. In the third Econfest, PIDE partnered with Lahore University of Management Sciences (LUMS) and focused on AI and its implications for employment pattern of women in Pakistan.
+
+AI’s Role in Existing Industries
+
+There are three ways through which AI is improvising and streamlining the existing industries of the ecosystem. AI is streamlining various sectors in Pakistan. For instance, telemedicine startups like Sehat Kahani use AI for predictive health services. Similarly, AI-based initiatives in logistics, such as Trucker, are optimizing pricing models. AI is being also used to combat forest fires. LUMS and WWF have collaborated for pilot project.
+
+However, AI also poses risks, with approximately 17% of jobs in Pakistan susceptible to automation. These include graphic design, animation, illustration and content writing. This affects freelancers and gig workers on platforms like Fiverr and Upwork, where AI-driven services are replacing traditional roles. In January 2023, Fiverr introduced a new job category called AI services, which is a category of creative workers that are using AI services to sort of perform services for clients.
+
+Also the backend world of AI, involving large language models like Scale AI and ChatGPT is seldom discussed. This sector employs workers trained in AI algorithms for data annotation and prompt engineering. These contract workers often work long hours without job protections. Projects on these platforms can end abruptly, as seen when Scale AI hired Pakistani workers at $8 per hour but stopped allowing registrations from Pakistan in February 2024, leaving many workers suddenly without income.
+
+Opportunities and Challenges for Women
+
+In Pakistan, women’s representation in STEM fields is alarmingly low, standing at approximately 10%. This trend reflects a global issue, with tech giants like Microsoft and Amazon showing 29% and 49% female representation, respectively. However, only 26.5% of women hold senior positions in listed firms.
+
+The situation in Pakistan is compounded by basic digital literacy challenges. According to a GSMA survey, only about 15% of women have regular internet access. The mobile ownership ratio is significantly skewed, with women owning only half as many devices as men. Additionally, 91% of the youth lack basic digital literacy skills, such as operating chatbots.
+
+Pakistan is still striving to achieve widespread 4G penetration, hindered by a lack of smart devices. While 4G was introduced in 2011, by 2021, only 43.51% of users had access to 3G and 4G devices. According to the Pakistan Telecommunication Authority (PTA), 58% of the market consists of smartphones. Locally produced phones are predominantly 2G devices (65%), with only 35% being smartphones. In October 2023, the share of imported smartphones was around 10%.
+
+All over the South Asian region including India and Bangladesh, women are overrepresented in the entry level administrative clerical work. And according to some estimates, 1 out of every 5 females in this job is likely to lose it due to AI automation, but more decision making jobs requiring social cognition like executive decision making will be open for them. Thus AI economy has the potential to augment the reversing trends in labour market recently witnessed in Ethopia or India where the proportion of women in high skilled labor has increased from 13 %. So in a general equilibrium sense, the women will be better off.
+
+Programs for Women’s Success
+
+To ensure women’s success in the AI-driven economy, accessible upskilling programs are essential. Designing gender-sensitive training and financial instruments can help women navigate the evolving job market. Infact, women should be involved in designing these trainings and apps to ensure that it is women sensitive and based on the local data.
+
+In the presence of low literacy scenario, one option to effectively leverage the new economy would be to design speech based systems. This is already in practice in regions like Africa. Again the challenge is that data set of only Urdu language exists, while that of regional languages is altogether nonexistent. This automatically limits the outreach of these tech systems to urban centers only. Dataset for this technology means 100 and thousands of hours of recording and translation. These data sets will have to be developed locally.
+
+There are zillions of examples to learn from. Sonia Gonzalez, a Mexican woman, used to make comic style hand drawn intricate illustrations on fiverr. She started using Midjourney to make AI illustrations in a similar style. This increased her output, the number of her clients and substantially reduced the costs. This is one example of how the nature of job is shifting and we should prepare ourselves for it in time.
+
+Non readiness of the Public Sector
+
+There is a huge pushback or non-readiness to AI adoption in the government sector. One example is that of health sector. The third leading cause of maternal death is eclypsia which is blood pressure. The research showed that the AI could detect it much better than the low skilled maternal health care workers in rural health care centres. So an AI tool was designed in Pakistan, but the Punjab Health Authorities refused to deploy it and preferred to cling to the nineteenth century practices discouraging the developers.
+
+Ethical Considerations
+
+Biases in AI models reflect existing societal inequities. For instance, healthcare AI tools often rely on data from male patients, potentially neglecting women’s specific health needs. Moreover, AI-driven recruitment tools have shown biases against women, highlighting the need for diverse and inclusive datasets. Developing ethical, indigenous AI models is crucial to prevent the amplification of these biases.
+
+Conclusion
+
+AI’s integration into Pakistan’s economy presents both opportunities and challenges. The government, academia, and private sector must work together to leverage the opportunities that AI provides. By addressing accessibility issues, providing targeted training, and developing ethical AI models, Pakistan can harness the potential of AI to create a more inclusive and prosperous future. The discussants of the session were convinced that once the most vulnerable population is the target of the policy, the rest will be automatically addressed. Similarly, the role of academia is to highlight the barriers. If the barriers of one sector gets addressed, the others will automatically follow improving the overall eco system.

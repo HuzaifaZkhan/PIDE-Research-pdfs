@@ -1,0 +1,119 @@
+Many nations still have welfare plans and systems that offer financial assistance to different facets of society, such as those experiencing unemployment, old age, or disability. Providing financial stability to sustain a fair standard of life during the retirement or unemployed time is the major goal. The majority of pension plans are financed by employer contributions or by the mandated savings of individuals [1].
+
+The Constitution of Pakistan declares that the state will promote the social and economic wellbeing of citizens. Accordingly, as listed in sub-article (C) “ to provide for all persons employed in the service of Pakistan or otherwise, social security by compulsory social insurance or other means”. The same has been mentioned in National Commission for Government Reforms (NCGR) 2015 “ to grant of a living wage and compensation package, including decent retirement benefits to all civil servants ” [2]. However, pension facility in Pakistan is available to only a limited number of public sector employees as a vast majority of the population (90%+) is working in the private sector and majority of them are in the informal sector. The old-age income support coverage (i.e., pensions, health and/or social security insurance) is only 6% in Pakistan, much lower than the 20.3% average of developing economies [3].
+
+The Employees’ Old-Age Benefits Institution (EOBI) offers public sector employees a tax-based (DB) defined-benefit plan and a contributory system for the private sector. However, in a nation with a labor force of over 75 million, only 8 million private employees are registered under EOBI. According to census data, around 3 million persons get EOBI pensions, and government-sector pensions cover about the same percentage of the elderly; the overall coverage for individuals over pension age varies between 7 and 10% [4]. Pakistan’s demographic transition may result in a 4% GDP reduction as pension spending moves from 1.2% to 3.5% of GDP due to increasing fiscal deficits and taxation. A pay-as-you-go (PAYG) plan, in which working people pay for retired pensions, is more costly as the reliance ratio increases [5].
+
+Changes in demographics, disparities in funding, and systemic inefficiencies have put Pakistan’s pension system in a precarious position. Longer life expectancies, an older population, and defined-benefit public-sector pensions have all contributed to the existing system’s vulnerability. What was once a manageable budgetary strain is now a potential source of new sustainability concerns, calling for quick and extensive changes. Pension reform in Pakistan is quickly becoming an economic and social imperative, despite its polarizing nature. This article provides an analysis of the pension system, looks at recent policy changes, compares it to similar models in other countries, especially developed ones, and then uses that information to create data-driven suggestions.
+
+Pakistan’s Public Sector Pension Framework and Crises
+
+After independence, the country opted the underlying principles of the civil-service pension from
+
+the British Pension’s Act 1871 that protect the rights of pension and gratuity of civil servants working in the federal and provincial governments. Subsequently various South Asian countries made reforms. For example, India introduced reforms in 2004 by adopting a defined contribution scheme for new recruitment, and facility was extended for the private sector employees in 2009. A similar reforms were adopted by Maldives in 2009 [6].
+
+Despite Pakistan’s best efforts, no significant reforms have materialized as of yet. An opt-funded pension scheme with a defined employee contribution was proposed by a Pension Review Working Group in 2003, but it was never accepted [7].
+
+A defined benefit mechanism based on non-contribution is still used by the public sector pension system. Pensions and other retirement benefits are guaranteed by the government to employees who do not make personal contributions from their income under this pay-as-you-go (PAYG) system. There is no substantial structure in place to pay the pension from the invested amount; instead, the money is paid straight to the retirees from the tax payers.
+
+Various regulatory frameworks protect the pension rights of civil servants, i.e., the Pension-cum-gratuity Scheme (1954), the Provisions of Civil Servant Act, 1973, and the Liberalized Pension Rule and Ancillary Instructions, 1977. Subsequently, the government made various amendments to revise the pension structures by adding more allowances in pension bill. Resultantly, the country is facing a high gross pension replacement rate—the ratio of pension pension entitlement divided by gross pre-retirement earnings). The utilization of fiscal revenues to pay pensions (both by federal and provincial governments) resulted into never-ending growth in pension expenditure and puts unsustainable pressure on the fiscal accounts, thereby crowding out other social and development priorities.
+
+Pension spending is increasing at a pace of 25% per year and is now surpassing the PSDP budget, making this ad hoc structure fundamentally unsustainable. Pension funding accounted for almost one trillion dollars in the federal budget for 2024–25. If present trends continue, the pension will consume more than half of all spending by 2050, up from 6-7 percent now. Life expectancy increases, medical allowance additions, and inflation adjustments are among the main sources that will increase the pension bill, which is expected to double every four years. A comparable predicament is also besetting the provinces. The income of the provinces of Punjab and Sindh, for instance, is almost equal to their pension expense. Seventy percent of the Railway’s yearly income goes on pensions [2]. The results show that the public financial management system is inadequate, since the economy is growing at a rate of only 3-4% and the tax-to-GDP ratio is low, leading to insufficient revenue generation. In contrast, the budget goes a long way toward funding things like interest payments, pensions, subsidies, and the operation of civil government, so the budget deficit is getting worse.
+
+The Pay and Pensions Commission will review the recent reforms every three years. These reforms include the following: a ban on dual pension eligibility; a change from final pay to a 24-month average for pension calculations; increases only to baseline pensions; and the implementation of digital administration. For new recruits after July 2024, the government also instituted a pilot contributing scheme, which mandates shared contributions from employers and employees, as a precursor to defined contribution (DC). In line with PIDE’s demands, experts advise establishing a separate investment board and pension regulatory body. Tier 2 assets would be closely monitored by these groups, and system transparency would be enhanced. Fiduciary management would also be enforced. The current digitization of government pension record-keeping have improved the data integrity for over 300,000 employees. Coverage in the informal economy remains poor, and systemic problems persist despite improvements.
+
+Towards a Pension Reform Process
+
+It is already too late to prevent present and future losses because the nation is falling behind in changing the pension obligation. According to the PIDE’s findings, if we start the reform process now, it will take two to three decades to contain damages. Government workers’ productivity and efficiency have been negatively impacted by the underfunded pension scheme, which has enticed them to quit their jobs. Workers under a defined contribution (DC) system are free to move around within the company, which in turn helps to recruit top talent.
+
+We urge the adoption of the DC scheme by increasing pension coverage for private sector workers based on worldwide experiences. Pension policies must be flexible enough to accommodate shifting demographics, such as longer life expectancies at retirement and indexation systems, and the need to elevate the management of pension funds to a professional level. In order to adapt its population demographics and reduce budgetary risks, Pakistan, like many other industrialized nations, must adopt a complex multi-level framework that offers diverse funding and strong institutions. In order to invest the pension money in a health competition and mobilize domestic resources for investment, the capital market must play a role.
+
+Key Features of Selected Developed Pension Systems
+
+Country
+Primary Funding Model
+Retirement Age Indexing
+Occupational Pensions
+Private Pensions
+Notable Feature(s)
+
+Germany
+PAYG + Mandatory DC/DB
+Yes (Life Expectancy)
+Mandatory
+Voluntary
+Jointly funded employer/employee contributions
+
+Sweden
+Three-Pillar
+Implicit
+Mandatory
+Voluntary
+Notional Defined Contribution (NDC) system
+
+Switzerland
+Three-Pillar
+No
+Mandatory
+Voluntary
+Strong emphasis on funded occupational pensions
+
+Canada
+Pre-funded (CPP) + PAYG
+No
+Voluntary
+Voluntary
+Large professionally managed fund (CPPIB)
+
+Netherlands
+Three-Pillar
+Yes (Life Expectancy)
+Mandatory
+Voluntary
+Extensive industry-wide collective pension schemes
+
+According to local and international experience, Pakistan’s pension reform proposal should include:
+
+Multi-Pillar Mandate: Establish a three-tiered system.
+
+Tier 1: Universal Basic Pension.
+
+Tier 2: Mandatory employer-employee DC scheme
+
+Tier 3: Incentives for voluntary savings.
+
+Legal Coverage Mandates: Enforce participation in the public and private sectors, including informal economy workers and female contributors.
+
+Asset Management Oversight: Establish a Pension Regulatory Authority and a separate investment board to manage Tier 2 assets competently.
+
+Population policymaking: Adjust retirement age, contribution rates, and indexing as needed based on population estimates.
+
+Transparency and Accountability: Ensure that all public pension systems use accrual-based accounting to accurately reflect actual liabilities
+
+Financial Transition Strategy: Budget short-term expenses for current pensioners while implementing a funded scheme for new entrants.
+
+Safety Nets for Unprotected Seniors: Provide a minimum social pension through tax-financed transfers to seniors who do not receive contributing benefits.
+
+Reforming long-standing pension systems is, to put it simply, primarily an institutional and political issue. Reforms that lower benefits or raise contributions will certainly face resistance from public-sector unions, bureaucrats, and retirees from the military. When economic responsibility and justice are compromised in favor of elite advantages, the public becomes furious.
+
+In addition, governments may not have the short-term financial resources to establish the necessary financial buffer to cover current liabilities and future system needs when transitioning to DC networks. Waiting for change will exponentially increase expenses and erode macroeconomic stability, according to PIDE’s estimates.
+
+A lot of ground still needs to be covered before we can call the reforms of 2025 a contemporary, strong pension system. An essential part of the reform as a whole is the expansion of coverage, the implementation of contributing mechanisms, the establishment of supervisory agencies, and the alignment of policy with demographic trends. Now that public awareness is on the rise and international examples are providing support, Pakistan has the means and the responsibility to undertake thorough pension reform.
+
+References
+
+Faraz, M.K.N., Flattening the Government Pensions Curve; Making them Sustainable . 2021, Pakistan Institute of Development Economics (PIDE), Islamabad
+
+Khalid, M., N. Faraz, and M.J.T.P.D.R. Ashraf, The Pension Bomb and Possible Solutions. 2021. 60 (2): p. 225-230.
+
+Bank, W., The Atlas of Social Protection: Indicators of Resilience and Equity (ASPIRE).
+
+Siddiqu, O., How To Make Pensions Less Burdensome For The Government? . 2020, PIDE.
+
+Siddique, O., Pensions, Aging of Population, and Fiscal Situation in Pakistan . 2020, Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+SBP, Special Section: Public Pension Expenditures in Pakistan – The Need for Reforms. 2021, State Bank of Pakistan.
+
+Khalid, M., N. Faraz, and A.J.T.L.J.o.E. Irum, Fiscally Sustainable Pensions in Pakistan. 2023. 28 (2): p. 99A-133.
+
+Dr. Shujaat Farooq is currently serving as a Chief of Research and the Director Research at the Pakistan Institute of Development Economics.

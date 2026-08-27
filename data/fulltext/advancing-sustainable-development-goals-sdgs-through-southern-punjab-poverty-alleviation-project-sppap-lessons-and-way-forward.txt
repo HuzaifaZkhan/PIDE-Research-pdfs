@@ -1,0 +1,21 @@
+EXECUTIVE SUMMARY
+
+The Punjab Government initiated the Southern Punjab Poverty Elevation Project (SPPAP) in 2011 with the support of the International Fund for Agricultural Development (IFAD). The primary goal of the programme is to increase the production of the livestock and agricultural sectors and decrease poverty in the most impoverished regions of South Punjab by developing assets and skills. Initially, the programme covered four districts and then extended to ten.
+
+The impact assessment of SPPAP focuses on the role that asset transfers in advancing sustainable development goals and improving household well-being. The main interventions under this programme include small ruminants, small land plots, housing units, vocational and entrepreneurial training, community physical infrastructure, and revolving funds for agricultural and enterprise development.
+
+Propensity score matching (PSM) is a quasi-experimental technique widely used to gauge welfare impacts by comparing the target and control groups. Speciﬁcally, we apply the PSM to all SPPAP beneﬁciary households within the evaluation sample and ﬁnd an adequate statistical match amongst the non-beneﬁciary households in our sample. A total of 2,623 households were interviewed in selected 10 districts.
+
+Key Findings
+
+Poverty Reduction: The programme uses the Benazir Income Support Program’s (BISP) poverty scorecard to effectively target extremely poor households. Asset transfer has a major favourable inﬂuence on household income and food security, especially on the small ruminant programme.
+
+Women Empowerment: SPPAP placed a strong emphasis on training programmes and asset transfers as a means of empowering women. The project opted a participatory approach where community and beneﬁciaries were involved in intervention process, i.e., a woman went herself in market purchase a goat, legal entitlement of the home was transferred to the women, etc. Women have been serving as the president and managers of the communities and they hold a strong monitoring in project implementation. There are joint bank accounts on the name of community and women are part of it. Women said that the outcome decreased gender violence, increased social status, and enhanced autonomy. However, there are still obstacles to attaining gender equity in economic involvement and decision-making.
+
+Food Security: Food security has improved as a result of the creation of food banks and the distribution of goats. Beneﬁciaries report the impact as being better able to maintain a healthy diet and manage seasonal food shortages.
+
+Vocational Training: Training programmes provide beneﬁciaries with market skills, particularly in trades such as dress designing and beautician work. However, the impact of the programme on employment was not clear as a notable portion of trainees were still unemployed.
+
+Livelihood and Employment: The programme shows signiﬁcant improvement in employment particularly for males. Vulnerable employment decreased, while stable job opportunities increased to higher monthly income among employed.
+
+Financial inclusion: SPPAP facilitated access to ﬁnancial services through revolving funds. Beneﬁciaries used loans to invest in agriculture inputs and small businesses, which ultimately led to income generation.

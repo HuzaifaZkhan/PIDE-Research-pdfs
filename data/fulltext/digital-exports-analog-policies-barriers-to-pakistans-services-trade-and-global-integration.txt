@@ -1,0 +1,81 @@
+Pakistan’s export sector is concentrated in traditional goods, specifically agriculture and textiles. However, one promising shift is emerging in the form of a rise in digital services exports. Freelancers, IT firms, and remote service providers are developing an effective engagement with global markets, earning foreign exchange and participating in cross-border value creation.
+
+The Strategic Trade Policy Framework (2020-25)[1] has also acknowledged the significance of this transformation. The policy identifies IT and digital trade as an emerging and priority area for export promotion. Nevertheless, this recognition has not been converted into a vibrant or enabling ecosystem. The policy must be supported by institutional and regulatory alignment.
+
+This gap demonstrates a structural issue: Pakistan continues to implement trade policy through a goods-centric, industrial-era lens, even as the global economy has entered a digitized world that revolves around services, data, and digital platforms.
+
+FROM RECOGNITION TO REALITY: THE SERVICES GAP IN POLICY
+
+The STPF 2020-25 acknowledges export concentration, low value addition, and limited diversification as key challenges affecting trade performance, especially Pakistan’s exports. The policy emphasizes the significance of promoting services sectors such as IT, logistics, and tourism. However, in practice, the framework remains heavily focused towards manufacturing-leg export growth, tariff rationalization, product diversification within goods sectors and industrial clustering. The government intends to increase IT exports to $15 billion by 2030, but this seems a far-off vision without concrete measures.
+
+This demonstrates a policy paradox as services are acknowledged as important in policy documents but remain out of attention in the implementation process. The outcome is a disconnect between stated policy objectives and actual policy instruments.
+
+DIGITAL EXPORTS: PARTICIPATION WITHOUT INTEGRATION
+
+The growth of freelancers operating on global platforms has generated substantial export earnings for Pakistan. According to the State Bank of Pakistan, freelancers earned $557 million in foreign exchange in the first six months of FY 2025-26, up from $352 million during the same period of the previous fiscal year. A 58% year-on-year growth reflects the vibrant role of freelancers in services exports and external accounts. Key services provided by freelancers in Pakistan include software development, design, marketing, and consulting. But issues such as informality, fragmentation, and weak integration into global value chains are hindering progress in this regard.
+
+Unlike goods exports, which are supported by establishing export regimes, digital services operate mainly outside formal policy support systems. This explains why Pakistan has a visible presence in global freelancing markets yet lacks a structured, scalable services export sector.
+
+POLICY BARRIERS IN A DIGITAL ECONOMY
+
+Payment Frictions
+
+Digital trade depends on seamless cross-border payments. In Pakistan, the absence of trusted payment gateways such as PayPal and Stripe is affecting the IT industry and other relevant stakeholders. Receiving international payments is still a major challenge for the industry due to limited access to global payment platforms, foreign exchange controls, and intermediary-based transfer mechanisms. These frictions increase transaction costs and discourage formal financial integration, reinforcing informality.
+
+Tax Uncertainty and Incentive Distortion
+
+Digital workers and IT firms often face an incoherent and inconsistent tax environment. This translates into uncertainty about compliance obligations, administrative burdens for microenterprises, and disincentives to scale operations. Hence, the process of freelancers moving into formal enterprises remains negligible, and firms, especially micro and small enterprises, remain outside the formal domain.
+
+Goods-Centric Policy Orientation
+
+Export incentives, institutional support, and trade facilitation measures are mainly directed towards goods-based exports. Services, especially digitally delivered services, require a different policy framework. The key aspects to focus on include regulatory clarity rather than tariff reduction, digital infrastructure rather than physical logistics, and financial integration rather than customs facilitation. Without such targeted interventions, the growth in services exports cannot be achieved.
+
+Skills without Strategy: A Missing Link in Digital Trade
+
+The constraints on digital exports are not limited to regulation and payments. They are also rooted in a deeper skills mismatch. Employers increasingly demand not only technical expertise but also analytical thinking, adaptability, and digital fluency, skills that remain underdeveloped in Pakistan’s workforce[2].
+
+Furthermore, success in services trade requires communication, collaboration, and the ability to work in global, virtual teams. These competencies are critical for scaling from freelancing to firm-level exports yet remain largely absent from education and training systems. A reactive policy approach compounds the problem. Rather than anticipating future skills needs in areas such as AI, data, and digital services, policymaking continues to respond to immediate employment concerns. This limits Pakistan’s ability to position itself in high-value segments of global services trade.
+
+WHY THIS MATTERS: BEYOND SECTORAL GROWTH
+
+The constraints on digital exports have broader macroeconomic implications.
+
+Export Concentration
+
+According to the State Bank of Pakistan’s data, in FY 2025, total services exports were $8.4 billion, compared to $32.3 billion in goods exports. Besides, Pakistan’s exports are limited to a few sectors, and the STPF also identifies this as a structural vulnerability. Without diversifying exports and incorporating services into policy attention, this concentration may persist.
+
+Limited Global Value Chain Integration
+
+Modern global value chains are increasingly service-intensive, involving design, coordination, logistics, finance, and digital intermediation. Manufacturing trade itself also relies on services inputs, a phenomenon often explained as the servicification of production[3]. Pakistan’s weak services ecosystem is not just a sectoral limitation; it is a structural constraint on integration. Low export volumes of services, combined with limited domestic services capabilities, confine Pakistan to lower-value segments of global value chains. While other economies capture value through embedded services, Pakistan remains concentrated in basic production stages.
+
+Furthermore, traditional trade metrics understate the significance of services, leading to a policy bias that prioritizes goods while neglecting the very inputs that determine competitiveness. This misalignment reinforces a cycle where weak services constrain export upgrading, and limited integration into global value chains further reduces incentives to develop service capabilities.
+
+Foregone Productivity Gains
+
+Digital services are typically high-value-added and less capital-intensive, offering a pathway to productivity growth without the constraints associated with traditional industrial expansion. Unlike manufacturing, which often requires significant physical infrastructure and scale, digital exports enable firms and individuals to generate higher returns with relatively lower upfront investment.
+
+However, Pakistan’s limited development of this sector results in significant forgone productivity gains. By remaining concentrated in low-value activities across goods and digital services, the economy fails to capture the efficiency and income gains associated with higher-value segments such as software development, data services, and digital platforms.
+
+This constraint is not merely technological but policy-driven. Barriers related to payments, taxation, and regulatory uncertainty prevent the scaling of high-productivity firms, while weak skills alignment limits movement into more sophisticated service activities. As a result, digital participation remains shallow, and its potential contribution to overall productivity growth is under-realized.
+
+REORIENTING POLICY FOR DIGITAL TRADE INTEGRATION
+
+Enabling Pakistan’s digital exports requires a fundamental reorientation of policy toward the realities of services trade. At the most basic level, seamless financial flows must be ensured by improving access to international payment systems, simplifying foreign exchange regulations, and reducing transaction costs for exporters. Without this, participation in digital markets will remain constrained by avoidable frictions. At the same time, a predictable and supportive tax regime is essential. Clear and simplified tax structures for digital workers and IT firms, combined with consistency across institutions, can encourage formalization and scaling rather than reinforcing incentives to remain small and informal.
+
+Apart from these foundational measures, services must be operationalized within the broader trade policy framework. Although existing policy documents acknowledge services as a priority area, this recognition should translate into dedicated export promotion strategies, targeted incentives for digital exporters, and the integration of services into trade negotiations and institutional frameworks. Equally important is supporting the transition from freelancers to firms by facilitating business registration, improving access to finance, and building institutional mechanisms that connect service providers with global markets.
+
+Besides, long-term competitiveness depends on aligning skills and global positioning with market demands. This requires reorienting education and training systems toward high-demand digital capabilities, promoting specialization in higher-value service segments, and developing coherent branding strategies to position Pakistan as a competitive exporter of digital services. Without such alignment, policy reforms in other areas will have limited impact on the country’s ability to scale and integrate into global services trade.
+
+CONCLUSION: BRIDGING THE GAP BETWEEN POLICY AND PRACTICE
+
+Pakistan’s Strategic Trade Policy Framework 2020-25 rightly highlighted the structural weaknesses of the export sector, including concentration, low value addition, and limited diversification into services. Yet, this identification has not been converted into execution. The policy remains rooted in a goods-centric framework, even as the global economy has shifted toward services and digital trade.
+
+Digital exports can provide Pakistan a practical way forward to diversify exports, improve productivity, and integrate into global value chains. However, persistent barriers, ranging from payment frictions and tax uncertainty to weak skills alignment and institutional gaps, continue to constrain this potential. The challenge, therefore, is not a lack of policy intent but of misalignment. Pakistan is attempting to compete in a services-driven global economy with regulatory, financial, and institutional systems designed for an earlier industrial era.
+
+Addressing this requires a shift from incremental reform to a strategic reorientation, placing services, particularly digital services, at the center of trade policy. Without such a transition, Pakistan risks remaining confined to low-value segments of global trade, despite possessing the human capital and market access needed to move up the value chain. In a global economy defined by services and digital integration, the real constraint is no longer what Pakistan produces, but how it enables value to be created, delivered, and scaled
+
+[1] Strategic Trade Policy Framework, Ministry of Commerce, Government of Pakistan, https://www.commerce.gov.pk/wp-content/uploads/2024/07/Final-STPF-2020-25.pdf
+
+[2] Accountability Lab. (2024). 21 st century employability skills. Policy Brief, https://pakistan.accountabilitylab.org/wp-content/uploads/2024/09/Policy-Brief-21st-Century-Employability-Skills.pdf
+
+[3] Lanz, R., and Maurer, A. (2015). Services and global value chains-Some evidence on servicification of manufacturing and services networks. World Trade Organization, Economic Research and Statistics Division

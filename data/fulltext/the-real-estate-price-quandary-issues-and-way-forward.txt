@@ -1,0 +1,123 @@
+The Real Estate Price Quandary: Issues and Way forward[1]
+
+PIDE (RAPID) Reform Agenda for Accelerated and Sustained Growth (2021) argues that the real estate market of Pakistan is both inefficient and poorly structured.
+
+Large information gaps exist in the properties supplied, demanded, bids and offers, and the contract prices.
+
+This generates suspicions and claims of real estate parking illegal or black money.
+
+Government instead of structuring the market has set up artificial administered prices—the DC rate and the FBR rate—further contaminating the information gaps and issues in the market.
+
+Currently, at least three property rates are operational in the market and that include:
+
+The Federal Board of Revenue (FBR) immovable property valuation
+
+The District Collector (DC) rate
+
+The market rates
+
+The existence of multiple rates in the real estate market is due to the revenue considerations of the agencies. Although the actual transaction happens at the market rate, the recorded price is primarily determined by the government DC rate in line with what the government expects.
+
+District Collector (DC) Rate
+
+Provincial governments use the District Collector (DC) rate to calculate the stamp duty and Capital Value Tax (CVT). Section 27-A of the Stamp Act (1899) states that the duty on the immovable property shall be charged according to the value of the property, and for the valuation of the property DC notified value table/rate shall be used.
+
+There are four types of taxes/duties applicable to real estate transactions: The Provincial Government collects stamp duty and capital value tax. The Federal Government collects the capital gain tax and withholding tax.
+
+The district collector announces the valuation of properties based on the characteristics of properties that include location (district, tehsil), type (urban, rural), and nature (the classification of land) of the property. The practice of applying the DC rate at the time of mutation was formally adopted during the 1980s with the following objectives:
+
+i. To make the sector more efficient
+
+ii. To maximize the tax revenue
+
+iii. To control price fall.
+
+________________________
+[1]Prepared under the guidance of Nadeem Ul Haque by Ahmed Waqar Qasim and the Market Unit at the Pakistan Institute of Development Economics.
+
+Currently, provinces charge stamp duty at a rate of 3% for rural immovable property and 1% for urban properties evaluated at DC rates. While the capital value tax rate is 2% for the urban property evaluated the DC rate.
+
+Afterward, the stamp duty and CVT, which fall under the provincial jurisdictions, are calculated based on DC rates at the time of mutation. Initially, the Federal Government also adopted DC rates to calculate both capital gain and withholding taxes. However, in Income Tax Ordinance 2001, the power to determine the property price was given to the commissioner. The Income Tax Rules 2002 also prescribed the mechanism for the commissioner to determine the fair market price.
+
+The Federal Bureau of Revenue Valuation of Immovable Property
+
+Issues in the adoption of the DC rate for charging taxes emerged in the mid-1990s when the DC rates were far below the market rates. Moreover, the revision of the DC rates was not carried out periodically. As a result, real estate transactions naturally create unrecorded flows: recorded or “legal” money follows the DC rate while the funds above that rate are then considered to be outside the “official” economy. The announcement of the DC rate readily develops “black-market” flows.
+
+Capital Gain Tax Rates on the sale of an Immovable Property
+
+Note
+
+· 100% Gain on sale of immovable property is exempt if the holding period exceeds 4 years.
+
+· 75% Gain on sale of immovable property is exempt if the holding period exceeds three years but does not exceed 4 years.
+
+· 50% Gain on sale of immovable property is exempt if the holding period exceeds 2 years but does not exceed 3 years.
+
+· 25% Gain on sale of immovable property is exempt if the holding period exceeds 1 year but does not exceed 2 years.
+
+· 0% Gain on sale of immovable property is exempt if the holding period does not exceed 1 year.
+
+Withholding/Advance Tax on Immovable Property
+
+· Buyers have to pay 2% in case of being a tax filer and 4% if non-filers.
+
+· Sellers have to pay 1% in case of being a tax filer and 2% if non-filers.
+
+· The withholding tax is applicable if the property valued under mutation is at more than Rs. 4 million.
+
+To tackle the valuation gap between the DC rate and market rate, the FBR started the practice of issuing the valuation of immovable property for different cities in Pakistan in 2016. These valuation tables are meant to be at par with the market rate, and the FBR has revised these tables two times, i.e., in 2019 and 2022, so far. Now the capital gain tax and withholding tax on the sale of immovable property are calculated based on FBR immovable property tables in localities where the tables are notified, while for all other localities the DC rate is still applicable.
+
+20 th -century experiments with price controls and socialism found to their regret that market rates fluctuate substantially, and administrators are incapable of setting such prices with any level of accuracy. Large amounts of evidence are available on this issue. Sadly, we continue to set prices for real estate to confuse both policy and the market. The market’s rate differs widely from both the FBR valuation and the DC rates. The market rate (the actual rate at which transactions are happening in the real estate market) is roughly 5 to 10 times higher than the DC rate and 2 to 4 times higher than the FBR rate (See Box 1).
+
+Box-1: The problem with Administrative Pricing.
+To highlight the difference in these rates and show the anomalies in the objective for which the DC rate and the FBR were introduced, we performed a small exercise. We selected two properties from Rawalpindi city (Satellite Town) and compared the market rates of these properties with the DC rate and the FBR valuation.[1]
+
+A comparison between different rates valuated by different institutes (Rs. Million)
+
+There exists a huge gap between the valuation of these properties at different rates. This valuation gap leads to a tax gap as well. The tables below show the magnitude of the valuation and the tax gap.
+
+The gap in valuations (Rs. Million)
+
+Tax Gap (Rs. Million)
+
+Assumption: the transaction price is 90% of the asked price, the property float for sale after 4 years of purchase.
+
+The outline of this approach is as follows:
+
+Eliminate DC rates and the FBR valuation tables.
+
+All properties to be sold must be advertised on a portal for all to see.
+
+Once a contract has been settled, it must be listed on the exchange for at least 2 weeks—called the contract period — before the transfer can take place. Authorities must by law require that all contracts be revealed on the exchange for 2 weeks for transfers to be affected. The contract of the sale must be disclosed. Details must
+
+a. Price of the sale.
+
+b. The deposit placed on the sale
+
+c. The time when the deal will be closed
+
+d. Deposit for sale will be placed in escrow to be surrendered in case of default.
+
+4. The contract period will allow an auction market to happen.
+
+a. Any buyer can outbid and claim the contract on the following conditions:
+
+b. The bid price must be at least 10% higher than the previous bid but
+
+i. On the same or better terms than the previous bid; and
+
+ii. With a deposit of 2 times that of the previous bid unless the full price is paid upfront.
+
+iii. The deposit will be placed in escrow and forfeited in case of default.
+
+c. The settlement date can only be shortened not extended
+
+5. Legal transfer by the local authorities will only happen once these conditions have been certified by the managers of the portal. Transfer of property to a family member through gift or transfer of a property through inheritance may be exempted from this mechanism.
+
+6. Prior registration at the forum/portal along with necessary information is required.
+
+3. An Auction market: A Solution
+
+The solution to this problem is to set up a proper market for real estate .
+
+One possible solution is the introduction of multiple listing services that allow auctions.

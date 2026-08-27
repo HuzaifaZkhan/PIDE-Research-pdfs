@@ -1,0 +1,229 @@
+Executive Summary
+
+Urban sprawl in Karachi is one of the alarming issues that poses both environmental and social challenges. Over the past several decades, the city has gone through a massive spatial growth in the core areas as well as in the suburbs and peripheries. The increase in built-up areas has happened at the cost of loss of agricultural land and green spaces. In 1947, the land cover of metropolitan Karachi was 349 km 2 ; since then, it has increased to 3780 km 2 , a spatial increase of 74.6 km 2 per year. The urban primary core has increased from 145.9 km 2 in 1990 to 363.5 km 2 in 2020. Unregulated expansion of housing societies and commercial buildings in the periphery of Karachi, rapid increase in population, informal settlements, increase in katchi abadies, implementation failures of master plans, and lack of enforcement of a stringent policy for urban management are the primary causes of urban sprawl in Karachi. The impacts of sprawl can be seen in the form of loss of green spaces and natural streams, urban flooding and long commuting distances. To manage the sprawl, it is recommended that vertical growth should be encouraged, a policy on the city’s growth boundary should be formulated and implemented, illegal housing societies should be regulated properly, and urban planning should integrate modern and smart technologies for sustainable development.
+
+Introduction
+
+Karachi is the most populous city of Pakistan with a population of 20.3 million. The population is increasing at the rate of 4.8% per annum (Aslam et al., 2023). This increasingly growing population has not only put pressure on the resources but also pushed the boundary of the city outwards. The city is growing rapidly in a haphazard manner and has experienced urban sprawl. In order to understand the problem, defining it is an important step. In literature, urban sprawl has been defined using various approaches by different scholars. Mujahid and Begum (2023) define urban sprawl as an unplanned or uncontrolled growth of the inner city towards its periphery, resulting in pressure on the development around the boundary. Hayden (2004) defines sprawl as “development of large-scale real estate resulting in low-density, scattered, discontinued car-dependent construction, usually on the peripheries”. Bourne (2001) provides a different observation about sprawl and defines it as “any extension of suburban margin, the extension of development onto the green fields and agricultural land, increases in highway congestion, the rise of new subdivisions of low-density, single-family housing. These definitions highlight the sprawl indicators and help to understand the phenomenon through different perspectives.
+
+The degree of urban sprawl depends on the extent of built-up area and dispersed buildings. The land cover of metropolitan Karachi in 1974 was 349 km 2 , which has increased to 3780 km 2 in 2020, an annual increase of 74.6 km 2 (Ahmad, 2023). Due to lack of proper urban planning, poor regulations and a rapid surge in population, Karachi city is expanding beyond its capacity, which has put pressure on existing infrastructure and caused environmental degradation [1] . The unplanned urban sprawl has put pressure on the city’s drainage systems, green areas, barren land, waterways and forest areas, which have become the main reason for environmental destruction and disasters like urban flooding in Karachi. Replacement of green areas with impermeable surfaces triggers flood incidence (Abass et al., 2020). Destruction of green areas that absorb water on rainy days, encroachments on waterways, malfunctioning drainage systems due to blockages, and urban sprawl are strongly linked to Urban flooding in Pakistan [2] . Five master plans were formulated, all of which lacked legal cover, resulting in urban sprawl and expansion of slums (Hussain, 2025). This knowledge brief is an attempt to explore the patterns of urban sprawl in Karachi, its causes, consequences and actionable recommendations to deal with the haphazard growth.
+
+The Sindh government is currently developing the Greater Karachi Regional Plan 2047, expected to be completed by August 2026. However, experts raised concerns about whether this plan would address Karachi’s immediate needs, given the historical failures of past planning efforts. Karachi’s planning is often shaped by political interests and authoritative control rather than expert urban planning, leading to severe mismanagement. The purpose of a master plan is to provide scientific evidence for population growth and structure the city accordingly, but Karachi’s past attempts have been riddled with delays, mismanagement, and lack of implementation[3].
+
+These plans are created by the same regulatory bodies tasked with enforcement, such as the Karachi Development Authority (KDA), creating a conflict of interest. The city finds itself grappling with a top-down approach, where high-rises appear in low-density zones and civic infrastructure is either reactive or entirely missing.
+
+This knowledge brief aims to highlight the sprawl pattern in Karachi in the light of the above definitions, specifically focusing on changes in Land Use and Land Cover, developments on the peripheries, real estate development and loss in cultivated land and green area.
+
+Urban Sprawl in Karachi and Its Impacts
+
+Over the past decades, both the core areas and the city’s suburbs have experienced a spatial growth on a large scale (Baqa et al., 2021). Urban sprawl, with informal and formal development along the city’s periphery, has placed immense strain on the city’s finances by requiring new infrastructure extensions (World Bank, 2025). Weak governance and institutional inefficiencies have caused the conversion of rural lands into residential and industrial areas without proper urban planning. The large-scale conversion of rural lands has caused urban sprawl since the early 2000s. Lack of control over land conversion laws and expansion of peri-urban areas around the peripheries have accelerated the sprawl in Karachi (Akhtar & Dhanani, 2013; Ahmed et al., 2020). Urban sprawl has caused the loss of green areas and agricultural land, the development of heat islands, urban flooding, and loss of sewerage system (Baqa et al., 2021; Ahmad, 2023).
+
+The built-up area has increased unpredictably, primarily at the cost of loss of agricultural land, forest area, and other green spaces ( Figure 1 ). Forests and green fields play a pivotal role in water absorption and storage during rainy seasons and protect from flooding. Unfortunately, due to high scale urban sprawl, green areas have been reduced at a large scale, and the risk of flooding has increased.
+
+The alarming situation is the rate at which land has been converted into the informal built-up area, as it has changed from 144.31 km 2 to 217.19 km 2 from 2000 to 2020, an increase of 72.88 km 2 . It has been explored that planned and unplanned development will be towards the city’s East direction. More than 50 % of the city is informally built due to illegal housing societies, katchi abadies, slums, and dispersed settlements (Li et al., 2023).
+
+Figure 1: Urban Sprawl in Karachi from 2000 – 2020.
+
+Source: Li et al. (2023).
+
+Table 1 highlights the overall statistics of LC/LU for various classes in Karachi. From 2005 to 2027, a notable change can be seen within the urban classes. Interestingly, negative changes can be seen within the Agricultural, Water and Natural and Semi-natural classes.
+
+Table 1: Land Cover and Land Use of Karachi: Overall Statistics.
+
+2005
+
+Area
+2017
+
+Area
+Changed Area
+Annual Change
+
+LU/LC Classes
+(km²)
+(%)
+(km²)
+(%)
+(%)
+(%)
+
+Urban
+655.31
+22.26
+880.54
+29.91
+34.37
+2.86
+
+Agricultural
+425.39
+14.45
+377.56
+12.82
+-11.24
+-0.94
+
+Natural–Semi Natural
+1,748.31
+59.38
+1,573.69
+53.45
+-9.99
+-0.83
+
+Water
+115.04
+3.91
+112.17
+3.81
+-2.49
+-0.21
+
+Source: World Bank.
+
+The Land Use and Land Cover area has been notably changed over the past three decades. As indicated in Table 2 , between 1990 and 2020, the built-up area, shrub land and grassland have expanded, while the agricultural land, mangroves, and open bare land have reduced.
+
+Table 2: Areal changes in each land use land cover type in Karachi.
+
+Area (sq.km)
+
+Change Rate (%)
+
+LULC Classes
+1990
+2000
+2010
+2020
+1990-2000
+2000-2010
+2010-2020
+
+Built-up area
+221.1
+358.7
+424.3
+573.9
+62.23
+18.28
+35.25
+
+Bare land
+2663.7
+2811.0
+2491.7
+2156.6
+5.53
+-11.35
+-13.44
+
+Cultivated land
+112.2
+159.3
+148.4
+81.5
+41.97
+-6.84
+-45.08
+
+Grassland and shrub land
+534.3
+370.5
+563.0
+867.7
+-30.65
+51.95
+54.12
+
+Mangroves
+65.9
+13.8
+14.2
+17.0
+-79.05
+2.89
+19.71
+
+Water bodies
+23.8
+46.5
+54.0
+56.8
+95.37
+16.12
+5.18
+
+Source: Baqa, et al. (2021 ).
+
+Table 3 illustrates a district-wise increase in built-up areas in Karachi. It can be seen that Karachi Central, South, and East districts, which are far from the core areas, had a record high growth from 1990 to 2020, particularly in the Malir (417.92%), West (279.38%), and Kiamari (257.05%) districts.
+
+Table 3: Change in Built-Up Area (%) by District, Karachi.
+
+District
+1990–2000
+2000–2010
+2010–2020
+1990–2020
+
+Kiamari
+118.49
+3.08
+14.13
+257.05
+
+Korangi
+29.91
+10.75
+28.98
+185.59
+
+West
+96.63
+26.78
+12.07
+279.38
+
+South
+29.07
+-0.77
+11.64
+142.97
+
+Central
+29.67
+-3.95
+3.11
+128.43
+
+East
+47.61
+3.95
+22.57
+188.07
+
+Malir
+66.16
+19.13
+111.12
+417.92
+
+Source: Author’s compilation from literature.
+
+From 1990 to 2020, the urban primary core increased from 145.9 km 2 to 363.5 km 2 . In 1990, expansion of urban primary was observed in the Central Business District (CBD) area, while in 2020, the urban primary core expanded further into the suburban districts, indicating a clear pattern of urban sprawl. From 1990 to 2020, due to rapid outward expansion, the observed urban secondary core areas merged with the urban primary core, leading to a new urban secondary core emerged in the suburban areas of Karachi.
+
+Real-estate development is rapidly driving urban sprawl, particularly along the coastal belt. Projects marketed as “sustainable” are replacing historic neighborhoods in Clifton and expanding into ecologically sensitive and contested lands from Hawke’s Bay to Thatta. This unchecked outward expansion is transforming conservation zones into peri-urban real-estate hubs, raising serious concerns about land use planning and environmental governance[4].
+
+The impacts of urban sprawl can be felt in the loss of green fields, urban flooding, the non-existence of sewerage systems and loss of drainage streams (Ahmad, 2023). The expansion of urban infrastructure happened at the cost of loss in natural streams ( Fig 2 ). This has led to reduced space for rainwater runoff and has created problems for urban flood managers [5] . Between 1980 and 2020, Karachi’s urban area expanded by 286%, resulting in the obstruction or elimination of approximately 870 km of natural streams [6] . This loss of natural streams reduced the drainage capacity of the city and became one of the reasons behind urban flooding.
+
+Figure 2: Stream network blockage over time by overlaying urban extent from 2000 to 202 [7] .
+
+Source: A. Baig, S. Atif, & A. Tahir (2024).
+
+Causes of Urban Sprawl in Karachi
+
+1. Unregulated expansion of housing societies and commercial buildings in the periphery of Karachi.
+
+Karachi’s haphazard and unplanned growth has caused the emergence of slums on a large scale. As a result, the property dealers have taken advantage of the situation and started developing housing schemes around the edge of the city. The outgrowth of Karachi city beyond the municipal limits is aided by near to minimal restrictions on building guidelines (Hussain, 2025). Karachi has 119 illegal housing societies that do not follow any of the development authority rules (Ahmad, 2023). Construction of permanent buildings within Green Belts, important to stop urban sprawl and preserve natural landscape, is illegal; however, in Karachi, the Green Belts have turned into commercial areas and business zones. Green belts are being encroached and used for business purposes in areas like Gulshan-e-Johar, Liaquatabad, Teen Hatti, Nazimabad, among others
+
+The key authorities responsible for these affairs include Sindh Master Plan Authority, Karachi, Malir and Lyari Development Authority, and Sindh Building Control Authority. Horizontal expansion continues because planning, land conversion, and construction approvals are fragmented across multiple authorities, with no one accountable for citywide spatial outcomes. Due to fragmented accountability, each authority operates within a narrow mandate, and no authority is explicitly responsible for controlling the sprawl.
+
+In Karachi, unplanned settlements or katchi abadies house millions of residents. Their rapid, unregulated growth fuels urban sprawl, extending the city horizontally and making service delivery, transport, and planning increasingly difficult. As a result, Karachi’s expansion is chaotic, inefficient, and environmentally unsustainable.

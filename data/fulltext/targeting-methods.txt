@@ -1,0 +1,31 @@
+Over the last three decades, social protection schemes have been considered effective policy instruments to address poverty and promote human capital. Following the global best practices, Pakistan launched numerous cash transfers programmes, including the Benazir Income Support Program (BISP), to improve the wellbeing of the deprived segments of society.
+
+To implement the social safety nets, effective and transparent targeting is required. Community-based approach and Proxy Means Test (PMT) scores are widely used to target deserving people. In a community-based approach, targeting is mainly performed through the local community and political representatives, which encompasses the problem pertaining to the effectiveness and transparency of the programme.
+
+The second widely used approach is the PMT score measured through multiple socio-economic indicators. Such socio-economic dimensions include a household’s roster profile, education, employment, health, assets, and other vital aspects of households. From these indicators, a poverty score is calculated whose values range from 0 to 100, where 0 means extremely poor, while 100 means a completely well-off household. Policymakers determine a threshold to identify the households eligible for the social protection programme.
+
+For this purpose, a census-type household survey is required as BISP had collected National Socio-Economic Registry (NSER) in 2010-11. A countrywide survey was conducted in 2019-21 – NSER II – whose fundamental objective is to minimise the inclusion-exclusion errors and target the most deserving segment of the population under the umbrella of the Ehsaas programme.
+
+Recently, BISP launched NSER II. The salient features of NSER II are as follows: first, it has covered almost all households in Pakistan with some additional information on the household-specific socio-economic indicators as compared to the NSER 2010-11. Second, it is the first digital census-type household survey of the country while the earlier NSER was entirely paper-based.
+
+Third, the survey contains several quality checks to ensure the transparency and reliability of the data. Four, most importantly, the survey has turned into the dynamic registry. Five, establishing the cell related to shock-responsiveness in future by BISP. And, six, the data-sharing protocols are revised and updated to ensure the accessibility of the NSER to all researchers and academics.
+
+Despite efforts to improve data quality, there are two key points to be discussed. First, NSER II is collected through the different phases, such as before and amid the outbreak of Covid-19, which could influence the eligibility criteria of being a BISP beneficiary. The second point to discuss is BISP’s responsiveness to the occurrence of covariate shocks. To approach the vulnerable households, National Disaster Management will inform BISP about shocks in that particular area, and people will report the losses they would bear.
+
+The classification of the PMT score for that shock-stricken area will be used to target the deserving households. The step seems reasonable, but it has some issues, such as: households could understate or overstate the losses of the assets to manipulate the probability of being beneficiary.
+
+Researchers working to collect data have observed that households are aware enough to manipulate the eligibility criteria due to their experience of being part of a survey related to the BISP and Ehsaas programme. Although NSER II matched the households’ roster profile through the data taken from NADRA against the CNIC of the surveyed households, the information related to household assets and employment still can be manipulated by the respondents despite the implementation of some data reliability checks on the underlying survey data.
+
+Implementation of shock-responsiveness will be one of the significant features of BISP because Pakistan is a highly vulnerable country to climatic-shocks and disasters and ranks at fifth position. PIDE has conducted numerous studies that established the adverse impacts of climatic shocks on food security and other measures of households’ wellbeing. The available literature from developing countries demonstrates that social protection programmes play a crucial role in moderating the covariate shocks’ adverse impacts. A PhD thesis titled ‘Essays on Social Safety Nets’ presented at PIDE shows that a shock adjusted targeting system is required to provide timely financial support to deserving people during natural shocks such as Covid-19, floods and locust attacks.
+
+There should be some alternative model to implement the cash transfer targeting against the covariate shocks. There should be collaboration among the Pakistan Meteorological Department (PMD), NDMA, and BISP. BISP should launch forecast-based cash transfers to anticipate extreme weather events and flood hazards. The anticipation of extreme weather events is based on the PMD, while the NDMA anticipates flood hazards. Hence, a forecast-based approach could be a highly effective tool.
+
+This model in Bangladesh has worked effectively where the government provided early cash transfers just before the occurrence of flood hazards due to early forecasts. The published research suggests that the provision of cash before the flood event helps vulnerable people not sell their productive assets to cushion the adverse impacts of the flood hazards. In this way, the beneficiaries have become more resilient against the imminent shock.
+
+So, for me, following this model, BISP can achieve positive and significant outcomes through such shock-responsiveness. The second way to tackle the weather and flood shocks is to revise the formula of the PMT score. There is a need to include rainfall indicators and probability of flood occurrence directly in the model and other socio-economic indicators to compute the PMT score, which would be deemed the shock-adjusted poverty scorecard. A more reliable and effective targeting could be maintained by adopting the two suggestions mentioned above.
+
+The writer is a research fellow at the Pakistan Institute of Development Economics (PIDE). He can be reached at:
+
+ghulam.mustafa@pide.org.pk
+
+Published in The News, January 10 , 2022. Newspaper Link

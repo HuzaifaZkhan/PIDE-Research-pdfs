@@ -1,0 +1,47 @@
+1. Introduction
+
+Despite expanded generation capacity of over 45,000 MW by mid-2025, the power sector continues to remain fiscally insolvent. DISCO inefficiencies persisted with the average transmission and distribution (T&D) losses being 16-17 percent and the collection between 95 percent for IESCO and LESCO to 60 percent for PESCO and QESCO, contributing to a vicious circle of arrears and bailouts for all ten state owned DISCOs (Ministry of Power Division, 2024). Circular debt accrues due to a number of reasons including supply cost outweighed by the tariff revenue, delayed subsidy disbursements, high losses, and payments for predetermined capacity. To bridge this deficit, the government has always raised tariffs or imposed surcharges periodically. These periodic tariff increase adds to the burden of inefficiencies especially for the lower-income groups who are least able to absorb it. The result is a power sector that is financially unsustainable, politically indefensible, and socially unacceptable.
+
+2. Debt-Driven Tariff Escalation
+
+Pakistan’s electricity sector seems to be trapped in a debt driven vicious cycle of escalating tariffs with periodic hikes in consumer electricity rates that are not indicative of real energy costs (or of efficiency gains). This emphasis on price raise rather than operating or structural redemption has worsened financial and social precariousness of the sector. The circular debt of over PKR. 2.6 trillion (FY2025) is a result of continued under-recoveries, delayed subsidies, and capacity payments to independent power producers (IPPs). Instead of addressing these systemic inefficiencies through reforms, the financial burden is always shifted to the consumers through surcharges and tariff increases like the Debt Servicing Surcharge (DSS), the Tariff Rationalization Surcharge (TRS) and the Fuel Price Adjustment (FPA).Thus, the effective tariff has increased by almost 3 times from an average of PKR. 12.5/kWh in 2015 to PKR. 34.45/kWh in 2025, with the increase being mainly driven by debt, rather than cost, related factors. Earlier studies1 show that a uniform tariff increase has a regressive impact for the poor households. Circular-debt financing through uniform tariffs is fiscally unsustainable and socially regressive, requiring a progressive restructuring of tariff and subsidy frameworks.
+
+The theoretical framework used to analyze this relationship is a combination of tariff decomposition and income quintile incidence analysis2. Tariff decomposition identifies what share of total tariff is related to actual energy generation, transmission, and distribution cost, and how much is related to debt-servicing products. The empirical basis is provided by National Electric Power Regulatory Authority’s (NEPRA) State of Industry Report (2024), which suggests that approximately 30–35% of the present electricity tariff consists of non-energy financial adjustments, i.e., charges for inefficiency and repayment of debt. The framework also integrates NEPRA’s tariff slabs with household energy consumption data from the Pakistan Social and Living Standards Measurement (PSLM) Survey to analyze the burden differentials3. Through this linkage, the effective tariff for each quintile is multiplied by monthly consumption on average: lower quintiles (Q1–Q2) consume fewer amounts of energy but pay higher effective prices on a proportional basis because of uniform surcharges, whereas higher quintiles (Q4–Q5) face higher absolute costs but carry a smaller relative burden. In addition, the concentration-curve approach is implemented, which encompasses a complete analytical structure for testing how equitable financial strains (e.g. electricity surcharges or repayments of debts) are across income-percentiles. The households are ranked from poorest to richest by income or expenditure following the approach established by Jacobson, Milman, and Kammen (2005) and later utilized by Levinson (2019). Cumulative share of total surcharge payments or share of debt burden is plotted for each income group against the cumulative share of households. The resulting curve is then compared with the 45-degree equal line. If the curve is below the line of equality, it means that the distribution is regressive i.e., low-income households face a higher relative burden. The approach is standard in energy and public-finance research for analyzing the equity of cost-recovery mechanisms and tariff designs, and is well suited to quantifying the regressive impact of circular-debt surcharges on poor consumers.
+
+The distribution effect of the energy burden is shown in Figure 2. For the bottom quintile, consuming up to 100 kWh per month, the tariff has increased from PKR. 11.72/kWh in 2018 to PKR. 22.44/kWh in 2025, of which nearly 37% is composed of circular-debt-related surcharges. Middle-income households (Q3) using around 250–300 kWh/month now face effective tariffs of PKR. 34.2/kWh, while higher-income consumers (Q5 >700 kWh/month) face rates nearing PKR 46.5/kWh. However, the share of non-energy costs within the total bill declines progressively from 60% for Q1–Q2 to 30% for Q5, highlighting the regressive nature of debt recovery. In essence, circular debt has transformed electricity tariffs into a quasi- fiscal instrument, where households especially the poor cross-subsidize systemic inefficiency.
+
+This dynamic is making energy less affordable, curbing demand from the poor, and locking them into a cycle of energy poverty, which implies the need for structural, rather than price-based, debt solutions. The cumulative share of DSS paid by the households is represented by the concentration curve depicted in Figure 3. Being below the 45degree line means that DSS is regressive (i.e., it is the lower income groups who pay a greater proportion of their income towards DSS). The poorest 40% of households (Q1 and Q2) pays roughly 55–60% of total DSS, though they earn less than 30% of total income. However, the top quintile pays a meagre 15 to 20 percent of the DSS though it enjoys close to half (nearly 45%) of the total income.
+
+This distortion occurs because poor families buy electricity under a subsidized rate but pay steep and uniform surcharges across the board for each unit consumed while rich consumers are increasingly leaving the grid altogether with solar and net metering, making them less affected by DSS escalation. Therefore, the impact of tariff increases following circular debt serves to worsen affordability and energy poverty by passing along the burden downward. Every rupee of liability is now converted into a charge per unit, with the result that the risk is in effect being borne by the poor households. Such a regressive process not only leads to shifting the cost of subsidies for the poor to that of the other fiscal burden, but also borrows away any significant fiscal relief.
+
+The circular debt in terms of the concentration curve reveals that the crippling power sector problem in Pakistan is far more than a technical-financial problem and is, in fact, a distributional problem. Converting unpaid liabilities to additional levies on units turns cost-recovery into a regressive form, hitting poor households the hardest and delivering little fiscal relief. To achieve a sustainable and equitable energy future, fiscal responsibility should be shifted from end-users to efficiency in policy-making. This is related to technical and commercial losses in DISCOs, governance and accountability, subsidy rationalization and progressive tariffs that are cost reflective and socially acceptable. Without such reforms, the circular debt threat will continue to sustain an economic injustice.
+
+Policy Recommendations
+
+1. Target DSS and TRS to High-Consumption Slabs (>200 kWh) to preserve relief for the bottom 40%.
+
+2. Shift Circular-Debt Servicing to Fiscal Accounts, treating it as a sovereign liabili
+
+3. Mandate Performance-Linked Subsidy Caps for DISCOs tied to loss-reduction targets.
+
+4. Expand Lifeline Coverage to 100 kWh with dynamic targeting.
+
+References
+
+ICAP. (2025). Power Sector of Pakistan.
+
+Ilyas, R., Khan, H. U., & Rauf, A. (2022). Welfare Impacts of Policy Reforms: A Case of Electricity Subsidies in Pakistan. International Journal of Energy Economics and Policy, 12(3), 41–49.
+
+Jacobson, A., Milman, A. D., & Kammen, D. M. (2005). Lorenz curves of cumulative electricity consumption and Gini coefficients as metrics of energy distribution and equity.
+
+Levinson, A. (2019). The Electric Gini: Income redistribution through energy. (NBER Working Paper No. 26385). National Bureau of Economic Research.
+
+Mastropietro, P., & Hadjielias, E. (2019). Who should pay to support renewable electricity? The regressive impact of renewable support mechanisms on income distribution. Energy Strategy Reviews, 27, 100436.
+
+Ministry of Energy (Power Division). (2024). Circular Debt Management Plan 2023–24. Islamabad. NEPRA. (2025). State of Industry Report 2024. Islamabad.
+
+Rubab, A. (2021, June 15). Impact of electricity subsidy reforms in Pakistan (Welfare analysis of income inequality). SSRN. https://doi.org/10.2139/ssrn.3940422
+
+Sohail, F., & Naz, A. (2023). Crowding-out effect of increased electricity tariff on household budgeting in Pakistan: Evidence from HIES 2013-14 & 2018-19. Pakistan Journal of Applied Economics, 33(2), 211-230.
+
+World Bank (2016). Residential Electricity Subsidies in Pakistan. Washington, DC.

@@ -1,0 +1,64 @@
+The global value chain (GVC) breaks down production across borders. Businesses in different countries perform stages of making a product or service, then trade them. Countries can join GVCs by importing materials for export of final products (backward participation) or exporting parts for further processing elsewhere (forward participation). Bangladesh thrives in backward GVCs for apparel, making it the world’s second-largest exporter whereas Vietnam excels in forward GVCs for smartphones, assembling parts from other countries.[3]
+
+Pakistan lags in both backward and forward linkages. While SMEs worldwide participate well in GVCs, Pakistan’s low R&D and high trade barriers hinder this channel. Our backward participation is low (5.8%) while forward participation is a bit better (34.4%), see Table 1. However, our exports are mostly low-value goods. Export industry in the country is dependent on local natural fiber, yarn and fabric materials to integrate into the apparel GVC (see Figure 1), and high import tariffs (11% to 16%) do not allow the industry to use cheaper raw material from international market followed.[4]
+
+Table 1 Pakistan’s GVC Participation Index
+
+1990
+2015
+2020
+
+Backward participation
+6.3%
+5.9%
+5.8%
+
+Forward participation
+21.5%
+29.1%
+34.4%
+
+Total participation
+27.8%
+35.0%
+40.1%
+
+Source: Authors’ calculations [5]
+
+Figure 1 Pakistan in the Apparel GVC
+
+Source: Frederick & Daly (2019)
+
+The core problem associated with the low economic activity is high import tariffs in Pakistan, which are the primary source to raise tax revenues. The tariffs reduce the competitiveness of local industry in the international market (Figures 2-3). Our research at the Pakistan Institute of Development Economics (PIDE) finds that reducing import tariffs results in more domestic commerce, international trade and a higher level of economic growth, increasing the overall tax collection.
+
+Figure 2 Share of Tariffs in Tax Revenues (%)
+
+Source: Strategic Trade Policy Framework (2019)
+
+Figure 3 Tariff Rate, Average (%)
+
+Policy Recommendations
+
+We recommend a five-year phase out plan for the high import tariffs:
+
+Producer welfare: Gradually reduce the import tariffs on the most protected intermediate inputs until their rates align with the current average tariff rate, approximately 12 percent, within the first two years. This step aims to raise producer welfare.
+
+Consumer welfare: Subsequently, reduce import tariffs on highly protected final products until their rates match the prevailing average tariff rate, around 12 percent, within the subsequent two years. This strategic move aims to share the overall welfare gain from producers to consumers.
+
+Minimize distortions: In the final phase, uniformly decrease tariffs across all industries until achieving a 5 percent tariff rate within the next year, fostering an internationally competitive market structure.
+
+To achieve above goals, we recommend a quarterly adjustment in the import tariff policy.
+
+Reference
+
+Frederick, S., Daly, J. and Center, D.G.V.C., 2019. Pakistan in the apparel global value chain. Duke Global Value Chains Center, Duke University.
+
+[1] Pakistan Institute of Development Economics (PIDE), Islamabad. Email: zeshan@pide.org.pk , muh.zeshan@gmail.com
+
+[2] Pakistan Institute of Development Economics
+
+[3] https://www.sbp.org.pk/reports/quarterly/fy20/First/Special-Section-1.pdf
+
+[4] Pakistan Customs Tariff FY 2023-24. https://www.fbr.gov.pk/categ/customs-tariff/51149/70853/131188
+
+[5] Our results are consistent with the SBP: https://www.sbp.org.pk/reports/quarterly/fy20/First/Special-Section-1.pdf

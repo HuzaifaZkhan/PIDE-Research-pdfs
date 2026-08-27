@@ -1,0 +1,184 @@
+Key Takeaways
+
+The Machike-Thallian-Taru Jabba White Oil Pipeline (MTT-WOP) is the unaddressed strategic gap in Pakistan’s south-to-north petroleum corridor. In lieu of its absence, the northern regions will be heavily reliant on a unstable and inefficient road tanker network, leading to a series of supply shocks and high logistics costs that would last much longer than they should.
+
+Joint utilization of MS and HSD in Punjab and Khyber Pakhtunkhwa provinces (around 11 million MT per year) already crosses the upper bound of the pipeline’s initial capacity. More so, the project’s viability is reliant on precise demand projections and is currently at the risk of a 4 million MT supply-demand gap opening up, which requires a clear plan, whether expansionary or through other sources.
+
+Substantial advantages would be acquired via expansion: pipelines are more safe, more reliable, and more cost-efficient for greater volume corridors. Regardless, a “just transition” plan is necessary to dampen the political backlash from the powerful road tanker lobby, which on the contrary would face considerable displacement.
+
+The project’s G2G financing model with Azerbaijan presents a typical energy-sector risk. If not deeply looked into, a dollar-linked tariff and unconditional minimum throughput guarantee have a high chance of creating an open-ended liability, passing exchange-rate risk and consumer costs through the IFEM mechanism. Both the financial safeguards and physical infrastructure are of equal importance.
+
+For the MTT-WOP to succeed, a robust transparent regulatory framework is essential. Which should include: (a) thorough OGRA tariff review capping the FX risk, (b) throughput commitments based on realistic demand, and (c) protection of consumers from hidden liabilities via a clear, cost-disclosed recovery mechanism.
+
+1. MTT-WOP: The Missing Link in Pakistan’s White Oil Pipeline Network
+
+This Knowledge Brief aims to highlight an important gap persisting in the transportation of two major petroleum products namely Motor Spirit (MS) and High-Speed Diesel (HSD), to northern parts of Pakistan where the dependence on road tankers continues, although a more efficient pipeline is available. It examines the Machike-Thallian-Taru Jabba White Oil Pipeline (MTT-WOP), a 477 km extension of Pakistan’s white oil pipeline network from Machike (Punjab) to Taru Jabba (Khyber Pakhtunkhwa), aimed and designed to complete the south-to-north petroleum corridor.
+
+Structural inefficiency of Pakistan’s petroleum logistics system is prevalent: Both refined and imported fuels are transported north majorly through road tankers even where high volume and expected demand makes pipeline transportation economically sound. In February 2024, a Memorandum of Understanding (MoU)[1] was signed between the stakeholders for the MTT-WOP Project, with the consortium agreement signed later in September 2024[2]. Pakistan State Oil (PSO), Frontier Works Organization (FWO), and Interstate Gas Systems (ISGS) were the signatories to the MoU. The MTT-WOP aims to complete the oil pipeline backbone from Karachi to Peshawar and improve energy-efficient movement, safety, and prevention of adulteration. The project’s core techno-economic parameters, as per the original FOC-1 tariff submission to OGRA[3], are summarized below:
+
+Table 1 The MTT-WOP Project Techno-economic Parameters
+
+Project Parameter
+Detail
+
+Route
+Machike (Sheikhupura, Punjab) to Taru Jabba (Peshawar, Khyber Pakhtunkhwa), traversing 477 km primarily along the M-1 and M-2 Motorways
+
+Pipeline Segments
+Section 1: Machike–Thallian (265 km)
+
+Section 2: Thallian–Taru Jabba (172 km)
+
+Spur: 42 km interconnection to Attock Refinery (ARL)
+
+Capacity & Products
+Licensed capacity of 7 MTPA (expandable to 10 MTPA), transporting both Motor Spirit (MS) and High-Speed Diesel (HSD)
+
+Storage Terminals
+Machike (60k MT), Thallian (60k MT + 3k MT transmix), Taru Jabba (50k MT + 3k MT transmix)
+
+Total Project Cost
+PKR 75.5 Billion (inclusive of EPC, financing costs, contingencies, and right-of-way (ROW) charges
+
+Design & Construction
+30-year design life; 2-year construction period; O&M by an EPC contractor.
+
+Target Customers
+Major Oil Marketing Companies (OMCs) operating in the region, including PSO, Shell, Hascol, Bakri Energy, and JS Fuel.
+
+Strategic Rationale
+Mitigate northern oil shortages (akin to the 2015 emergency), reduce trucking cartel reliance, and support CPEC-driven demand growth.
+
+Source: Frontier Oil Company-1 / OGRA
+
+The proposed pipeline, therefore, should not be treated merely as an infrastructure project, but as a logistics-efficiency reform and national energy-security. In developing countries like Pakistan, where energy demand is rapidly increasing due to population growth, coupled with industrialization and urbanization, effective transportation systems are key to economic stability and energy security (Zhang et al., 2024)[4]. Pakistan’s energy sector is primarily dependent upon imported fuels, with oil forming a large fraction of the primary energy mix. In FY25, approximately 51% of the oil products were transported via pipelines, roughly 48% via roads, whereas only 1% were transported via railways (PACRA, 2026)[5].
+
+The transportation scenario has changed since 2021, as both MS and HSD are being moved through the existing White Oil Pipeline. The Government of Pakistan therefore intends to move the supply of oil from truck-based distribution to a consolidated pipeline network. Its main aim is to stabilize energy prices, reduce human input, and minimize road congestion.
+
+The legal status of the Economic Coordination Committee (ECC) of the Cabinet was approved the regulatory framework and tariff policy guidelines for the MTT-WOP project in August 2025. This approval, covered both the Machike-Thallian and Thallian-Taru Jabba sections, directly portraying the government’s commitment to moving the project to advanced stages. Eventually, on June 23, 2026, the Special Investment Facilitation Council (SIFC) secured approval for the MTT-WOP.
+
+2. Petroleum Supply Chain: Existing Network and the MTT Link
+
+As of now, there are three major sets of pipelines in Pakistan. The first one is an 870 km long pipeline from Karachi to Mahmoodkot (shown as C in the map above). It carries crude oil from Keamari-Korangi Link Pipeline (KKLP) and Korangi-Port Qasim Link Pipeline (KPLP) to the mid-country refinery, Pak-Arab Refinery (PARCO) at Mahmoodkot, via the Karachi-Mahmoodkot (KMK) pipeline.
+
+Figure 1 HSD, MS, and FO Pipelines in Pakistan
+
+Source: Author’s mapping based on Petroleum Division, OGRA, PARCO/PAPCO and APL project information.
+
+Table 2 Pakistan’s Pipelines Supply Chain Sheet
+
+Pipeline / System
+Product
+Route
+Length
+Current Status
+Relevance to MTT
+
+Karachi–Mahmoodkot Pipeline
+Crude oil
+Karachi to Mahmoodkot
+870 km
+Operational
+Supplies crude to mid-country refinery system
+
+White Oil Pipeline Project
+HSD / white oil
+Karachi to Mahmoodkot
+786 km
+Operational
+Main south-to-centre petroleum product movement
+
+Mahmoodkot–Faisalabad–Machike Pipeline
+White oil
+Mahmoodkot–Faisalabad–Machike
+362 km
+Operational
+Carries white oil further north up to Machike
+
+Asia Petroleum Limited Pipeline
+Furnace oil
+PSO Zulfiqarabad terminal to HUBCO
+82 km
+Operational
+Separate furnace oil supply line, not part of MTT route
+
+Machike–Thallian–Taru Jabba White Oil Pipeline
+MS and HSD
+Machike–Thallian–Taru Jabba
+477 km
+Proposed / under approval framework
+Extends white oil pipeline network towards northern Punjab and Khyber Pakhtunkhwa
+
+Source: Petroleum Division, OGRA, PARCO/PAPCO and APL project information.
+
+The second is the White Oil pipeline (labelled as D in the map), i.e., 786 km long, that transports HSD from Karachi to PARCO at Mahmoodkot. The White Oil Pipeline Project (WOPP) initiated construction in 2001. Eventually, in 2005, commercial operations began. The contractor for this project was China Petroleum Engineering and Construction Corporation (CPECC), while the project was managed by Pak-Arab Pipeline Company Limited (PAPCO). The main aim of WOPP was to ensure reliable transport of HSD to other parts of the country from Karachi.
+
+From there onwards, the 362 km long Mahmoodkot-Faisalabad-Machike (MFM) pipeline (pipeline E in the map) takes the oil further north. The third is the Asia Petroleum Limited (APL), an 82-kilometer underground pipeline designed to transport furnace oil from Pakistan State Oil’s (PSO) Zulfiqarabad terminal (ZOT) to the Hub Power Company (HUBCO) plant. This strategic infrastructure serves to provide a secure and efficient supply of residual furnace oil (RFO).
+
+Beyond Machike, it is proposed to construct a 477 km long pipeline, Machike-Thallian-Tarujabba (MTT), that stretches from Punjab to Khyber Pakhtunkhwa at Tarrujabba, a village in Nowshera district. Via the MTT, both HSD and MS will be transported. The project is being developed on a government-to-government (G2G) basis with Azerbaijan. This extended white oil pipeline requires an investment of $280 million, which is being provided by SOCAR, Azerbaijan, under three conditions: The government’s minimum throughput will be 7 million tons of white oil via the MTT-WOP, the profit will be shared with Azerbaijan in the same currency they invest in, and the payback period will be 7 years (increased from 4 years).
+
+3. MS and HSD Demand: Assessing Pipeline Viability
+
+For both MS and HSD, Pakistan observed peak consumption during 2021–22, followed by a sharp decline. However, in 2024-25, MS observed an overall 6.4% increase (YOY) with Punjab’s consumption increasing by 5.7% (YOY) and Khyber Pakhtunkhwa’s consumption increasing by 14.5% (YOY). On the other hand, HSD’s consumption in Pakistan increased by 10% in 2024-25 (YOY), with a 10.9% (YOY) and a 16.1% increase (YOY) in Punjab and Khyber Pakhtunkhwa, respectively. The transport sector remains the largest consumer of both fuels (Kindly see appendix for detailed sectoral analysis).
+
+Figure 2a Province-wise Consumption of Motor Spirit (in million MT)
+
+Source: Oil Companies Advisory Council Oil Industry Statistics’ Province-wise Consumption
+
+Figure 2b Province-wise Consumption of High-Speed Diesel (in million MT)
+
+Source: Oil Companies Advisory Council Oil Industry Statistics’ Province-wise Consumption
+
+The total combined consumption of MS and HSD in Punjab and Khyber Pakhtunkhwa, i.e., around 11 million MT, currently exceeds the initial pipeline capacity of 7 million MT per year. This leaves Punjab and Khyber Pakhtunkhwa with an excess demand of around 4 million MT of MS and HSD if only on this new MTT-WOP pipeline. However, rather than expanding the existing pipeline setup alone, the MTT extension is necessary because the existing network terminates at Machike. Without the MTT link, northern Khyber Pakhtunkhwa cannot be served by pipeline. Expanding the existing system without the MTT would leave a critical geographic gap.
+
+4. Road Tankers vs Pipeline: Cost, Safety and Reliability
+
+Compared to road transportation, pipeline transportation is a cost-efficient and safer mode of transporting energy products like oil and gas. It provides an efficient transport system that uses less energy and reduces environmental damage as well. The global energy system relies significantly on pipelines for transporting energy products. These pipelines allow the transportation of large quantities of resources like natural gas, crude oil, and refined fuels on a continuous basis, over long distances, and, most importantly, at a low cost. The chances of oil spillage are also very limited compared to transportation through rail or road tankers (Chen et al., 2021)[6].
+
+Pipeline transportation is a more economical, operationally continuous, and safer means of energy transportation. It can reduce recurrent logistics costs such as fuel use, road-tanker operations, delays, and maintenance associated with long-distance trucking, although pipelines also require operating, monitoring, security, and maintenance expenditure. Once the infrastructure has been constructed, operating and maintenance costs are significantly reduced compared to road or rail transport. Pipelines can operate continuously and are less exposed to routine road congestion and weather-related delays, subject to technical, security, and maintenance conditions. As a result of which continuous and reliable supply of materials is ensured, that is essential for various industries such as oil refineries and power plants that function only when there is constant supply.
+
+Manufacturing of the pipelines is carried out using complex materials such as stainless steel or seamless steel in order to obtain greater durability and to prevent corrosion. Moreover, a major portion of these pipelines are laid underground, consequently providing them protection against various external factors such as accidents, natural calamities, or interference. All these factors combined make the pipelines a consistent and permanent method of transporting greater quantities of materials. Further, weak enforcement of tanker safety standards increases accident and spillage risks. In 2017, a tanker carrying 40,000 litres of fuel overturned in Ahmedpur East when it was trying to make a sharp turn. This incident resulted in the loss of 214 lives, and people from nearby villages collected all the leaked fuel. During the 2010 floods, road transport was impossible for weeks, causing severe fuel shortages. Pipelines, being underground, remain operational during natural disasters.
+
+The global best practices in pipeline transportation are based on safety, efficiency, and environmental stewardship, which can be used to improve the performance of pipeline networks and establish new systems on the basis of these. One of the most notable cases of operational excellence can be observed in Norway, where a state-owned operator called Gassco operates the most complicated offshore subsea pipelines in the world. Guarantying strict regularity and reducing bottlenecks on thousands of kilometres of pipeline that lies below the North Sea (Rømo et al., 2022). In analogy, the United States shows a historical example of the Trans-Alaska Pipeline System (TAPS). TAPS, being 1,280 km, incorporating special heat pipes and vertical support members to make sure that the environment around permafrost is not damaged by the heat of the crude oil, which is globally recognized as the best practice in order to balance industrial demands with vulnerable Arctic ecologies.
+
+While the pipeline transportation has several benefits, on the contrary it has plenty disadvantages as well. These include high costs of construction, brittle design and layout, and environmental risks. The construction of a pipeline system is a costly project that involves huge capital investment in the initial stages. Products such as seamless steel pipes, high-quality valves, and advanced monitoring systems are not cheap. Moreover, pipelines must cross through several geographical barriers like mountains, rivers, or densely populated areas, which makes it more expensive. Another variable that adds to the cost is the cost of regulatory approvals and the cost of land acquisition. Pipelines are typically constructed across a predetermined path, and these are constructed for transporting specific energy products and thus lack the flexibility of roads or rail networks.
+
+Table 3 Qualitative Assessment of Petroleum Products’ Mode of Transportation
+
+Indicator
+Road Tankers
+MTT Pipeline
+
+Freight Efficiency
+Low
+High
+
+Reliability
+Medium
+High
+
+Safety
+Low
+High
+
+Environmental Friendliness
+Low
+High
+
+Capital Relief
+High
+Low
+
+Scalability
+Medium
+Low
+
+Source: Author’s conceptualization based on literature
+
+A pipeline is a fixed system, which is not easy to move to accommodate the transportation requirements or market trends. Although pipeline failures are not very common, they can cause significant environmental and economic losses. Leakage or bursting oil pipelines may cause oil spills, which pollute the environment and water sources and might take a long time to clear. On the other hand, leakage of a gas pipeline is a safety concern that can cause fire and explosions in the affected areas. Furthermore, earthquakes or hurricanes can halt the operations.
+
+5. Operational and Institutional Challenges
+
+Pakistan has a scarce number of petrol pipelines, specifically those impacting Punjab, Khyber Pakhtunkhwa, and Balochistan, which is a long-standing logistical challenge mainly caused by over reliance on the road tanker lobby, security volatility, financial constraints, and policy inconsistencies. Although Pakistan has a considerable natural gas pipeline network, oil transportation has been left in the background, consequently making it fragmented and heavily reliant on road tankers, with a small number of white oil pipelines that transport fuel from Karachi towards the north.
+
+Consequently, due to a limited pipeline network, there is heavy reliance on road tankers and inefficient distribution of energy products across the country. This results in higher fuel costs due to road transport premium, supply disruptions that are fueled by strike-induced shortages, and fuel supply insecurity due to fragmented petroleum logistics and road-dependent distribution. It is pertinent to note that the shift to pipeline transport will displace a considerable number of tanker trips per year between Punjab and Khyber Pakhtunkhwa. This does not render the tanker fleet obsolete; rather, it reallocates them to shorter-distance distribution (e.g., from pipeline terminals to retail outlets), emergency backup, and routes where pipelines do not exist (e.g., Balochistan, remote areas). Here are the key reasons for the limited petrol pipeline network

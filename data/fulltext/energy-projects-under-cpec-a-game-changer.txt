@@ -1,0 +1,51 @@
+The China-Pakistan Economic Corridor (CPEC) became fully operational a decade ago, generating significant anticipation regarding its potential to transform Pakistan’s economic landscape. The primary emphasis of CPEC during its initial phase was on energy and infrastructure projects. These energy initiatives were considered crucial for alleviating the chronic power generation deficiencies that plagued the country then; regular load shedding of several hours hindered Pakistan from reaching its full economic potential.
+
+From 2015 to 2019, nine new power plants were established under CPEC, culminating in a total capacity of 5,320 MW. This expansion was pivotal in addressing the nationwide energy shortfall. Subsequently, additional capacity has been added to the power system. Currently, there are fourteen completed generation projects under CPEC, with a combined capacity of 9,504 MW and one transmission project capable of transmitting 4,000 MW. Furthermore, six additional electricity generation projects, with an anticipated capacity of 3,545 MW, are in the pipeline.
+
+Of 9504 MW, 6600MW are coal power plants; 3960MW depend on imported coal. 1320 MW Thar coal and 600MW imported coal-based capacity are in the pipeline. Despite offering high returns on equity for Thar coal, low global coal prices and slow progress in Thar coal mining deterred significant investment in Thar coal-based generation plants in early harvest projects. Furthermore, the government encouraged coal imports to mitigate the distance between coal reserves and load centers. At that time, coal-based generation was regarded as the most cost-effective means to enhance power generation, even if it is imported. However, the situation changed in just a few years.
+
+The cost of imported coal started rising, and so was the electricity generation cost.
+
+Another contributing factor to the increasing electricity generation costs is the dollar-denominated capacity payments to power plants, even for power plants that use local coal. The devaluation of the rupee has worsened this situation.
+
+Undoubtedly, CPEC power projects delivered in terms of generation expansion (see Figure 1 below). Generation capability, which was in deficit, turned into a surplus. The gap between installed capacity and generation capability widened. Besides, the electricity generation cost has increased, decreasing the peak demand.
+
+Source: NEPRA State of Industry Reports (Various Years).
+
+The average sale rate of electricity since 2017 has increased by more than 260% (Figure 2). The per unit cost of imported coal-based power plants is among the highest – PKR 77.66/kWh for FY2025 (Figure 3) and often fails to qualify for EMO, resulting in capacity payments without producing any electricity. Capacity payments to power producers have increased from PKR 418 billion in FY18 to PKR 2090 billion in FY25. In FY25, the contribution of imported and local coal power plants in total capacity payments is about 31% (PKR 394 billion-imported coal power plants and PKR 256 billion-local coal power plants) respectively.
+
+Source: NEPRA State of Industry Reports (Various Years).
+
+Source: NEPRA Tariff Determination for FY25.
+
+The incentives offered to power plants under CPEC were even more than the incentives offered to earlier independent power plants (IPPs). Long-term take-or-pay contracts made with CPEC projects offered capacity charges for 85% of total capacity compared to 65% of the capacity charges offered earlier on take-or-pay IPPs. The coal-based power plants have exacerbated the existing circular debt situation (many times); for instance, outstanding liabilities to Chinese IPPs reached a record PKR 493 billion in February 2024.
+
+The CPEC projects did address the issue of load-shedding, albeit only for a limited duration. The capacity glut created due to the addition of this much capacity has led to high electricity costs and rising circular debt. There is excess installed capacity, but consumers still face load-shedding due to insufficient generation. Reliance on imported fuels and financial challenges often result in power shortages. Coal plants, like other thermal generating units, struggle to maintain fuel inventory because of non-payments from the Central Power Purchasing Agency. The paradox within the power sector arises from substantial system losses and inefficiencies, often intensified by elevated electricity costs.
+
+Under CPEC, the power plant’s proximity to the mine was overlooked as the focus shifted to imported coal, straining foreign exchange reserves. On the other hand, Thar coal-based power plants, despite being cheaper, often remain unused due to a lack of Thar coal. For instance, during FY2024, 35% of plants were not utilized because coal was unavailable.
+
+Under CPEC, the system added a significant generation capacity without upgrading transmission and distribution infrastructure. Persistent underinvestment in local grid infrastructure has impeded the equitable distribution of this new power supply across the country. The disparities in energy access have been exacerbated, particularly between rural and urban areas and central and remote areas.
+
+The Pak-Matiari Lahore Transmission Company Limited (PMLTC) constructed a High Voltage Direct Current (HVDC) transmission line under CPEC, with a 4,000 MW capacity to transport electricity from the southern region to central and northern load centers. Completed in September 2021, yet its full utilization remains pending. The line has been utilized only 38% in FY24 due to operational challenges. Under a take-or-pay contract, PMLTC receives payments based on total capacity, regardless of actual usage, resulting in a financial burden for consumers. Total capacity payments reached about PKR 97.8 billion for FY24, leading to an average PKR7.4/kWh cost.
+
+Under CPEC, the focus was not just on coal but green energy. A key project under early harvest is the Quaid-e-Azam Solar Power Park (QASPP) in Bahawalpur; 400MW capacity was completed in 2016, according to CPEC Secretariat data. NEPRA estimated the tariff for solar power plants, including QASPP, at PKR37.18/kWh for FY25, higher than the Thar coal tariff of PKR32.23/kWh.
+
+Establishing a solar power park has prerequisites, including transmission lines to evacuate electricity and an ideal location. QASPP is located in the Lal Sohanra desert, where summer temperatures can reach 48°C, impacting efficiency and lifespan. Although the transmission infrastructure is now in place, generation was limited to 155.11 GWh in FY24 due to heat and management issues. The bidding process also strayed from international standards, leading to higher tariffs that burden consumers.
+
+The projects under CPEC, which are designed to enhance energy security by prioritizing the availability of electricity resources, have inadvertently compromised the aspects of affordability and sustainability.
+
+Coal is the most environmentally harmful energy source, contributing significantly to climate change. While the world is moving away from coal, Pakistan has turned to it for electricity generation, after facing over three decades of delays due to inadequate infrastructure, financing, and expertise. Pakistan has not just been slow to enter the coal industry; the technology used in CPEC projects is outdated. For instance, Thar coal-based power plants utilize sub-critical technology, which many countries are phasing out to lower carbon emissions and opting for more advanced methods instead.
+
+Despite the inherent challenges, local coal will continue to serve as Pakistan’s most dependable and cost-effective fossil fuel option for diversifying the energy generation portfolio. However, upgrading the associated technology to optimize efficiency and sustainability is essential.
+
+Following the completion of Phase-I of the energy projects, the CPEC was poised to move into Phase II, which involves establishing nine Special Economic Zones (SEZs) to boost industry, trade, and employment in Pakistan. A dependable energy supply was critical for these SEZs, thus rendering the timely completion of energy projects of utmost importance. Efforts to establish Special Economic Zones (SEZs) encountered considerable challenges, resulting in significant delays, if not cancellations.
+
+As a result, the excess and costly energy capacity installed for these zones under CPEC became a burden, not a game changer for the power sector and the broader economy.
+
+By the end of FY24, Pakistan’s installed electricity generation capacity was 45,888 MW, but the average utilization was only about 34%. Consequently, consumers paid higher costs – for about 66% of the unutilized capacity, which included costs from renewable energy intermittency. Electricity tariffs for businesses in Pakistan are 30% to 40% higher than those of regional competitors. This underutilization of generation capacity is a significant challenge for the electric power sector, leading to high consumer costs and, in turn, an increase in grid defection.
+
+Due to economic constraints and excess capacity, initiating any new project under CPEC is infeasible for Pakistan. Pakistan needs to reevaluate its energy strategy, focusing on optimizing existing capacity and addressing transmission and distribution challenges. Furthermore, any new capacity developed under CPEC should be contingent upon competitive tariffs and market-based approaches; a review of pipeline projects is necessary.
+
+About the Author
+
+Ms. Afia Malik is currently serving as a Senior Research Economist at the Pakistan Institute of Development Economics with over three decades of research experience. Her focus areas include the energy sector and regulatory economics.

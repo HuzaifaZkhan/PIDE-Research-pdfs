@@ -1,0 +1,61 @@
+Pakistan has been deep in the throes of an external debt servicing crisis for about a year now. Without adequate foreign exchange at hand, we have struggled to arrange new loans to meet our debt-related obligations and finance essential imports. Nor is the current situation unique in our recent economic history. We have faced similar crises at least three times in the last fifteen years: in 2008, 2013 and 2019. On each occasion, we turned to the IMF and key bilateral lenders for additional lending. Each bailout provided a few years of relief but did not generate growth, revenues and foreign exchange sufficient to prevent a new crisis. It appears as if we have been acquiring new debt simply to pay off old debt. This is not sustainable.
+
+Why do we fall into a fresh debt servicing crisis every few years? I argue that this is due primarily to the operation of a domestic political business cycle in which key political actors pursue goals that are not consistent with the achievement of macroeconomic stability and debt sustainability. The stages of this cycle are described below with the aid of a few simple charts. It is useful, however, to set up the context with a discussion of our debt servicing history over the last two decades.
+
+Debt Restructuring: An Opportunity Squandered
+
+A country’s debt servicing burden can be assessed through a variety of measures. One popular measure is the ratio of debt servicing claims to export earnings. The numerator denotes the foreign exchange needed to meet annual repayment obligations while the denominator measures one source of foreign exchange that can be used for this purpose. Figure 1 shows the evolution of the debt servicing burden for Pakistan from 2000 onwards.
+
+Figure 1. Evolution of Debt Service to Exports Ratio
+
+Source: World Development Indicators, World Bank.
+
+The chart shows a decline in the debt service burden from 1997 to 2012 followed by an increase over the next ten years. What accounts for this pattern? The decline occurred for two reasons. First, Pakistan was able to get its debt service payments restructured during 1999-2001 such that the dollar value of annual repayments remained roughly constant between 2001 and 2011 even though the stock of debt was increasing over this period. Second, exports rose smartly, from around USD 9.5 billion in 1999 to around USD 31 billion in 2011.
+
+What accounts for the reversal in trend thereafter? The same factors were at play but now to Pakistan’s disadvantage. At the end of the relief period, debt service obligations began to rise, as expected. If export earnings had continued to rise as well, the debt servicing burden might have been manageable. But exports stagnated in nominal terms during the 2011-2020 period. Thus, the uptick in the debt servicing burden over the last ten years or so was due both to a rise in the numerator (debt service obligations) and stagnation in the denominator (export earnings). The eventual outcome was that the debt service burden in 2020 was higher than in 1999 when the period of debt relief began.
+
+Enter the Political Business Cycle
+
+Why was Pakistan unable to use the period of debt relief to get onto a sustainable servicing path? The main reason was domestic politics and is best explained by reference to the following stylised cycle of events.
+
+Stage 1: Rises in Public Expenditure before Elections
+
+The cycle starts a year or two before national elections when the political party in power ramps up public spending in order to improve its chances at the polls. This can be seen in Figure 2 which tracks government spending as a ratio of GDP. This ratio rose in the run-up to the elections that took place in 2008, 2013 and 2018. The run up can be seen for the periods 2006-08, 2011-13 and 2016-18. IMF programs were arranged within a year after each election and led to declines in public spending over the next few years until the programs were abandoned or completed.[1]
+
+Figure 2. Government Expenditure to GDP (%)
+
+Source: International Monetary Fund
+
+Stage 2: Imports Rise Prior to Elections
+
+The second stage of the cycle is an increase in imports; indeed, this impact is multiplied when the additional public spending stimulates higher private spending as well. Spending in Pakistan is relatively import-intensive, partly because of the country’s heavy reliance on imported oil for fuel, imported vehicles for transport and imported machines for most production activities. The stage of rising imports can be tracked in Figure 3 for the intervals 2007-08, 2011-13 and 2016-18 – each interval occurring just before an impending national election.[2]
+
+Figure 3. Trends in Import and Export Ratios
+
+Source: World Development Indicators, World Bank
+
+Weak export performance is also documented in Figure 3 which shows the ratio of exports to GDP to have been declining since 2004. Indeed, despite a sharp increase in the nominal value of exports during 2001-2011, the ratio of exports to GDP fell. And the situation worsened during 2011-2020 when even the nominal value of exports stagnated at around USD 30 billion per annum. In this last phase, both domestic exchange rate policy and a global slowdown in trade were to blame. The export story is not directly linked to the political business cycle though some aspects of the cycle (such as the stage discussed below) have an adverse impact on exports.
+
+Stage 3: International Reserves Decline Prior to Elections
+
+Political considerations also inspire resistance to a depreciation of the exchange rate with the result that an important restraint on imports (and an important stimulus for exports) is weakened. This is typically justified as an inflation-curbing measure, again with an eye to the upcoming elections. But this usually leads to a third stage of the cycle in which reserves fall because the exchange rate is prevented from adjusting to make imports more expensive and because investors perceive the prevailing economic policy (of high spending and high imports) as unsustainable. In Pakistan’s recent economic history, the third stage can be tracked in Figure 4, which shows reserves falling to or below the two-month danger line in 2008, 2013, 2018 and 2022.[3]
+
+Figure 4. Gross Reserves in Months of Imports
+
+Source: World Development Indicators, World Bank
+
+What Next?
+
+Reserve collapses are followed by urgent appeals to the IMF and bilateral lenders for bailouts supported by new pledges of future fiscal virtue and immediate actions taken to allow the exchange rate to depreciate and interest rates to rise. All that the three stages of the political business cycle accomplish is a harsher macroeconomic adjustment at the end. A recovery stage is initiated when stabilisation measures implemented under a new IMF program begin to restrain fiscal deficits and import demand while pushing up reserves. Elections loom every five years and Pakistan’s political business cycle begins again.
+
+Our debt servicing difficulties are largely of our own making and due mostly to our political business cycle. As documented in this note, we have been unable to take advantage of repeated bailouts (and one extensive period of debt servicing relief) during the last two decades because of the inability of our political system to control fiscal deficits and the associated impacts on imports and foreign exchange reserves. Indeed, while a Fiscal Responsibility and Debt Limitation Act was passed in 2005, the ceilings prescribed for fiscal deficits and public debt have never been respected since. When in power, no political party has demonstrated the ability or intent to pursue fiscal and monetary policies consistent with long run macroeconomic stability.
+
+Of course, exogenous developments sometimes make the challenges more difficult. The last few years of coping with the effects of COVID-19, global trade disruption, and disastrous floods are examples of such developments. Nevertheless, the structural problem of our economy is rooted in the political business cycle and not in periodic exigencies. So the solution must be found in the political system as well or else future bailouts will face the same fate as past bailouts.
+
+The author is a Former Director at the Institute of Business Administration, Karachi (2016-19).
+
+[1] The 2019-20 experience with the IMF program was different. An above-program level of public spending occurred even in the first year due to the onset of Covid19. Spending was supposed to decline for two years thereafter but Pakistan effectively abandoned the IMF program in early 2022. It is currently negotiating to revive the program.
+
+[2] The sharp rise in the import ratio during 2004-06 was not connected to the elections of 2008 which had not yet been announced. But the 2007-08 run-up certainly qualifies as politically-induced.
+
+[3] Perhaps the most dramatic example of this came in September 2022 when Miftah Ismail, the Finance Minister of the ruling political coalition, who had almost finalized a bailout arrangement with the IMF, was suddenly replaced by Ishaq Dar, a former Finance Minister known for his preference for a “managed” exchange rate. Ishaq Dar was responsible for the last period of real exchange rate appreciation during 2015-17 which led to the reserves crisis of 2018. A new IMF agreement has yet to be signed.

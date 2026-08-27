@@ -1,0 +1,47 @@
+Executive Summary
+
+Pakistan has vast coastal resources and areas of saline and brackish-water lands that are suitable for shrimp farming; however, shrimp farming is not well developed because of inadequate hatchery capacity, poor infrastructure, lack of research and extension services, and low compliance with international quality standards. The Dhabeji farm has demonstrated that saline land can be utilized for intensive shrimp farming with modern production technology and integrated value chain systems to generate employment and export income. This model could be scaled to make shrimp farming a true cornerstone of Pakistan’s Blue Economy. However, to achieve this potential, some constraints need to be overcome, such as hatchery development, infrastructure, research and extension, international certiﬁcation and compliance with sustainability requirements, including Turtle Excluder Device (TED) requirements. The study suggests the scientiﬁc identiﬁcation of suitable sites for shrimp aquaculture using the GIS based mapping, the development of integrated aquaculture parks with shared infrastructure, expansion of SPF hatchery capacity, productive utilization of idle and underutilized ponds and improvement of processing, certiﬁcation, and export infrastructure to boost Pakistan’s competitiveness in shrimp export and contribute to the development of the Blue Economy.
+
+1. Why Shrimp Aquaculture Matters for Pakistan
+
+In this Knowledge Brief, the shrimp aquaculture export potential of Pakistan is explored using a case study of the Dhabeji shrimp farm in Sindh. The case study was conducted through structured interviews with the farm management and a review of production records for 2025.
+
+As one of the fastest growing food production sectors in the world, aquaculture continues to play an increasing role in food security, employment, and seafood exports. FAO (2024) reports that in 2022, global aquaculture production totalled 130.9 million tonnes, an increase of 6.6 per cent from Shrimp is one of the most valuable aquaculture commodities in the world, with high export value and relatively short production cycle, and is one of the most rapidly expanding sectors in aquaculture.
+
+Pakistan is poised to secure a stake in this market. The country has favourable conditions for the commercial cultivation of shrimp with over 1,046 km of coastline along the Arabian Sea and huge coastal resources in Sindh and Balochistan. Shrimp farming would directly boost the Blue Economy in Pakistan by boosting seafood exports, providing jobs in coastal areas and utilizing saline and brackish water lands which are not suitable for traditional agriculture.
+
+To tap this potential, the Government of Pakistan has framed the National Fisheries and Aquaculture Policy 2025-2035, which has shifted the emphasis from traditional ﬁsheries management to modern and sustainable aquaculture development. This is a change from the National Policy and Strategy on Fisheries and Aquaculture Development in Pakistan (2007), which focused on ﬁsheries governance and marine resource management, while the new policy focuses on aquaculture development, export competitiveness, and climate-resilient production systems.
+
+Table 1. Key Priorities of the National Fisheries and Aquaculture Policy 2025–2035
+
+Sources: Authors’ compilation based on the Ministry of Maritime Aﬀairs & FAO (2025)
+
+Policy Implementation Considerations
+
+The National Fisheries and Aquaculture Policy 2025–2035 is the ﬁrst ever nationally adopted ﬁsheries and aquaculture policy in Pakistan. A similar approach was developed in 2007, but it was not adopted due to political transition, while sectoral governance remained fragmented. (World Bank, 2018). Formal adoption is thus a worthwhile process in itself. The extent to which it will aﬀect shrimp production will be determined by its delivery at the provincial level, where ﬁsheries is constitutionally delegated, and by the eﬀectiveness of the federal–provincial coordination that is also one of the policy’s priorities (Table 1), as it applies to site-speciﬁc issues like land leasing, hatchery licensing, and export certiﬁcation. The consistent delivery of these priorities, as demonstrated in the Dhabeji case study in Section 5, can help replicate similar farm-level outcomes in other areas.
+
+2. Shrimp Aquaculture: Key Challenges
+
+Although the shrimp aquaculture industry has a favourable natural resource base, structural constraints are present in the production, regulatory, research, and investment aspects of the industry in Pakistan:
+
+Production and infrastructure: Limited domestic hatchery capacity and reliance on imported broodstock, limited availability of good-quality feed locally, poor farm management practices, lack of processing and cold-chain facilities, and low number of internationally certiﬁed shrimp farms.
+
+Regulatory and market access: International requirements remain a key factor in access to premium markets like the United States and the European Union. Wild-caught shrimp is subject to the regulations of the US Endangered Species Act (ESA), which mandate that trawl nets be ﬁtted with a grid that allows sea turtles to escape, while farmed shrimp like Dhabeji’s is not subject to this speciﬁc requirement but must still comply with HACCP food-safety certiﬁcation, traceability, and other import screening requirements common to all seafood entering these markets.
+
+Research and extension: Pakistan has no speciﬁc shrimp breeding or disease-surveillance program and the farms are vulnerable to outbreaks like white spot syndrome and early mortality syndrome. Extension services are provided to a few pilot farms.
+
+Investment and ﬁnancing: The high initial investment required for pond construction, lining and aeration system makes shrimp farming unaﬀordable for smallholders, and expansion is largely dependent on private investment from groups like Al-Karam and Jaﬀer Brothers, where formal aquaculture ﬁnancing is limited.
+
+3. Current Status of Shrimp Aquaculture in Pakistan
+
+Shrimp aquaculture is still in its early stages of commercialization in Pakistan despite the favourable environmental conditions for shrimp farming. The commercial production of shrimp is mainly concentrated in the coastal areas of Sindh, especially in the districts of Thatta, Sujawal, and Badin and on small scale in Balochistan and inland saline areas of Punjab. The sector is mainly composed of Paciﬁc white shrimp (Litopenaeus vannamei), with some production of native shrimp species. The commercial shrimp farming area and production in Pakistan are still comparatively small.
+
+Pond infrastructure is also unevenly utilized among the provinces. The percentage of farmers owning ponds was signiﬁcantly higher in Sindh (88 per cent) than in Punjab (39 per cent). In both provinces, 93% of owned or leased ponds were used for aquaculture (Khalid et al., 2024). Investment in hatcheries, feed production, and farm management, therefore, could increase commercial shrimp production signiﬁcantly without the need to put idle land into production, but by increasing the productivity of existing ponds.
+
+Pakistan’s aquaculture sector currently contributes around 0.4 percent of GDP and produces an estimated US$650 million of ﬁsh annually, while considerable potential remains to expand production, strengthen value addition, and improve export competitiveness (Khalid et al., 2024). These ﬁgures indicate that, commercial shrimp aquaculture has the potential to make a signiﬁcant contribution to the Blue Economy of Pakistan if the production constraints are overcome.
+
+Currently, the shrimp farming in Pakistan is mainly traditional and semi-intensive, where relatively low stocking densities, natural feed resources, and simple pond management techniques are used. In contrast, modern intensive and super-intensive aquaculture systems demonstrate strong economic performance, although they also face signiﬁcant environmental challenges related to water use, eﬄuent management, and disease control. (Ho et al., 2025). The global shrimp aquaculture sector is led by Asian countries, with China, India, Viet Nam and Indonesia contributing the highest proportion of global shrimp production. (Jory, 2023). Investments in hatcheries, advanced feed technologies, intensive farming systems, and export-oriented value chains have contributed to improving the productivity and competitiveness of the shrimp aquaculture industry.
+
+In 2025, the demand for shrimp was highly concentrated in China and the United States, which accounted for about 48 percent of the global shrimp import volume (FAO GLOBEFISH, 2026). Table 2 indicates that the majority of this growth has been in investment along the value chain, and not just at the farm level, with Ecuador, India, and Indonesia accounting for the bulk of the growth. The shrimp sector is not in the middle of this demand but on its periphery: Pakistan already has a number of buyers, but not as many as its competitors, and therefore has the opportunity to expand existing partnerships before entering new ones.
+
+These practices are not yet widespread in Pakistan. But, the Dhabeji case study in Section 5 shows the what is possible when they are adopted.

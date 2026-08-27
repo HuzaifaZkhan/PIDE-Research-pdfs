@@ -1,0 +1,41 @@
+Stagnant export products scale up the trade deficit in Pakistan (Nasir, 2020). To add new export items to the existing export portfolio, local industry needs cheaper domestic and imported intermediate inputs. However, these inputs are expensive in Pakistan due to high import tariff rates. It is believed that lower tariffs will not only provide cheaper intermediate inputs to domestic firms and final products to end users but will also boost trade.
+
+Textiles is the main exporting sector in Pakistan, which constitutes around 51% of total exports (Figure 1). Similarly, copper constituted almost half of the total exports in Chile, however, the country achieved a fruitful modification of its export structure, and expanded to new comparative advantages. The new export product diversification was not an easy option for Chile but was the result of the country’s persistent commitment towards a liberalized trade policy during the period of 1973-90, and fruitful results emerged in the late 1990s (Lebdioui, 2019).
+
+It is argued that a diversified portfolio of export products can effectively add to the trade surplus (Akbas and Sancar, 2021). New imported intermediate inputs provide access to new embedded technologies, and the right combination of imported and domestic intermediate inputs can shape a new export product for a new market (Castellani and Fassio, 2019). To capture the new markets of higher value-added products, many firms introduce new products to their export portfolio while simultaneously reducing the size of existing export products (Cirera et al . 2015).
+
+_________
+
+[1] Also muh.zeshan@gmail.com
+
+There are various types of trade regulations/restrictions in Pakistan, but the present study focuses only on import tariffs.
+
+_________
+
+In today’s competitive environment, the average rate of import tariff is around 12% in Pakistan (Figure 2). The high import tariffs reallocate different factors of production such as skilled and unskilled labor and capital stock from the competitive export industries to the protected local industries (Asif et al. 2022). Further, it adversely affects the textile sector in Pakistan, which is the backbone of export industry. Overall value-addition in this industry has decreased over time, and there is a dire need for a major overhaul to boost its productivity (Zeshan, 2022). Lower tariff rates can increase the cheaper supply of new technology-augmented intermediate and capital goods, which is crucial for the revival of this sector industry.
+
+Hence, the present study assumes that there are no tariffs on the top 10 import products of Pakistan, which are heavily protected in reality.[2] In this setting, the end users get access to the cheaper final products and firms get access to cheaper intermediate imported inputs from the international market. Further, it reduces the cost of domestic intermediate inputs and final products in the local market.
+
+As a result, on average imports increase (between 4.3% to 1.6%) in all the sectors where tariffs are eliminated, but 20.4% in the textile sector (Figure 3). Nonetheless, imports decrease in all other industries where tariff rates remain unchanged. Overall, exports rise in all the sectors where electrical equipment, mining, and machinery are the most growing industries. Interestingly, the trade balance in the textile sector still remains positive (trade surplus of USD 143.7 million, Figure 4). Overall trade balance improves by nearly 338.14 million, indicating that the advantages of reducing trade barriers are far more than their disadvantages.
+
+________
+
+[2] It employs the GTAP database version 11, and the modeling framework is given here: https://www.gtap.agecon.purdue.edu/
+
+________
+
+References
+
+Akbas, Y.E. and Sancar, C., 2021. The impact of export dynamics on trade balance in emerging and developed countries: An evaluation with middle income trap perspective. International Review of Economics & Finance, 76, pp.357-375.
+
+Asif, M., Amin, A., Nazir, N., Saeed, K. and Jan, S., 2022. Role of tariffs, imports substitution and investment efficiency in economic growth of Pakistan. Quality & Quantity, 56(4), pp.2215-2232.
+
+Castellani, D. and Fassio, C., 2019. From new imported inputs to new exported products. Firm-level evidence from Sweden. Research Policy, 48(1), pp.322-338.
+
+Cirera, X., Marin, A., Markwald, R., 2015. Explaining export diversification through firm innovation decisions: the case of Brazil. Res. Policy 44 (10), 1962–1973.
+
+Nasir, J., 2020. The tariff tripod of Pakistan: protection, export promotion, and revenue generation. The Pakistan Development Review, 59(3), pp.517-551.
+
+Lebdioui, A., 2019. Chile’s export diversification since 1960: A free market miracle or mirage?. Development and Change, 50(6), pp.1624-1663.
+
+Zeshan, M 2022, ‘Effective rate of protection in an input-output framework’, PIDE Working Paper, Forthcoming .

@@ -1,0 +1,261 @@
+Abstract
+
+The policy brief aims to investigate the role of formal credit in enhancing rural regional transformation. We employed panel data at the district level at three points in time and used a fixed effect model. Despite considerable horizontal and vertical expansion in the formal credit market, a large number of small farmers don’t have access to formal credit because of multiple reasons. Our empirical results reveal that credit has a positive and significant impact on rural transformation (both RT 1 and RT 2 ). It is further established that the correlation between credit and rural transformation is strengthening as we move towards higher stages of rural transformation particularly in the case of RT 2 . The small magnitude of credit coefficient in case of RT 1 , indicates a large potential exists that can be exploited by giving wider access to small farmers to formal credit. The majority of these small farmers rely on informal credit which is expansive and thus farmers fail to realize its benefits. Without ensuring the inclusiveness of small farmers in the formal credit market, introducing financial literacy initiatives by policymakers, and strengthening microfinance institutions, it is difficult to achieve the desired objectives (i.e. high productivity, poverty alleviation, and rural transformation) of credit disbursement.
+
+Abedullah and Farooq Shujaat [1]
+
+Background
+
+Achieving a high level of rural transformation is a modern approach to rural development and alleviating rural poverty. The speed of rural transformation is low in most of the developing countries, including Pakistan. It could be largely referred to various factors, i.e., limited economic opportunities and access to formal credit to landless rural masses, lack of industrial base, non-existence of a vibrant services sector, and an over-employed agriculture sector with a traditional cropping pattern. Resultantly, a large number of people move to urban centers for better livelihood and to improve their living standards. For sustainable rural development, rural poverty alleviation is one of the core policy agendas that advocate productive jobs in farm and non-farm sectors (Sikandar et al., 2022).
+
+A vibrant credit market is one of the instruments for reducing various sorts of risks and uncertainties in the rural economy that may also contribute to speeding up the process of rural transformation. The availability of credit to small farmers and landless rural masses not only helps to improve productive investment but also boosts the adoption of technologies in the farm and non-farm sectors (Tang & Guo, 2017). Resultantly, it leads to modernizing the agricultural sector through mechanization, better investment, innovations, and technological upgradation (Demirguc & Levine, 2009; Aleem, 1990). Moreover, farmers’ access to credit at reasonable interest rates contributes to expanding the rural non-farm (RNF) sector by promoting entrepreneurship and SME development (Chowdhury, 2017).
+
+This policy brief provides insights into the state of Pakistan’s rural formal credit market, its constraints, and how it can be useful in promoting the farm and non-farm sectors. The ultimate objective of the study is to identify the impact of agricultural credit on rural transformation in Pakistan.
+
+A Conceptual Framework Linking Credit Market to Rural Transformation
+
+Rural transformation is a complex process through which rural societies diversify their economy by reducing reliance on traditional agriculture, depending more on the rural non-farm sector for their livelihood, moving from dispersed villages to urban centers, and culturally opting for urban agglomerations (Berdegue et al., 2017). We have defined rural transformation in terms of RT 1 and RT 2 , where RT 1 is the share of high-value commodities in the total value of agriculture and RT 2 is the off-farm employment in the total rural employment. We include fruits and vegetables, cotton, sugarcane, and livestock products among high-value crops.
+
+The district-level analysis reveals that the majority of the districts in Pakistan fall in the 2 nd and early 3 rd stage of rural transformation (Figure 1) while China and many other East Asian countries have entered in higher stages of rural transformation. Overall the positive association between the share of high-value agriculture and rural non-farm employment suggests that both sectors support each other by creating backward and forward linkages. It is observed that the majority of the districts are clustering with neighboring districts having similar characteristics. There is a positive association between RT 1 and RT 2 , suggesting that a rising share of high-value crops helps in promoting the rural non-farm employment and vice versa (Figure 1).
+
+Mostly the rural population in developing countries heavily relies on the informal credit market (traditional money-lenders) due to the lack of an efficient formal credit market. Hence, often face high interest rates, indebtedness traps, and chronic poverty. An efficient credit market contributes to the process of rural transformation in multiple ways, i.e., enabling farmers to shift towards high-value crops which are strongly linked with better access to inputs (Ahmad, 2011), adoption of improved technology, and enabling investment in skill development (Khandkar & Faruq, 2003; Zuberi, 1989). promoting entrepreneurship and SMEs in the non-farm sector (Miled et al., 2022).
+
+Moreover, it improves consumption smoothening and even causes in relieving the interest burden and levels of indebtedness as often farmers borrow from formal sources to pay off high-interest loans taken from informal sources (Narayanan, 2016). The spill-over effects on employment and rural transformation through entrepreneurship also prevail (Qin &Kong, 2022). However, agriculture credit alone is not sufficient to enhance productivity, certain factors play a critical role including, market efficiency, social capital, communication network, and entrepreneurial and managerial manpower (Hussain & Taqi, 2014; Lele, 1974). The path through which credit is contributing to rural transformation has been described in detail in Figure 2.
+
+Figure 1: District-wise Stages of Rural Transformation in Pakistan
+
+Source: Non-farm employment is calculated from PSLM 2019/20 and share of high-valued agriculture is calculated from Provincial Agricultural Statistics 2019/20
+
+Note: Stages refers to the interaction of agricultural credit with RT. stage 1; value less than min+dx/3, stage 2: between min+dx/3 and min+2dx/3, stage 3: more than min+2dx/3.
+
+Figure 2: Role of Credit in Rural Transformation: A Conceptual Framework
+
+Source: Author created
+
+Rural Credit Market in Pakistan
+
+The rural population in Pakistan acquires credit both from formal and informal sources (Figure 3a), the informal sources include friends, relatives, shopkeepers, traders, and commission agents. The market share of formal credit is quite limited and 95% of the borrowers rely on informal sources. This is mainly because formal financial services have low penetration, especially among rural communities. The low acceptability of formal credit has multiple reasons. Among these include, lack of information, lengthy procedure to complete the documentation, insufficient collateral, and risk of losing the collateral in case of delayed payment. The reasons for taking credit from informal sources are summarized in Figure (3b). The majority of the respondents are getting credit from informal sources because of the convenient location of the lender followed by easy access.
+
+Figure 3b: Formal Vs. Informal Borrowing
+
+Source: Global Findex
+
+Figure 3b: Reason for choosing informal Borrowing in Pakistan
+
+Source: State Bank of Pakistan; Access to Finance Survey 2015
+
+Over time, there is a huge expansion in formal credits to both the farm and non-farm sectors which has increased from Rs. 321 billion in 2008 to Rs. 1,419 billion in 2022 (Figure 4). Zarai Taraqiati Bank Limited (ZTBL) is a long-standing bank aiming to improve agricultural productivity through lending. Initially, it was limited to farm productivity only but recently the State Bank of Pakistan (SBP) has revised its agricultural credit policy by extending loans to other stakeholders of the value chain and this is expected to enhance the contribution of credit in the process of rural transformation. The bank has made it mandatory for all commercial banks to target the farmers and different actors of the value chain through loan facilities.
+
+Figure 4: Size of Formal Credit Market in Pakistan (Rs. Billion)
+
+Source: Farm credit data is taken from the State Bank of Pakistan and non-farm data from the Microfinance Network
+
+Impact of Agricultural Credit on Rural Transformation
+
+We conducted a multivariate analysis to investigate the impact of formal agricultural credit on rural transformation [defined as RT 1 (share of high-value commodities in the total value of agriculture) and RT 2 (share of off-farm employment in the total rural employment]. Among high-value crops, it includes fruits and vegetables, cotton, sugarcane, and livestock products. We collected district-level panel data at three points in time (2008, 2014, and 2019) and employed a fixed effect model as dictated by the Hausman-Test to investigate the impact of credit on rural transformation (RT1 &RT2) and results are reported in Table 1. We employed two models, in model 1, simply we explored the impact of formal credit along with other variables on rural transformation (share of high-value crops in the total value of agriculture). We find that formal credit is highly significant and contributes to increasing the share of high-value crops. It demonstrates that shifting towards high-value crops requires financial resources because these crops are input-intensive and also susceptible to pest attack. In the second model, we attempt to explore the relationship of credit with rural transformation at different stages of rural transformation. For this purpose, we develop a dummy for stages 2 nd and 3 rd by considering stage 1 as a point of comparison (base point) and then we multiply the credit variable with these dummies. Our results indicate that as we progress to higher stages of rural transformation (RT 1 ), the contribution of credit to rural transformation initially increases, evidenced by the positive and significant coefficient of the interaction terms (interaction of stage dummy and credit). However, in the third stage, while the coefficient of the interaction terms remains positive and significant, its magnitude slightly decreases compared to the coefficient in the second stage (Table 1, Model 2). This suggests that as the country transitions from the second to the third stage of rural transformation, the contribution of credit to rural transformation (RT 1 ) may decline. This decline could be attributed to a reduced demand for credit at higher stages of rural transformation, as farmers possess more resources and become less dependent on credit for financing. This demonstrates that at the initial stage of rural transformation (stages 2 nd and 3 rd ), the role of credit is getting more crucial. However, at higher stages of rural transformation the contribution of credit may decline. More importantly, the magnitude of the coefficient in both models is small, indicating that a large segment of the farmers’ community is not getting benefits out of it. It could be due to multiple reasons which include, the inaccessibility of small farmers to credit, some are reluctant to get a loan from formal sources due to unavailability of collateral and lastly, farmers are using credit for some other purposes due to severe financial constraints.
+
+Table 1: Impact of Farm credit on High Value Crops (RT 1 ) —Panel Analysis
+
+Covariates
+Model 1
+Model 2
+
+Coeff.
+Std. Error
+Coeff.
+Std. Error
+
+Agriculture Credit
+0.11***
+0.03
+–
+–
+
+Education (years)
+-3.57***
+0.68
+-3.52***
+0.67
+
+Labor force participation rate
+0.30***
+0.04
+0.29***
+0.04
+
+Annual non-farm wage (Rs.)
+0.0003
+0.0003
+0.0002
+0.0003
+
+Contribution of credit in rural transformation (RT 1 ) at stage 2
+–
+–
+0.12***
+0.04
+
+Contribution of credit in rural transformation (RT 1 ) at stage 3
+–
+–
+0.11***
+0.04
+
+Constant
+76.13***
+3.97
+76.38***
+3.94
+
+Sample size (N)
+216
+216
+
+Note: *** denotes significant at 1%, ** at 5% and * at 10%.
+
+We also investigated a similar kind of relationship of credit with the share of off-farm employment in the total rural employment (RT 2 ). The results are reported in Table 2. Again in model 1, the impact of credit on rural transformation is highly significant and positive. This implies that rural credit contributes to an increase in the share of off-farm employment in the total rural employment. Rural credit creates opportunities to establish small and medium enterprises (SMEs) which may contribute to an increase in the share of off-farm employment in the total rural employment. In model 2, the relationship of credit with rural transformation is strengthening as we move towards higher stages of rural transformation because the magnitude of the coefficient of credit at stage 3 (0.83) is higher than the magnitude of the coefficient of credit at stage 2 (0.66). It demonstrates that as we move towards higher stages of rural transformation, the contribution of credit to rural transformation increases which seems to be logical and consistent to economic theory. In contrast to RT 1 , here we did not observe the declining trend of magnitude credit at stage 3 rd compared to stage 2 nd . Such a declining trend might be observed at higher stages of rural transformation.
+
+Table 2: Impact of Farm credit on Rural non-farm Employment (RT2) —Panel Analysis
+
+Covariates
+Model 1
+Model 2
+
+Coeff.
+Std. Error
+Coeff.
+Std. Error
+
+Credit
+0.74***
+0.28
+–
+–
+
+Literacy rate
+0.70***
+0.13
+0.70***
+0.13
+
+Labor force participation rate
+-0.14**
+0.07
+-0.15**
+0.07
+
+Non-farm wage
+0.001**
+0.0005
+0.001**
+0.0006
+
+Contribution of credit in rural transformation (RT 2 ) at stage 2
+–
+–
+0.66**
+0.34
+
+Contribution of credit in rural transformation (RT 2 ) at stage 3
+–
+–
+0.83**
+0.37
+
+Constant
+12.79*
+7.53
+13.5*
+7.68
+
+N
+216
+216
+
+Note: *** denotes significant at 1%, ** at 5% and * at 10%.
+
+A Diagnostic Analysis of the Formal Credit Market
+
+Despite more than Rs. 1300 billion annual allocation of credit, the credit market still lacks a vigorous role in rural transformation because agricultural growth is volatile and fluctuates around 2-3% (Figure 5). In spite of the large allocation, hardly 19% of the farmers have access to formal credit sources (Table 3), demonstrating the uneven distribution of credit and highlighting the issues of accessibility to small farmers which are more than 64 million in Pakistan (Government of Pakistan, 1998). The highest percentage of farmers having access to credit are located in Punjab (27%) followed by Sindh (8%) and KP (5%) and Baluchistan (0.8%). This unmet demand paves the way for informal lenders as a source of finance for farmers. On the other hand, the country has spent trillions of rupees through microfinance schemes, but there is no comprehensive study showing the positive impacts of microfinance in promoting rural economic opportunities on a sustainable basis that finally translates into rural transformation. This provides the economic justification that why the contribution of credit in rural transformation is low.
+
+Figure 5: Agriculture Growth and Credit Disbursement in Pakistan
+
+Source: Pakistan Economic Survey and SBP Reports
+
+Table 3: Access to Formal Credit in Agriculture Sector
+
+Province
+Land owners (in million)
+Formal credit borrowers (in million)
+% of formal credit holder
+
+Punjab
+4.7
+1.3
+27.2
+
+Sindh
+2.2
+0.2
+7.8
+
+Khyber Pakhtunkhwa
+0.6
+0.0
+5.3
+
+Baluchistan
+0.4
+0.0
+0.8
+
+Overall
+7.9
+1.5
+19.0
+
+Source: estimated from PSLM 2019/20 and State Bank of Pakistan data
+
+Conclusion
+
+The importance of rural transformation in reducing poverty and promoting sustainable development is widely recognized. However, Pakistan is left behind in achieving fast rural transformation compared to our neighboring countries like China. Rural transformation is a complex process that involves the diversification of rural economies, shifting towards modernized agricultural practices, and increasing rural non-farm employment. Formal credit is one of the important institutions that can play a key role in speeding up the process of rural transformation. Despite a large allocation of Rs. 1300 billion annually to the agricultural sector, Pakistan fails to achieve the desired objectives of high productivity, and fast rural transformation. Despite the substantial expansion of formal credit not only in terms of resource allocation but also in terms of covering a wide range of activities along the supply chain, a large percentage (95%) of farmers still rely on non-formal credit. It is either due to a lack of farmers’ access to credit sources or they avoid putting land (which is the only asset they have for their livelihood) as collateral and a cumbersome process to complete the application for formal credit. However, our results reveal that 19% of farmers have access to formal credit facilities.
+
+The multivariate analysis to investigate the impact of agricultural credit on rural transformation indicates that credit has a significant role in enhancing the process of rural transformation (Both RT 1 &RT 2 ). However, the association of rural transformation with credit is strengthening as we move towards higher stages of rural transformation particularly in case of RT 2 . The association of credit with the share of high value crops (RT 1 ) is slightly declines in stage 3 rd compared to stage 2 nd and coefficient is also comparatively small. Considering the small magnitude of the credit coefficient in case of RT 1 implies that major proportion of farmers may not be getting the benefit of a formal credit facility.
+
+Access to credit is an important instrument in rural development, as it empowers small farmers and landless rural populations to invest in productive activities and adopt modern technologies. It is observed that informal credit sources to which farmers have easy access are expansive because of high interest rates, and thus small farmers fail to enjoy the benefits of credit. This is the reason why widely spread informal credit fails to bring notable changes in rural development/rural transformation. Certain initiatives are required to be launched to meet the diverse needs of credit of different supply chain actors, among these include, financial inclusion of small farmers, improved accessibility to formal credit, and tailored credit products.
+
+Further, the targeted credit schemes for small farmers at affordable interest rates by removing the stringent condition of collateral may divert the small farmers from informal credit to the formal credit market. Hence, without ensuring that small farmers have easy access to formal credit services, the desired objectives of achieving high productivity, poverty alleviation, and thus rural transformation can’t be achieved.
+
+References
+
+Ahmad, N. (2011). Impact of institutional credit on agricultural output. Theoretical and Applied Economics , 42 , 469-485.
+
+Aleem, I. (1990). Imperfect information, screening, and the costs of informal lending: a study of a rural credit market in Pakistan. The World Bank Economic Review , 4 (3), 329-349.
+
+Berdegué, J. A., Rosada, T., & Bebbington, A. J. (2013). Rural transformation.
+
+Chowdhury, S. (2017). Microfinance and rural non-farm employment in developing countries. IZA World of Labor .
+
+Demirgüç-Kunt, A., & Levine, R. (2009). Finance and inequality: Theory and evidence. Rev. Financ. Econ. , 1 (1), 287-318.
+
+Government of Pakistan. (1998). Population Census of Pakistan, 1998.
+
+Hussain, A., & Taqi, M. (2014). Impact of agricultural credit on agricultural productivity in Pakistan: An empirical analysis. International journal of advanced research in management and social sciences , 3 (4), 125-139.
+
+Khandker, S. R., & Faruqee, R. R. (2003). The impact of farm credit in Pakistan. Agricultural Economics , 28 (3), 197-213.
+
+Lele, U. J. (1974). The roles of credit and marketing in agricultural development. In Agricultural Policy in Developing Countries: Proceedings of a Conference held by the International Economic Association at Bad Godesberg, West Germany (pp. 413-449). London: Palgrave Macmillan UK.
+
+Miled, K. B. H., Younsi, M., & Landolsi, M. (2022). Does microfinance program innovation reduce income inequality? Cross-country and panel data analysis. Journal of Innovation and Entrepreneurship , 11 (1), 1-15.
+
+Narayanan, S. (2016). The productivity of agricultural credit in India. Agricultural Economics , 47 (4), 399-409.
+
+Qin, N., & Kong, D. (2022). Access to credit and entrepreneurship: Evidence from china. Economic Development and Cultural Change , 71 (1), 295-331.
+
+Sikandar, F., Erokhin, V., Xin, L., Sidorova, M., Ivolga, A., & Bobryshev, A. (2022). Sustainable agriculture and rural poverty eradication in Pakistan: The role of foreign aid and government policies. Sustainability , 14 (22), 14751.
+
+Tang, S., & Guo, S. (2017, July). Formal and informal credit markets and rural credit demand in China. In 2017 4th International Conference on Industrial Economics System and Industrial Security Engineering (IEIS) (pp. 1-7). IEEE.
+
+Zuberi, H. A. (1989). Production function, institutional credit and agricultural development in Pakistan. The Pakistan Development Review , 43-55.
+
+[1] Abedullah and Farooq Shujaat are Chief of Research at Pakistan Institute of Development Economics (PIDE)

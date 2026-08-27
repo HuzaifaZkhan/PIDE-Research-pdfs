@@ -1,0 +1,131 @@
+Pakistan’s fiscal stance has long been marked by persistent deficits, rising debt and underfunded priorities. A robust budget process from realistic formulation through disciplined execution and transparent oversight is essential for fiscal stability. Yet Pakistan’s budget cycle suffers from deep structural flaws. Recent analyses highlight chronically low revenue, rigid expenditure, and systematic slippage in annual budgets​[1]. This article dissects the problems in Pakistan’s budget formulation, execution and monitoring stages, examines how political pressures distort fiscal decisions, and draws lessons from successful reforms in other countries. We then propose evidence-based reforms from stronger parliamentary scrutiny to independent fiscal institutions to rebuild Pakistan’s budget foundations and restore discipline.
+
+Problem Analysis
+
+Formulation: Unrealistic Targets and Weak Forecasts
+
+Budget formulation in Pakistan has historically been process-driven rather than data-driven. Governments often set overly optimistic revenue targets and politically influenced spending plans. Tax policies remain complex, poorly administered, and prone to ad hoc changes, fueling a culture of evasion​[2]. The result is that revenue projections repeatedly fall short of targets, forcing unplanned borrowing. For example, the IMF finds that budgeted revenue has consistently been overestimated, even as expenditure forecasts are underestimated[3]​. As a result, the fiscal deficit has overshot original plans by an average of 25% over FY2017–23[4]​. In short, Pakistan’s budget books often assume away fiscal constraints rather than set them.
+
+Part of the problem lies in the institutional set-up. The Finance Division and related units are fragmented and understaffed, with limited macro-fiscal expertise. The World Bank/IMF Public Financial Management review notes that the Budget Wing “had little capacity to scrutinize” spending proposals, so most are accepted without challenge​[5]. Pakistan’s budget “call circular” the instructions sent to ministries is notably less comprehensive than those of peer countries, often omitting macroeconomic assumptions, spending limits, or strategic goals. One IMF study tabulates that India, Sri Lanka and Kenya include fiscal context and medium-term projections in their circulars, whereas Pakistan’s circular contains none of these elements[6]​. Without a strong top-down framework, each ministry submits wish lists that go unchecked.
+
+Politicians also drive a lot of the content. Budgets are inevitably shaped by election-cycle concerns and power-sharing agreements. During elections, parties pressure governments to introduce populist subsidies, pay raises, and projects with little regard for affordability. The result is short-term pandering and last-minute revisions. Moreover, successive finance ministers have prioritized sectoral allocations according to political influence rather than long-term economic rationale. This politicized approach corrupts budget credibility: rather than adhering to a multi-year fiscal strategy, budgets become episodic compromises. One analyst notes that “expenditure ceilings in Pakistan’s budget are revised frequently, with the executive taking extraordinary latitude to approve supplemental spending without prior parliamentary approval[7]”​.
+
+Technocratic forecasting bodies (e.g., the Erstwhile Planning Commission or now the Ministry of Planning and Development) have limited influence. Macroeconomic assumptions often reflect a dream. For instance, growth and revenue projections assume high growth rates and tax buoyancy even as structural constraints persist. The IMF report stresses that domestic revenue forecasts are significantly overestimated, pointing to “systematic interference with the forecasting model” that undermines tax collection performance[8]​. Put bluntly, Pakistan’s budget estimates often ignore historical patterns and avoid setting tight fiscal targets. This chronic over-optimism in the planning stage ensures that expenditure plans are not grounded.
+
+Execution: Slippages and Unchecked Spending
+
+Even when a budget is passed, Pakistan struggles to stick to it. The execution phase is undermined by rampant in-year deviations. The most glaring symptom is the runaway use of supplementary grants. Under Article 84 of the Constitution, the government may sanction additional grants from the Consolidated Fund during the year. In practice, this provision has allowed massive overruns. IMF analysis shows that in FY2023 supplementary and technical grants exceeded 50% of the original budgeted spending​[9]. In other words, more than half of what Parliament approved of spending was later increased through executive decree.
+
+The figure below illustrates this execution laxity. In each year from FY2016–17 to FY2022–23, actual domestic borrowing (grey bars) far exceeded the original budget projections (red bars). Pakistan routinely needed far more financing than planned, and thus often rolled out new spending beyond what the budget allowed[10]​.
+
+These overruns occur through various channels. Supplementary grants are used not only for true emergencies (e.g., flood relief, energy subsidies) but also for recurrent expenditures and development spending that was omitted or cut during budget drafting. The IMF reports that in FY2023 some Rs 1,910 billion (22% of the budget) was added via such grants[11]​. Development projects are especially vulnerable: the IMF’s “Figure 5” table shows federal PSDP (development) estimates repeatedly slashed mid-year, while the freed resources bolstered current outlays (like debt servicing and subsidies)[12]​. Thus, the government “frontloads” current spending and defers development, further weakening long-term growth prospects.
+
+Beyond grants, arrears and off-budget spending further erode discipline. Delays in releasing funds and under-execution of development budgets have led to large unpaid bills. Ministries and state-owned companies often accumulate payments arrears, but these too are eventually honored through supplementary financing or circular debt accumulation. In effect, budget ceilings become porous: what was not spent on one program is later re-allocated to another without parliamentary scrutiny.
+
+The cumulative effect is that budget credibility is extremely low. Despite frequent revisions and emergency spending, Pakistan’s fiscal outcomes are still worse than planned. Debt service now consumes 40–60% of budgeted revenue[13]​, crowding out development and social spending. In FY2022–23 alone, interest payments reached Rs 7.3 trillion (40% of government revenue)[14]​. In practical terms, the government routinely breaks its own budget rules. The IMF highlights those key constraints such as the existing cap on fiscal deficit in the Fiscal Responsibility Law have been routinely violated, necessitating another IMF program.
+
+Monitoring and Oversight: Weak Scrutiny
+
+The third link in the cycle is oversight. Here, too, Pakistan falters. Parliament’s role in budgeting is formally strong on paper, but weak in practice. The National Assembly votes on the Budget and is supposed to hold the government to account. Time for debate is often too short (sometimes only a few days), and by convention MPs do not alter the budget in substance. The parliamentary committees meant to examine budget proposals are under-resourced and often bypassed[15]​. One expert explains that threats of party-discipline dismissals (Article 63A) effectively prevent members from voting independently on money bills, leaving “heads of political parties with tremendous control”[16]​. In short, the legislature rarely edits the budget’s content.
+
+Further, post-budget scrutiny is lax. The Auditor General prepares annual reports identifying misuses and discrepancies, but follow-up is minimal. The Public Accounts Committee (PAC) meets irregularly, and its recommendations are seldom enforced. In the one example with clear political overtones, the Supreme Court forced the government to release election funds via supplementary grant, yet this was portrayed by insiders as the executive “using parliament to protect itself”[17]​. Parliament agreed afterward, but only after that fact. This episode underscored that Pakistan lacks a strong ex-ante check on budget amendments: even the highest court resorted to post facto approval.
+
+Moreover, budget information is not sufficiently transparent. While the Finance Division releases budget documents, the data is dense and often arrives late. There is no regular forecast comparison in the public domain; budget strategy papers are often limited to one year (until very recently) and the Medium-Term Fiscal Framework is not fully credible. Civil society and media analysis play some role, but with low civic engagement most citizens are unaware of detailed budget mechanics. In short, Pakistan has far to go before achieving the level of budget transparency and scrutiny expected of emerging economies.
+
+Political vs. Technocratic Dynamics
+
+Underlying these weaknesses is the balance of power between politics and technocracy. Pakistan’s parliamentary system has historically strengthened the executive’s dominance over fiscal matters. As one analysis notes, the budget process “is dominated by the Executive and the federal bureaucracy,” a carryover of colonial administrative traditions and the nature of the coalition government[18]​. In contrast to presidential systems (where an independent budget office or legislative veto might balance the executive), Pakistan’s parliament is subordinate to party leadership. Indeed, recent Supreme Court interpretations of party-whip rules (Article 63A) ensure that even dissenting MPs cannot block budget votes[19]​. As a result, the finance ministry and cabinet typically set the numbers, with limited pushback from politicians.
+
+This dynamic means that fiscal policy often follows political incentives rather than technocratic advice. Politicians prefer visible spending (roads, subsidies, pay hikes) to unpopular tax reforms or spending cuts. The bureaucracy, trying to safeguard its share of the pie, tends to acquiesce. Attempts at long-term planning (such as the Medium-Term Budget Framework introduced in 2019) struggle to take hold when every new government reshuffle priority. By contrast, true technocratic decision-making like evidence-based project screening or strict fiscal rule compliance – is weak. The result is that budget outcomes reflect short-term political bargaining as much as they reflect macroeconomic realities.
+
+A telling critique is that Pakistan’s budget contestation is minimal. Ministries push for more resources, but almost none of their proposals are cut back. Even the Budget Wing of the Finance Division lacks the technical staff to challenge unrealistic requests[20]​. In well-functioning systems, a consolidated budget office or fiscal council would vet assumptions and moderate political pressures. Pakistan lacks such counterweights. If anything, when disagreements arise, the solution has often been just to add another supplementary grant rather than to revise assumptions or enforce limits.
+
+In sum, Pakistan’s budget cycle is skewed toward politics and ad hoc fixes. Technocratic governance – with rigorous forecasts, spending reviews, and rule enforcement – is too weak to offset the executive’s prerogatives. Without a stronger balance, the fiscal foundation remains fragile: as governments yield to political stimuli, budget credibility erodes.
+
+Policy Solutions
+
+Based on the above analysis and international lessons, Pakistan should undertake a multipronged reform of its budget cycle:
+
+Strengthen Budget Formulation: Reform the call circular and budgeting guidelines to require realistic macro assumptions and medium-term ceilings. The Finance Division should be reorganized into a unified Budget Office with sectoral teams – a structure common in advanced systems[21]​ so that technocrats challenge proposals. Building capacity for robust macro-fiscal modeling (e.g., better revenue forecasting tools) is essential. The IMF technical assistance recommends leveraging digital systems (e.g., integrated fiscal management information systems) to support real-time projections[22]​. Pakistan could also formally adopt a multi-year budgeting framework (expanding the recently introduced Medium-Term Budgetary Framework) with binding targets on deficits and debt paths.
+
+Rein in Execution Slippages: The use of supplementary grants must be curbed. One practical step is to amend Article 84 to require prior legislative approval for any supplementary grant that alters the total expenditure​[23]. The Dawn editorial suggests such a move, noting that the current wording gives the government “almost unlimited power” to spend from the Consolidated Fund[24]​. In parallel, Pakistan should pursue stricter commitment controls: setting hard ceilings on spending categories and enforcing “no-bailout” rules for departments that overspend without cuts elsewhere. Experience shows that establishing a Treasury Single Account (already underway) and improving cash management can prevent the accumulation of unauthorized borrowings. To minimize ad hoc bypasses, the practice of rolling old budget surpluses into new obligations should be replaced by transparent contingency reserves. In effect, emergencies should be built into budget planning (with an explicit small buffer) rather than patched later.
+
+Empower Parliamentary Oversight: Pakistan’s National Assembly must reclaim its budgetary authority. The parliamentary Standing Committees on Finance should be given more time and support to examine the budget. This could include hiring independent analysts for MPs and holding pre-budget hearings with ministries. “Ex-ante scrutiny” mechanisms – whereby Parliament approves significant changes before they are implemented – should be introduced. For example, any reallocation exceeding a small percentage of a ministry’s budget would trigger parliamentary debate. Such rules would deter dubious reallocations. The Dawn analysis even suggests requiring the executive to get a vote on any supplemental budget beforehand, except in true emergencies​[25]. In short, moving from post-facto ratification to pre-approval (as practiced in Ireland and South Africa for large shifts) would restore accountability.
+
+Establish an Independent Fiscal Council (IFC): Pakistan lacks an impartial body to assess fiscal policy. An IFC or Parliamentary Budget Office (like Chile’s IFC or the UK’s OBR) would provide nonpartisan analysis of budget proposals and economic forecasts[26]​. For example, the IFC could regularly publish its own growth and revenue estimates alongside the government’s and evaluate adherence to fiscal rules. Independent counsels help curb over-optimism and inform the public debate. Given Pakistan’s varied economic shocks (security costs, climate disasters, commodity swings), an IFC could also develop structural balance estimates to guide stabilization.
+
+Promote Transparency and Accountability: Budget documents should be more accessible. Summary reports, contingency funding, and mid-year reviews ought to be published promptly. Strengthening the Auditor General’s office and ensuring that its reports are debated in Parliament will improve post-budget accountability. Furthermore, link fiscal allocations to performance: introducing program budgeting (with clear objectives and outputs) can help Ministries justify spending based on results, making it harder to claim funds for unfunded mandates.
+
+Cultivate Political Consensus: Reforms must overcome entrenched incentives. Political leaders need to commit to a long-term fiscal strategy. This may require a broad political consensus on the rules – for instance, cross-party support for the Fiscal Responsibility Act – akin to the bipartisan backing Chile’s rule enjoyed. Public engagement and media scrutiny can also bolster this consensus: if voters appreciate the importance of fiscal balance, they may pressure parties to resist wasteful spending.
+
+Conclusion
+
+Pakistan’s chronic fiscal instability stems from a broken budget cycle. Fixing the foundations – namely, making budgets realistic, execution transparent, and oversight effective – is imperative before other reforms can succeed. The challenges are great: vested interests resist limits, and short-term politics often dominates. But as the international evidence shows, even difficult reforms can take root when professionally designed. Chile and Ghana teach that legal fiscal rules must be backed by monitoring institutions; Indonesia shows that a well-run calendar and active committees can professionalize budgeting. Pakistan’s leaders must break the cycle of crisis and compromise. Embracing strict fiscal discipline – by reforming the budget process itself – is the first step toward sustainable growth and fiscal health.
+
+References
+
+Analysis draws on recent Pakistan budget reviews and PFM assessments​ file.pide.org.pk​profit.pakistantoday.com.pk​imf.org​, dawn.com​, documents1.worldbank.org​, stanbicbank.com.gh, as well as comparative fiscal studies from Chile and Ghana​ publications.iadb.org​, imf.org, among others.
+
+Fiscal Discipline is the Key to Reforms
+
+IMF identifies flaws in Pakistan’s budget practices, calls for tighter fiscal controls – Profit by Pakistan Today
+
+Fiscal Discipline is the Key to Reforms
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+World Bank Document
+
+IMF detects flaws in making execution of FY23 budget.
+
+IMF identifies flaws in Pakistan’s budget practices, calls for tighter fiscal controls – Profit by Pakistan Today
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+IMF identifies flaws in Pakistan’s budget practices, calls for tighter fiscal controls – Profit by Pakistan Today
+
+Fiscal Discipline is the Key to Reforms
+
+Who makes Pakistan’s budget and how they can do better – Pakistan – DAWN.COM
+
+Who makes Pakistan’s budget and how they can do better – Pakistan – DAWN.COM
+
+Who makes Pakistan’s budget and how they can do better – Pakistan – DAWN.COM
+
+Who makes Pakistan’s budget and how they can do better – Pakistan – DAWN.COM
+
+Who makes Pakistan’s budget and how they can do better – Pakistan – DAWN.COM
+
+1189 Corrected Cover.pdf
+
+World Bank Document
+
+World Bank Document
+
+IMF Executive Board Concludes 2023 Article IV Consultation with Ghana and Completes First Review under the Extended Credit Facility Arrangement
+
+Who makes Pakistan’s budget and how they can do better – Pakistan – DAWN.COM
+
+Who makes Pakistan’s budget and how they can do better – Pakistan – DAWN.COM
+
+Pakistan: Technical Assistance Report-Improving Budget Practices; IMF Technical Assistance Report No. 24/99; August 2024
+
+IMF identifies flaws in Pakistan’s budget practices, calls for tighter fiscal controls – Profit by Pakistan Today
+
+1189 Corrected Cover.pdf
+
+;
+
+Mr. Hasnat Ahmad is currently serving as an Economic Growth Officer at a private sector organization

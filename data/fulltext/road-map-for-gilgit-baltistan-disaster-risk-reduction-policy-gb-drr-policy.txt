@@ -1,0 +1,233 @@
+Gilgit Baltistan hosts more than 13,000 glacial peaks. These are the main water reservoirs for our agricultural, industrial, and household usage. The rapid rise in average temperature exponentially increases the melting of these water reservoirs. Over the last 80 years, the average temperature in this region has increased by 1.4°C, nearly twice the national rate of 0.7 °C.
+
+Such a rapid increase in average temperature has intensified both the frequency and intensity of climate-induced disaster events, such as GLOF, flash floods, and Soil erosion. Following the guidelines of the Sendai Framework of Disaster Risk Reduction, Pakistan has decentralized its national disaster management authority. Under this reform, the government of Gilgit-Baltistan formed the “Gilgit-Baltistan Disaster Management Authority (GBDMA)” in 2017. Now this authority is responsible for policy formulation and managing disasters and their associated risks. However, GBDMA has failed to develop a comprehensive policy for disaster risk reduction (DRR) in Gilgit Baltistan.
+
+Under the current circumstances and to build Gilgit Baltistan climate resilient, a comprehensive DRR policy has become a necessity of time. The policy at least consists of the following main pillars,
+
+Disaster Risk and Vulnerability Assessment
+
+Disaster Preparedness
+
+Community Engagement
+
+Early Warning System
+
+Institutional Coordination
+
+Financing
+
+Integration with Climate Change Adaptation (CCA)
+
+Inclusion of Gender and Vulnerable Groups
+
+Disaster Risk and Vulnerability Assessment:
+
+Disaster risk and vulnerability assessment is an important pillar for DRR. It makes livelihoods, communities, and ecosystems resilient to disaster events. Activities such as multi-hazard vulnerability and risk assessment should be conducted up to the tehsil level across Gilgit-Baltistan. Such a step can be helpful in zoning and mapping of disaster-vulnerable regions, and thus, better planning and resources would be possible. Construction activities and land encroachment near the ancient water flow route emerged as the main reason for damage from the recent floods. Zoning and mapping will help in identifying such illegal activities, and disasters can be managed more effectively.
+
+Disaster Preparedness:
+
+In DRR, disaster preparedness consists of planning and implementation measures to improve community and governance capacity to anticipate, respond, and recover from disaster events. It ensures sufficient stocks of food and medicine, as well as 24/7 availability of rescue services. Different developmental measures, such as a functional early warning system, an emergency response plan according to the type of disaster events, and public awareness campaigns, are also components of disaster preparedness. Thus, effective disaster preparedness will not reduce the immediate impacts of a disaster, but can also help to make the community and ecosystem climate and disaster resilient in the long term.
+
+Community Engagement:
+
+Gilgit Baltistan is a mountainous and geographically isolated region. In such a region, without direct engagement of the local community in the decision-making process, DRR-related initiatives cannot be equitable, locally driven, and capable of addressing the diverse vulnerabilities within society. The local community is well aware of indigenous and contextual knowledge about coping with disasters. Inclusion of their knowledge and feedback in policy-making ensures a sense of ownership, develops trust with government authorities, and promotes social cohesion. Furthermore, current implementing projects, such as GLOF-II, have failed to deliver desired outcomes due to the non-cooperative behavior of the local community. Under this project, early warning systems and community-based disaster risk management centers to be constructed in different valleys of Gilgit Baltistan. However, the majority of disaster-prone valleys in Gilgit Baltistan lack such a type of development. The main reason for this failure is the non-inclusion of the local community during the decision-making stage.
+
+Early Warning System:
+
+In today’s era early warning system (EWS) comprises technological and AI-powered sensors and gauges. In the case of Gilgit Baltistan, EWS needs to be equipped with the latest technology and also indigenous techniques. In the past, people predicted disaster events by identifying different signs. Sudden cloud formation, heavy rainfalls, specific roaring sounds, and unusual animal movement are common signs of disaster events[1]. Unfortunately, the current generation cannot recognize and identify these signs. Now the government needs to arrange human capacity sessions to familiarize the current generation with these signs.
+
+Institutional Coordination:
+
+GBDMA has a prime responsibility to manage climate-induced disaster events. But, without horizontal and vertical coordination with other government departments, non-government agencies, and the local community, climate-induced disaster events cannot be managed. Both government and non-government agencies have different responsibilities in managing disaster events, as highlighted in Table 1.
+
+The traditional way of information sharing (file sharing) and the top-down approach in governmental offices are the main factors in weak institutional coordination and collaboration in Gilgit Baltistan[2]. So, for effective management of extreme weather events, all governmental offices should be digitalized. In this way, information sharing will be possible without sludge. In addition, the digitalization of GBDMA can be helpful in information assimilation for the public.
+
+Integration with Climate Change Adaptation (CCA):
+
+Without integrating DRR with CAA, the climate-induced vulnerability of the community and ecosystem is not possible. In PC-1 environmental sustainability report is necessary to submit before mega development projects. But it is not implemented in the majority of cases. The GBDMA should be responsible for carrying out environmental sustainability and low-carbon development pathways, ensuring long-term climate security for the region. This activity should not be limited to development projects, but also to every construction activity across Gilgit Baltistan. By aligning DRR with CCA, it can also be a helpful tool to enable access to global climate finance in Pakistan and Gilgit-Baltistan.
+
+Financing
+
+Sustainable and efficient financing is an important pillar for DRR initiatives. It helps in investing in structural and non-structural measures. In the disaster-prone region of Gilgit Baltistan, sustainable financial resources are critical. There are numerous climate change and disaster financing avenues for Gilgit Baltistan. First of all, it should be compulsory to allocate 5-10% of every MPA’s APD for developing disaster-resilient developmental schemes. The second way is to attract foreign financing. This region is producing power only from hydro. Since hydro energy is renewable energy, a carbon credit market can be established in Gilgit Baltistan. In this regard, more R&D is required. Another way is a Public-Private partnership. Many multinational organization and international development donors and organization, such as UNDP, WWF, and World Bank, show their interest in investing in disaster-resilient Gilgit Baltistan. So, the government should take the necessary steps to develop transparent and accountable financial management in Gilgit Baltistan.
+
+Inclusion of Gender and Vulnerable Groups
+
+Due to its unique geography and high social disparities, women and disabled persons are highly vulnerable to extreme weather events. In the decision-making process, representatives from both women and special person should be part of the team. Awareness and capacity development sessions should be conducted in multiple formats, such as in local languages, visual, and audio formats. The safe shelters should be inclusive with separate sanitation facilities for males and females.
+
+Implementation Roadmap
+
+Policy without an implementation roadmap cannot deliver its desired outcomes. Here, I have proposed three different implementation roadmaps for the GB-DRR policy in Gilgit Baltistan.
+
+Table 1: Implementation of Roadmap for GB-DRR Policy
+
+First: Short Term (1-2 years)
+
+Objectives
+Key Actions
+Departments
+Expected Outcomes
+
+Establishment of legal Framework
+
+Approval of GB-DRR policy from Assembly and Cabinet
+
+GB- LPD,
+
+GB-HP,
+
+GBDMA
+Legal framework and coordination mechanism are operational
+
+Baseline Data of hazard mapping and zoning
+
+Conduct hazard, vulnerability, and risk assessment
+
+GIS mapping
+
+GBDMA,
+
+PMD,
+
+SUPARCO
+Hazard and risk database established
+
+Finance
+
+Allocation of ADP for CAA projects
+
+GBDMA,
+
+GB-FD
+5% of the ADP allocation
+
+Second: Medium Term (3 years)
+
+Community-based DRR
+
+Establish DRR Committees in all tehsils.
+
+Conduct awareness campaigns
+
+Empower women-led DRR groups
+
+GBDMA,
+
+GB-LG&RD, UNDP
+Establish community DRR networks
+
+Enhance preparedness and response
+
+Develop District Emergency Response Plans
+
+Conduct biannual mock drills
+
+Stockpiles of food, medicine, and emergency kits.
+
+GBDMA,
+
+GB-HPD,
+
+Rescue-1122
+Improved readiness and reduced disaster impacts.
+
+Promote inclusive planning
+
+Ensure re-F presentation of women, elderly, and differently-abled persons in DRR activities.
+
+Construct inclusive safe shelters.
+
+GBDMA,
+
+GB-P&D,
+
+GB-ESWD, UNDP
+Gender-sensitive DRR implementation.
+
+Third: long-term (5 years)
+
+Promote Climate Resilient Development
+
+Enforce DRR-integrated building code
+
+Anti-land encroachment operations
+
+Strengthen flood protection works
+
+GBDMA,
+
+GB-P&D,
+
+GB-WD,
+
+GB-LG&RD
+Develop climate climate-resilient development framework
+
+Sustainable financing mechanisms
+
+Develop Carbon market
+
+Create GB Climate & DRR Fund.
+
+GBDMA,
+
+GB-FD,
+
+UNDP,
+
+WD
+Dedicated DRR financing system
+
+Integrate DRR with CCA
+
+Development projects align with CCA/DRR goals.
+
+Promote low-carbon, green infrastructure.
+
+GBDMA,
+
+GB-EPA,
+
+GB-FD
+Climate-resilient growth model for GB
+
+Monitoring and Evaluation
+
+Publish annual reports.
+
+GBDMA, Academia
+
+GBDMA= Gilgit Baltistan Disaster Management Authority,
+
+GB-LPD= Gilgit Baltistan Law and Prosecution Department,
+
+GB-HPD= Gilgit Baltistan Health and Population Welfare Department,
+
+GB-HP= Gilgit Baltistan Home & Prisons Department
+
+PMD= Pakistan Meteorological Department,
+
+SUPARCO= Space & Upper Atmosphere Research Commission,
+
+GB-FD= Gilgit Baltistan Finance Department,
+
+GB-LG&RD= Gilgit Baltistan Local Government, Rural Development and Census Department,
+
+UNDP= United Nations Development Programme,
+
+GB-P&D= Gilgit Baltistan Planning and Development,
+
+GB-F= Gilgit Baltistan Food Department,
+
+GB-ESWD= Gilgit Baltistan Education, Social Welfare and Women Development,
+
+GB-WD= Gilgit Baltistan Works Department,
+
+WD= World Bank,
+
+GB-EPA, = Gilgit Baltistan Environmental Protection Authority
+
+Mr. Wajhullah Fahim is a researcher associated with the Federation of Pakistan Chambers of Commerce & Industry.
+
+[1] https://www.aljazeera.com/news/2025/10/13/how-indigenous-knowledge-is-aiding-pakistans-fight-against-climate-change
+
+[2] https://thesis.pide.org.pk/thesis/evaluation-of-disaster-risk-management-a-case-study-of-gilgit-baltistan/

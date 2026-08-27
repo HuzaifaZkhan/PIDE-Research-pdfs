@@ -1,0 +1,125 @@
+Currently, there are more than 20 institutions, not including distribution and generation companies, involved directly in the power sector. There are several institutions with overlapping functions (Figure 1). At least three organisations National Electric Power Regulatory Authority (NEPRA), Central Power Purchasing Agency (CPPA) and Pakistan Electric Power Company (PEPCO), are responsible for monitoring and regulating the management and operations of distribution companies.
+
+Similarly, Private Power Infrastructure Board (PPIB), Alternative Energy Development Board (AEDB) and NEPRA, apart from seven provincial departments, have powers directly and indirectly to facilitate and guarantee the technical compliance of private generation companies. Board of Investment (BOI), though not involved directly in the power sector, performs similar functions.
+
+Despite this bulk of the administrative burden, power sector challenges in the form of inefficiencies, institutional disconnections in the management and the priority of issues are increasing.
+
+Fig. 1. Power Sector Institutional Profile
+
+The number of organisations regulating or monitoring the power sector is unwarranted in Pakistan; in comparison to countries with the relatively better-performing power sector, e.g., Bangladesh and the Philippines (Table 1). Not only number of organisations is less in these countries, all are performing different functions.
+
+Table 1
+
+Organisations
+Functions
+
+Bangladesh
+Bangladesh Energy Regulatory Commission
+Tariffs & operations in oil, gas, & electricity
+
+Sustainable and Renewable Energy Authority
+To promote renewable energy and energy efficiency
+
+Bangladesh Power Development Board
+To manage electricity under the Ministry of Power, Energy and Natural Resource; and acting as ‘single buyer’
+
+Philippines
+Department of Energy
+Energy governance and policy
+
+Energy regulatory Commission
+Sets wheeling rate charges and approves bilateral power supply agreements
+
+Independent Electricity Market Operator
+Handles wholesale market operations, including demand forecasting, real time market pricing and power dispatch schedules.
+
+Power Sector Assets and Liabilities Management Group
+To oversee privatisation, selling state power assets and the right to control generation capacity under long term agreements.
+
+Source: Oxford Business Group (2021)[1] and ADB (2020).[2]
+
+REGULATING AND MONITORING DISTRIBUTION COMPANIES
+
+Pakistan Electric Power Company (PEPCO) was established in 1998. After the unbundling of WAPDA, PEPCO was made responsible for the restructuring and preparation for privatisation of the state-owned generation (GENCOs) and distribution companies (DISCOs) in due course. But unfortunately, its centralised control over the operations of the unbundled companies made the boards and management of these separated companies ineffective.
+
+In 2011, the Government of Pakistan (GOP) approved the dissolution of PEPCO; and the functions were first transferred to National Transmission and Dispatch Company (NTDC) and later to Central Power Purchase Agency (CPPA). However, the functions of PEPCO, in the real sense, were not transferred to CPPA. The Power Division, Ministry of Energy (PD-MoE)[3] took the administrative role earlier performed by PEPCO.
+
+In the current setup, CPPA is playing the role of ‘single buyer’ on behalf of DISCOs. However, in its assigned functions, it is also authorised to monitor distribution companies. CPPA registered with NEPRA as a market operator in 2018. It has the mandate to play the role of a Central Coordinator by NEPRA to facilitate the implementation of the Competitive Trading Bilateral Contract Model (CTBCM) by April 2022.
+
+The Cabinet Committee on Energy (CCOE), on the recommendation of the PD-MoE, has decided to revive PEPCO with the new name Power Planning and Monitoring Company (PPMC) and shift its headquarters from Lahore to Islamabad. As stated in the National Energy Policy 2021, this new institution would be responsible for monitoring the performance of DISCOs. As reported in newspapers,[4] PPMC will have a sovereign mandate to get donor support for capacity building to perform its duties effectively.
+
+Table 2
+
+PEPCO Funding_ Examples
+
+FESCO
+FY2020
+Rs 31,674,800 (PEPCO fees)
+
+MEPCO
+FY2020
+Rs 162,567,586 (Management fees including PEPCO)
+
+HESCO
+FY2019
+Rs 57,796,069 (PEPCO fees)
+
+PESCO
+FY2019
+Rs 29,268,482 (PEPCO fees)
+
+Source: Financial Statements.
+
+Additionally, the funding for the PEPCO now PPMC is and will be paid by DISCOs in the form of fees. DISCOs are already short of the investment required for the up-gradation/ maintenance of their infrastructure. The fee DISCOS are paying (along with free electricity to PEPCO employees) could be used in the long-overdue investments.
+
+NEPRA statutorily is an autonomous regulatory authority with a mandate to regulate/ monitor power sector companies. What good PEPCO in the new name PPMC would do to the DISCOs, which NEPRA can’t do?
+
+Moving Forward
+
+By law, DISCOs are independent corporate entities with Independent Boards. Its operations and reforms (if required) are the responsibility of company management and board. There is no need for any other institution (PPMC or CPPA) to manage, monitor, or regulate its financial, commercial and operational affairs.
+
+The Independent Board, minus the influence of bureaucracy[5], guide the company management to develop a business model for the company, and ensure the fulfilment of service standards set by the regulator, i.e., NEPRA.
+
+Let DISCOs grow independently_ financially, administratively outside the umbrella of PEPCO or PPMC. In other words, from donor influence. Give necessary powers to NEPRA to regulate distribution companies.
+
+In future, CPPA will act as a market operator; only when the wholesale market is functional[6]. Otherwise, it is also an administrative burden.
+
+REGULATING AND FACILITATING POWER GENERATION
+
+For regulating and supporting private investors in power generation, there are several institutions at the Federal and Provincial levels. At the Federal level, PPIB under PD-MoE, established in 1994, was made a statutory organisation through the Private Power and Infrastructure Board Act 2012. Then there is, Board of Investment (BOI), established in 1989 through an administrative order. Later, given statutory status through the Board of Investment Ordinance in 2001. BOI, also assist companies and investors_ who intend to invest in Pakistan. It facilitates the implementation and operation of their projects. AEDB, also under the PD-MoE facilitates private renewable energy projects.
+
+What is the justification of PPIB in current circumstances? PPIB was created: to facilitate private investors, recommend and facilitate power policies, coordinate with provincial governments, draft, negotiate and enter into agreements and guarantee the contractual obligations of entities. After the 18th amendment in the constitution, electricity is the Provincial subject. Every province has its energy department.
+
+Additionally, the impact of long-term agreements with guaranteed capacity payments facilitated by PPIB is haunting and will continue to haunt in the form of circular debt. For future energy projects, do we still need this institution? There is no justification for AEDB either. One organisation under PD-MoE, i.e., AEDB, is talking about promoting renewables. The other organisation under PD-MoE, i.e., CPPA is opposing net-metering to protect DISCO’s revenues.
+
+NEPRA is playing its part in promoting renewables. It has initiated work to develop a framework for establishing a micro/mini-grid for those with no access to electricity[7].
+
+Moving Forward
+
+No doubt the future belongs to renewable energy. It is regulator, i.e., NEPRA’s responsibility to allow the right combination between various energy sources after assessing their feasibility from all dimensions. It is for NEPRA to ensure the compliance of generators to technical and safety standards and not of PPIB or AEDB[8]. It is also NEPRA responsibility to create the right balance to promote net metering.
+
+For the wholesale market (CTBCM), develop the capacity of distribution companies. So that they no longer required any third-party (PPIB or AEDB) support to assist them in finalising the power purchase agreements (capacity procurement based on their projected demand and financial capacities) with the generation companies.
+
+BOI, with relatively varied objectives and functions, can deal effectively with private investors in energy.
+
+CONCLUSION
+
+Several institutions are involved in the power sector. There are parallel institutions with the same functions, i.e., monitoring and regulating. The option to strengthen energy functions under the existing institutional setup will not lead to sustainable solutions. No need for PPMC, PPIB and AEDB; shut down these while consolidating NEPRA.
+
+The GOP should empower and ensure that NEPRA performs its functions effectively. It is the job of the GOP to monitor the effectiveness of NEPRA. If NEPRA is not performing effectively, the authority must be held accountable .
+
+[1]https://oxfordbusinessgroup.com/overview/powerful-shift-year-disruption-allows-government-re-evaluate-priorities-and-chart-new-path-future
+
+[2]https://www.adb.org/sites/default/files/linked-documents/49423-005-ssa.pdf
+
+[3]Earlier Ministry of Water and Power.
+
+[4]https://www.dawn.com/news/1651283
+
+[5]Malik, A. (2021) Corporate Governance in the State-owned Electricity Distribution Companies, PIDE Knowledge Brief, 2021 (Forthcoming).
+
+[6]It is yet to be seen, given complexities in the generation and distribution sector.
+
+[7]NEPRA State of Industry Report, 2021.
+
+[8]As per NEPRA amended Act (2018), the generation companies will no longer require licenses after 2023. However, generators will still be required to comply with technical and safety standards.

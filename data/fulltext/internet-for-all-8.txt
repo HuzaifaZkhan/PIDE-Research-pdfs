@@ -1,0 +1,67 @@
+The pandemic COVID 19 has fast-tracked the demand for digital technologies especially the internet requirements by five years. Internet is the lifeline for startups; distant learning is a new paradigm shift and perhaps the future of innovative learning for all ages which in turn will enhance productivity. The real potential of the internet is to create an enabling environment for people to access information on health, education, business, e-commerce, etc. PIDE’s Reform Agenda for Accelerated and Sustained Growth[1] also emphasised that the internet is a basic human right and it must be taken very seriously, especially by the regulators. It should not be regarded as access to Facebook, YouTube, Google, etc. for entertainment purposes.
+
+Action Point : With a 64% young population, the policy-makers and regulators need to realise the internet is a major source of opportunities and a basic human right.
+
+International Comparison
+
+When we look at various international rankings we can see that on every index related to internet, Pakistan is ranked well behind the countries which share similar socio-economic and demographic conditions. Either it is internet inclusive index, network readiness index, e-government development index, telecommunication infrastructure index, ICT development index or world economic forum index, Pakistan stands behind several South Asian countries such as India, Bangladesh, Nepal and Sri Lanka. In terms of affordability, according to PTA and GSMA report, the four major operators in Pakistan provide cheapest service in terms of a gigabyte of data availability compared to Bangladesh, Turkey, India and Egypt. The availability of internet remains a big issue for the majority of consumers and the devices are also not affordable.
+
+Pakistan recently celebrated 100 million broadband customers but connectivity and availability remain a basic issue. The telecommunication sector has witnessed enormous growth since 2017-18 but Covid 19 has boosted the demand for internet and telecommunication devices sharply. Despite the improvements in internet availability, it does not work for the vast majority of people in general. Keeping in view the current situation it becomes of utmost importance to understand the structural, technological, and regulatory issues creating hurdles in the way of internet availability and affordability to the general public of Pakistan.
+
+_________________________
+
+[1] Reform Agenda for Accelerated and Sustained Growth (2021).
+
+SPECTRUM
+
+Spectrum is a medium like radio wave scaling. This medium carries the signal from point ‘a’ to point ‘b’, from a cell side to a switch, from a switch to cell side, and from cell side to the mobile device, or the i-pad. The government releases spectrum through auction and the operators bid on it. From 2014 there have been three auctions in 2014, 2016, and 2017 respectively. The high flow prices led to no bidding in any of these auctions. In 2016 and 2017, the unsold spectrum of 2014 was put up for bidding. This implies that government did not release any new spectrum after 2014. Currently, the commercial release of spectrum in Pakistan is 1/2 of what is in Afghanistan and Bangladesh. It is 1/3 of Malaysia and Thailand. ¼ of advanced economies like Singapore, Europe, etc.
+
+Overpricing makes it an irrational business model for telecoms. They have to spend 80 percent of their available funds in buying spectrum and are left with 20 percent for infrastructure development. In the UK, a discount was offered on the spectrum, Sweden auctioned the spectrum at the least possible price and the Chinese are providing free spectrum to its operators. Pakistan has the sixth lane of the spectrum, because of a myopic view; it is never been utilised to the fullest capacity.
+
+Hoarding is a short-sighted model that does not work for the government either. For the government, the spectrum auction fee has become the prime objective. There is a complete conflict over here, the short term making money to balance the budget is the priority rather than having internet for all as a right and this is the biggest loophole in the policy.
+
+Action Point: Do not eye the sale of the spectrum to network operators as a source of revenue – Internet access should be a priority. Provide spectrum at a nominal price or even free of any fee.
+
+INFRASTRUCTURE DEVELOPMENT
+
+Optic Fibre
+
+The penetration of optic fibre cables in Pakistan is among the major obstacles in the availability of the internet for all. Approximately 10 percent of mobile towers are connected with optic fibre. Whereas just for comparison the optic fibre penetration in Thailand is 90 percent, Malaysia is about 40 percent, Vietnam is 35 percent, India 30 percent, and even in Bangladesh, it stands at 27 percent.
+
+Whenever a Telco has to lay fibre, it has to pay a certain fee. The certificate license fee is a significant part of the CAPEX. This fee is an intangible thing and no asset is created in the process. Also, if an optic fibre is to be laid along the motorway, the national highway authority will have to be paid a certain fee. In Karachi an 18 km long road is controlled by 5 civic agencies, so the operator has to talk and pay to all these 5 companies.
+
+Action Point: These regulatory issues and high taxation costs needs to be resolved on priority basis.
+
+Towers
+
+Initially, the towers were a comparative advantage that a company had and they started putting up their own towers. Later, the idea of handing over towers to tower operators like American Towers and Indus Towers was thought of. However, the huge tax implications of selling a tower hindered the idea. Tower sharing and optic fibre sharing can be practiced by infrastructure providers if rightly incentivised by the government.
+
+Action Point: Institutionalise Tower Sharing.
+
+IS 5G A GAME CHANGER?
+
+5G will not necessarily provide faster internet but it offers other benefits like multiple device operability, low latency capabilities, enhanced security automated cars, remote execution,
+
+5G will increase the demand for fibre as each building needs a fibre connection and a small antenna/base station for a cellular company. Also, the demand for mobiles that are compatible with 5G technology will increase.
+
+In the case of Pakistan, we are yet to capitalise on our investment in 4G. Pakistan is not ready for 5G as per the dismal statistics. Korea went for 5G when they had an 80 percent penetration of 4G handsets. In our country, merely 43.51 percent of the users have the 3G and 4G devices; however, the 4G was introduced 10 years back.
+
+The biggest impediment is the price of the smartphone. Pakistan has less than 50% smartphone market and this is the major barrier in the way of 4G and 5G.
+
+Action Point: There is a natural evolution and adoption of the latest technology so let the market decide.
+
+WAY FORWARD
+
+Telecom is empowering education, health, business, agriculture, commerce, security; we need a holistic digital policy for the wellbeing of our nation and sustainable growth. The Telecom sector is evolving with technology, hence our policies and regulatory framework should be supportive. The focus of the government policy should only be to enable, encourage and incentivise the business environment in the IT sector.
+
+The dynamic spectrum allocation is being practiced in the world and it should be promoted in Pakistan. The dynamic spectrum allocation requires to pay as you go mode. Thus government should have a balanced approach and the pay-as-you-go option can be practiced.
+
+If we take the long-term view, the contribution from the people using the internet over the next 10 years is going to be far more to the exchequer than could be obtained from the upfront fees and levies. Government can amortise the initial lump sum amount of spectrum price over five to ten years.
+
+In the case of optic fibre, Pakistan has service providers (foreigners) and infrastructure providers. The service providers do not share their assets because of competition, so the sharing model has limited implications. In Pakistan, 19 telecom infrastructure provider’s licenses have been issued by PTA. Ninety-nine percent of the optic fibre is owned by the service providers but if the fibre ownership is transferred to infrastructure providers, the sharing could have been practiced on a large scale.
+
+Tower sharing and optic fibre sharing can be practiced by infrastructure providers if rightly incentivised by the government.
+
+For small towns and cities, the concept of having a large shared company owned by a completely neutral entity is more suitable. This company can get bandwidth through submarine fibres which offer a high-speed network.
+
+To develop a fully compatible ecosystem with 5G we require an up-gradation to the latest technology from both customers and operators. The up-gradation cost will be shifted to the consumers making 5G expensive. The four operators provide 4G but 50 percent of the sims sold are 2G and 50 percent of the handsets sold in the market can hardly support 2G. The benefit of utility comes in when the number of users is high. Providing 5 G to a small privileged community will be suboptimal while investment in 4G will improve service quality many times.

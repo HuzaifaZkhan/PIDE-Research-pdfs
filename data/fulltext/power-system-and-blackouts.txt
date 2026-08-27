@@ -1,0 +1,41 @@
+On January 23, 2023, another country-wide power breakdown hit the country; not the first time, but the first of the year 2023. This time (again), an inquiry will be conducted by Nepra (Pakistan Electric Power Regulatory Authority), and some fines will be imposed as in the past; the power system will work in the same routine.
+
+In power systems, the frequency, voltage, and rotor angle of synchronic generating units should be rightly controlled to maintain stability in the power system. An imbalance between demand and supply directly impacts the frequency; voltage is affected by the reactive power imbalance, and the rotor angle behavior represents the stability and synchronization in the power system. If the power system is subjected to any irregularity, it must be addressed immediately.
+
+Otherwise, it leads to a cascading effect and eventually a blackout. There is little time window to implement corrective measures.
+
+Power systems are complex and operate close to the steady-state stability boundary. Several control and protection techniques are required to operate such systems in a stable mode. With time, countries worldwide have learnt and have improved their resilience to power blackouts. They have developed power systems with several protection schemes to avoid unpredicted events and power outages.
+
+Blackouts question the reliability of conventional and adaptive protection techniques in avoiding such power outages. In Pakistan, it has become a common feature. Why? Because we are still stuck in the obsolete power system.
+
+There is no doubt that Pakistan’s power system is spread over vast geographic areas, increasing the chance of faults or power failures. New algorithms have been developed globally to avoid cascading tripping of interconnected transmission lines caused by maloperation during major wide-area power system disturbances. The power systems in these countries are still encountering maloperation situations, but the frequency of such incidents has been reduced significantly through overhauling and protective techniques.
+
+Recently, PIDE launched a book on the power sector, covering all aspects of the power supply chain. This research at PIDE highlights failings in the power system leading to major blackouts in the country. Some of the most common reasons cited are overloading of transmission lines, voltage collapse, equipment failure, poor maintenance, human faults, and mal-operating control system.
+
+Over the years, NTDC (National Transmission and Distribution Company) has not been able to upgrade its transmission system or induct newer technologies like ultra-high voltage transmission lines, static var compensators, and storage batteries. In foggy areas, replacement of all disc insulators with polymer type or application of anti-corrosion coatings to reduce tripping of main lines in the winter season are held up/delayed.
+
+The control system is not good enough to track disturbances in real-time or to respond automatically to isolate problems before they snowball. No re-designing of the system for installing shunt reactors to energize during the low load period has taken place.
+
+The lack of upgrades in the transmission system has less to do with funds and more to do with non-professional management of affairs. Result is the country remained in darkness for more than twelve hours on January 23.
+
+The evidence presented in the PIDE book suggests that major breakdowns in the country usually occurred due to system disturbance in 500 kV and 220 kV transmission lines and tripping in unstable power swing mode, which caused a separation of the South and North zones. The separation of the North caused cascade tripping, unbalancing generation and connected load in both zones.
+
+Automated generation control is only available on major hydel plants Tarbela, Mangla and Ghazi Barotha. Due to the minimum load in winter on these plants, the frequency control of the system becomes weak. As required in the Grid Code, the spinning reserve is not maintained. Due to nominal hydel generation in the North in winters, power generated in the South flows to the North to meet the load requirement in the North and Center. Hereafter any generation loss causes the frequency to decline below the tripping limits of generators; thus, cascade tripping and blackout.
+
+Not only a major blackout but several hours of restoring the system is also a major concern in Pakistan. It is because of outdated mechanisms and procedures. Even after so many years, power plants are not developed with a black start facility to restart parts of the power system to recover from a blackout.
+
+Grid stations and power stations are without synchronization devices; the SCADA (Supervisory Control and Data Acquisition) system is available on primary power systems and not on secondary systems; many power plants and grid stations are not integrated with system operator control rooms. Oral and outdated communication modes are used, causing delays. Above all, the lack of trained staff delayed the restoration.
+
+NTDC must comply with industry standards and uniform codes of conduct on the safety, reliability, stability, integrated operability, and efficiency of the whole electric power system. We need more high-voltage lines in Pakistan to catch up with the rising demand.
+
+There should be enough ‘reactive power’ during the minimum load period. IPPs (Independent Power Producers) are reluctant to do so as they don’t want their machines to run in a highly excited mode. No check on those IPPs because real-time data is not available. If real-time data is available, there is no penalty in PPAs for the IPPs if they don’t support the system.
+
+The ability of power systems to ensure a continuous supply of electricity to customers in the event of a disturbance is crucial. There is a need to improve the dynamic and static monitoring of power systems during disturbance and maloperation situations. Smart grid and wide area measurement system (WAMS) technologies can provide effective solutions for reducing the blackout rate in modern and future smart power systems. The smart grid can enable demand-side participation in providing primary and secondary reserves, improving the stability margin, and giving more time for decision-making during emergencies.
+
+Electricity supply is the backbone of all economic activities.
+
+Extended power failures can compromise most services and routine activities. The implications of operational mismanagement and contingency planning are enormous.
+
+Copyright Business Recorder, 2023
+
+Newspaper Link

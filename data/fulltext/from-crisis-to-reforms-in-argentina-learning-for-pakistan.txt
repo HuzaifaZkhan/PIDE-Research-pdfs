@@ -1,0 +1,577 @@
+The review paper Argentina’s economic reforms under President Javier Milei, highlighting key measures like a 54% devaluation of the peso, the abolition of price controls, and subsidy reductions that addressed fiscal imbalances and restored market efficiency. These reforms, which also included labor law modernization and deregulation of key sectors, provide valuable lessons for Pakistan. Facing similar challenges such as high inflation, low labor productivity (1.5%), and substantial fiscal deficits, Pakistan must adopt strategic policies to improve governance and economic performance. By investing in education, enhancing labor market flexibility, and expanding international trade—mirroring Argentina’s $84 billion export strategy – Pakistan can bolster its foreign exchange earnings and trade balance. Additionally, Pakistan’s adherence to IMF programs, as demonstrated by Argentina’s $4.7 billion disbursement, is crucial for fiscal stability. Learning from Argentina’s fiscal consolidation and monetary policy adjustments can help Pakistan address its inflation, paving the way for sustainable economic stability and growth.
+
+Introduction
+
+Argentina and Pakistan, despite their geographical distance, share notable similarities in their economic challenges. Both nations have grappled with recurring economic crises, policy inconsistencies, and structural weaknesses that have hindered sustained growth and development. Argentina’s rich history of economic crises and reform efforts provides a fertile ground for exploration, offering valuable lessons for countries facing similar challenges, including Pakistan. As Pakistan navigates its own economic landscape characterized by fiscal deficits, external debt burdens, and structural inefficiencies, there is a pressing need to draw on the experiences of others to inform effective reform strategies. By examining Argentina’s reform journey and identifying key success factors and pitfalls, this paper aims to contribute to Pakistan’s ongoing reform agenda and pave the way for a more resilient and prosperous future.
+
+This paper seeks to explore why reforms introduced by different governments across various time periods have failed to address Argentina’s economic challenges and what distinguishes the reform agenda introduced by President Javier Gerardo Milei, who assumed office in December 2023. Can Pakistan learn specific lessons from Argentina’s experiences, and how can these lessons translate into actionable strategies for reform? By exploring these questions, policymakers and government officials in Pakistan can leverage insights from Argentina’s reform journey to drive meaningful change and foster sustainable economic growth.
+
+Argentina at Glance
+
+Argentina, a nation with a rich cultural heritage, has been navigating through significant reforms aimed at addressing economic challenges, political instability, and social inequalities. o Argentina is Latin America’s third-largest economy, with a GDP of slightly over USD 630 billion and GDP per capita income is USD 13,619 in 2022 (IMF, 2024). o A sharp decline in economic growth from 5.0% in 2022 to -2.5 in 2023 coupled with an alarming increase in inflation from 72.4% to 121.7 % during the same period (Figure 1). o Argentina’s gross public debt rose to 89.5% of GDP in 2023 and is predominantly owed to domestic creditors, with a split of 64% domestic and 36% external. o The fiscal deficit stood at 3.2% of GDP in 2023, with a reduction foreseen to 2.8% in 2024. Inflation has surpassed 120% in 2023 – o the highest inflation rate since the 1991 hyperinflation era – and may continue to rise in the near term due to expectations of a currency devaluation. o The unemployment rate remains high at 7.4% in 2023, with an increase from 6.8% compared to the 2022. o Poverty is persistently high and extreme poverty has been pushed up by rising inflation. o Labor productivity is low due to a lack of domestic and external competition in many markets. o High trade barriers deprive the economy from the benefits of international competition. o Product market regulation and administrative barriers restrict market entry and hamper competition (OECD, 2023). Figure 1: Economic growth and inflation volatility
+
+Figure 1: Economic growth and inflation volatility
+
+A Tale of Two Countries: Argentina and Pakistan Historical Perspective of Economic Crisis in Argentina
+
+Argentina’s economic journey has been a rollercoaster of booms and busts. From the late 19th century’s agricultural export-led prosperity to the tumultuous 20th century marked by the Great Depression, import substitution industrialization, and the disastrous effects of hyperinflation and debt defaults. The 1990s’ hope for stability with the Convertibility Plan, pegging the peso to the US dollar, ultimately ended in the catastrophic 2001 financial crisis. Despite periods of recovery, including post-crisis growth and buoyancy from global conditions, Argentina’s economy has remained susceptible to external shocks, as seen in the aftermath of the 2008 global financial crisis and the 2014 sovereign debt default.
+
+In recent years, Argentina has grappled with persistent economic hurdles, including high inflation and fiscal deficits. The COVID-19 pandemic worsened these challenges, causing a sharp GDP decline in 2020 followed by a partial rebound in 2021. This volatility, mirrored in historical GDP data (Figure 1), underscores Argentina’s vulnerability to crises, impacting inflation and unemployment. Fluctuating foreign exchange reserves further compound economic woes, reflecting the nation’s struggle to maintain stability amidst external shocks, hindering growth and the external sector.
+
+Figure 1 : Historical Economic performance and cyclicality of growth.
+
+Source: Author’s formulation based on data taken from WDI.
+
+The historical context of Argentina’s crises provides further insight into the importance of reserve adequacy. During periods of economic turmoil, such as the 1998-2002 crisis, the country experienced a significant depletion of reserves, leading to currency devaluation, financial instability, and recession. Inadequate reserve levels exacerbate the impact of external shocks, making the economy more susceptible to crises. For instance, in 2009, total reserves were $46,355 million, covering 9.1 months of imports, indicating a relatively comfortable position. However, in 2015, total reserves dropped to $31,179 million, covering only 3.4 months of imports, suggesting a vulnerable position (Figure 2).
+
+Figure 2 : BCRA International Reserves (in million dollars)
+
+Source: Author’s formulation based on data taken from means the Central Bank of the Argentine Republic . BCRA means the Central Bank of the Argentine Republic
+
+Economic cost of crisis:
+
+Basic trend analysis reveals the deep impact of macroeconomic instability on Argentina’s development. Over the past four decades, the country has experienced significant growth stagnation (Figure 1). For instance, in 2003, per capita income stagnated at levels comparable to 1973, reflecting halted progress. Illustrating this from (Figure 3), if Argentina had maintained its stable growth trend from 1965 to 1974, per capita GDP would have reached USD 41,314 in 2022. However, it stood at only USD 12,941, indicating a 68.81% lower actual GDP due to instability and crisis. This highlights the immense economic cost incurred in terms of prosperity, growth, and employment.
+
+Figure 3: Economic costs of Crisis.
+
+Source: Author’s calculation
+
+Analysis of Reforms:
+
+Argentina’s economic landscape has been shaped by a series of reforms spanning various sectors, each with its own tale of success and failure. In the early 1990s, a bold move to combat inflation involved pegging the peso to the U.S. dollar and privatizing state-owned companies, which indeed led to a substantial drop in inflation rates but unfortunately failed to curb persistently high unemployment. Further, the deregulation drive spearheaded by Domingo Cavallo in 1991 aimed to rejuvenate the economy through free-market reforms, opening up trade avenues and reducing import restrictions, yet struggled to alleviate unemployment woes. On the digitalization front, President Macri’s administration made strides, leveraging technology to enhance public services and government communication, though faced no significant setbacks. The endeavor to reform the public sector brought efficiency gains through privatization, but the persistently high jobless rate remained a thorn in the nation’s side. Financial system reforms, notably the Convertibility Law and Central Bank Charter, ensured stability but limited sector-specific financing opportunities. Fiscal reforms of the 1990s spurred robust GDP growth, albeit at the expense of increased primary fiscal deficits. Monetary policy in 2021 aimed at fiscal support but contributed to elevated inflation rates. Reductions in public subsidies saw decreased debt but minimal impact on industrial subsidies. Labor reforms attempted to introduce adaptability but faced challenges in market adjustments. Exchange rate reforms maintained stability temporarily but reduced foreign reserves. Lastly, IMF programs provided short-term relief but couldn’t avert economic crises and defaults, reflecting the intricate dance between policy actions and their consequences in Argentina’s economic narrative.
+
+Milei’s government in Argentina implemented swift economic measures, including a 54% peso devaluation, subsidy cuts, and plans to reduce central government transfers and cancel infrastructure projects to accelerate inflation towards dollarization. This aims to boost export competitiveness, enhance market efficiency, lower fiscal deficits, and streamline spending. Labor reforms focus on job creation through modernizing laws and deregulatory measures, potentially boosting innovation and competition. Fiscal policies target improved export taxes, reduction of the primary deficit, and IMF support for fiscal discipline. Monetary policy aims to control inflation and transition to positive real interest rates. Political institutional reforms consolidate ministries and secretariats for greater efficiency, while social spending cuts involve scrapping public works projects, reducing subsidies, and terminating non-essential employees to trim the deficit and enhance efficiency. International relations reforms focus on strengthening trade ties and enhancing foreign exchange earnings through trade agreements and diplomatic initiatives.
+
+Historical Perspectives of Economic Crises in Pakistan:
+
+Pakistan’s economic history reflects a tumultuous journey marked by both progress and setbacks. Under General Ayub Khan’s regime from 1958 to 1969, Pakistan experienced significant economic growth, with an impressive average growth rate of 5.82%. However, this period of prosperity was followed by a decade of challenges during Zulfikar Ali Bhutto’s government, characterized by worldwide recessions, natural disasters, and nationalization policies. General Zia-ul-Haq’s tenure saw efforts to Islamize the economy and industrial growth, albeit alongside structural adjustments and reliance on foreign aid. The post-9/11 era, particularly under General Pervez Musharraf, showed promising short-term growth fueled by foreign aid, but lacked sustainable long-term strategies. The PPP’s tenure from 2008 to 2013 was marked by economic instability, natural disasters, and political turmoil. Conversely, the PML-N’s government from 2013 to 2018 pursued growth-oriented policies but grappled with issues such as a massive current account deficit and public debt. In 2018, the Pakistan Tehreek-e-Insaf (PTI) came into power, inheriting a mixed economic landscape. While initially showing promising growth rates, the COVID-19 pandemic struck, causing a significant economic downturn and highlighting the need for robust economic management (Figure 4). Throughout these transitions in power, Pakistan has faced challenges ranging from political instability and natural disasters to global economic downturns, underscoring the importance of effective governance and long-term economic planning to navigate crises and foster sustainable growth.
+
+Figure 4: Political and Economic Cycle
+
+Source: Khan (2022)
+
+Economic Cost of Crisis:
+
+The economic crisis in Pakistan has inflicted substantial costs on the nation, extending beyond financial losses to encompass profound social, security, and regional implications. Social unrest has surged because of economic hardships, manifesting in protests, strikes, and violence fueled by rising living costs, unemployment, and inequality. This unrest has strained the social fabric and eroded confidence in the government, exacerbating ethnic, sectarian, and regional tensions and threatening the nation’s stability and unity. Furthermore, the economic downturn has weakened Pakistan’s ability to address security challenges, with a resurgence of terrorism adding to the country’s woes. Militant groups have exploited the crisis to escalate their activities, posing a significant threat to internal stability and security. Regionally, Pakistan’s economic turmoil carries implications for stability and growth, given its geopolitical significance as a nuclear-armed nation with a sizable population. The potential ramifications of Pakistan’s economic instability extend to its neighbors and the global community, highlighting the urgency of addressing the crisis and implementing effective measures to mitigate its impact
+
+Figure 5: Economic Cost of Crisis.
+
+Source: Author’s calculation
+
+Analysis of Reforms:
+
+Deregulation for Economic Stimulus: Pakistan’s government has embarked on a path of deregulating key sectors like manufacturing, agriculture, and services to invigorate economic growth. By dismantling bureaucratic barriers and fostering a more competitive business environment, Pakistan aims to spur industrial output, attract foreign investment, and generate employment opportunities. This strategy not only revitalizes traditional sectors like agriculture but also lays the groundwork for sustainable development across various economic fronts. [1]
+
+Privatization for Efficiency Enhancement: Taking cues from Argentina’s privatization initiatives, Pakistan has initiated measures to reduce the burden on state-owned enterprises (SOEs). Through the privatization of non-strategic SOEs, Pakistan seeks to enhance operational efficiency, boost productivity, and ensure fairness and transparency in business operations. This strategic shift allows the government to focus on regulatory functions while unleashing the potential of private sector innovation to drive economic growth. [2]
+
+Subsidy Rationalization for Fiscal Health: Recognizing the importance of fiscal prudence, Pakistan has embarked on a journey to reevaluate subsidies and reallocate resources effectively. Inspired by Argentina’s subsidy reduction measures, Pakistan aims to gradually phase out or streamline subsidies, redirecting funds towards critical sectors such as infrastructure, healthcare, and education. This reallocation strategy is expected to foster long-term socio-economic development while addressing fiscal deficits. [3]
+
+Public Sector Modernization for Efficient Governance : Efforts to modernize and streamline the public sector are underway in Pakistan, drawing inspiration from Argentina’s governance reforms. By improving governmental efficiency and reducing wasteful spending, Pakistan aims to enhance service delivery, combat corruption, and rebuild public trust in governmental institutions. Implementing similar reforms promises a leaner, more responsive public administration capable of meeting the needs of its citizens effectively. [4]
+
+Tax Reform for Revenue Enhancement: Pakistan is undertaking significant tax reforms, taking lessons from Argentina’s tax policies. Simplifying the tax code, broadening the tax base, and cracking down on tax evasion are central to Pakistan’s strategy. These reforms aim to boost revenue collection, providing the government with essential funds to invest in public services and infrastructure, thereby stimulating economic growth and addressing fiscal imbalances. [5]
+
+Debt Management for Financial Stability : In line with Argentina’s experiences, Pakistan is prioritizing effective debt management to ensure financial stability. This involves renegotiating debt terms with creditors and implementing policies aimed at enhancing debt sustainability. By learning from Argentina’s challenges, Pakistan aims to reduce fiscal deficits, stabilize its economy, and safeguard against future financial crises. [6]
+
+Navigating Economic Storms: Drawing Lessons from Argentina for Pakistan’s Economic Resilience
+
+In the tumultuous realm of global economics, Argentina and Pakistan stand as protagonists navigating through stormy seas, each facing its distinct set of challenges. Corruption, a common adversary, undermines governance and economic progress in both nations, demanding resolute action and transparent governance structures. Argentina, grappling with a Corruption Index of 37%, battles the aftermath of natural disasters and fiscal mismanagement, combating an inflation rate of 142.4%. Conversely, Pakistan, with a Corruption Index of 29%, contends with labor productivity stagnation at 1.5% and urban inflation exceeding 38%. Despite their shared economic storms, Argentina and Pakistan chart their distinct paths towards stability and prosperity, guided by bold reforms, meticulous governance, and unwavering resolve.
+
+Pakistan stands at a critical juncture, facing economic challenges reminiscent of Argentina’s tumultuous economic history. Argentina’s experience offers valuable insights for Pakistan as it navigates through its own fiscal and monetary crises. Both countries share a history of economic instability driven by fiscal mismanagement, inflation, and structural inefficiencies. Learning from Argentina, Pakistan must adopt a multifaceted strategy to achieve sustainable economic stability.
+
+First and foremost, stringent fiscal discipline is essential. Pakistan should focus on reducing its fiscal deficit by curtailing unnecessary government expenditures and improving tax collection mechanisms. This could involve broadening the tax base and implementing more efficient tax policies. Moreover, structural reforms are crucial. Pakistan needs to modernize its public sector, reducing inefficiencies and promoting transparency to combat corruption. Privatizing non-strategic state-owned enterprises could enhance productivity and efficiency, providing a level playing field for the private sector. Enhancing export competitiveness is another critical area. Pakistan should diversify its economic base, reducing reliance on volatile sectors by promoting export-oriented industries through incentives and infrastructure development.
+
+Investment in human capital is paramount. By prioritizing education, healthcare, and skill development, Pakistan can boost labor productivity and foster long-term economic growth. Robust monetary policies to control inflation and stabilize the currency are essential, along with institutional reforms to enhance governance and policy credibility. Finally, regional cooperation and international trade agreements can play a significant role in stabilizing Pakistan’s economy. By implementing these comprehensive reforms, Pakistan can navigate its economic challenges more effectively, drawing on Argentina’s experiences to avoid similar pitfalls and achieve sustainable economic prosperity. The journey will require unwavering commitment, transparent governance, and a strategic vision to foster resilience and growth in Pakistan’s economic landscape.
+
+References
+
+Appendix
+
+Pakistan: History of Lending Commitments
+
+as of February 29, 2020
+
+(In thousands of SDRs)
+
+Facility
+Date of
+Date of
+Date of
+Date of
+Date of
+
+Arrangement
+Date 4/
+Agreed
+Drawn
+Outstanding
+
+Extended Fund Facility
+3-Jul-19
+2-Oct-22
+4,268,000
+1,044,000
+1,044,000
+
+Extended Fund Facility
+4-Sep-13
+30-Sep-16
+4,393,000
+4,393,000
+3,793,000
+
+Standby Arrangement
+24-Nov-08
+30-Sep-11
+7,235,900
+4,936,035
+0
+
+Extended Credit Facility
+6-Dec-01
+5-Dec-04
+1,033,700
+861,420
+0
+
+Standby Arrangement
+29-Nov-00
+30-Sep-01
+465,000
+465,000
+0
+
+Extended Fund Facility
+20-Oct-97
+19-Oct-00
+454,920
+113,740
+0
+
+Extended Credit Facility
+20-Oct-97
+19-Oct-00
+682,380
+265,370
+0
+
+Standby Arrangement
+13-Dec-95
+30-Sep-97
+562,590
+294,690
+0
+
+Extended Credit Facility
+22-Feb-94
+13-Dec-95
+606,600
+172,200
+0
+
+Extended Fund Facility
+22-Feb-94
+4-Dec-95
+379,100
+123,200
+0
+
+Standby Arrangement
+16-Sep-93
+22-Feb-94
+265,400
+88,000
+0
+
+Structural Adjustment Facility Commitment
+28-Dec-88
+27-Dec-91
+382,410
+382,410
+0
+
+Standby Arrangement
+28-Dec-88
+30-Nov-90
+273,150
+194,480
+0
+
+Extended Fund Facility
+2-Dec-81
+23-Nov-83
+919,000
+730,000
+0
+
+Extended Fund Facility
+24-Nov-80
+1-Dec-81
+1,268,000
+349,000
+0
+
+Standby Arrangement
+9-Mar-77
+8-Mar-78
+80,000
+80,000
+0
+
+Standby Arrangement
+11-Nov-74
+10-Nov-75
+75,000
+75,000
+0
+
+Standby Arrangement
+11-Aug-73
+10-Aug-74
+75,000
+75,000
+0
+
+Standby Arrangement
+18-May-72
+17-May-73
+100,000
+84,000
+0
+
+Standby Arrangement
+17-Oct-68
+16-Oct-69
+75,000
+75,000
+0
+
+Standby Arrangement
+16-Mar-65
+15-Mar-66
+37,500
+37,500
+0
+
+Standby Arrangement
+8-Dec-58
+22-Sep-59
+25,000
+0
+0
+
+Total
+
+23,656,650
+14,839,045
+4,837,000
+
+4/ The expiration date for outright disbursements (RFI and RCF) reflects the date the disbursement was drawn, or the date the disbursement expires, i.e., 60 days following the Board approval date. The expiration dates for arrangements under the GRA, PRGT, and RST reflect either the approved expiration date of the arrangement or the date the last disbursement takes place under the fully drawn arrangements.
+
+Pakistan: Projected Payments to the IMF as of January 31, 2024 from February 01, 2024 to December 31, 2024 (In SDRs)
+
+Description
+Schedule Date
+Total Amount Due
+
+GRA Level Based Surcharge
+1-Feb-24
+10,067,959
+
+GRA Time Based Surcharge
+1-Feb-24
+5,033,979
+
+Net SDR Charges
+1-Feb-24
+28,076,517
+
+GRA Basic Charges
+1-Feb-24
+75,059,047
+
+GRA Repurchase (EFF)
+26-Mar-24
+30,000,000
+
+GRA Repurchase (EFF)
+29-Mar-24
+30,000,000
+
+GRA Repurchase (EFF)
+29-Mar-24
+6,083,333
+
+GRA Repurchase (EFF)
+29-Mar-24
+30,000,000
+
+GRA Repurchase (EFF)
+29-Mar-24
+30,000,000
+
+GRA Repurchase (RFI)
+19-Apr-24
+126,937,500
+
+SDR Assessments
+30-Apr-24
+38,530
+
+GRA Level Based Surcharge
+1-May-24
+10,324,133
+
+Net SDR Charges
+1-May-24
+25,397,650
+
+GRA Time Based Surcharge
+1-May-24
+5,162,066
+
+GRA Basic Charges
+1-May-24
+73,691,961
+
+GRA Repurchase (EFF)
+14-Jun-24
+60,000,000
+
+GRA Repurchase (EFF)
+21-Jun-24
+30,000,000
+
+GRA Repurchase (EFF)
+21-Jun-24
+27,333,333
+
+GRA Repurchase (EFF)
+28-Jun-24
+30,000,000
+
+GRA Repurchase (EFF)
+28-Jun-24
+30,000,000
+
+GRA Repurchase (EFF)
+2-Jul-24
+30,000,000
+
+GRA Repurchase (EFF)
+9-Jul-24
+59,666,666
+
+GRA Repurchase (RFI)
+19-Jul-24
+126,937,500
+
+Net SDR Charges
+1-Aug-24
+25,962,042
+
+GRA Level Based Surcharge
+1-Aug-24
+8,992,422
+
+GRA Basic Charges
+1-Aug-24
+71,369,738
+
+GRA Time Based Surcharge
+1-Aug-24
+4,496,210
+
+GRA Repurchase (EFF)
+27-Sep-24
+30,000,000
+
+GRA Repurchase (EFF)
+30-Sep-24
+30,000,000
+
+GRA Repurchase (EFF)
+30-Sep-24
+30,000,000
+
+GRA Repurchase (EFF)
+30-Sep-24
+6,083,333
+
+GRA Repurchase (RFI)
+18-Oct-24
+126,937,500
+
+Net SDR Charges
+1-Nov-24
+25,962,042
+
+GRA Time Based Surcharge
+1-Nov-24
+3,676,789
+
+GRA Basic Charges
+1-Nov-24
+67,212,809
+
+GRA Level Based Surcharge
+1-Nov-24
+7,353,577
+
+GRA Repurchase (EFF)
+19-Dec-24
+60,000,000
+
+GRA Repurchase (EFF)
+20-Dec-24
+30,000,000
+
+GRA Repurchase (EFF)
+23-Dec-24
+27,333,333
+
+GRA Repurchase (EFF)
+24-Dec-24
+30,000,000
+
+GRA Repurchase (EFF)
+24-Dec-24
+30,000,000
+
+Total for the year 2024
+1,495,189,969
+
+Short Description
+Description
+
+Net SDR Charges
+SDR Department – Net Charges
+
+GRA Basic Charges
+General Resources Account – BASIC Charges
+
+SDR Assessments
+SDR Department – Member Assessment
+
+GRA Repurchase (EFF)
+Extended Fund Facility Arrangement – Obligation
+
+GRA Repurchase (RFI)
+Principal – Rapid Financing Instrument
+
+GRA Time Based Surcharge
+Time Based Surcharge
+
+GRA Level Based Surcharge
+Level Based Surcharge
+
+Source: Author’s formulation based on data taken from the World Development Indicators (WDI) retrieved dated May 13, 2024.
+
+Appendix
+
+Appendix Figure 1 : Growth and Inflation Nexus
+
+Reforms
+Proposal on Reforms in Argentina
+Potential Benefits For Pakistan
+
+Economic Measures
+
+Milei’s government immediately devalued the peso by 54%, abolished price controls.
+
+Subsidies cut for fuel and transportation, resulting in a surge in consumer prices amid already high inflation.
+
+Future plans involve reducing central government transfers to provinces
+
+Canceling infrastructure projects to accelerate inflation with the goal of dollarization.
+
+Devaluation: Boosts export competitiveness and foreign exchange earnings.
+
+Abolition of Price Controls: Enhances market efficiency and reduces distortions.
+
+Cutting Subsidies: Lowers fiscal deficit and improves resource allocation.
+
+Reducing Transfers and Canceling Projects: Streamlines spending and reduces fiscal burden.
+
+Labor Reforms and Deregulation:
+
+Milei announced plans to modernize labor laws to promote job creation
+
+Inflation to keep falling as labor markets come into a better balance.
+
+Introduced deregulatory measures affecting various sectors.
+
+Reforms eliminating rent regulation and state enterprise privatization.
+
+Modernizing Labor Laws: Boosts job creation and reduces unemployment.
+
+Deregulation: Enhances innovation and competition in key sectors.
+
+Eliminating Rent Regulation: Attracts investment and improves housing market.
+
+Fiscal Policies:
+
+He expects additional support from improved export taxes following the resolution of the drought, estimated to contribute around 1% of GDP.
+
+This strategy aims to sharply reduce the primary deficit from 3.2% of GDP at the end of 2023 to 0.8% of GDP by 2024
+
+The IMF approved a disbursement of $4.7 billion to support Argentina’s stabilization efforts, emphasizing fiscal discipline, structural improvements, and the removal of exchange restrictions.
+
+Improved Export Taxes: Boosts government revenue, aiding budget balance.
+
+Reducing Primary Deficit: Enhances fiscal stability, reducing reliance on borrowing.
+
+IMF Support: Ensures financial stability, enforces fiscal discipline.
+
+Monetary Policy:
+
+Authorities acknowledged the need to tighten monetary policy to address inflationary pressures.
+
+Due to the aggressive fiscal consolidation efforts, there will be a notable decrease in monetary issuance to support the treasury.
+
+Despite this, there won’t be a substantial adjustment in the interest rate, resulting in it staying negative in real terms.
+
+Subsequently, as part of the stabilization plan mentioned earlier, the interest rate will transition to a positive real rate.
+
+Tightening Monetary Policy: Controls inflation, stabilizes economy.
+
+Reducing Monetary Issuance: Lowers inflation, boosts confidence.
+
+Transitioning to Positive Real Interest Rates: Attracts investment, fosters growth.
+
+Political Institutional Reforms
+
+The government announced the consolidation of the country’s Cabinet ministries from 18 to nine, and the number of secretariats — areas of authority below the level of government ministries — from 106 to 54.
+
+Consolidating Ministries and Secretariats: Enhances efficiency, cuts costs, and improves governance.
+
+Social Spending Cut
+• Tenders for new public works projects have been scrapped by the government.
+
+• Employees with less than a year in their positions across the government are being terminated.
+
+• Subsidies for energy and transportation have been decreased since February.
+
+• There has been a substantial reduction in the transfer of federal funds to the provinces.
+• Scrapping New Public Works: Cuts unnecessary spending, reallocates resources efficiently.
+
+• Reducing Subsidies: Trims fiscal deficit, ensures sustainable finances.
+
+• Terminating Non-Essential Employees: Streamlines workforce, lowers costs, and boosts efficiency.
+
+International Relations Reforms
+• Pursued closer ties through trade agreements and diplomatic initiatives.
+
+• Total exports in 2022: approximately $84 billion with major partners Brazil, China, and the United States.
+
+• Significant trade with the European Union and notable surpluses with Chile, India, the Netherlands, Peru, Vietnam.
+
+• 2023 preliminary figures show a negative trade balance of USD 6.9 billion.
+• Strengthening trade ties: boosts economic growth.
+
+• High-demand exports: enhance foreign exchange earnings.
+
+• Major Economy relations: provide stability .
+
+• Learning from Argentina improves trade balances.
+
+• Local production incentives: reduce import dependency.

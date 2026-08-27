@@ -1,0 +1,55 @@
+INTRODUCTION
+
+Due to concerns over carbon emissions and volatility in fossil fuel prices, there has been a renewed interest in nuclear energy worldwide as a solution to growing energy demands (Vegel and Quinn, 2017). Currently, fossil fuels comprise 63% of Pakistan’s commercial energy supplies, while the remaining 37 percent is derived from renewables (including hydro)(28 percent) and nuclear power(9 percent) (GOP, 2023).
+
+GLOBAL NUCLEAR ENERGY EXPANSION
+
+For centuries, fossil fuels remained the dominant source of energy globally. It was in the 1950s that commercial nuclear power stations started operations. With this, an avenue for nuclear energy opens, reducing oil and gas import dependency in many countries. Several countries embarked on nuclear power programs after the 1970s energy crisis (dramatic surge in global oil prices). Most Nuclear Power Reactors (NPRs) were constructed from 1970 to 1985.
+
+As of August 16, 2023, nuclear energy meets around 10 percent of global energy demand, with 408 currently operational NPRs with a capacity of 366736 MW in 31 countries (Figure 1). In addition, 57 new NPRs are under construction (IAEA, 2023).
+
+France stands out among 31 countries, generating 63 percent of its electricity through nuclear power. It began expanding its nuclear power industry in the 1970s to reduce dependence on foreign oil and lower emissions[1]. Ukraine and the Slovak Republic follow France for depending on NPRs for more than 50 percent of electricity generation (Figure 1).
+
+Fig. 1. Global Nuclear Capacity
+
+Source: IAEA Power Reactor Information System.
+
+SALIENT FEATURES OF NUCLEAR POWER REACTORS
+
+Dependability
+
+Nuclear power plants can operate for up to 18 months without refueling. Additionally, they can store fuel on-site for an additional 18 months without incurring extra costs (GOP, 2023). Due to this, nuclear power plants are less susceptible to price fluctuations and supply chain disruptions. Furthermore, they minimise the risks of grid disruptions caused by weather events. Nuclear power also has the highest reliability or capacity factor. For example, in 2021, nuclear power in the US had a capacity factor of over 92 percent, compared to coal (49.3 percent), natural gas (54.4 percent), wind (34.6 percent), and solar (24.6 percent)[2].
+
+Eco-Friendly
+
+It is not a renewable energy source because of its dependence on a chemical – uranium. While uranium can be found in rocks worldwide, power plants need a specific type, uranium-235, which has limited supplies (Patapati, 2022). However, it is a clean energy source with negligible greenhouse gas emissions. Its CO2 equivalent emissions are even less than some renewable energy sources (Figure 2).
+
+Fig. 2. CO2 Equivalent Emissions per kWh
+
+Source: https://world-nuclear.org/nuclear-essentials/how-can-nuclear-combat-climate-change.aspx#:~:text= Nuclear%20power%20plants%20produce%20no,electricity%20when%20compared%20with%20solar.
+
+A primary environmental concern regarding nuclear power is creating radioactive waste, including uranium mill tailings, used reactor fuel, and other radioactive materials. However, the radioactivity of nuclear waste decreases over time through a process called radioactive decay. Radioactive waste with a short half-life[3] is often temporarily stored before disposal to decrease potential radiation doses to personnel handling and transporting the waste while reducing radiation levels at disposal sites[4].
+
+Additionally, although nuclear plants produce toxic nuclear waste, the amount produced is negligible. The amount of nuclear waste produced in 70 years equals what coal plants produce in an hour. Nuclear fuel is highly dense and contains enormous energy in a small amount (Perch Energy, 2022).
+
+Compared to solar and wind, nuclear power plants require significantly less land. One estimate suggests that a wind farm needs 360 times more land to generate the same energy as a nuclear power plant, while solar requires 75 times more land area (cited from Perch Energy, 2022).
+
+Economics of Nuclear Power Plant
+
+Nuclear power plants are expensive to build (CAPEX) but cheap to run. Safety costs, including waste disposal and decommissioning costs, are included in their operating costs[5]. Nuclear energy is even more economical than fossil fuels when considering social, health, and environmental costs. System costs for nuclear power are much lower than for intermittent renewables[6].
+
+Repaying the initial investment each year is more expensive due to the technical complexity of these plants and the strict licensing and design requirements they must meet. Building a new nuclear power plant involves hiring highly qualified specialists, which can take many years and add to financing costs. Delays caused by design changes or lawsuits can further increase financing charges, which may even exceed the actual construction costs in some cases.
+
+Over the past few decades, the costs of nuclear plants have increased. Many of these costs result from the indirect expenses of constructing plants, such as engineering, management, and supervision. In addition, these costs have risen due to increased safety regulations. However, the cost constraints have been reduced through the small modular nuclear reactors (SMRs) ((Box 1).
+
+[1] By increasing its reliance on nuclear power, France reduced its fossil-based CO2 from the power industry from 112 MtCO2/year in 1980 to 34.7 Mt CO2/ year in 2021 (Crippa et al., 2022).
+
+[2] https://www.energy.gov/ne/articles/what-generation-capacity#:~:text=The%20Capacity%20Factor& text=It%20basically%20measures%20how%20often,of%20the%20time%20in%202021.
+
+[3] The time duration for the radioactivity of radioactive material to reduce to half its original level is referred to as the radioactive half-life.
+
+[4] https://www.eia.gov/energyexplained/nuclear/nuclear-power-and-the-environment.php
+
+[5] Nuclear power expenses consist of capital and operating costs. Capital expenses comprise site preparation, engineering, manufacturing, construction, commissioning, and financing while operating expenses include fuel costs (from uranium mining to fuel fabrication), maintenance, decommissioning, and waste disposal.
+
+[6] Source: World Nuclear Association

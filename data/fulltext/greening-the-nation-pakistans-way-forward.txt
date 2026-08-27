@@ -1,0 +1,47 @@
+The invention of steam engines in the context of global industralisation had two primary effects: rapid economic growth and climate change. The former was limited to certain regions which we call first-world countries today. The latter, however, was observed globally, especially in the ‘developing’ world. Today, the issue has become a real threat to the planet.
+
+The developed world has signed several international agreements and arranged climate mitigation and adaptation conferences annually, but positive outcomes have not been observed. According to the CRED (2023), the average occurrence of climate change related disasters was higher in 2022 than during 2010 and 2021, clearly illustrating that these elaborate conferences themed around mitigation and adaptation in air-conditional halls is not exactly bringing us closer to resolving the issue. In such a scenario, nature-based solutions can be a potential intervention for both objectives. These constitute actions and interventions that help restore ecosystems whilst also addressing various societal issues such as climate change, water crisis, food insecurity, and disaster risk reduction (World Bank).
+
+Importance of Nature Based Solutions
+
+Numerous arguments have been documented for the effectiveness of nature-based solutions for climate change, including the following.
+
+Involvement of local communities . Local communities are important stakeholders in the policy cycle, but are rarely if ever included in the policy cycle. These communities know indigenous techniques and methods based on historic traditions specific to their contexts that can tackle the consequences of climate change. Their inclusion can empower them and deliver superior results for mitigation as well as adaptation.
+
+Lower Economic Cost . Currently, both developed and developing nations are advocating difficult and often complex solutions such as the construction of dams to minimise the impact of climate change. There are two main challenges for this: time and investment. Nature-based solutions on the other hand do not require huge funds to ‘figure out solutions’ since local communities are already aware of them. With a little investment at the local level, nature-based solutions can lead to a huge impact in the positive direction.
+
+Preservation of Biodiversity . Nature-based solutions can promote sustainable agricultural practices and better management of water, as well as absorbing environmental stressors and rehabilitating degraded lands. Along with these, niches of biotic elements of the ecosystem are also preserved.
+
+Local Solution . The ‘one-size-fit-all’ policy cannot deliver optimal outcomes but localisation can, since it is is tailored to the specific socioeconomic and cultural specificities of the area(s) in question. Nature-based solutions are coherent with demographic features.
+
+Potential Nature-Based Solutions for Pakistan
+
+Despite less than 1% contribution to global emissions, Pakistan faces serious issues of climate change. In Pakistan, the occurrence of natural disaster events such as heat shocks, unpredictable rain patterns, land sliding, and flooding has increased over the years. Nature-based solutions can be a potential solution in helping move towards both climate mitigation and adaptation. The following are some potential nature-based solutions for Pakistan.
+
+Urban Wetlands . These help in absorbing heat shocks and cooling the ecosystem. In Haizhu, China, an eleven-square-kilometre National Wetland Park has been established – which successfully fosters urban cooling (World Bank, 2022). In Colombo, the same helped reduce flood risks along with improving water quality and treatment of water waste (Mcinnes & Everard, 2017). Over the past years, many waves of heat shocks have been observed in numerous parts of Pakistan, particularly in the province of Sindh. With the help of urban wetlands, these can be minimised. The government should allocate various public spaces such as parks and zoos for this purpose.
+
+River catchment . The increase in global average temperatures has intensified the probability of river and flash flooding. During the 2022 floods, about 1/3 rd of Pakistan was under-water. River catchments on the river basin of Pakistan such as the Indus River Basin, Jhelum River Basin, and Chenab River Basin can improve climate resilience from flooding. In Sweden, restoring river catchments has improved climate resilience in the southern plains and led to an improvement in agricultural productivity (European Environment Agency, 2023).
+
+Rainwater Management . Pakistan is facing extreme water stress and is ranked 14 th out of 17 th in facing extreme water risks (Maqbool, 2022). An excessive amount of rainwater is wasted, especially during monsoon season. With nature-based solutions, there are several techniques in which excess rainwater can be stored and used as a reserve in times of water stress. Some of the techniques that are used for this purpose globally are permeable pavements, green roofs, rain gardens, managed aquifer recharge, and retention ponds.
+
+Conclusions
+
+A plethora of successful interventions involving nature-based solutions have been documented, but these seem to get little to no attention at both national and international levels. As the impacts of climate change are transboundary, without regional collaboration significant results are unlikely. South Asian countries are considered most vulnerable to climate change, and all of them need to understand the importance of nature-based solutions and form separate platforms populated with subject experts. These platforms ought to be used pilot studies with the intention of identifying the most effective techniques in the given context and optimizing implementation complexities. These should ultimately be mainstreamed. Since international climate change financing is also a challenge for South Asian countries, these platforms can assist with that as well.
+
+At the national level, certain steps need to be considered. Following the 18 th Amendment, some ministries shifted to the provinces, but the Ministry for Climate Change remained at the federal level. Due to a lack of proper communication between the federal and provincial levels, various interventions have failed to deliver upon their intended outcomes. For policy formation and implementation of nature-based solutions in Pakistan, there are two possibilities. The first is to devolve the ministry to provincial levels and push for nature-based solutions for climate change in line with the socio-economic conditions of the respective regions. The second is the formation of a committee at the federal level consisting of climate change experts and equal representatives from all provinces, including AJK and GB. This step can help reduce the communication gap between federal and provincial governments.
+
+The author is an MPhil Scholar at the Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+References
+
+CRED, I. D. D. – E.-D., CRED, 2023). (2023). CRED Crunch 70—Disasters Year in Review 2022 [Newsletter]. https://www.emdat.be/categories/newsletter/
+
+European Environment Agency. (2023). Scaling nature-based solutions for climate resilience and nature restoration . https://www.eea.europa.eu/publications/scaling-nature-based-solutions
+
+Maqbool, N. (2022). Water crisis in Pakistan: Manifestation, causes and the way forward . Pakistan Institute of Development Economics.
+
+Mcinnes, R., & Everard, M. (2017). Rapid Assessment of Wetland Ecosystem Services (RAWES): An example from Colombo, Sri Lanka. Ecosystem Services , 25 , 89–105. https://doi.org/10.1016/j.ecoser.2017.03.024
+
+World Bank. . What You Need to Know About Nature-Based Solutions to Climate Change . https://www.worldbank.org/en/news/feature/2022/05/19/what-you-need-to-know-about-nature-based-solutions-to-climate-change
+
+World Bank. (2022). Assessment of Key Ecosystem Services Provided by the Haizhu National Wetland Park in Guangzhou, China . https://www.thegpsc.org/sites/gpsc/files/haizhu_wetland_report_fin.pdf

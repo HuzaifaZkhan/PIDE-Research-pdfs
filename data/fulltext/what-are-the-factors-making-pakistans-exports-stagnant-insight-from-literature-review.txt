@@ -1,0 +1,167 @@
+Background & Motivation
+
+Lowering exports is considered as one of the paramount reasons of widening trade deficit of Pakistan, which has become a long-standing challenge that country is facing since the beginning of the century. During the last two decades, the contribution of exports in GDP has been declined from 16 to 10% (World Bank, 2021). If we look at Pakistan’s share in global trade, it is dropped from 0.15% in 2005 to 0.12% in 2021. Export competitiveness of Pakistan is shrinking, while the competitors like Bangladesh, India, and Vietnam are experiencing expansion in export competitiveness. The stagnancy in Pakistan’s exports brings about a number of challenges like increasing current account deficit, burden of foreign debt, exchange rate, and other macroeconomic problems (Government of Pakistan, 2021-22; Defever et al., 2020). Various reasons of declining export are suggested by the economists and researchers. To gather concrete evidence, a comprehensive desk review or literature review is required to unleash what factors are bringing down Pakistan’ exports. For that purpose, the underlying piece of research aims to weave up a review of existing literature on exports and unfolds the significant factors which influence exports.
+
+Low productivity of firms, weak export competitiveness, lack of value addition & innovation, complex & inefficient incentive mechanism, limited export destinations, and low R&D at the firm level are the key causes for stagnant exports. During the ongoing economic crisis, quick and rigorous strategies are required to find out the potential markets considering a match with exportable products.
+
+Causes for Low Exports
+
+Available literature regarding export determinants demonstrates the several factors. The key factors includes low productivity of firms, real exchange rate, lack of export competitiveness & diversification, lacking in value addition, lack of Research and Development (R&D) at firm level, limited access of firms to global markets, high import duties act as export taxes, incentive schemes for existing exporters tend to focus on established firms/sectors, costly free trade agreements and access to credit & information (e.g. Zia, 2022; Zeshan, 2022; World Bank, 2021; Lavo and Varela, 2020; Mahmood & Ahmed, 2017; Niepmann and Schmidt-Eisenlohr, 2017; Paravisini et al., 2015; Mahmood, 2015; Amiti and Weinstein, 2011). A detailed discussion on these factors is weaved up with help using data, which is given as follows.
+
+Key Takeaways
+
+Value addition in Pakistani exporting products is needed since the quality rank of products are decreasing over the time. Moreover, we are exporting more products than Bangladesh, while export values of Bangladesh are higher than Pakistan
+
+Competiveness of Pakistan’s exports is declining. Even, we are losing comparative advantage in textile sector due to Bangladesh and Vietnam’s increasing comparative advantage in global markets
+
+Firm’s productivity is lower relative to India, USA etc. Pakistan’s old firms are as productive as newcomer is productive, while India’s old firms are virtually 50 percent more productive than newer firms.
+
+Lower investment in research and development (R&D) to have innovation in exported products
+
+Export Competitiveness
+
+Available literature has demonstrated that lack of export competitiveness is also considered as one of the prominent reasons of Pakistan’s stagnant exports (e.g. Siddique et al., 2022; Kausar, 2015; Paravisini et al., 2015; Amiti and Weinstein, 2011). Export competitiveness is measured in different ways such as export share in global trade and revealed comparative advantage which is provided by United Nations Conference on Trade and Development (UNCTAD)[1] has computed index to measure export competitiveness by product groups. So, we discuss the trends obtained from these two measures to see through the export competitiveness of Pakistan on the whole and by product as well.
+
+Figure 01 presents the comparative analysis of Pakistan’s export competitiveness. It is evident that Pakistan’s export share to the global export is declining, which is already the lowest in her peer group countries such as Bangladesh, India, Vietnam, and Malaysia. India stands at the top of the list of these countries who is also witnessing increasing trend. Likewise, Vietnam which has relatively lower share of exports in global trade during 1991-1995 (0.088%) as compared to Pakistan (0.17%), but after that Vietnam has been experiencing massive increase (1.34% during 2016-21) while Pakistan is experiencing (0.12% during 2016-21. Hence, these estimates are evidently showing enormous failure in enhancing Pakistan’s export competitiveness as compared to other emerging economies.
+
+_______________________
+
+[1] https://unctadstat.unctad.org/wds/ReportFolders/reportFolders.aspx?sCS_ChosenLang=en
+
+Table 01 encompasses export competitiveness which is measured by revealed comparative advantage (RCA). Pakistan’s export competitiveness in food & live animals is increased over the last twenty-five years (as evident by green-highlighted cells). Nonetheless, beverages & tobacco group of commodities are not having export competitiveness.
+
+Manufacturing goods have demonstrated export competitiveness from 1995-2014, while during the last five years (2015-2020), we have lost our export competitiveness. In addition, miscellaneous manufactured articles, export competitiveness is increasing. Moreover, Pakistan does not have export potential in machinery & transport equipment, commodities & transaction, chemical & related-products, and mineral fuels, lubricants, & related materials.
+
+By summing up, although we have potential in manufacturing sector, but during last five years we are heading to lose this potential as well due to firm’s low productivity, lack of firm level R& D, energy sector inefficiencies, and lack of value addition (World Bank, 2021). Nonetheless, table 01 also demonstrates that there are some other sectors where Pakistan can increase the export competitiveness and enhance its export share in global trade such as crude materials & inedible (except fuels), and animals & vegetable oils, fats & waxes. Aforementioned sectors have the export potentials for Pakistan.
+
+Success Story of Bangladesh
+
+Being the poorest nation in 1971, an economy with challenges and hardships that every lower-income country has, was perceptible for Bangladesh. However, it outperformed and graduated from to lower-middle income in 2015 and is expected to move from the UN’s list of LDCs by 2026 (Enderle, 2021). Despite the onslaught of coronavirus, its economy had a very impressive growth rate of over 6% in the last five years which was under-predicted by the World Bank (5%, International Monetary Fund 4.6%%, and Asian Development Bank 5.5%% during 2021 (Rahman, 2021). The recent wave of its growth is mainly associated with its industry, exports, and inward remittances.
+
+During the mid-eighties, with the collaboration of the WB, ADB & IMF, Bangladesh has taken a number of reforms in its economic and trade policies with a special focus on export-led growth and industrialization. A major share of its exports is fueled by ready-made garments which are 84% of its global goods exports. In addition to that, the diversity of exports is concentrated in European Union countries since it has duty-free access there, on the other hand, it has no duty-free access to the United States (US).
+
+Growing exports are significantly associated with two factors 1) duty-free access to most of the markets in the European Union (EU) countries, and 2) generous supply of cheap labor within the country. Since Bangladesh has an edge of cheap labor relative to the other countries, it has utilized its cheap labor in expanding the readymade garments industry. Though Bangladesh has a competitive advantage in other products, for instance, jute goods, leather, seafood, and tea, however, the growth of these competitive products are stagnant except readymade garments industry (Sarker, 2018). It shows their significant interest in readymade garments industry.
+
+The export regime is a nationwide priority and lifeline of Bangladesh, in fact, it is the backbone of the economy. According to Chief Economist’s Unit Bangladesh Bank, during 2021, the Prime Minister Vision aimed exports worth 50 billion US dollars, but the exporters exceeded the target and achieved a total of 61 billion dollars including the services sector, in addition, the foreign inward remittances remitted 22 billion dollars which is the highest in history of Bangladesh.
+
+By 2030 the Garment Manufacturers and Exporters Association of Bangladesh (GMEAB) set up a target of 100 billion dollars of exports. The core reason behind the higher exports of ready-made garments is a shift of clientele countries from China and others to Bangladesh. A major part of readymade garments includes mid-priced products, handmade fiber items, and technical garments like uniforms. The handmade garments export sector employed over 4.5 million people in which most are women.
+
+Lacking in Value Addition
+
+World Bank (2021) has revealed that Pakistan is exporting conventional products which are lacking value addition. Figure 02 demonstrates that Pakistan’s exported products during 2003-04 have been 2311, while it has recorded 2792 products during 2017-18. These estimates indicate that there is no significant increase in number of products exported over the last 16 years. The comparisons between India, Pakistan, and Bangladesh indicate that on the whole India is of products as compared to Bangladesh and Pakistan. Moreover, Bangladesh is exporting relatively lower than Pakistan.
+
+However, this does not present a meticulously meaningful picture. For that purpose, we need further look into the ratio of exported products to imported products. The ratio equal to 1 shows the country is experiencing same number of exported products as the imported products. The ratio greater than 1 demonstrates that country is exporting larger number of products than imported ones, vice versa. Figure 03a indicates that India has ratio greater than 1, while Pakistan and Bangladesh are experiencing less than 1. These estimates establish that Pakistan is still importing 40%%to 33%%more products than exporting. In terms of export to import ratio, Pakistan (0.67 points during 2017-18) is below India (1.02 points during 2017-18), while ahead Bangladesh (0.41 points during 2017-18). Nonetheless, if see through the export values, Pakistan is below India and Bangladesh during 2003-17 respectively (see figure 03b). The low export values of Pakistan evidently display the lack of value addition. Moreover, Bangladesh is about to converge to India 2015-17 in terms of export values (World Bank, 2021).
+
+Pakistan’s low export values are due to low-quality products and lack of innovation in exported products which leads to the lack of value addition. The literature (e.g.; Zia, 2022; World Bank, 2021; Government of Pakistan, 2021-22; Lovo & Varela, 2020; Defever et al. 2020) has suggested the reasons which impede country’s lacking of ability to value addition in export product, which are outlined as follows.
+
+Firms have limited research & development (R&D). Pakistani firms are engaged in producing the conventional product varieties and non-involvement in spending on R&D to innovate their products.
+
+Incentives schemes for existing exporters tend to focus on well-established sectors
+
+Low entry and exit rates in exporting are revealing of frictions that discourage firms from exporting in Pakistan. Low rate of entry rates is demonstrative of an environment with entry friction in export markets. These frictions bring down the scope for churning especially linked with expansions in allocative efficiency. These may be linked with a set of incentives in practice that reward incumbents rather than innovators.
+
+World Bank (2021) has suggested that low quality is also one of the paramount reasons of lowering value addition in export products by Pakistan. Since the export value depends on the quality of products, for instance, high quality products create more value. The major exporting segments of Pakistan, textile & apparel, have low quality products comparative to their competitors. Pakistan ranked 90 and 89 in exporting men and women suiting, similarly, 30 in quality of rice. This is significant impact on the export since these products have a major contribution in exports. The quality of Pakistani products is one of a key driver to contribute in exports in terms of number of products exported as well as number of export partners. According to WITS the ranking of Pakistani number of products exported has been decreased in last 15 years as well as the ranking in number of exports partners also decreased in last 15 years. We can see in figure given below that the ranking of highest exported products of Pakistan is also not competitive in global market. The value addition and quality of products is not enough to compete with other countries. Therefore, the price rank of Pakistani products is low.
+
+Vietnam has Worked Wonders in Export Sector
+
+In terms of exports, Pakistan and Vietnam were on somewhat uniform grounds two decades ago (Nguyen, 2020). However, in 2021, exports of Vietnam crossed 368 billion dollars which is more than the GDP of Pakistan. On the contrary, the exports of Pakistan are around 30 billion dollars, which is under pining question for economists. So, what happened in last two decades?
+
+To understand the core reasons behind the mystery, we need to deep dive into the exported product composition of both countries. In 2000, the major share of the exports of Pakistan consisted of textiles, for instance, non-retail cotton 14%, house linens 10%, woven cotton 4.5%, cotton fabric 4% & knitwear 4%, in fact over 50% of export share was coming from textile, 10% from leather products and 5% from rice. After two decades the product composition was absolutely similar, for instance, 13% house linens, 7% knitwear, 4% pure cotton, 3.5% women’s suits, 3.5% woven cotton & 3% know sweaters, in fact, the 50% share is still coming from textile, 10% from rice and 3% from leather.
+
+On the other hand, in 2000 the export composition of Vietnam consisted of petroleum products at 25%, textiles at 12%, leather at 5%, & footwear at 9%. However, after two decades, the product composition of exported products has significantly changed and shifted to new technology-oriented products, and they have moved to value-added products. First, the most share of Vietnam’s current export consisted of information technology products which are over 45%, and it was just 6% twenty years. Their IT products include broadcasting equipment, telephones, integrated circuits, and office machinery, all these products are technology-driven and will have significant scope in future. Second, the consumer products in the textile industry which their share is over 8%.
+
+The emergence of exports in Vietnam is purely associated with electronic products including the takeover of electric and electronic products on coffee, rice, and textile (Athukorala and Nguyen, 2022). The major export of Vietnam is attributed to tech countries such as the Republic of Korea, Japan, and China. Since the governments provide an easy platform for exports, but governments themselves do not export but firms do, the major credit for shifting exports from traditional and non-tech items to electronic items goes to the industry and firms. In addition to that, 95% of electronic products exported in Vietnam are associated with foreign investment businesses also the tech exports of Vietnam are linked with the imported equipment (Koo and Kim, 2022) and machinery from Japan, the Republic of Korea, and China. A big lesson for Pakistan is to just learn how to utilize the potential of youth, and cheap labor and how we can import machinery & equipment to manufacture end-user products for exporting.
+
+Firm Level Low Productivity
+
+Increasing productivity at firm level is one of the paramount requirements to scale up participation of the firms in global markets. The available literature is suggestive of the low productivity of Pakistani firms. Lovo & Varela (2020) has revealed that productivity of the Pakistani firms is estimated as sluggish. These firms are failed to grow as productive ones with the passage of time, but rather the opposite—A forty-year-old firm is 87% as productive as a young firm of less than 10 years. Comparing it with India, the older firm is between 30% to 40% more productive than younger firms. Likewise, old firms from the USA are 341% more productive, on average, than younger ones (see figure 04). Moreover, World Bank (2021) have suggested that Pakistani SMEs are not performing at their optimal level, the contribution of more the 50% of business in exports is zero. Pakistan must develop effective policies for SMEs that can enable them to enhance their capacity of productivity, for instance, units produced, improvement in quality and reducing time and cost coupled with market intelligence to boost their business at international level.
+
+This low productivity mainly because of the limited integration of Pakistan into global marketplace (World Bank 2021). Defever et al. (2020) have demonstrated that foreign-owned or exporting Pakistani firms are found more productive than domestic-owned. Foreign investors target more productive firms, and their productivity grows after being acquired. Exporters tend to exhibit productivity growth after becoming exporters. In addition to this, increased import duties on intermediates, or reduced levels of foreign direct investment in upstream services sectors, are associated with decreases in the total factor productivity of firms downstream. Gains from lower input tariffs accrue to those that do not secure duty exemption schemes— domestic-oriented firms or smaller exporters. Gains from upstream services foreign direct investment accrue mostly to firms that are further from the productivity frontier.
+
+Other reasons of low productivity of the Pakistani firms include limited foreign direct investment, and presence of multinational firms in export-oriented sectors is significantly low, security concerns, complex investment environment, and highly protectionist law of 1976 have contributed to the outcome of low productivity, and firms’ low capabilities, (World Bank, 2021; Lovo & Varela, 2020).
+
+Success Story of South Korea
+
+South Korea was ranked one of the poorest nations back at its independence. Since it was an agricultural country, during 1960 with low per capita income. Before the independence, the major industrialized areas were in the north of the country. When the Soviet Union and the United States partitioned the Republic of Korea in the south and the Democratic People’s Republic of Korea (DPRK) in the north, most of the industry and electric power generation goes to North Korea. Aside from having challenges and hardships, South Korea has made a magnificent performance since its independence. In addition, the country has converted and shifted from an agricultural country to a tech country.
+
+The most share of the exports of South Korea is also based on tech-oriented products. The total exports of South Korea crossed the figure of 644 billion dollars in 2021. The major exported products include electrical & electronic equipment 31%, machinery & nuclear reactors 12%, vehicles 10%, plastic 6.7%, and minerals fuels 6.2%.
+
+After producing the first radio in 1959, the focus of Korea’s industry remained on inward-oriented import substitution and the government was also less supportive of developing the industry. However, nominating electrical devices and radios as one of the specialized products for exports in 1965, the government started preparing and finalized a policy for the development of an export-led electronic industry in 1966 (Lim, 2016). During the late sixties and seventies, the focus of Korea’s government was on the protection of domestic markets in terms of producing electronic items and export promotions. Aside from these priorities government welcomed a number of industries to set up electronic industries to develop rigorous competition. This competition benefited Korea in developing colored televisions and core electronic components like semiconductors.
+
+During the eighties, the government shifted its focus from developing industry competitiveness to consumer-oriented products. Korea’s electronic industry started research and development (R&D) and bring its focus on information communications technology (ICT). This was a period of extensive R&D in the public as well as the private sector. Korea at the government level as well as the industry level. As a result, Korea has developed a digital switching system and 64K DRAM (Kim, Shi, and Gregory, 2004).
+
+After extensive R&D the electronic industry of Korea is now competing with the world including US and Japan in technology. In 1993, the Korean government started providing a platform to the private sector to grow new avenues of technology (Lee, O’Keefe, and Yun, 2003; Oh, 2011). Though US and Japan have manufactured smartphones, flat panel displays, and mobile phones prior to Korea, however, Korean firms developed them shortly afterward.
+
+Based on the strong policies, research & development, and competitive firms, Korea’s electronic industry has improved its rank in the global market. For instance, during the late sixties, Korea produced electronic products for 55 million dollars which was 1/400th of the US and 1/67th of Japan. Whereas now it is producing 40% and 60% respectively, and ranked 4th in electronic production after China, the US, and Japan (KDI, 2022). Slowly and gradually, Pakistan can start and promote tech industries to have a better position.
+
+Other Factors
+
+The available literature has shown some other factors which are contributing in downscaling of Pakistani export sector. Such factors include exchange rate volatility, over-regulation which discourages the businessmen and exporters to expand their activities, institutional barriers, and massive decline in cotton production, and lack of innovation, and etc. (Azam and Shafique, 2017; Khan and Koondar, 2020; Sadaf et al., 2021; World Bank, 2021; Burn et al., 2022; Phan et al., 2022; Kumar et al., 2022; Qamruzzaman, 2022; Zheng et al., 2022).
+
+Concluding Remarks
+
+The major reasons include low productivity of firms, weak export competitiveness, failing to bring about value addition & innovation in exporting products, complex & inefficient incentive mechanism, limited export destinations, and low R&D at firm level. During the ongoing economic crisis, a quick remedy is essential through building an engaged and collaborative environment among government agencies, exporters and economists to find out the potential markets considering a match with exportable products.
+
+The findings of the underlying literature review recommend that a comprehensive study is required by conducting a firm-level survey which maintains focus on identifying the factors which impedes firms’ productivity, and export competitiveness.
+
+References
+
+Amiti, M., & Weinstein, D. E. (2011). Exports and financial shocks. The Quarterly Journal of Economics , 126 (4), 1841-1877.
+
+Athukorala, P. C., & Nguyen, T. K. (2022). Vietnam’s Foreign Direct Investment and Export Performance. In Routledge Handbook of Contemporary Vietnam (pp. 149-163). Routledge.
+
+Azam, A., & Shafique, M. (2017). Agriculture in Pakistan and its Impact on Economy. A Review. Inter. J. Adv. Sci. Technol , 103 , 47-60.
+
+Brun, M., Gambetta, J. P., & Varela, G. J. (2022). Why do exports react less to real exchange rate depreciations than to appreciations? Evidence from Pakistan. Journal of Asian Economics , 101496.
+
+Defever, F.; A. Riano; G. J. Varela. 2020. Evaluating the Impact of Export Finance Support on Firm-Level Export Performance: Evidence from Pakistan. Policy Research Working Paper; No. 9362. World Bank, Washington, DC
+
+Enderle, G. (2021). Corporate responsibility for wealth creation and human rights . Cambridge University Press.
+
+Government of Pakistan. (2022). Pakistan Economic Survey 2021-22. In Economic Adviser’s Wing | Finance Division.
+
+KDI. (2022) The Development of Korea’s Electronics Industry During Its Formative Years (1966-1979). (2022). Retrieved 27 November 2022, from https://www.kdevelopedia.org/Development-Topics/themes/–39
+
+Khan, Z. A., Koondhar, M. A., Aziz, N., Ali, U., & Tianjun, L. (2020). Revisiting the effects of relevant factors on Pakistan’s agricultural products export. Agricultural economics , 66 (12), 527-541.
+
+Kim, W., Shi, Y., & Gregory, M. (2004). Transition from imitation to innovation: lessons from a Korean multinational corporation. International Journal of Business , 9 (4).
+
+Koo, Y., & Kim, S. (2022). ‘Follow sourcing’and the transplantation and localization of Korean electronics corporations in northern Vietnam. Area Development and Policy , 1-24.
+
+Kumar, L., Nadeem, F., Sloan, M., Restle-Steinert, J., Deitch, M. J., Ali Naqvi, S., … & Sassanelli, C. (2022). Fostering green finance for sustainable development: a focus on textile and leather small medium enterprises in Pakistan. Sustainability , 14 (19), 11908.
+
+Lee, H., O’Keefe, R. M., & Yun, K. (2003). The growth of broadband and electronic commerce in South Korea: contributing factors. The Information Society , 19 (1), 81-93.
+
+Lim, W. (2016). The development of Korea’s electronics industry during Its formative years (1966-1979). Knowledge Sharing Program KSP Modularization .
+
+Lovo, S., & Varela, G. (2020). Internationally Linked Firms, Integration Reforms and Productivity.
+
+Lovo, S., & Varela, G. (2020). Internationally Linked Firms, Integration Reforms and Productivity.
+
+Mahmood, A., & Ahmed, W. (2017). Export Performance of Pakistan: Role of Structural Factors. State Bank of Pakistan .
+
+Nguyen, H. H. (2020). Impact of foreign direct investment and international trade on economic growth: Empirical study in Vietnam. The Journal of Asian Finance, Economics and Business , 7 (3), 323-331.
+
+Niepmann, F., & Schmidt-Eisenlohr, T. (2017). International trade, risk and the role of banks. Journal of International Economics , 107 , 111-126.
+
+Oh, M., & Larson, J. (2011). Digital development in Korea: Building an information society . Routledge.
+
+Paravisini, D., Rappoport, V., Schnabl, P., & Wolfenzon, D. (2015). Dissecting the effect of credit supply on trade: Evidence from matched credit-export data. The Review of Economic Studies , 82 (1), 333-359.
+
+Phan, T. H., Stachuletz, R., & Nguyen, H. T. H. (2022). Export Decision and Credit Constraints under Institution Obstacles. Sustainability , 14 (9), 5638.
+
+Qamruzzaman, M. (2022). Nexus between Economic Policy Uncertainty and Institutional Quality: Evidence from India and Pakistan. Macroeconomics and Finance in Emerging Market Economies , 1-20.
+
+Rahman, T. (2021). Impact of COVID-19 on Major Macroeconomic Variables of Bangladesh: An ARIMA Model. JnU J. Econ. , 3 , 61-76.
+
+Sadaf, T., Kousar, R., Din, Z. M. U., Abbas, Q., Makhdum, M. S. A., & Nasir, J. (2021). Cotton production for the sustainable livelihoods in Punjab Pakistan: a case study of district Muzaffargarh. International Journal of Ethics and Systems .
+
+Sarker, R. (2018). Trade expansion, international competitiveness, and the pursuit of export diversification in Bangladesh. The Bangladesh Development Studies , 41 (2), 1-25.
+
+Siddique, M., e Ali, M. S., & Irshad, M. S. (2022). Revealed Comparative Advantage and Pakistan’s Global Leather Products Potential among Selected Leather Exporters: New Evidence from Kaplan-Meier Survival Function. Annals of Social Sciences and Perspective , 3 (1), 23-41.
+
+World Bank. (2021). Reviving Exports. In Pakistan Development Update . https://thedocs.worldbank.org/en/doc/4fe3cf6ba63e2d9af67a7890d018a59b-0310062021/original/PDU-Oct-2021-Final-Public.pdf
+
+Zeeshan. (2022). Is a multilateral full trade liberalization policy effective in Pakistan? PIDE | Knowledge Brief , 87:2022.
+
+Zheng, L., Abbasi, K. R., Salem, S., Irfan, M., Alvarado, R., & Lv, K. (2022). How technological innovation and institutional quality affect sectoral energy consumption in Pakistan? Fresh policy insights from novel econometric approach. Technological Forecasting and Social Change , 183 , 121900.

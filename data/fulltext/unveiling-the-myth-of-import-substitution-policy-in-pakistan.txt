@@ -1,0 +1,51 @@
+Muhammad Zeshan[1]
+
+Due to the import substitution policy, domestic firms and end users have to pay a higher price for the imported intermediate inputs, and final consumption items compared to the international market prices. The data show that the use of imported intermediate inputs has increased in agriculture, manufacturing, and services sectors over the last two decades in Pakistan. Clearly, the import substitution policy is unable to meet its primary objectives of substituting expensive imported items for cheaper domestic intermediate and final consumption items rather it is leading toward an unsustainable economic environment for domestic and international trade.
+
+Key takeaways
+
+Gradual elimination of the import tariffs and export subsidies for competitive domestic and international trade.
+
+Import policy should be implemented through a tariff code than SROs.
+
+Provide domestic industries with an enabling research environment.
+
+__________
+
+[1] zeshan@pide.org.pk, muh.zeshan@gmail.com
+
+__________
+
+Analysis of Pakistan’s foreign trade shows that the incentive structures mostly favor import substitution industries in the country. Historically, many countries opted for import substitution policies, such as East Asian countries, but the import substitution policies in these countries did not lead towards an anti-export bias unlike Pakistan (State Bank of Pakistan, 2015). Due to the import substitution policy, domestic firms and end users have to pay a higher price for the imported intermediate inputs, and final consumption items compared to the international market prices (Ul Haque, and Siddiqui, 2007).
+
+Qadir and Hina (2020) find that the government protects the domestic industry by restricting imports through tariff and non-tariff barriers. As a result, the expensive domestic output becomes less competitive in the international market. Further, Najib (2022) finds that the government implements its import policy mainly through SROs. On the other hand, PIDE RAPID (2022) argues that the import policy is more effective if implemented through a tariff code than SROs. Since higher import tariffs make exports less competitive, the government has to subsidize key industries such as textiles and agriculture to earn foreign exchange.
+
+Primarily, a tariff rationalization policy has two objectives. First, it aims to achieve domestic sustainability such that a country has the least reliance on expensive imported raw materials and consumer items. Second, it aims to reduce the reliance on large stocks of foreign exchange reserves for imported items. To support these objectives, the import substitution industries in Pakistan promise to provide cheaper substitutes for expensive imported raw materials and consumer items to domestic firms and consumers after securing a favorable tariff policy from the government.
+
+However, the import substitution policy in Pakistan did not work so well historically, and there is no empirical evidence. The data show that the use of imported intermediate inputs has increased in the total intermediate inputs in all the agriculture, manufacturing, and services sectors over the last two decades. Two indicators are used for this analysis, a. the ratio of imported intermediate inputs to the total output of an industry (Figure 1), and b. the ratio of imported intermediate inputs to the total intermediate inputs used in an industry (Figure 2).
+
+On the other hand, per capita final consumption expenditure on imported items by households has increased by around 70 percent during the last two decades, increasing from 20.9 USD in 2000 to 35.4 USD in 2020 (Figure 3). One may argue that it is consistent with the rising per capita income level in Pakistan. In other words, households now can afford more imported products since their income levels have increased over time. However, this argument is weak for two reasons if analyzed from the perspective of the prevailing import substitution policy. First, the domestic industry is unable to provide suitable domestic substitutes for the imported intermediate and final consumption items over time. Second, the country faces a persistent and unsustainable trade deficit historically (Figure 4). Clearly, the import substitution policy is unable to meet its primary objectives of substituting expensive imported items for cheaper domestic intermediate and final consumption items rather it is leading toward an unsustainable economic environment for domestic and international trade.
+
+Policy implications:
+
+Gradual elimination of high import tariffs to provide cheaper intermediate and final consumption items to firms and consumers at the affordable international market price.
+
+Gradual elimination of export subsidies to enable firms gain competitiveness in international trade.
+
+Encourage domestic industries towards a research agenda that enables them meet their domestic as well as export demands, along with aiming to gain product and market diversity abroad.
+
+References:
+
+Asian Development Bank (2022). Pakistan: Input-Output Economic Indicators. https://data.adb.org/ , accessed on Oct 10, 2022.
+
+Mohammad Shaaf Najib 2022. Will The Import Ban Prove Its Effectiveness? PIDE Policy Viewpoint.
+
+Qadir, U and Hina, H (2020). Competitive Import Substitution: Can Industry be Protected in Pakistan . Pakistan Institute of Development Economics.
+
+PIDE RAPID 2022. Pakistan one Year Growth Strategy. Reforms for Accelerated Prosperity and Inclusive Development, PIDE.
+
+State Bank of Pakistan (2015). Special Section 3: What has Caused Stagnation in Pakistan’s Exports. https://www.sbp.org.pk/ , accessed on Oct 7, 2022.
+
+The World Bank (2022). https://data.worldbank.org/ , accessed on Oct 11, 2022.
+
+Ul Haque, N. and Siddiqui, R., 2007. Nominal and effective rates of protection by industry in Pakistan: a tariff based analysis. NUST Journal of Social Sciences and Humanities , Vol. 3 No.1, pp.1- 45.

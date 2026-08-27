@@ -1,0 +1,181 @@
+Tax revenue forecasting works as a base for budget estimates: the more accurate the tax revenue forecasts, the better the fiscal decisions. Pakistan’s economy has been suffering from poor fiscal decisions since its independence. The tax revenue forecast errors were a stimulus for wrong budget allocations. The system of data collection and forecasting needs a critical diagnosis. Once real reasons for these loopholes are identified, solutions can be suggested accordingly.
+
+The Strategic Planning Reforms & Statistics (SPRS) wing of the Federal Board of Revenue (FBR) is responsible for forecasting federal tax revenue forecasting. SPRS does forecasting every year in June for the next fiscal year. It also sets targets based on these predictions. Table 1 shows tax revenue collection of the FBR for the last five years. On the other hand, table 2 shows targets versus net collection of federal taxes.
+
+Table 1: FBR Tax Collection (Rs. Billion)
+
+Tax Head
+2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+Five-Year Average Collection
+
+Total Taxes
+3,828
+3,997
+4,745
+6,148
+7,164
+5,176
+
+Direct Tax
+1,446
+1,523
+1,731
+2,285
+3,279
+2,053
+
+Sales Tax (Domestic)
+649
+720
+872
+792
+975
+802
+
+Sales Tax (Imports)
+810
+876
+1,116
+1,741
+1,618
+1,232
+
+Custom Duties
+685
+627
+748
+1,011
+931
+800
+
+FED
+238
+250
+277
+321
+370
+291
+
+Source: FBR Evidence-Based Revenue Forecasting Report (2023-24) and Author’s Computations
+
+Table 2: Total Tax Targets Versus Net Collection (Rs. Billion)
+
+Year
+Targets
+Collection
+Target Achieved (%)
+
+2016-17
+3,521
+3,368
+95.7
+
+2017-18
+3,935
+3,844
+97.7
+
+2018-19
+4,150
+3,828
+92.2
+
+2019-20
+3,908
+3,997
+102.3
+
+2020-21
+4,691
+4,745
+101.2
+
+2021-22
+5,829
+6,149
+94.8
+
+2022-23
+7,470
+7,164
+95.9
+
+2023-24
+9,252
+9,299
+100.5
+
+Source: FBR Year Books (2020-21 to 2023-24)
+
+SPRS forecasts through the Buoyancy approach, in which each tax is predicted using its previous year’s Buoyancy with respect to its base tax. After getting buoyancies, they are multiplied with the forecasted values of GDP to get the forecasts for different taxes.
+
+Tax revenue buoyancy means the total response of tax revenue to change in the tax base or proxy tax base. Buoyancy is given as:
+
+And tax revenue forecast through Buoyancy:
+
+A tax is buoyant if the proportionate change in tax revenue is more than the proportional change in the tax base.
+
+The taxes and their relevant bases are given in table 3.
+
+Table 3: Taxes and Respective Bases
+
+Tax
+Base
+
+Total Taxes
+GDP
+
+Direct Tax
+Non-agricultural GDP
+
+Sales Tax (Domestic)
+Large Scale Manufacturing
+
+Sales Tax (Imports)
+Imports value
+
+Custom Duties
+Imports Value
+
+Federal Excise Duty
+Large Scale Manufacturing
+
+Source: FBR, 2024
+
+The errors in revenue forecasts may lead to budget errors. The fiscal policy efficiency depends upon the accuracy of the tax revenue forecasting. Bad decisions would be made keeping in view the provided forecasts by FBR. There would be a lower tax to GDP ratio than predicted. Development expenditure would not be as desired. In the end, there would be a decline in economic growth.
+
+The reasons for these forecasting errors could be many. They can be managerial or strategic. Some measurable reasons for tax revenue forecasting errors can be data discrepancy issues, inappropriate forecasting methods, or choice of parameters. The managerial reasons are qualitative and can’t be measured so accurately.
+
+FBR annually gives tax revenue estimates in June. Till that time, real data on taxes and bases are not available. FBR has to rely upon the revised data to calculate the buoyancies. Moreover, the tax revenue forecasts also use GDP growth estimates in addition to tax revenue buoyancies. The Ministry of Finance provides these estimates. The tax revenue forecasts will malfunction if these estimates are inaccurate due to data, method, or administrative reasons. Data accuracy can be a game-changer for tax revenue forecasting.
+
+Inaccurate federal tax revenue forecasts can result from an inappropriate forecasting method. FBR uses the buoyancy approach for forecasting purposes. The buoyancy approach involves a couple of steps. Firstly, buoyancies are calculated. Secondly, these buoyancies are multiplied with respective tax base forecasts. The ultimate results are taken as tax revenue forecasts for the coming fiscal year. The errors in forecasts suggest that the buoyancy approach may not be suitable for Pakistan’s tax revenue forecasting.
+
+The buoyancy approach uses GDP growth for forecast purposes. Moreover, every tax head has its own base for buoyancy calculation. There may be a wrong choice of these parameters. What if we change the tax base of these tax revenues? What if we do not use a GDP growth estimate and use some alternative for multiplication purposes? What if the bases or GDP are misestimated? For example, the FY23 federal tax revenue estimate is 7,004 billion rupees. It is estimated using FY22’s total tax revenue of 5,348 billion rupees and FY23’s GDP growth estimate of 5 percent (Finance Division, 2022-23). The accuracy of the total tax revenue forecast is dependent upon the reliability of the GDP growth estimate. The alternatives may provide insights into tax revenue forecasting errors in Pakistan.
+
+In a nutshell, effective forecasting of federal tax revenue plays a critical role in guiding a nation’s economic decisions. In Pakistan, the current system for forecasting tax revenue faces significant shortcomings. These inaccuracies often result in reduced public spending and increased national debt. The root causes may include unreliable data, flawed methodologies, incorrect parameter selection, and managerial inefficiencies. Addressing these challenges through the adoption of more accurate and robust forecasting methods could significantly improve the reliability of Pakistan’s revenue projections.
+
+References
+
+Finance Division, Government of Pakistan. (2022). Federal budget 2022–23 . Islamabad
+
+Federal Board of Revenue. (2024). Evidence-based revenue forecasting FY 2024–25 . Islamabad
+
+Federal Board of Revenue. (2023). Evidence-based revenue forecasting FY 2023–24 . Islamabad
+
+Federal Board of Revenue. (2022). Evidence-based revenue forecasting FY 2022–23 . Islamabad
+
+Federal Board of Revenue. (2021). Evidence-based revenue forecasting FY 2021–22 . Islamabad
+
+Federal Board of Revenue. (2023). FBR Year Book FY 2023-24 . Islamabad
+
+Federal Board of Revenue. (2022). FBR Year Book FY 2022-23 . Islamabad
+
+Federal Board of Revenue. (2021). FBR Year Book FY 2021-22 . Islamabad
+
+Federal Board of Revenue. (2020). FBR Year Book FY 2020-21 . Islamabad
+
+Ms. Syeda Um Ul Baneen is currently serving as a Senior Econometric and Data Modelling Specialist Consultant at the Federal Board of Revenue.

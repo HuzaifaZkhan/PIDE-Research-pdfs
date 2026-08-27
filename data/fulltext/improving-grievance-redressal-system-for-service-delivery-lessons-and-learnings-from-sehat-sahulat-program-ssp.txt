@@ -1,0 +1,101 @@
+Table of Content
+
+List of Tables
+
+List of Figures
+
+Acronyms
+
+Executive Summary
+
+Introduction
+
+1.1. Introduction
+
+1.2. Sehat Sahulat Program: An Overview
+
+1.3. Objectives of the Study
+
+1.4. Organization of the Study
+
+Importance of Grievance Redressal in Health System
+
+Data Collection and Methodological Framework
+
+3.1. Analytical Framework
+
+3.2. Data and Methodology
+
+An Analysis of Existing Complaint Redressal Systems
+
+4.1. Existing GR System
+
+4.2. Analysis of Secondary Complaint Database
+
+4.3. Weakness in the GR System and Way Forward
+
+A Demand-side Analysis of GR System
+
+5.1. Constraints of Beneficiaries
+
+5.2. Knowledge on Complaint Registration
+
+5.3. Findings from Telephonic Survey
+
+Conclusion and Way Forward
+
+Annexure
+
+Executive Summary
+
+Grievance Redressal (GR) improves trust and confidence in public health service deliveries and promotes equitable health services. The Sehat Sahulat Program (SSP) in Pakistan has been providing indoor health insurance throughout the country, and the program aims to expand its services to all citizens. The current study examined the existing GR/complaint system of SSP by conducting a SWOT analysis.
+
+The evaluation was carried out through qualitative and quantitative approaches, including in-depth interviews with supply-side stakeholders, and household and telephone surveys with beneficiaries. The analysis reveals that although the program offers multiple channels to register a complaint to its beneficiaries, including web portal, email, call center, and postal letter, the main source for complaint registration is the call center. A limited percentage of the beneficiaries and the general public know about call centers.
+
+The existing call center has various limitations, including limited deployed human resources, lack of call agent proficiency in the local language, absence of complaint taxonomy, etc. The call center also lacks full automation, i.e., IT-based integration with the stakeholders (including NADRA, SSP, and field offices), and it requires establishing the complete loop of each complaint along with stipulated timelines to resolve the complaints. The addition of dashboards would be helpful to acquire a progress summary of grievances.
+
+The program must also develop an integrated complaint management system where complaints received through various sources should be pooled, analyzed, and concluded effectively. Currently, the program needs a ground-level staff presence to interact with the public and guide them for complaint registration. Such a presence can improve the caseload of complaints and streamline the grievance system.
+
+Current grievances are highly linked with the policy decisions, starting from enrolment and the operational cycle. Effective service delivery is another challenge where a significant population has faced accessibility issues and denial of services besides the poor quality of services in remote areas. For example, increased empanelled hospitals would raise competition among hospitals and reduce the chances of service denial. As an institute, the SSP requires substantial effort to improve its M&E and management information system.
+
+1.1. Introduction
+
+Equity in health and health care has been a guiding principle in public health systems where equitable access to health services asserts that poor and marginalized segments must have both access to and affordable health services [1]. The developing countries have three main challenges in their health systems: first , they lack uniform health facilities for various segments of the population across regions where primarily poor mostly face accessibility challenges [2]; second , utilization of health services is often compromised due to various host of challenges including quality, attitude and affordability as these countries lack universal health insurance systems especially for the poor and vulnerable segments [3], and third , the governments lack proper feedback and accountability mechanisms for improving the health service delivery [4].
+
+The improvement in health service delivery requires systematic improvement in the design and service delivery. Besides allocating more resources, one of the essential components to carry out desired improvements is the regular feedback from patients and other stakeholders through monitoring and evaluations [5, 6]. It is worth mentioning that feedback is a dynamic and interactive process that requires regular consultation with stakeholders, and it can help in establishing and improving a robust grievance redressal (GR) or complaint management system in promoting equitable health services where the citizens of a country trust the system [7].
+
+A grievance is a complaint that shows dissatisfaction with the services regardless of whether the service is used. The grievance could be genuine, as every complaint may not be based on an authentic concern from the client or the general public. Sometimes, the program may not be able to respond to the needs of every citizen due to its design or policy; however, the public may consider it a complaint. Considering this, the GR system must be capable of responding to complaints and queries to enrich the knowledge and secure citizens’ trust. Various developed countries (i.e., the United Kingdom, the USA, and Australia) have established regulatory bodies and accountability mechanisms to receive and resolve public complaints. In parallel, the authorities must evolve the program by improving its design to cater to the design-related grievances that could exclude specified population segments.
+
+There could be multiple ways to register a complaint, including a patient letter of complaint [8, 9], dedicated offices for complaint registration, and online mechanisms, including email, SMS, and Android application tools. The effectiveness of these methods largely depends on the ease of use, public awareness, and automation level of the GR system. The foremost element of an efficient GR system is its structure:
+
+Every complaint is seriously treated, and the service providers take action, so the public trusts it.
+
+The system can handle every sort of complaint.
+
+The roles and responsibilities and delegation of power are clearly defined.
+
+Sufficient human resources are available to interact with the public to register and respond to complaints.
+
+In Pakistan, we have various governmental bodies and regulatory forums in the health sector; however, they are not efficient in establishing a robust GR system, i.e., a clear structure of GR system, user-friendly, responsive to deal with all sorts of complaints and trust of the public. The challenges also prevail on the public side, where most of the population lives in rural areas and needs to be made aware of how to interact with the authorities. They mostly believe in ‘word of mouth’ and depend on local notables and politicians to register their queries and complaints.
+
+1.2. The Sehat Sahulat Program: An Overview
+
+The Sehat Sahulat Program (SSP) is a breathing window for the poor and marginalized segments of Pakistan as it provides in-door treatments through health insurance. Currently, the SSP is operational in 68 districts where around 60% of the poor families are covered through the provision of health insurance. So far, the program has enrolled around 7.9 million families (above 40% population of the country). The program started its operation in 2016 and has been expanding every year phase-wise.
+
+The prevalent milestone of the program is to expand the in-door health insurance services for every citizen of the country; where so far, the program has launched universal in-door health insurance in various regions of the country, including ex-FATA, Azad Jammu and Kashmir (AJK), Tharparkar, two Divisions of South Punjab (Sahiwal and DG Khan) and for all the districts of Khyber Pakhtunkhwa. The program aims to expand universal health insurance in the entire country in next few months. Such expansion would be a historic milestone, but it will also bring specific challenges as it requires an efficient GR system to cater to citizens’ need and to make the program more effective in terms of service utilization. The high service utilization (in-door treatment) will reduce catastrophic health expenditures.
+
+The SSP has the following six main stakeholders:
+
+NGO for enrolment: the program hired the services of six NGOs for the enrolment of poor beneficiaries having the mandate to deliver SSP health cards and to create awareness. The NGOs managed dedicated beneficiary enrollment centers (BECs) for enrollment, where health cards were delivered along with necessary awareness.
+
+State Life Insurance Corporation (SLIC): SLIC is the main stakeholder of the program, having the mandate to arrange empanel hospitals for the beneficiaries, deploy necessary staff in empanel hospitals, and ensure that beneficiaries must get admission and utilize in-door health services. Due to its supervisory role, every grievance related to admission and in-door health services finally pertains to SLIC. SLIC is also managing an inbound call center (0800-09009) to address the queries of the general public and to register complaints.
+
+Empanel Hospitals: the empanel hospitals are obligated to provide in-door health services to eligible beneficiaries by charging no money. As per the contract, the hospital cannot deny in-door services and it must provide free-of-cost services by charging no money on admission, surgery, doctor fees, medicine, etc. The hospital will provide five days of medicine and transport charges after a patient’s discharge.
+
+NADRA: NADRA has multiple roles. First , it is involved in data preparation (conversion of BISP’s household data into family data). Second , the program’s services are linked with B-form and CNIC. NADRA has the legal mandate to issue B-form/CNIC, family information up-dation, i.e., marital status. The SSP regularly receives updated information from NADRA through its integrated health management information system (HMIS). Third , NADRA has been managing an outbound call center for two purposes: guiding the beneficiaries to pick their card from dedicated centers and acquiring feedback from those who have used the in-door health services.
+
+Federal SSP Management: The federal SSP management is the custodian of the entire program, and it has the centric role of developing policies, regulations, and guidelines and engaging the services of the stakeholders (NADRA, SLIC, NGOs, etc.). Monitoring & evaluating and improving the complaint management system are some of its critical mandates.
+
+Provincial Health Department: after the 18th Constitutional amendment, health became a provincial subject; therefore, the benefits of the program would be compromised if provincial governments were not involved in the execution process. The federal SSP management has engaged the provincial health departments in executing the program. Province KP has been managing the program almost independently. In contrast, Punjab is closely working, and it has established the Punjab Health Initiative Management Company (PHIMC) to execute the program in the province. The AJK and GB governments have also been contributing to the program by ensuring that the government DHQs should act as the empanel hospitals of SSP. However, the federal government pays insurance premiums for AJK and GB.
+
+The SSP has established a GR system, both manual and automated, to cater to the needs of its beneficiaries. The manual systems allow the beneficiaries and general public to register their grievances and complaints through multiple ways, including email, complaint box, and postal letter. The automated system includes a dedicated call center and Prime Minster Web Portal. The program has placed a Health Management Information System (HMIS) in hospitals to facilitate the beneficiaries for enrolment, in-door treatment, data updation, and general information provision to both the beneficiaries and non-beneficiaries, i.e., eligibility, details of registered members in the database, balance inquiry, etc. Similarly, there is a dedicated SMS service (SMS CNIC at 8500) through which the public can check their eligibility status.

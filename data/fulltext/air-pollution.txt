@@ -1,0 +1,81 @@
+Pakistan experiences horrific air pollution. The calamity has most likely existed for decades, but we’ve only now understood its scale and magnitude—mainly because of recent reporting of air quality data.
+
+What do we do?
+
+The answer isn’t straightforward. The problem doesn’t involve quick, easy fixes—we can’t snap our fingers and wish it away. Complex externalities like air pollution don’t magically disappear—despite our collective propensity to believe in the occult. The only way we can improve our cities’ air quality is through broad, consistent, and robust policy action.
+
+Many Pakistani cities consistently rank among the most polluted in the world.[1] PM2.5—the most egregious pollutant—levels constantly remain well above the World Health Organization’s standards as well as mandated local standards.[2] Exposure to such high levels of pollution significantly raises mortality and morbidity risks.
+
+The Air Quality Life Index shows that exposure to current PM2.5 levels shortens an average Pakistani’s lifespan by 4 years and an average Lahori’s by 7.5 years.[3] New evidence reveals air pollution’s non-health effects, including reduced labour productivity, cognitive performance, and decision-making.[4] These impacts cumulatively raise social costs, decreasing welfare and livelihoods.
+
+Many Pakistanis erroneously believe that air pollution is a temporary, winter event. Air pollution in Pakistan is a perennial issue—we suffer poor air quality throughout the year. The problem becomes more acute in the winter owing to temperature inversion—a meteorological phenomenon which restricts airflow and traps pollutants—and rice-stubble burning.[5] In this period, PM2.5 levels can lie an order of magnitude higher than recommended standards and become visibly prominent. But pollution remains ruthless year-round, even if we can’t clearly see it.
+
+Pakistan’s pollution woes don’t stem from a lack of regulation. Pakistan has a rich history of environmental legislation. Starting with the Pakistan Environment Protection Act in the 1990s—which has now evolved into provincial environment protection acts post 18 th amendment—the country has strong environmental rules and regulations on paper. Punjab, for example, has seven different types of pollution standards, including limits on ambient air quality and source-specific emissions.
+
+Given this history, why does Pakistan continue to experience terrible pollution?
+
+Pakistan may have strong rules and regulations on paper, but they operate within a weak institutional setting, leading to no meaningful improvements in air quality. Monitoring and enforcement remain woefully inadequate, rendering mandated air quality and emission standards pointless. Existing resource and capacity constraints preclude regulators (the provincial environmental protection departments) from effectively discharging their responsibilities.
+
+Pakistanis often point to China as a comparative example for pollution control—but this comparison is misplaced. China has done remarkably well in the last decade in combating air pollution, primarily through command-and-control—setting mandates and then using the strong arm of the state to monitor and enforce them.[6] But China reduced pollution because it has a powerful state designed for leveraging command-and-control—it can quickly mobilise resources to put up and run the machinery required to manage the problem. Pakistan has a vastly different state structure—with weak resource and institutional capacity—which inhibits its ability to even come close to mimicking China’s actions.
+
+Many Pakistanis believe that ad hoc, piecemeal measures—such as school closures, short-term lockdowns, artificial rain, and urban forests—can address pollution. These measures are palliative—they temporarily lower pollution but don’t stem it long term. The recent planting of Miyawaki forests in Lahore are great for aesthetics, providing shade, and lowering temperatures.[7] But they don’t filter pollutants such as PM2.5. If you want better air quality, polluters must pollute less. This implies directly targeting pollution sources instead of mitigating its consequences.
+
+The leading cause of urban pollution is vehicular emissions. Smog inspections and enforcement are prohibitively costly given current capacity. Addressing vehicular emissions requires both short-term and long-term planning. In the short-term, congestion charges can disincentivise driving and encourage commuters to carpool or avail public transport. Several cities around the world have successfully instituted congestion charges, with discernible improvements in air quality.[8]
+
+We must also take clunkers off the roads and set new vehicular standards on engine efficiency and fuel quality. Just improving fuel quality isn’t enough—it works only if it complements newer, efficient vehicles with emission reducing technologies such as catalytic converters. In the US, the corporate average fuel economy (CAFE) standards fueled (pun intended) automotive innovation, incentivising manufacturers to build efficient and cleaner vehicles.[9] In Pakistan, stricter vehicle and fuel standards may require the government to relax its import taxes given the inability of Pakistani automobile assemblers to make competitive, innovative vehicles.
+
+The long-term strategy entails technology transition as well as urban redesign. As electric vehicle (EV) technology advances and prices drop, Pakistan must consider scaling EV adoption.[10] But the transition can’t happen in a vacuum. First, people will require incentives to move to EVs—this is a double-edged sword because incentives such as tax elimination imply an end to a certain revenue stream. Second, people will adopt EVs if the necessary infrastructure (charging stations, regular power supply etc.) exists. With the current energy crisis in the country, providing a regular power supply for charging vehicles stands as a tall task.
+
+Pakistan must also build smarter cities. This implies limiting sprawl, expanding public transportation, and encouraging pedestrians and cyclists.[11] Our cities are haphazardly designed, with workers commuting to distantly spaced areas for work. Smart cities have centralised downtown areas for offices, streamlining workers’ commutes. Also, our existing public transport infrastructure is woefully inadequate. We must expand our public transport network so that more commuters can take advantage of this service. Given our obsession with suburbia, signal-free corridors, and vehicles, smarter cities seem like a pipedream. But if we want livable, breathable cities, we have no other choice.
+
+Crop burning—and its concomitant pollution—usually makes the headlines in late fall. Rice-stubble burning—which occurs just before the sowing of the wheat crop in early winter—exacerbates pollution levels across large swathes of the country. Rural areas with good road connectivity experience labor migration. As a result, rural wages increase.[12] Farmers can’t afford to hire labor to clear their land, so they opt for the most low-cost option—burning their fields. Though the government has banned crop burning, it doesn’t work in practice—can’t put thousands of farmers in jail.
+
+Recent work from South Asia reveals that the spatial nature of the crop burning externality prevents local officials from enforcing bans.[13] Officials might put down fires in their districts if smoke from those fires affects their districts. But officials might not act if the smoke affects their neighboring districts. This externality is more pronounced on the India-Pakistan border, where inter-district coordination is absent.
+
+Evidence from India reveals that payments for ecosystems services may help prevent crop burning.[14] In this context, payments for ecosystem services entails paying farmers not to burn their fields. The payments allow farmers to rent machinery—Happy Seeder—that mechanically removes rice stubble. If the benefits of reduced crop burning outweigh the total payments, social welfare will increase, justifying the payments.
+
+Scaling the Happy Seeder across rice farmers offers a long-term solution to crop burning. Given the current cost of the machine—roughly Rs. 900,000—most farmers would need subsidies along with financing options to adopt the technology. As with other technologies and practices, farmers might resist adoption, requiring concerted efforts to encourage and train farmers through agricultural extension services and social networks.[15]
+
+A more sustainable way to limit crop burning is to disincentivise rice cultivation. Currently, farmers grow rice using flood irrigation—without paying the scarcity value of water. Charging farmers water’s opportunity cost—discounted net present value of present and future streams of water use—may make rice cultivation financially infeasible, forcing farmers to switch to more profitable crops. A spillover benefit of pricing water is that it may dissuade farmers from growing sugarcane—another low-value, water-guzzling crop.
+
+Industrial emissions comprise another important source of air pollution. Despite industrial emission standards, factories often exceed emission limits owing to high compliance costs and low enforcement risk. India has tested a few strategies to curb industrial emissions with partial success. Random independent emission audits in Gujarat reduce the incidence of false reports.[16] Public disclosure of industrial emissions in Odisha harnesses public pressure to improve compliance.[17] PM2.5 emission permit trading across industrial sources in Surat offers a more cost-effective method to achieve compliance relative to more traditional command-and-control (industrial emission standards).[18] India’s experience provides useful lessons that Pakistan can draw on.
+
+Air pollution is killing Pakistanis. We can’t afford to pretend that pollution isn’t one of our primary challenges. The road to clean air is fraught with pitfalls. But makeshift palliative measures won’t take us far. We need concerted policy action—not just on paper but in practice—and we need it now.
+
+The author is and Assistant Professor of Economics at the Colby College and can be reached at snasim@colby.edu.
+
+[1] https://www.iqair.com/world-air-quality-report
+
+[2] https://thefridaytimes.com/21-Sep-2023/avoiding-air-pollution
+
+[3] https://aqli.epic.uchicago.edu/wp-content/uploads/2023/08/Pakistan-FactSheet-2023_Final.pdf
+
+[4] https://www.nber.org/system/files/working_papers/w29848/revisions/w29848.rev0.pdf
+
+[5] https://www.dawn.com/news/1654542/gasping-for-air-punjabs-perennial-air-pollution-woes
+
+[6] https://aqli.epic.uchicago.edu/news/chinas-war-against-pollution-extraordinarily-successful-university-of-chicago-researcher/
+
+[7] https://tribune.com.pk/story/2314702/pm-inaugurates-worlds-biggest-miyawaki-urban-forest
+
+[8] https://www.sciencedirect.com/science/article/abs/pii/S0094119015000467
+
+[9] https://www.joseph-s-shapiro.com/research/OptimalMobileRegulation_maintext.pdf
+
+[10] https://www.nber.org/system/files/working_papers/w29093/w29093.pdf
+
+[11] https://file.pide.org.pk/pdf/Books/How-Pakistan-Became-an-Asian-Tiger.pdf
+
+[12] https://www.terry.uga.edu/wp-content/uploads/garg_2021.pdf
+
+[13] https://osf.io/nyhz4
+
+[14] https://seemajayachandran.com/money_not_to_burn.pdf
+
+[15] https://ideas.repec.org/a/ibn/jsd123/v15y2022i3p68.html
+
+[16] https://energy.mit.edu/news/new-approach-to-emissions-auditing-more-honest-reports-lower-emissions/
+
+[17] https://epic.uchicago.in/wp-content/uploads/2020/09/Lessons-from-Implementation-of-The-Odisha-Star-Rating-Program-1.pdf
+
+[18] https://epic.uchicago.in/wp-content/uploads/2019/10/ETS_INDIA_ResearchSummaryFinal-.pdf

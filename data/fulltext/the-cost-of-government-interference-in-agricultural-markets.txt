@@ -1,0 +1,177 @@
+Headline: The cost of government interference in three agricultural markets, (wheat, water, and storage) amounts to Rs.2558.99 billion, equivalent to 3.08 percent of GDP.
+
+Contextual:
+
+The government’s interference in agricultural markets (wheat, water, and storage) has significantly made the sector inefficient. Moreover, it is posing heavy financial burdens on the government, implying that such interference is unsustainable in the long run, especially in the presence of a budget deficit. Government interference in the wheat market, such as fixing the Minimum Support Price (MSP) and giving input subsidies, failed to achieve their intended outcomes of offering low prices to consumers. Rather, fixing MSP has led to the transfer of taxpayers’ money to flour mills and the middlemen without creating any benefit to producers or consumers. Offering low prices of irrigation water is another policy failure to achieve sustainability in the utilization of valuable natural resources. The low water pricing policy failed to convince farmers to adopt water-saving technologies, leading the country toward serious water crises. Inefficient storage facilities in the government sector are another source of waste of public taxpayers’ money. The improved and efficient storage facilities by the private sector will save the taxpayers’ money and improve food security by making more food available to consumers. The present document quantifies the monetary impact of these market distortions, examining their impacts on the economy and proposing to mitigate these costs and enhance the sector’s overall productivity and sustainability.
+
+1-Wheat Market
+
+The government has continued to intervene in the wheat market through various means, primarily by fixing the MSP for wheat. Additional measures include subsidies on seeds, fertilizer, and water, as well as covering storage costs and providing subsidies when releasing wheat to millers. However, this approach has led to significant inefficiencies within the wheat market .
+
+The intended policy objectives failed to offer low prices to consumers.
+
+The late announcement of MSP (especially during the last four years) failed to attract additional acreage under wheat cultivation and thus production growth remains insufficient to meet demand, with last year’s (2023) production of 28.1 million metric tons falling short of the required 32 million metric tons (124 kg per person) for a population of 241 million. The Growth performance of the area under wheat crop during the past 42 years was observed at just 0.6 percent per annum[2].
+
+The support price mechanism fails to stabilize the retail prices and high price volatility continues to threaten the low-income consumers particularly.
+
+Implementing the MSP has created a huge circular debt, implying that government interference in the wheat market is unsustainable. Only the Punjab govt. has to pay the debt of about Rs.680 billion[3].
+
+Despite years of implementing support measures, there has been no substantial improvement in average wheat production in the country. Wheat crop yields have stagnated at around 28 to 31 mounds/acre over the past two decades. Although implementing support measures does not directly affect productivity, it does so indirectly by increasing acreage. However, this continuous support makes farmers less motivated to focus on improving productivity along with some other factors. Consequently, Pakistan is the 8 th largest producer of wheat globally but it ranks 62 nd in terms of yield [4].
+
+The government’s wheat supply policy has led to multiple costs and rent-seeking opportunities for millers and retailers. This has also created excess milling capacity, particularly in Punjab, where 1,000 flour mills can produce 11.5 million 20 kg bags daily, far exceeding the 2 million daily requirement. The government can use this as an opportunity by compelling millers to procure wheat from farmers directly to run their private business because supply is limited and they have to compete with each other to procure sufficient wheat to run their business. This competitive environment will force each bidder to offer higher prices to farmers to secure a larger share of wheat.
+
+Government Interventions in Wheat Market:
+
+The total cost of government intervention in the wheat market is determined by considering four key areas: the procurement burden, the institutional budget involved, the circular debt, and the potential loss of gains due to reduced acreage for competing crops.
+
+Procurement Burden in 2023: The procurement cost is estimated based on the total quantity procured during 2023 which was almost 24 percent of total production.
+
+Total Procurement Cost :
+
+The total amount borrowed from banks: Rs. 645.48 billion (@ Rs. 3900/40kg).
+
+Interest expense incurred on the borrowed amount: Rs. 88.80 billion.
+
+Procurement procedure expense: Rs. 46.37 billion (@ Rs. 7/kg).
+
+Loss due to wastage: The financial loss attributed to the wastage of procured wheat @10 percent of storage amount[5]. These losses are along the supply chain, if we assume half of the losses occurred in storage then estimated losses were about Rs. 32.59 billion (5% of storage amount).
+
+Total Procurement Burden : Rs. 167.46 billion. This sum excludes the rental cost of warehouses[6].
+
+Institutional Expenditure :
+
+PASSCO budget: Rs. 7 billion[7].
+
+Punjab Food Department budget: Rs. 378.86 billion[8]. This budget includes the expenditure for procuring and storing wheat, with an assumption that 50 percent of employees engaged in these activities account for Rs. 189.43 billion.
+
+Other provinces’ procurement cost: Rs. 63.14 billion[9].
+
+Combined Institutional Expenditure : Rs. 259.57 billion.
+
+Circular Debt attributed to Wheat Procurement :
+
+Debt for Punjab: Rs. 680 billion.
+
+Other provinces’ debt: Rs. 226.7 billion[10].
+
+Total Circular Debt : Rs. 906.7 billion.
+
+Market Distortions Affect the Composition of Rabi Crops :
+
+MSP for wheat distorts Rabi crop composition, making wheat more attractive than more profitable crops like rapeseed, mustard, and sunflower.
+
+Rapeseed and mustard and sunflower crops are approximately Rs. 5036 per acre more profitable than wheat.
+
+Diverting 10% (2.14 million acres) of wheat cultivation to these crops could gain Rs. 10.8 billion.
+
+Operations
+Cost (Billions)
+
+Cost of Interest on Lending
+88.8
+
+Cost of Procurement Procedure
+46.37
+
+Value of Wastage
+32.59
+
+Total Procurement Burden
+167.46
+
+Institutional Expenditures
+259.57
+
+Circular Debt
+906.7
+
+Composition of Competing Crops
+10.8
+
+Total Cost
+1344.53
+
+Total Cost as Percentage of GDP
+1.6
+
+2-WATER MARKET
+
+Pakistan’s efficiency in water resource utilization poses a critical challenge. This inefficiency stems from multifaceted issues, predominantly revolving around outdated water pricing mechanisms, incentivizing water-intensive cropping patterns, and a lack of integration of water-saving technologies into agricultural practices. Central to the dilemma is the system of Abiana, or water charges, which remains inadequately designed and enforced. The current pricing structure fails to reflect the true value of water, thereby encouraging its wasteful use. In essence, when water is perceived as inexpensive or even free, farmers have little incentive to adopt conservation measures or invest in more efficient irrigation techniques. Consequently, this perpetuates a cycle of overexploitation and depletion of water resources, exacerbating Pakistan’s status as a water-stressed nation.
+
+There is a need for comprehensive reform of water pricing mechanisms to reflect the true value of water and incentivize efficient use. This may involve restructuring Abiana’s charges to account for actual water consumption and implementing economic pricing systems to discourage excessive usage. Here we are presenting an estimated economic valuation of water resources in Pakistan, specifically focusing on the opportunity cost and the associated fiscal impact on the government.
+
+Total Surface Water Available in Pakistan: 72.7 million acre-feet of surface water was available in Pakistan during 2022-23[11].
+
+Potential Abiana Collection:
+
+Abiana refers to the water tax or irrigation charges collected from farmers, covering an irrigated area of approximately 19.99 million hectares (49.48 million acres). The potential revenue from Abiana collection based on the updated Abiana charges in 2019 are
+
+For Rabi season: 13.61 billion (@ Rs. 275 per acre)
+
+For Kharif season: 19.05 billion (@ Rs. 385 per acre)
+
+Total potential Abiana collection: 32.66 billion.
+
+Opportunity Cost of Water per Acre per Application:
+
+The opportunity cost of water per acre for each application, based on the cost of diesel, vary from Rs. 871 to Rs. 1143[12].
+
+This range represents the extraction of a water volume of 100 to 120 cubic meters (m³). Therefore, the cost of water per cubic meter is Rs. 7.92 to Rs. 10.39 for an average extraction of 110 cubic meters.
+
+Total Value of Water Based on Opportunity Cost: Rs. 710.22 billion and Rs. 931.71 billion, excluding the water scarcity rent.
+
+Loss to the Government as a Percentage of GDP:
+
+The loss to the government due to the absence of economic water pricing or water charges is estimated to be between Rs. 677.56 billion and Pkr 899.05 billion per annum. This loss is significant, representing 0.81 percent to 1.07 percent of the country’s GDP.
+
+3-STORAGE MARKET
+
+Storage facilities for agricultural products in Pakistan encounter numerous challenges that severely affect the efficiency and profitability of the agriculture sector. Storage facilities are of two types mainly: grain storage and cold storage. Grain storage facilities are used to store grains and pulses while cold storage facilities are used to store vegetables and fruits.
+
+Firstly, these facilities are insufficient, almost three times less than the requirements (MoNFS&R, 2018) and the average distances to reach them are particularly large in KPK and Baluchistan. This shows that there is significant business potential in storage facilities, but government bans on private procurement, particularly in the case of wheat, often lead to decreased interest and investment from the private sector.
+
+Secondly, the existing storage facilities are inadequate for several reasons:
+
+These facilities often lack proper ventilation, temperature control, and pest management systems, resulting in spoilage and reduced quantity and quality of stored produce.
+
+A major issue is the lack of modern infrastructure, leading to high post-harvest losses.
+
+There is an inadequate distribution of storage facilities across the country, with rural areas particularly underserved, forcing farmers to sell their produce immediately after harvest at lower prices.
+
+The limited capacity of existing storage units further exacerbates the problem, as they cannot accommodate the large volumes of produce during peak harvest seasons.
+
+The Burden of Inefficient Storage Market:
+
+Inefficiency means the quantity of produce lost. So, the losses, particularly in grains are about 10 percent, and for perishable produce like fruits and vegetables are 22 percent. The losses happened at the harvest/threshing, storage, and transportation stages[13]. These losses are along the supply chain implying that need to improve all operations along the supply chain. If we assume that half of the losses occurred due to poor handling during storage, etc. Then the estimated losses for grains and vegetable and fruits are:
+
+Grain Losses: This calculation focuses on major crops (Wheat, Rice, Sugarcane, Maize, and Cotton). Assuming that 25 percent of the produce of 5 major crops is stored and 5 percent of losses are due to poor storage, this translates to a financial loss of Rs. 59.81 billion.
+
+Fruits and Vegetable Losses: The post-harvest losses for fruits and vegetables are even higher, at 22 percent. Assuming that 11 percent of losses are due to poor storage. This resulted in a financial loss of Rs. 255.6 billion.
+
+Total Cost as Percentage of GDP: The combined total cost of these post-harvest losses for grains, fruits, and vegetables amounts to Rs. 315.41 billion. This figure represents 0.38 percent of Pakistan’s GDP.
+
+[1] Authors are Research Fellow and Chief of Research at PIDE respectively.
+
+[2] https://pide.org.pk/research/evaluation-of-seed-industry-way-forward/
+
+[3] https://pide.org.pk/research/revitalising-agriculture-road-to-green-revolution/
+
+[4] https://api.gov.pk/PolicyDetail/MTJlNjE0MTEtZmRlYy00YzNlLTg2YTctNDhhMWYzZDM2OGFk
+
+[5] https://pbit.punjab.gov.pk/system/files/National%20Food%20Security%20Policy%202018.pdf
+
+[6] Although Punjab Govt. exit wheat market this year but still wheat procurement is continues. The Economic Coordination Committee (ECC) has approved a total financing requirement of Rs. 275 billion for the PASSCO and all other provinces except Punjab for the year 2024.
+
+[7] https://www.finance.gov.pk/budget/Budget_2022_23/Performance_Based_Budget_FY_2022_23_to_2024_25.pdf
+
+[8] https://finance.punjab.gov.pk/system/files/ABS22-23.pdf
+
+[9] Punjab Food Department typically procures approximately 75 percent of the total wheat. Assuming that the burden on other provinces for wheat procurement is about 25 percent compared to Punjab, this equates to roughly 63.14 billion.
+
+[10] Based on the assumption that Punjab procures about 75 percent of the wheat, the remaining 25 percent is procured by other provinces. The debt for other provinces will be about Rs. 226.7 billion.
+
+[11] https://www.finance.gov.pk/survey/chapters_23/02_Agriculture.pdf
+
+[12] I liter Diesel = 290.3 in April
+
+[13] https://pbit.punjab.gov.pk/system/files/National%20Food%20Security%20Policy%202018.pdf

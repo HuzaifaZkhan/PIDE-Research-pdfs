@@ -1,0 +1,67 @@
+Water poverty has emerged as a severe challenge for Pakistan’s metropolitan specifically Islamabad, Lahore, Karachi, and Rawalpindi. Urban water poverty can be defined as having not access to safe, dependable, and affordable water, and numerous evidence indicates that water poverty is increasing in these cities not only due to physical absence but also due to under pricing, poor governance, and inadequate urban planning. The signs of this devastating crisis are visible: women waiting in a queue’s long hours for water tankers in Karachi, Rawalpindi residents drilling more deeper every year in search of groundwater and expanding housing projects in Lahore without hydrological assessment[1]. These trends show an imbalance between the increasing water demand and supply, with adverse consequences that will reflects in productivity, social, and health.
+
+Water scarcity trends in Pakistan shows the emergency of this hidden challenge. Pakistan has seen a decline in per capita water availability from 5260 in 1950 to merely 860 in 2023, placing the Pakistan in the water scare country[2]. The world resource institute ranked Pakistan amongst 17 countries listed in the category of suffering from Extremely High baseline water stress country in 2023[3]. Almost 90% of the freshwater is consumed by the Indus Basin Irrigation System, leaving less than 10% of the supplies for the cities[4]. At the same time, increasing population also intensifying the Pakistan’s water demand: Urban Population in Pakistan has increased to 83 million in 2023, and it is expected to increase to 110 million by 2035[5]. This speedy increase in population has outpaced the water utilities capacities which was designed decades ago.
+
+Karachi offers a stark illustration of this widening supply–demand imbalance. Karachi’s daily water demand has reached to almost 1200 million gallons per day (MGD), whereas the Karachi Water and Sewerage Corporation supplies only 580 MGD[6]. Almost half of the Karachi’s population lives in informal settlement where Corporation supplies does not reach, leaving residents to depend on the tankers charging high rates Rs. 5000 to Rs. 7000 per tanker in summer[7]. WASA, Lahore is responsible to provide water in Lahore, and its supply heavily depends on groundwater. Almost 1.4 million groundwater is extracted in Lahore daily by WASA, reasoning to groundwater declines of almost 1 metre annually[8]. In neighbourhood, such as Ichra, Misri Shah, Gulberg, Mustafa Abad, Shimla Hill, Mozang and Ravi Road groundwater has been decreased to more than 200 feet, increasing the extraction cost. Despite having access to surface water such as Simly Dam, Khanpur Dam and Rawal Sam, both Islamabad and Rawalpindi face severe water scarcity for 2-4 month due to rapid increase in urbanization[9].
+
+Above mentioned challenges showing that Pakistan’s urban water scarcity is physical as much as institutional. Main distortion lies in the pricing. Water providing agencies usually charges Rs. 300-600 as water tariffs, without considering the household size[10]. Such under pricing leaves no incentives for households to conserve and prevents the water providing agencies to cover their expenses. In results, most WASAs recover only two-third of their operational expenses[11], resulting interrupted water supply. Non-revenue water (NRW) includes the leakages, theft and unmetered connection, is another issue attached with other issue, and its range is almost 40% which is above the benchmark[12].
+
+Groundwater is considered as the lifeline of metropolitans and is facing severe scarcity. Currently, in Pakistan more than 1.25 million tube wells are operating privately and without any rules and monitoring[13]. Almost 594 tubewells are operated by the WASA alone in Lahore which leads to the depletion as well as increase in contaminations[14]. Same trends have been observed in Rawalpindi and Islamabad where unregulated societies drilling deeper to extract the diminishing water.
+
+Water poverty has a dual consequence both social as well as economic. Residents of informal settlements in Karachi pay almost 10% of their income to the tankers[15], an additional burden that aggravating the inequality. Small business such as car washes, and laundries facing disruptions due to the limited water supply, putting a limit on earnings. Rawalpindi’s Property without reliable water sources has seen a decline in property values, whereas water secure areas see appreciation.
+
+Health outcomes in Pakistan also showing the severity of the water crisis. Almost 40% of hospital beds are filled with the waterborne disease patients[16]. Waterborne disease leas to the repeated infections among urban children, trapped into the vicious cycle of malnutrition and impaired cognitive development. In informal and low-income settlements, women also face a water scarcity burden and spends almost 1-2 hours in collecting the clean water which reduces time for other activities such as education and economic opportunities[17].
+
+The stability of urban is at increasing risks. Water scarcity in Karachi and Hyderabad have instigated the protest, which are linked to distributional inequalities. The increasing water tanker market is clearly a sign of Institutional failures, which increase the tension among society[18]. Water scarce metropolitan Pakistan is at risk of growing instability without structural reforms.
+
+Institutions need to move towards the coherent reforms agenda to achieve the long-term solutions, several examples from Singapore and Phnom Penh shows that water governance depends on the pricing, infrastructure investment, digitalization, and urban planning. Metropolitan cities share common structural constraints and that can be solves through evidence-based reforms.
+
+Considering these patterns indicates a water system that is continuously failing due to the institutional weaknesses, urbanization, and lack of investment. The cost associated with these fragmentations are alarming: health burden, dependence on tanker mafia, and inequality. If water scarcity in Pakistan is considered as a seasonal emergency instead of governance issue, instability in metropolitan will be inevitable. To avoid this scarcity, the focus must shift from usual steps to rational pricing, and efficient governance. Pathways given below outline the necessary reforms that are necessary to place water system on a sustainable path.
+
+Reforms Pathways
+
+Water pricing must shift from fixed charges to Increasing Block Tariff (IBT) structure that recovers not only the operational expenses but also exhibit the consumption levels and promote the conservation. Under-pricing has incapacitated the financial system of water providing agencies, and IBT can create a fiscal space for upgradation.
+
+GID-based groundwater monitoring system can detect the groundwater extraction trends, and can identify the dry zones, to enforce the limits on the drilling. Without GIS-based mechanism, metropolitan in Pakistan will continue to witness devastating depletion of groundwater.
+
+Non-Revenue is a critical issue and reducing it can be a critical reform. Leakage detection, replacement of old rusted pipes, and digital metering can lower the NRW level, which is already surpassed the benchmark.
+
+Groundwater recharge investment must be on the priority list. Rooftop rainwater harvesting and recharge wells construction can significantly slow the groundwater depletion. These steps are proven effective in Jordan and Spain and offers a cheap solution for Pakistan.
+
+Engaging educational institutes such as schools and universities can foster a behavioural change and can create a culture of conservation. Awareness campaigns can shift the public towards wiser use.
+
+[1] Mahmood, M. U., Abbas, S., Usman, M., Qureshi, J., & Masood, A. Spatio-Temporal Dynamics of Ground Water Level of Lahore Metropolitan and its Relationship with Urbanization and Rainfall.
+
+[2] Afzal, M., Begum, I., Batool, H., Gulzar, S., & Nawaz, B. (2024). Water scarcity in Pakistan: Implications to regional security and peace . Pakistan Economic Review, 7(1), 104–147.
+
+[3] World Resource Institute. 25 Countries, Housing One-Quarter of the Population, Face Extremely High-Water Stress, 2023.
+
+[4] World Bank. Pakistan: Getting More from Water , 2019.
+
+[5] Asian Development Bank. (2024). Pakistan national urban assessment: Pivoting toward sustainable urbanization .
+
+[6] Karachi Water & Sewerage Corporation (KWSC). Operational Data , 2023.
+
+[7] Urban Resource Center. Why Karachi Thirst for Water, 2025.
+
+[8] Mahmood, M. U., Abbas, S., Usman, M., Qureshi, J., & Masood, A. Spatio-Temporal Dynamics of Ground Water Level of Lahore Metropolitan and its Relationship with Urbanization and Rainfall.
+
+[9] Rana, S. A., Ali, S. M., Ashraf, M., Gondal, N. I., Rahman, S., & Akhtar, N. (2025). Estimation of the domestic water demand–supply scenario and its key driving factors in the Islamabad-Rawalpindi Metropolitan Area, Pakistan. PLoS ONE
+
+[10] Abbas, M., Kazama, S., & Takizawa, S. (2022). Water demand estimation in service areas with limited numbers of customer meters: Case study in Water and Sanitation Agency (WASA) Lahore, Pakistan. Water, 14 (14), 2197
+
+[11] Asian Development Bank (ADB). Pakistan Water Sector Assessment , 2020.
+
+[12] World Bank. A Review in Bangladesh, India, and Pakistan: Benchmarking for Performance Improvement in Urban Utilities
+
+[13] Qureshi, A. S. (2020). Groundwater governance in Pakistan: From colossal development to neglected management. Water, 12 (11), 3017
+
+[14] Water and Sanitation Agency, Lahore
+
+[15] Accountability Lab. Water Governance Challenges in Pakistan, 2025.
+
+[16] Qamar, K., Nchasi, G., Mirha, H. T., Siddiqui, J. A., Jahangir, K., Shaeen, S. K., Islam, Z., & Essar, M. Y. (2022). Water sanitation problem in Pakistan: A review on disease prevalence, strategies for treatment and prevention. Annals of Medicine and Surgery, 82 , Article 104709
+
+[17] UN Women. National Report on the Status of Women in Pakistan, 2023.
+
+[18] Human Rights Commission of Pakistan (HRCP). Mapping Social Movements in Pakistan Report , 2021

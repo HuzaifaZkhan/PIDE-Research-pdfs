@@ -1,0 +1,103 @@
+The BASICS Note Number 5 showed a very low level of social and civic engagement among the people of Pakistan. If people are not often engaged socially, how are they keeping themselves mentally and physically alive? Are there enough libraries and playgrounds available to do so? Not that other ages do not need these, but with the number of youth present in the country, the importance of having facilities, where the young can shape and nourish their minds and bodies, become all the more important.
+
+In the PIDE BASICS Survey[1] we asked the respondents about having access to any library and a playground. The quality of either was not probed, as it can be relative, so the question just asked about having access to these facilities. The discussion below shows the reported access to both the facilities nationally, regionally, and by age, sex, income and education.
+
+Access to a Library
+
+Libraries provide not just information but also contribute to building communities. Public libraries can be a great equaliser by providing information and education to those who otherwise cannot afford it. When asked about having access to any library in the PIDE BASICS Survey, the responses showed very low access by people in Pakistan.
+
+Access by Region, Province and Territory
+
+Figure 1 shows that a huge majority of Pakistanis (83%) do not have access to any kind of library, with only a small proportion (4.5%) being very happy with the one they can access. The figure shows:
+
+Near to two-thirds of the urban population (62%) does not have access to any sort of library, while only a minuscule proportion has access in the rural areas (4.7%).
+
+Among the four provinces, Balochistan comes out better than others. Accessibility in KP is lower than in all other provinces.
+
+Among the territories, ICT fares slightly better than GB and AJK but the lack of access remains dominant everywhere.
+
+Even where people report having access to some kind of library, those very happy with the facility remain low across the country.
+
+______________
+
+[1] For details about the survey, see PIDE BASICS Notes, Number 1.
+
+______________
+
+Access by Age and Sex
+
+Previous BASICS Notes have shown a strong relationship between the age-sex characteristics and the factors we are probing in the current study. Figure 2 shows that age has little effect on having access to a library, as the proportion varies very slightly with age.
+
+Figure 2 mainly tells us that:
+
+Age does not significantly impact the proportion of those having access to a library, neither nationally nor when seen for the two sexes.
+
+Access remains low for both sexes, but females have lower access than their male counterparts for all age groups.
+
+Those happy/very happy with the library they can access remain very low for both sexes, across all ages.
+
+It is worth mentioning here that this is reported access. A facility might exist but still remain inaccessible for a variety of reasons. Some of these reasons can be the awareness about its presence, distance to the facility, opening timings, and it being gender-inclusive/exclusive. Factors like these can explain the lower reported accessibility by females than by males in the study.
+
+Access by Education
+
+As can be seen in Figure 3, education improves a person’s reported accessibility to a library. It may be mentioned here that education can bring awareness and information with it, which a person without it can lack. The presence of a facility can remain unknown to a person who is not interested in it or lacks knowledge about its existence. Figure 3 shows that:
+
+Accessibility to a library increases with increasing educational level.
+
+The proportion very happy/happy with the library they have access to goes up as the educational level improves.
+
+Access by Income Level
+
+Increasing income levels do not improve accessibility to a library by any significant margin (Figure 4). In fact, it is only for the highest income quintile that we see an observable decline in those reporting not having access to any kind of library — 73.4% as opposed to 85.5% for the lowest quintile.
+
+Access to a Playground
+
+How many Pakistanis have access to playgrounds? It may be clarified here that this question just asks if a playground can be accessed by the respondent, not if they actually do it[2].
+
+Access by Province, Region and Territory
+
+Figure 5 shows that 60% of Pakistanis do not have access to any kind of playground. We can see from the figure that:
+
+While one-third urban population lacks access to a playground, the proportion is three-fourths for their rural counterparts. Along with low accessibility, satisfaction too is much lower in the rural areas, expressed in the unhappy/very unhappy responses.
+
+Among the four provinces, Punjab fares the best followed by Balochistan and Sindh. KP shows the highest proportion of those not having access to a playground (67.8%).
+
+GB continues to show better trends than other territories, having the lowest proportion of those not having access to a playground (46.3%). AJK lags behind other territories with 62.3% lacking access to a playground.
+
+___________
+
+[2] Frequency, or lack of, physical/outdoor activity, and indoor games/gym would be dealt with in a separate BASICS Note.
+
+___________
+
+Access by Age and Sex
+
+Sex shows a bigger influence on access to a playground than age. The point stressed above on the difference between the presence of a facility and considering it accessible appears to be in action here. We see in Figure 5 that:
+
+At the national level, we do not see much inter-age difference in those not having access to a playground. The satisfaction level too remains almost the same for all the age groups.
+
+Looking at the two sexes separately, we do not see significant intra-sex differences across the different age groups, for both males and females.
+
+Differences become more obvious when we compare the two sexes, overall and for each age group, with males having a sizeable advantage over females in having access to a playground.
+
+Access by Education Level
+
+Education level shows a positive relationship with the accessibility of a playground. As can be seen in Figure 7:
+
+The proportion not having access to a playground declines as we go up the educational ladder — from 75.1% for those who have never been to school, it reduces to 41% who have achieved more than a high school education.
+
+Those happy/very happy also increase with increasing educational level.
+
+We are looking at bivariate trends here, but it would not be wrong to infer that better education can be linked to better income levels and, by implication, better living conditions/neighbourhoods, having more facilities, including that of a playground.
+
+Access by Income Levels
+
+Lastly, we see how income levels, expressed in quintiles, relate to the accessibility of a playground. Figure 8 shows that:
+
+Income has a positive effect on the accessibility of a playground only after a certain level, as we see some reduction in those lacking access after reaching the third income quintile.
+
+We looked into the social and civic engagement of Pakistanis, and their access to facilities that nurture their mind and bodies in BASICS Notes Number 5 and 6, respectively. The next one would look into some of their spiritual beliefs — which are not to be confused with their religious beliefs.
+
+Next
+
+BASICS Notes Number 7: A Reflection on Spiritual Beliefs

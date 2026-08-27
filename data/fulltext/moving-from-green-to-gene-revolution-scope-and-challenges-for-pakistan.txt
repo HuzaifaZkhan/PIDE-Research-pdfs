@@ -1,0 +1,87 @@
+The agricultural sector of Pakistan, serving as a fundamental driver for the nation’s economic progress, is currently confronted with notable challenges. The Green Revolution, which brought about substantial improvements in agricultural productivity during the 1960s and 1970s, has now reached its conclusion. Despite the ongoing discourse surrounding the prospects of a Green Revolution 2.0 and governmental initiatives such as the National Agriculture Emergency Program, it is imperative to facilitate a shift toward what is referred to as the Gene Revolution.
+
+This transition holds significant importance for several reasons. Firstly, Pakistan’s population currently stands at 241 million (Census 2023) and is expanding at a rapid pace of 2.55%. Using current population growth rates as a reference, it is projected that Pakistan’s population will reach 263 million by 2030 and 283 million by 2050. Secondly, current farming techniques exhibit inefficiencies and are unsustainable, leading to low crop yields and a reliance on imported products. Lastly, the substantial concerns of climate change and water scarcity significantly impact agricultural productivity. In response, the Gene Revolution effectively addresses all of these challenges. By implementing genetic modification and modern biotechnology, Pakistan may create high-yielding, climate-resilient, and water-efficient crops, which will lead to higher crop yields, improved efficiency of resources, improved competitiveness, and new opportunities for farmers, entrepreneurs, and researchers. This modernization through the Gene Revolution has the potential to improve food security, drive economic growth, and establish Pakistan as a leader in agricultural invention.
+
+With increasingly unpredictable weather patterns globally, the agriculture sector may face disruptions, exacerbating food insecurity and poverty. Accordingly, farmers will need to adapt. Enhancing agricultural productivity and implementing climate-resilient practices through modified technology can help sustain incomes and promote a shift towards new technologies. However, adopting new technologies is already challenging in many low-income countries, including Pakistan, due to various market inefficiencies. It is essential to address current environmental issues. In Pakistan, climate change threatens to derail efforts toward a Green Revolution.
+
+Green Revolution – Pakistan Experience
+
+In the perspective of Pakistan’s agriculture, new technologies have had a significant economic, social, and environmental impact. They have influenced the relationship between inputs and outputs, as well as the interactions among social groups, income distribution, and the environment (Hussain, 2012). In fact, the Green Revolution in Pakistan worsened income inequality and regional financial disparities. The use of high yielding variety (HYV) seeds, which needed irrigation, led to faster income growth in the Punjab and Sindh regions compared to Baluchistan and Khyber Pakhtunkhwa. This resulted in increased income disparities within provinces between areas with irrigation and those without it (Hamid and Hussain, 1974). Furthermore, in Pakistan, poor farming techniques adopted by farmers have led to the overuse of land, resulting in declining fertility and crop production. Overall, productivity has dropped by almost one-third compared to the baseline production rates (Murgai et al., 2001). The soil is losing important nutrients, and there are concerns about water scarcity for the success of the Green Revolution in the future. Pesticides used to combat diseases and insects have increased crop input costs and caused health concerns [1] . Agricultural activities, including pesticide use, contribute to 30% of global emissions which contribute the climate change [2] .
+
+Pathways from Green to Gene Revolution
+
+The Gene Revolution showed the development and adoption of genetically modified organisms (GMOs) in agriculture. It follows the Green Revolution, which focused on improving crop yields through the use of high-yielding varieties, fertilizers, and irrigation. But the difference lies where Gene Revolution may take a form where crops are modified at the genetic level to exhibit traits such as pest resistance, herbicide tolerance, improved nutritional content, and enhanced tolerance to adverse environmental conditions (drought, salinity). The technology of genetically modified crops was adopted in Pakistan to deal with hunger and food scarcity on one side, but it also introduced expensive seeds, increased price of inputs irrigation issues, and costly fertilizers.
+
+Scope
+
+The Gene Revolution focuses on genetically modified (GM) products in health and agriculture. Pakistan has not benefited economically from this revolution. Today’s GM crop products, such as herbicide-tolerant soybeans and stacking GM characteristics in selected crops, have the potential to reduce costs. However, it’s important to note that GM products may only decrease production costs (Evenson et al., 2005). Pakistan investigated genetically modified crops to evaluate their resistance to pests, high temperatures, and drought, comparing them with conventional cotton cultivars. The results indicated that GM crops have the potential to address major agricultural challenges in Pakistan, such as increasing productivity, enhancing disease resistance, [3] and the issue of climate change.
+
+Potential
+
+GM technology has significantly contributed to the increased global production of the four major crops such soybeans, cotton, maize, and canola. Since its introduction in the mid-1990s, the technology has led to a rise in global soybean and maize production by 122 million and 230 million tonnes, respectively. From 1990 to 2012 the farm incomes have improved by $116.6 billion (Brookes and Barfoot, 2014). Transgenic crops were grown extensively on about 81 million hectares across 17 countries, with 12 in developing countries. Developing countries accounted for 37% of the global transgenic crop area in 2004 and have improved consistently from 14% in 1997. Argentina, Brazil, and China were the top three producers among developing countries (James, 2004). In Pakistan, huge GMO production is required to meet rising food demand, driven by challenges such as high soil salinity, drought, insufficient irrigation, waterlogging, weed growth, and insect infestations (Hanif et al., 2023). Furthermore, the agriculture sector needs a Gene Revolution to stabilize yields under stress, produce biofuels, tackle climate change issues, boost animal husbandry, and reclaim marginal lands [4] .
+
+Challenges
+
+Challenges associated with GM crops in developing nations can be categorized into three groups: political, technological, and socioeconomic. Pakistan is mainly facing technological and socio-economic challenges. Unfortunately, the country was not able to get full benefits initially due to the non-existence of laws. The Seed (Amendment) Act 2015 and the Plant Breeders’ Rights Act 2016 were introduced but couldn’t unleash the use of Genetically Modified (GM) seeds in the country. To address these challenges (Azadi et al., 2016) it is essential to first conduct experimental verification to determine the sustainability of the crops with small-scale farming practices and their suitability for agro-ecological conditions. Hence there are strong reasons to shift to this technology by overcoming certain impediments.
+
+Technological Challenges:
+
+Lack of well-equipped laboratories to evaluate GM crop issues
+
+Absence of a comprehensive regulatory framework
+
+Shortage of trained human capital
+
+High cost and limited supply of GM seeds
+
+Inadequate information available for the adoption of GM technology
+
+Socioeconomic Challenges:
+
+Non-existence of effective food laws initially hindered the full benefits of GM crops
+
+Lack of experimental verification to ensure the sustainability of GM crops at a small scale
+
+Affordability issues for farmers
+
+Solutions
+
+The solution can be producing GM crops that can withstand extreme weather conditions.
+
+Produce drought-resistant and flood-tolerant GM crop varieties to ensure survival and productivity in extreme weather conditions
+
+Create GM crops that require less water and are efficient in water usage to mitigate the impact of water scarcity
+
+Develop crops that are more resilient to pests/ diseases, reducing the reliance on chemical pesticides and promoting an ecosystem
+
+Design GM crops that can bloom with diverse plant species, supporting overall biodiversity
+
+Develop salt-tolerant GM crops that can grow in soils with higher salinity levels, ensuring continued agricultural productivity in coastal areas
+
+Focus on creating GM crops that can adapt to the effects of climate change, such as variations in weather patterns and catastrophic floods
+
+Concluding the discussion, Pakistan is facing a lot of challenges and moving towards the Gene Revolution offers Pakistan the tools needed to address those challenges. By adopting, updated laws and regulations for GM crops, Pakistan may build a robust agricultural sector proficiently surviving the adverse effects of climate change, ensuring better food security and sustainable development in future.
+
+References
+
+Azadi, H., Samiee, A., Mahmoudi, H., Jouzi, Z., Rafiaani Khachak, P., De Maeyer, P., & Witlox, F. (2016). Genetically modified crops and small-scale farmers: main opportunities and challenges. Critical reviews in biotechnology , 36 (3), 434-446.
+
+Brookes, G., & Barfoot, P. (2014). Economic impact of GM crops: the global income and production effects 1996–2012. GM crops & food , 5 (1), 65-75.
+
+Evenson, R. E., Altaf, Z., & Malik, K. A. (2005). The Green Revolution and the Gene Revolution in Pakistan: Policy Implications [with Comments]. The Pakistan Development Review , 359-386.
+
+Hamid, N., & Hussain, A. (1974). Regional inequalities and capitalist development. Pakistan Economic and Social Review , 12 (3), 255-288.
+
+James, C. (2004). Global status of commercialized biotech/GM crops: 2004. ISAAA briefs , 32 , 1-12.
+
+Mimura, N. (2013). Sea-level rise caused by climate change and its implications for society. Proceedings of the Japan Academy, Series B, 89(7), 281-301.
+
+Murgai, R., Ali, M., & Byerlee, D. (2001). Productivity growth and sustainability in post–Green Revolution agriculture: the case of the Indian and Pakistan Punjabs. The World Bank Research Observer , 16 (2), 199-218.
+
+Shahid Javed Burki, Pakistan: Fifty Years of Nationhood, Vanguard Books, (1999), Lahore. Page123.
+
+WWF (2022). Living Planet Report 2022 – Building a nature positive society. Almond, R.E.A., Grooten, M., Juffe Bignoli, D. & Petersen, T. (Eds). WWF, Gland, Switzerland.
+
+Westveer, J, Freeman, R., McRae, L., Marconi, V., Almond, R.E.A, and Grooten, M. (2022). A Deep Dive into the Living Planet Index: A Technical Report. WWF, Gland, Switzerland.
+
+Waqar Younas was a Research Assistant and Uzma Zia is a Senior Research Economist at PIDE

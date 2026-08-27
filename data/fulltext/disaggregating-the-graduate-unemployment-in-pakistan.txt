@@ -1,0 +1,59 @@
+Introduction:
+
+In Pakistan, graduate unemployment is becoming a serious challenge as it is almost three times the average unemployment rate in the country. There are four major reasons for this trend; first a high disparity between the education offered and the need of the economy to accommodate these graduates. Second, a weak university-industry linkage, means that graduates being produced are not what is being demanded by the industry. Third, the increased number of people looking for jobs increases the labor force. Finally, the shrinking state of the economy; and macroeconomic imbalances. According to World Bank, Pakistan is ranked 63rd out of 163 countries on the University-Industry linkages index. Pakistan is even lagging behind India (26th rank) and Sri Lanka (53rd Rank). This shows that the state of our graduate unemployment is quite alarming.
+
+The surge in higher education institutions was a stark societal change of the twentieth century, which resulted in a dramatic increase in the enrollment rate in higher education by almost 200% till 2000 i.e. by the end of the last century (Schofer and Mayer, 2005). This expansion has been rigorously followed by both developed and developing nations. In the case of Pakistan, higher education saw a great surge when University Grant Commission was replaced with the Higher Education Commission in 2002. The purpose was to upgrade the universities and degree-awarding institutes to make access to higher education easy. Figure1 shows a rapid increase in university growth in Pakistan after 2003-04 and onwards.
+
+In addition, as a supply-side policy, a large number of indigenous and foreign scholarships were awarded and as a result, students’ enrollment increased more rapidly in higher education than in other levels of education. We see that the growth rate of universities’ enrollment has almost doubled as compared to other levels of education. Figure 2 depicts the growth rate in enrollment by level of education.
+
+On the demand side, the poorly developed labor markets of developing countries like Pakistan could not accommodate this huge educated labor force, and hence it culminated in the problem of graduate unemployment. Our investigation of historical data from 2001-02 to 2020-21 shows a mixed trend regarding the overall unemployment rate in Pakistan, lying between 5 to 10 percent. However, the unemployment rate of graduates kept on rising from 9.2 in the year 2001-02 to at most 17.9 percent in 2014-15 as shown in figure 3.
+
+Literature suggests that there is a huge gap between the supply and demand for graduates, resulting in graduate unemployment in the developing world. From the supply side, we can see a continued rise in the flow of graduates. From the demand side, we note insufficient jobs creation by different economic structures (Gassab & Jamoussi, 2011). Similarly, Biagi et al., (2020) maintained that it is the misalignment between demand and supply that contributes to the unemployment experienced by many recent graduates. Not only does the growth in the number of recent university graduates differs from the growth in job vacancies potentially available for them, but also a large number of individuals end up completing their tertiary education in subjects for which little demand exists. Likewise, in the case of Pakistan Haque and Nayab (2022) reported that over 31 percent of the educated youth is unemployed and females make up 51 percent of the total unemployed population. Moreover, Mukhtyar et al (2021) highlighted that over time enrollment of natural sciences graduates is increasing in Pakistan than the demand in the labor market. The gap between supply and demand is wider for graduates in natural sciences as compared to social sciences and management sciences. Therefore, to address graduate unemployment, there is a need to look at the unemployment issue by field of study in the country.
+
+U nemployment Rate by Field of Study in Pakistan
+
+While analyzing graduate unemployment by field of study, we noticed that the Labor Force Survey (LFS) does not provide segregation for all graduates’ disciplines. It only provides information in major categories like engineering, medicine, computer, and agriculture. Nevertheless, still, this information is useful for comparing the unemployment rate across these disciplines and over time. Our analysis shows that the unemployment rate for graduates increased from 14 percent to 16 percent from 2018-19 to 2020-21. However, when we decomposed the unemployment rate into sub-disciplines it produced a gloomier picture. The unemployment rate for engineers has increased from 11 percent to 23.5 percent which has doubled in just two years. A similar situation has been observed for those who graduated in computer science and agriculture. Besides, graduates in medical sciences face the lowest unemployment when compared to graduates in other disciplines, however, the unemployment rate within the medical discipline has too drastically increased by 68 percent in just two years.
+
+Gender Differences in the Unemployment Rates
+
+The male/female categorization of unemployment among young graduates reveals that female unemployment is significantly higher than those of males. The unemployment rate among female graduates is about 3.8 times more than their male counterparts as 33.8 percent of females were unemployed in 2020-21. This shows that our society is somewhat gender-biased even in the 21 st century as females are not getting opportunities equal to their male counterparts.
+
+Figure 4 shows that age group 21-29 is facing the highest unemployment overall and in all sub categories with the exception of medical profession. This is very alarming because this age group represents the young labor force which is entering the job market every year.
+
+The average unemployment rate in urban region (7.35%) is higher than rural region (5.85) according to LFS, 2020-21. Conversely, the graduate unemployment rate of rural sector (22%) is far high compared to urban sector (12%) as depicted in figure 5.
+
+Similar results have been observed in almost all sectors with the exception of degree in computer sciences. One of interesting finding is that even the graduates in agriculture sciences are more unemployed if they belong to rural region. This may indicate that Pakistan despite being an agricultural economy is not offering enough opportunities to its high educated lot in the said sector.
+
+Figure 6 shows that the graduate unemployment rate is high in KPK and Punjab; which shows that there is an excess supply of graduates in these provinces and labor markets are not able to absorb these graduates. Individuals who graduate in engineering face more unemployment in KPK, and surprisingly graduates in agriculture also suffer from high unemployment rate in Sindh and Punjab as theses provinces, despite being rich in agriculture, may not be offering ample opportunities for highly educated agriculturists. It has been argued that low skilled and poor quality of education or training promotes the unemployment rate.
+
+The Role of Training
+
+It has been argued that vocational training is important to promote employment and economic growth of a country (Alzúa et al., 2016). However, Hirshleifer et al. (2016) found that the average impact of these vocational training programs having a modest positive impact on employment and quality of employment. The measured impact of the courses is much less than expected by either course participants or government labor ministry staff. Despite the overall impact being close to zero the stronger and statistically significant impact of vocational training is found in courses offered by the private sector.
+
+Figure 7 shows that graduates who get training in their previous job have low unemployment rate. Whereas off the job training seems not worthwhile for graduates in promoting employment opportunities. It may be due to the non-relevance and low quality of the trainings. Whereas, the higher unemployment rate of the off job trainers as compared the no trainers may show that these individuals prefer to remain voluntary unemployed, due to their higher educational investments, unless they find a suitable job. The possible hypothesized reasons for the mixed results of these trainings may be that the labor market may not value the specific skills being taught. In particular, the curricula of these trainings may lack important “soft” personal and social (“non-cognitive”) skills dimensions. Additionally, these trainings might generate expectations that are ultimately not rewarded by the labor market, and participation in the program might thereby end up discouraging workers. Increased expectations might raise the reservation wage, but if the training does not transfer skills that are sufficiently well rewarded in the labor market, the subsequent wage offers would not match these enhanced expectations. In this case, the worker would not be able to find jobs that matched her expectations, and over time, could become discouraged unemployed.
+
+Conclusion and Policy Recommendations
+
+For better analysis and policy, we need to add more disciplines/fields of study especially regarding social and natural sciences in LFS. This will help policymakers to accurately analyze the supply and demand gap of these graduates in the labor market.
+
+The unemployment rate by sub-disciplines shows a gloomier picture. The unemployment rate for engineers has increased from 11 percent to 23.5 percent which has doubled in just two years. A similar situation has been observed for those who graduated in computer science and agriculture.
+
+Most of the labor force in agriculture sector is illiterate and perhaps for this reason Pakistan imports a large quantity of inputs and related machinery from foreign countries. Moreover, Pakistan’s exports in the agriculture sector are limited only to raw material. We need to focus on improving prospects for value addition in agriculture to increase exports and employment opportunities for graduates.
+
+The reported evidence on the effect of trainings on employment is mixed, showing that labor market may not value the specific skills being taught. In particular, the curricula of these trainings may lack important “soft” personal and social (“non-cognitive”) skills dimensions. Additionally, these trainings might generate expectations that are ultimately not rewarded by the labor market, and participation in the program might thereby end up discouraging workers.
+
+Pakistan, needs a lot to attract tech-based foreign companies in Pakistan and should also facilitate and encourage local businesses to start such industries on their own to improve the employment prospects in the country.
+
+Government, universities, and industries need to develop a strategy to make internship/apprenticeship mandatory for all graduates in their respective degree programs so that they have a better idea of the job market.
+
+References:
+
+Alzua, M. L., G. Cruces, and C. Lopez. (2016). Long-Run Effects of Youth Training Programs: Experimental Evidence from Argentina . Economic Inquiry. 54 (4): 1839–59.
+
+Biagi, F., Castaño Muñoz, J., and Di Pietro, G. (2020). Mismatch between Demand and Supply among higher education graduates in the EU. JRC Technical Report.
+
+Gassab, M & Jamoussi,H. B. O. (2011). Determinants of Graduate Unemployment in Tunisia ,” Working Papers 16, AlmaLaurea Inter-University Consortium.
+
+Hirshleifer, S., D. McKenzie, R. Almeida, and C. Ridao-Cano. (2016). The impact of vocational training for the unemployed: Experimental evidence from Turkey. Economic Journal, 126(597): 2115–2146.
+
+Mukhtyar, M., Saleem, K., & Iqbal, Z. (2021). Higher Education Enrollment Trend and Job Opportunities in Pakistan: A Subject-Based Comparison. Ilkogretim Online , 20 (5).

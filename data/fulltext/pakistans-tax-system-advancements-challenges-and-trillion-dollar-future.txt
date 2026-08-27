@@ -1,0 +1,91 @@
+Pakistan is at a fiscal and development crossroads. With demographic potential, geo-economics importance, and digital capabilities waiting to be exploited, the country’s ambition to become a trillion-dollar economy is not more than just a pipe dream with the current tax system and outcomes. It is heavily dependent on reinventing its fiscal foundations. The need to revamp the tax system is central to this transition, not merely as an administrative instrument but also as a foundation for inclusive growth, equity, and macroeconomic sovereignty. The language of deficits, both budgetary and current account, has long dominated the conversation on Pakistan’s economic predicament, with a reactive engagement with the International Monetary Fund (IMF) serving as a stopgap approach. However, beneath the surface lies systemic fiscal dysfunction, including a restricted tax base, a regressive tax structure, and weak institutions that maintain figure 1 shows Pakistan`s tax-to- Gross Domestic Product (GDP) ratio, which was lower, than the OECD average of 34.0% and the Asia-Pacific average of 19.3%[1]. By the fiscal year 2024-25, it will have ended up to 10.6%, said Finance Minister Muhammad Aurangzeb. These traits limit budgetary space and distort the fundamental structure of the citizen-state contract.
+
+The prevalent IMF financial bailouts in Pakistan indicate a structural fiscal system problem rather than episodic disruptions. The current tax structure shows a misalignment of government, trust, and social contracts. Before Pakistan can implement its trillion-dollar economic plan, it must first solve its fiscal problems.
+
+Figure 1: Authors Illustration
+
+Source: Federal Board of Revenue (Revenue Division Year Books)
+
+A Trillion Dollar Dream and Pakistan`s Taxation Baseline
+
+Taxes are involuntary charges imposed by the government to generate revenue but to sustain revenue; the tax policies must support growth, lower deadweight loss, and boost transaction volume[2]. Pakistan’s tax system has long faced a paradox, a vast informal sector coexists with a small formal tax base. Despite more than twenty IMF stabilization programs, multiple Finance Acts, and a series of tax reforms, the country’s tax-to-GDP ratio has remained stagnant at around 8% to 10%, shown in Figure 1, it needs to be improved, as said by the Chairman Federal Board of Revenue (FBR) reported by Associated Press of Pakistan. This ratio is much lower than the 15% threshold[3] usually required to sustain long-term economic growth, eliminate public debt, and support the functions of a modern, functioning state. The Pakistani tax-to-GDP ratio reveals significant institutional and political issues[4], including a hidden economy and a minimal tax-paying population. The system rewards non-payers but penalizes taxable individuals[5] despite continuous fiscal reform initiatives and external financial support.
+
+Although IRIS 2.0 has played a crucial role in simplifying taxes, lowering superfluous documentation expenses is a measure to raise taxes, per the Pakistan Institute of Development Economics (PIDE) policy viewpoint[6] in 2020. However, to achieve a trillion-dollar economy, Pakistan needs to eliminate exemption networks (the tax expenditures shown in Figure 2), and digitize supply streams to avoid fraud, evasion, and malpractice that cost Pkr 6 trillion each year, according to media reports; even former Chairman FBR Shabbar Zaidi believes that it is around Pkr 10 trillion and through reward-based tax enforcement. These reforms require political advancement between taxpayers’ trust and representation and visible public service delivery.
+
+Figure 2: Tax Expenditures (Billion Pkr)
+
+Source: Tax Expenditure Reports ‘FBR’
+
+In comparison to other developing market economies, figures 3 and 4 show that Pakistan’s tax revenue as a share of GDP is noticeably low (except for Bangladesh) but also lower per capita tax, which raises questions on tax net issues for Pakistan. However, empirical assessments indicate that Pakistan has significant untapped tax potential. As of 2016, the country’s tax capacity was assessed to be around 22.3% of GDP[7], implying that Pakistan has the potential to double its existing tax collection roughly. Moreover, Pakistan’s economy has been burdened by more indirect than direct taxes, distorting resource allocation. 1949-50, direct taxes contributed 25% to total consolidated revenue, 33% in 1959-60, and 14-17% in the 1970s. The government attempted to increase direct tax revenue collection through fiscal policy in the 1990s, but the total tax-to-GDP ratio was not improved. In the fiscal year 2019-20, direct taxes contributed 32% of total taxes, yet 70% of those taxes came from withholdings.
+
+Pakistan needs to move from a lower middle-income to an upper middle-income country[8] and sustain it or to become an emerging market economy (EME)[9]. EME had a tax-to-GDP ratio of 14.8% in 1990 and 19.7% in 2020[10] which provides a comprehensive understanding of what Pakistan needs to do fiscally to achieve a trillion-dollar economy.
+
+Figure 3: Tax to GDP %
+
+Source: World Bank and FBR
+
+Figure 4: Per Capita Tax (Constant USD 2020)
+
+Source: Calculation based on World Bank and FBR Data
+
+FBR Actions and Tax System Effectiveness
+
+An efficient tax system reduces complexity, costs, and revenue collection[11] while fostering economic growth and improved living standards through a competitive and neutral system[12]. Recent studies imply that capital income should be taxed to some extent, but not at the same rate as labour income, because leisure and future spending complement each other in a life cycle model. A positive capital income tax is part of an optimal tax system for high-productivity individuals who are more likely to save. Lower taxing on savings can lead to more uniform taxes, although the optimal level of taxation is unknown. Policymakers may accept deviations from tax neutrality in sectors with high or low tax elasticity of capital demand[13].
+
+FBR initiated a tax reform strategy via three components: policy, administrative, and organizational reform in November 2001. The tax reform policy brought four core strategies, which included self-assessment by all parties under simplified rules abo, listing exemptions, and enhancing dispute resolution. Part of the administrative reform concentrated on developing functional tax units to enhance the income tax agency while optimizing manual procedures through staff capability enhancements. The organization implemented three changes through reorganization with fewer tiers while reducing its workforce. Pakistan has struggled with a chronic fiscal crisis characterized by a lack of tax income for defence spending, debt repayment, and basic public services. In response, the Tax Administration Reforms Program (TARP) was introduced by the Government of Pakistan (GoP) in 2005 to modernize the FBR, expand the tax base, and raise the tax-to-GDP ratio. TARP included organizational, administrative, and policy reforms, building on previous reform initiatives that started with creating a Task Force in 2000 and followed by IMF and stakeholder discussions. These included streamlining tax legislation, encouraging self-assessment for everybody, cutting back on exclusions and in-person contacts, and improving audit and enforcement capacities. The FBR established taxpayer facilitation centres, formed Regional Tax Offices (RTOs) and Large Taxpayer Units (LTUs), developed e-filing technologies, and reorganized operations. With funding from the Public Sector Capacity Building Project ($6 million) and the World Bank ($2.9 million) for initial design, TARP implemented automated customs procedures through CARE, introduced modern IT systems (such as SAP and ITMS), and carried out extensive capacity building.
+
+Notwithstanding early difficulties, the initiative met its primary goals by 2011, which included exceeding income goals (Rs. 1,558 billion in 2010–11) and implementing changes that improved professionalism, transparency, and public trust[14]. FBR initiated IRIS 2.0 as their online e-return system, establishing a modern tax system. Through this system, internet users can easily process their tax payments. Through its, the Payment Slip IDs, Computerized Payment Receipts, and PSID search tool function prevents errors, speeds up payment processes, and helps create a business-friendly tax system[15].
+
+Figure 5: Annual %Age Change in Tax Revenue For Pakistan
+
+Source: Calculation based on World Bank Data
+
+The TARP 2005 modernized FBR processes, led year-on-year (y-o-y) tax revenue growth, and the 2009 e-return system further accelerated growth to 20.8% by 2012. Implementing the Integrated Risk Information System (IRIS) as a modern portal replacement in 2014 brought a y-o-y revenue growth surge because of risk-based audit strategies and enhanced transparency. The launch of IRIS-ADX in 2018 later increased revenue growth with support in regions with poor internet connectivity. The IRIS 2.0 upgrade was late in 2023 due to data-driven enforcement. The FBR has reorganised its operations through modernisation efforts. However, these improvements fail to solve Pakistan’s underlying tax framework challenges and systematic issues remain unsolved as illustrated in Figure 5, highlights the limited sustainability in tax collection and uneven impact of reforms. The modernisation strategies do not address indirect taxation issues or low tax rates in sectors such as agriculture, retail, and real estate. The new automated technique benefits existing tax collecting operations while having little influence on new entities and standard policy regulatory norms. With digital improvements, Pakistan has also taken legislative measures to tackle challenges and improve the tax system, notably around 10 amendments in the Income Tax Ordinance (ITO), 2001, and the Tax Law Ordinance, 2016. The Income Tax (Amendment) Ordinance of 2018 introduced changes to foreign income reporting requirements, concealed income tax regulations, and revised tax rate structures. Similarly, Ordinance No. XV of 2015: The withholding tax exemption granted to Pakistan Real-time Interbank Settlement Mechanism (PRSM) under sub-section (4) of Section 236P of the ITO, 2001 has been removed.
+
+When the FBR (Pakistan’s tax reforms) have been criticized for failing to overcome structural barriers and unpredictable implementation challenges. Despite implementing organizational modernization and restructuring, the tax base expansion and compliance have not significantly improved. The E-return system has not addressed taxation issues related to evasion, elite control, and administrative complexity. Also, high volatility over time rather than stability in year-over-year revenue growth raises questions about FBR’s e-return system’s effectiveness and public engagement.
+
+Additionally, Pakistan’s informal economy, shown in Figures 6, is reducing its effective tax base and harming its ambition to become an official trillion-dollar economy. Documenting the economy is a shared effort that involves every department in government and helps increase the revenue base[16]. To address this, the plan proposes incentive-based formalization schemes, real-time monitoring using NADRA, mobile wallet usage, and simplifying turnover-based regimes.
+
+Figure 6: Size and Development of the Shadow Economy
+
+Source: IMF Working Paper WP/18/17[17]
+
+Existing opportunities within Pakistan’s economy support its path to becoming a trillion-dollar economy through overhauling its tax system. Necessary[18], future fiscal transformation for a fruitful economy requires formalizing unregulated economic activities through confidence-building measures, shifting from indirect to direct taxation strategies, and eliminating tax exemptions. Qualitative measures, including a digital financial culture, tax education, and institutional integrity, are essential. Moral elements, including political will, behavioural changes, and citizen-state contracts, are cores. Otherwise, the foundations will remain fragile.
+
+Mr. Husnain Shehzad is a M.Phil. Scholar at the Pakistan Institute of Development Economics.
+
+[1] OECD. (2024). Revenue Statistics in Asia and the Pacific 2024 ─ Pakistan
+
+[2]Stiglitz, J. E., & Rosengard, J. K. (2015). Economics of the public sector: Fourth international student edition. WW Norton & Company.
+
+[3] Choudhary, R., Ruch, F. U., & Skrok, E. (2024). Taxing for Growth: Revisiting the 15 Percent Threshold. World Bank Policy Research Working Paper No, 10943.
+
+[4] Khan, A. R. (2023). Low-Tax to GDP Ratio: Causes and Recommendations. Journal of Public Policy Practitioners , 2(1), 38-61.
+
+[5] ul Haq, I. (2023). Incidence of Taxes: Who Bears How Much Burden?. In Civil Society and Pakistan’s Economy (pp. 82-101). Routledge.
+
+[6] Pakistan Institute of Development Economics, Policy Viewpoint No.17:2020
+
+[7] Cevik S. (2016). Unlocking Pakistan’s Revenue Potential, (IMF Working Paper 16/182), International Monetary Fund
+
+[8] According to the World Bank, the minimum threshold for upper middle-income countries is a GNI per capita of USD 4,516 for Fiscal year 2025.
+
+[9] According to the IMF, on average, EMEs have USD 6500 per capita GDP for 2025.
+
+[10] Countries can tap tax potential to finance development goals. (19 September 2023). IMF . Retrieved May 5, 2025,
+
+[11] Bejaković, P. (2020). How to Achieve Efficiency and Equity in the Tax System. Revija Za Socijalnu Politiku , 27(2), 137–150.
+
+[12] Zakaryan, M & Zakaryan z. (2023). The Role of the Tax System in the Country’s Economy, Scientific Proceedings of Vanadzor State University Humanitarian and Social Sciences (ISSN 2738-2915)
+
+[13] OECD (2010), Choosing a Broad Base – Low Rate Approach to Taxation, OECD Tax Policy Studies, No. 19, OECD Publishing, Paris,
+
+[14] Article on Reform, FBR https://www.fbr.gov.pk/article-on-reforms/131167/174
+
+[15] FBR Introduces New Payment Creation System, https://www.fbr.gov.pk/fbr-introduces-new-payment-creation-system/174167
+
+[16] Ammar, A. (2023). Broadening of Tax Base: Policy Challenges and the Way Forward. Journal of Public Policy Practitioners, 2(2), 101-115.
+
+[17] Medina, L., & Schneider, M. F. (2018). Shadow economies around the world: what did we learn over the last 20 years?. International Monetary Fund . WP/18/17
+
+[18] It`s necessary because by formalizing unregulated economic activities (approximate USD 457 billion shown in figure 6) it adds up USD 41 billion or Pkr 11,422 billion (current USD) in tax collection calculated with current Tax to GDP ratio (9%). Similar tax exemptions (shown in figure 3) which is equal to 52% of total tax collection in 2023.

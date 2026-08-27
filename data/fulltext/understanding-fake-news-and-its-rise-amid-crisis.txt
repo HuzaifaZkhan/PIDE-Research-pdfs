@@ -1,0 +1,114 @@
+Executive Summary
+
+Periods of crisis are often accompanied by a rapid increase in misinformation and fake news. During times of crisis, false information tends to spread faster and reach larger audiences which raises an important question: Why does fake news rise during crises? This knowledge brief argues that crises create ideal conditions for the spread of misinformation because people experience fear, uncertainty, and an urgent need for information. In such situations, individuals actively search for updates and are more likely to trust and share unverified content, particularly when it appears to provide immediate answers. Drawing on existing literature and examples from COVID-19, geopolitical conflicts, and economic rumors in Pakistan, the brief identifies why people share fake news and what factors contribute to the rise of fake news. The brief concludes that fake news during crises is not simply a consequence of technological change but a product of human behavior interacting with digital media systems that requires effective management both on individual and state level.
+
+Emergence of Social Media
+
+The media is considered to be a key factor in making the world a global village, and the news started traveling faster. The expansion of mass media through digital channels transformed how news is produced, consumed, and disseminated. Since 1975, the media have evolved through privatization, independent identities, getting out of family businesses, investment in digital communications, and operationalization and generation of content faster and more efficiently (Klinenberg, 2005), and this efficiency and speed increased multifold with the advent of social media. Social media consists of many apps, including WhatsApp, YouTube, X (Twitter), LinkedIn, Snapchat, and Instagram, that allow people to create, publicize, and share their own or other user-generated content and interact globally (Davis, 2016). Social media has provided people with numerous platforms to share real-time news with their friends and followers worldwide. Social Media has empowered and enabled people to be proactive and to raise their voices when needed; it has been a source of many social movements and protests that have brought in revolutions (Leong et al., 2019). This has been proven through the spread of timely crucial information during the times of COVID-19 when social media became the primary source to update people with crucial information, and the governments and World Health Organization (WHO) were also convinced that social media is the right choice for spread of information faster. The use of social media is immense, and in Pakistan there are over 66 million social media users, as reported by Data Reportal in their Digital Landscape of Pakistan 2025 report. Figure 1 shows the stats of Pakistan’s digital landscape. This number shows that if just a small fraction of these people share unverified news, it can become a viral trend and news can spread faster.
+
+Figure 1: Digital landscape of Pakistan 2025
+
+(Source: DataReportal, Design: NotebookLM)
+
+Rise of Fake News due to Social Media
+
+Despite several uses of social media and quick information dissemination, it doesn’t come without its issues, and one of the key issues is the spread of false or fake information. As Bennett & Livingston (2023) stated that despite many factors contribute to the spread of mis and dis information, social media gets the main blame due to its communal nature. Kefalaki & Karanicolas (2020) state that social media platforms are the major contributors and a source of spreading fake news across borders. Fake news is generally defined as spread of sensational and controversial news (Tandoc et al., 2018). The spread of fake news rises amid genuine, truthful news as the news is created, disseminated, reproduced and recreated and cycle continues which gives rise to the information disorder that is fake news (Wardle & Derakhshan, 2017). During crisis, people are uncertain and in need of any kind of news and often believe fake news, which is the basic idea of this study to identify what factors contribute to rising of fake news during times of crisis. Fake news is becoming a rising concern due to multiple digital platforms and vast content that’s being produced on those platforms (Priya et al., 2026) and people’s reliance on user-generated content more than televised content. A clarity on fake news is also important, fake news is an umbrella term coined to include the misinformation, disinformation, false information and malinformation (Aïmeur et al. 2023).
+
+These issues often lead to the rise of fake news, particularly in times of crisis, and can cause problems or slow down the process of information spread. COVID-19 has seen an example of the rise of misinformation and disinformation, with the uncontrolled abundance of information, WHO coined the term “infodemic”. The idea was that irrelevant and fake information were confusing the people and was adding to the on-going health issues and have turned public health pandemic into an epidemic of information as well (Rovetta & Castaldo, 2022).
+
+Types of Fake News
+
+Fake news can take multiple forms, as presented in Table 1, and can be broadly categorized into two typologies: Intent and content (Aïmeur et al., 2023). The intent means that news is created in order to deceive people whereas content means that it can be user-generated and can either be created to deceive and harm or the factual content is used in a way that it can spread misinformation or fake news. Certain types of fake news include a mix of both intention and content. The types of the fake news are provided in the table below.
+
+Table 1: Types of Fake News
+
+Type
+Explanation
+
+1.
+Misinformation
+Misinformation is vague, wrong, or unauthentic news without any intent of spreading false news. The misinformation is disseminated considering it to be factual or true information
+
+2.
+Disinformation
+Disinformation is wrong or false information that is spread with malicious intent of harm or to incite violence and anxiety.
+
+3.
+Malinformation
+Factual information, often leaked on purpose to cause harm or provoke hate speech.
+
+4.
+Satire
+Exaggerated information or mimicked facts in a humorous way, usually about politicians and political situations, without any intention of causing harm.
+
+5.
+Memes
+Memes are internet-driven form of satire, mostly in form of images and texts. They are user-generated that is why they are more inclined towards spread of fake news or false information
+
+6.
+Rumor
+Rumor are widespread claims with malicious intent, and the claims are never verified, therefore considered as fake news more often
+
+7.
+Hoax / Fabricated content
+Planned fake content to harm people, create a narrative or masquerade as truth
+
+8.
+Click Bait
+Irrelevant and catchy thumbnails or images, which are often misleading and have no connection with the original news and story and are just done to get some clicks on the irrelevant news. Most often have no intent to harm but can harm.
+
+9.
+Conspiracy Theories
+The idea that something is happening because of certain plotting and scheming. Conspiracy theories have been part of news world for a long time and usually are built around political or public matters.
+
+Sources: Aïmeur et al., (2023); Lynch (2022); Cooke (2017 )
+
+Role of Audience in Spreading of Fake news
+
+According to Tandoc et al., (2018) audience or the receiver of the information play a major role in spread of fake news, the audience are the ones that spread it considering it factual information and sometime co-construct it. Audience or receiver of fake news also spread it due to their confirmation bias or considering it as part of information or knowledge sharing with their peers and uploading on their WhatsApp statuses and Instagram stories (An et al., 2025). Franceschi & Pareschi (2022) have defined four types of audience that becomes spreader of news and a particular type that stops it. The types are as follow
+
+Oblivious: The people who are unaware of the news
+
+Reflector: The people who have awareness and reflecting on how to act on the news
+
+Spreader: The people who intentionally spread the news
+
+Silent: The people who can differentiate between the fake news and real news and stop the spread of news any further.
+
+A small anonymous survey was conducted in Islamabad, Pakistan to identify if people can differentiate between the real and fake news, and if they have ever fallen victim to it and have spread it knowingly. The questionnaire was formed on google and was distributed online. The survey avoided the bias due to its anonymity. A total of 112 responses were collected. The survey included questions about the distinction between real and fake news and its spread. However, due to the small sample size, the findings are just indicative and may not be generalized to overall population of Pakistan
+
+Figure 2
+
+Source: Author
+
+The results show that most individuals who participated in the survey could distinguish between correct and incorrect information and they avoid spread of fake news. The answer to the question if they have trusted a fake news is very nuanced, as the percentage of responses is very close. 36% of the people stated that they have never trusted a fake news. However, the 30% Maybe remains an interesting point as the audience are ambiguous if they may have trusted a fake news or not. Whereas, 30% participants stated that they have trusted a fake news. The results also show that all the participants have come across a fake news in their life and they were able to reflect on the news that it was fake.
+
+Figure 3
+
+Source: Author
+
+When the participants were asked if they can distinguish between real and fake news, 52% of the participants mentioned that they can very well distinguish between the two. Whereas, 21% of the participants can’t create clear distinction between two and 27% of the people were unsure which can represent that they may have sometimes difficulty in differentiating between the real and fake news. When the participants were asked if they had ever shared the fake news as shown in Figure 4, 88% of the participants declared that they have never shared a fake news knowingly whereas few of the participants cited that they have knowingly shared fake news. The survey revealed that most of the participants involved in the survey were the silent type as per the typology of Franceschi & Pareschi (2022) since they were able to distinguish the fake news and stopped its spread on their end. And when it was asked if they may have ever shared a fake news what were the mediums, the ones who have shared it, chose their social media as the medium, as shown in Figure 5.
+
+Figure 4
+
+Source: Author
+
+Figure 5
+
+Source: Author
+
+The survey was distributed to most of the participants who were working therefore it can be inferred that the results corroborate the findings presented by Franceschi & Pareschi (2022) that the more competent or educated a person is, the less they fall victim to fake news and don’t become part of spreading it. Similarly, Beauvais (2022) reported literacy as one of the major contributing factors in the spread of fake news, among other factors. However, according to Gallup Pakistan’s analysis of the PBS census 2023, almost 61% of Pakistani population is living in rural areas and 67.5% of overall population is under matriculation (Grade 10) which can make them more vulnerable to fall victim of the false news.
+
+An et al., (2025) argued mindfulness and instant sharing of information as the main reason of sharing fake news. They also stated religiosity as a factor among people with less religious knowledge. Beauvais (2022) also mentioned cognitive bias, political pressures, familiarity, and illusion of an idea as major cognitive factors that explain why someone would spread fake news. Further, impulsivity, sensationalization, emotionally hyped up, novel ideas, pressure groups, and stressful environments also contribute to the spread of fake news. Stressful environments explain why fake news rises amid crisis and many educated people may also become part of spreading the news.
+
+Fake News amid Crisis
+
+The first reported incident of fake news amid crisis was occurred in 1938 (Tandoc et al., 2018) since many important events leading to World War II were happening around same time. This suggests that fake news have been around even before the social media times but its occurrence increases after social media. Rise of fake news is impacting the behaviours and viewpoints of people as when the fake news spreads across boundaries it tends to impact people and their narratives (Cherry, 2024).
+
+The literature suggests that spread of fake news rises around the major events as it was seen during COVID-19. The other major events as described in literature are geopolitical conflicts like wars, election campaigns, high-profile conspiracies like Epstein files, health emergencies, and nation and international disasters (Rovetta & Castaldo, 2022).
+
+The fake news rise amid crisis because people tend to aim for more information and panic, therefore they tend to believe any information that is present on the internet. Twitter has been named as the most used social network as source of consolidated and organized misinformation and disinformation. Many people use twitter to get all the information they require as many public figures actively update their twitter accounts (Muñoz et al., 2024). Twitter has massively also been used as war weapon and been called as part of digital warfare. Therefore, people when are stressed use Twitter to get the information and then often believe the fake information and tend to spread it. Since during stress, the main aim of many people is to aware their loved ones and get as much real time information as possible, and doing so they fell victim to fake news as both receiver and sender.
+
+Another reason stated by Cherry (2024) is planned efforts to increase the disinformation to create panic in the public and keep them away from truthful information in order to create chaos and manipulate people for required outcomes of the perpetrators, lobbyists, and certain governments. Their aim is to impact the psychology of the people during conflict so they believe the fabricated and planned version of the conflict rather reality. As it is always easy to manipulate people when they are in conflicting and vulnerable states, which is one of the major reasons of increment of fake news during the crisis like wars. This has also been evident in the political campaigns and unexpected election results.
+
+Another reason of rising of fake news during conflicts is the algorithm settings of social media, when a user engages with a particular kind of content on social media, the social media algorithms reads that and share them similar kind of information and content (Narayanan, 2023). That is why when people interact with news about the crisis, all fake news of similar type also starts showing up which people believe because of their bias or interest in the information. This way the creators of fake information also align their disinformation in a way that it appears in the searches of people and the network searches of algorithms.

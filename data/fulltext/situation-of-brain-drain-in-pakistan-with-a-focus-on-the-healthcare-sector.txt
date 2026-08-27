@@ -1,0 +1,131 @@
+Abstract
+
+In this brief, we draw attention to Pakistan with the purpose of diversifying research on brain drain of individuals who migrate from the country primarily in search of a better quality of life and institutions, particularly focusing on the healthcare sector. Brain drain in Pakistan has become a perpetually rising phenomenon with more and more highly skilled workers leaving the country, yet there is relatively less research on this group. Pakistan offers a unique insight into migration of skilled workers from developing states due to the recent economic turmoil, as well as the consequent effects on the country, the repercussions for those who remain behind, and policy instruments used to maximize benefits for all stakeholders. Brain drain in the country has led to a shortage of highly qualified medical professionals, and poor returns on investment by the government.
+
+____________
+
+[1] Authors: Dr Sameen Zafar and Suman Ammara.
+
+* Corresponding Author . Assistant Professor, Suleman Dawood School of Business, Lahore University of Management Sciences (LUMS). PhD Economics, University of Nottingham, United Kingdom.
+
+Address: Lahore University of Management Sciences (LUMS), Opposite Sector U, DHA, Lahore, Pakistan. Email: dr.sameenzafar@gmail.com , sameen.zafar@lums.edu.pk
+
+Introduction
+
+In discussions about the flow of human capital, there is a common belief that developing countries are increasingly becoming a source of talented individuals who eventually end up in developed countries due to a lack of adequate institutions or environments in their home countries to support them. International migration benefits immigrants by allowing them to achieve a higher income and better quality of life. While origin countries experience an influx of remittances, increased trade and technological transfers, they also incur losses in human capital and subsequent brain drain. Despite increasing trends in brain drain, most studies on migrants’ demographics and sociology tend to neglect it.
+
+In this brief, we draw attention to Pakistan as a significant region to add to research and theory on studies of migration patterns in developing countries. Pakistan, we argue, exemplifies the global trend of brain drain as approximately 832,339 Pakistanis went abroad for employment in 2022, which is the highest number since 2016 and the third-highest ever recorded according to the Bureau of Emigration and Overseas Employment (BEOE). Additionally, official records indicate that among those who traveled overseas in 2022, over 92,000 were graduates and more than 350,000 were trained workers and laborers (BEOE, 2022). Therefore, Pakistan -a low income country- presents a distinctive prospect to analyze a rapidly growing and diverse brain drain phenomenon as it offers important insights for migration scholars in comprehending the various factors associated with high-skilled worker migration, its effects on the country, the repercussions for those who remain behind, and policy instruments used to maximize benefits for all stakeholders.
+
+Brain Drain Trends
+
+Pakistan is listed as the second largest country in South Asia with high emigration rates. Pakistanis living abroad primarily reside in the Middle East, Europe, and the United States, with smaller populations in other regions worldwide (World Population Review, 2023). There is a widespread consensus that emigration of highly skilled workers may worsen the economic situation for Pakistan. A large number in the form of health professionals and engineers migrate to countries that offer higher incomes, a better standard of living and increased political stability (Kousar et al., 2020). Nearly 8771567 skilled and educated workers have migrated globally from 1971-2015 (Afridi et al., 2020) Amongst these emigrants, most migrated to Gulf countries, especially Saudi Arabia (736,000 in 2022) and the United Arab Emirates (UAE), while around 40,000 individuals migrated to Europe (particularly Romania) as well as other Asian countries (BEOE, 2023). In recent years, there has been a significant increase in the number of Pakistani emigrants choosing to go to China, primarily due to China’s allocation of over 20,000 scholarships to Pakistani students (Hippler and Ahmed, 2022). In Thailand, Pakistani emigrants are primarily involved in business activities. Female migrants from Pakistan exist in lower numbers (Shah et al., 2020). This can be attributed to the fact that large number of migrants are occupied in less-skilled jobs (which exclude women) such as construction.
+
+Since 1947, and particularly after the year 1971, Pakistan has seen a worrisome trend of professionals leaving the country, including highly-skilled engineers, doctors, computer programmers, teachers and accountants (Doghri, et al. 2006). High skilled workers may face an easier migration process due to a possession of greater resources to relocate along with more favorable conditions in host countries. Figure 1 below shows the occupational group-wise emigration.
+
+Figure 1 Occupational Group-wise Emigrations from 2001 to March 2023
+
+Common drivers of brain drain in Pakistan are long term governance issues, quality of living, financial instability and worsening infrastructure (Kousar et al., 2020). Further, insecurity and the dwindling law and order conditions in the country encourage individuals to move overseas for a more stable life (Afzal et al., 2012). Clemens et al., (2019) while looking at the wage gap amongst immigrants in the host country and natives in the home country found a significant monetary gain as a result of migration. Thus migrant mobility with the intention of moving up the economic ladder is increasing as this income inequality between countries persists.
+
+Due to the recent economic turmoil in Pakistan, a large part of the population has had little choice than to move overseas in search of economic and political stability. With a fall in foreign reserves and per capita income along with rising inflation and unemployment, the country offers little incentive for individuals to stay back. Worsening economic times has contributed largely to the recent brain as even highly skilled workers and younger citizens face bleak prospects. As per the Pakistan’s National Human Development Report, around 64% of migrants in 2017 were below 30, whereas around 29% were between 15-29 (UNDP, 2018).
+
+Since more than half of the migrants in Pakistan can be characterized as less skilled workers, a vast majority of studies on migration in Pakistan tend to focus more on them, paralleling global trends in the study of migration. Previous research investigating economic migration from Pakistan mainly examines the impact of the incoming remittances and policies regarding them (Najimdeen et al., 2014). The handful of studies explicitly examining brain drain in Pakistan use only timeseries data (Ali et al., 2015) , and tend to focus on certain sectors only. For instance, it remains unclear whether brain drain is conducive to the country in the long run, what determines whether migrants stay and return or the link between recent economic downturns and consequent brain drain in the country. Furthermore, the policy framework in Pakistan related to migration is somewhat weak, mainly due to a lack of reliable data on migration from Pakistan (Hippler and Ahmed, 2022). Individuals registered with the BEOE are recognized as emigrants, whereas those who do not register remain untracked (Zeeshan and Sultana, 2020).
+
+The Healthcare Sector
+
+The healthcare sector is no exception to the worsening and ever-rising global phenomenon of brain drain. The rising demand for healthcare workers in more developed countries is driven by demographic shifts, such as the aging of the baby-boomer generation (Dodani and LaPorte, 2005). According to the BEOE (2023), around 1000-1500 doctors emigrate from the country annually. A survey conducted by Gallup-Pakistan found that over two-thirds of Pakistan’s population including doctors, expressed a desire to seek opportunities overseas and that over half of these individuals had no intention of returning (Gallup Survey, 2011). The negative consequences of this brain drain include a severe shortage of skilled professionals in the public service, resulting in poor healthcare outcomes for the nation and hindered progress.
+
+Talati and Pappas (2006) predicted a shortage of doctors in Pakistan ranging from 58,000- 451,000 in 2020. Whereas a survey of 366 immigrants in Ireland found that the highest number of migrant doctors belonged to Pakistan, where most did not want to return (Brugha et al., 2016). Similarly, there exists a shortage of nurses in Pakistan due to low production rates, and those who do qualify often leave the country to seek employment opportunities abroad. Nurse educators are drawn to developed countries due to the higher salaries, which results in a shortage of qualified nursing faculty in Pakistan (Asghar et al., 2020).
+
+Causes of Brain Drain
+
+In Pakistan, large numbers of Bachelors of Medicine and Bachelors of Surgery students graduate annually from various medical colleges and universities, however 50-60% of these graduates migrate in search of better professional careers overseas. Most graduates in Pakistan complain of inadequate salaries despite high accountability and long hours at work (Nadir et al., 2023). This, combined with an absence of compensation for overtime duties encourages a large part of the doctor community to shift overseas. Similarly, the lack of merit in a system which is heavily influenced by politics creates insecurity amongst workers (Tahir et al., 2011). Finally, it can be argued that the primary reason for the emigration of doctors from the country is the current inadequate infrastructure of the health sector. The lack of poor career progression and growth opportunities for young doctors in Pakistan, including limited specialization options and complicated procedures for obtaining paid or unpaid study leave, has resulted in a shortage of skilled medical professionals in the country. Thus, inefficient government policies along with political and social conflicts are major contributors to the exodus of doctors from Pakistan. Askari (2008) discussed how migration of skilled workers exacerbates the issues of an already weak and struggling health sector in developing countries like Pakistan. In contrast, workers migrating to developed countries have access to stable working environments, higher salaries, opportunities for continued education, better housing, and the ability to send remittances back to their home country.
+
+Medical professionals and doctors require rigorous training, with doctors often having to work more than 80 hours per week which becomes tedious if not matched with respect, salary, and recognition. Female doctors in particular may be motivated to establish their careers abroad due to push factors such as workplace harassment, political conflicts, and inadequate salaries, as well as pull factors such as improved training and higher salaries (Talati and Pappas, 2006).
+
+Most skilled professionals express that they face a lack of sufficient opportunities to sustain themselves within the country due to an unstable labor market as well as migration prompted by issues like temporary displacements and climate change (Salik et al., 2017)
+
+Furthermore, post COVID-19, travel restrictions have eased and the demand for human resources around the world has risen. Thus, a significant number of Pakistani emigrants were motivated to either return to the destinations from where they had come to Pakistan during COVID-19 restrictions or to seek new employment opportunities elsewhere.
+
+Consequences of Brain Drain
+
+The impact of brain drain may be particularly significant in terms of the country’s development, as the demand for highly qualified professionals may end up far exceeding the available supply. Thus, developed countries harvest the effort due for the country which invests into highly skilled workers. While origin countries lose precious human capital, they also end up wasting the funds invested into the formation of the capital. Brain drain lowers skilled human capital in the origin country, ultimately leading to a decrease in productivity (IMF, 2016). Further, a fall in labor supply may result in an increase in wages, thereby lowering economic growth. Moreover, brain drain may have significant long term implications for the institutional quality in home countries. Lastly, rapid emigration of labor force may result in a demographic transition in the working age population. Due to emigration of younger population, there is a shift of working age population to older ones (IMF, 2016).
+
+Stilwell et al. (2004) examined the negative outcomes associated with doctor migration and concluded that the exodus of doctors is a major contributing factor to the inadequate healthcare services and insufficient coverage of certain diseases in origin countries. With the emigration of skilled medical professionals and doctors out of the country, there begins a dearth of capable individuals to implement and carry out medical services properly in rural and urban areas alike. Brain drain may create a ‘migration current’, which may be ultimately filled with semi-skilled ‘dispensers, physicians using traditional remedies (hakims) and spiritual healers’. Therefore, the primary consequences of brain drain on Pakistan’s health sector are inadequate patient care and a fall in quality of medical services (Nadir et al., 2023).
+
+Emigration may also provide benefits or ‘brain gain’ as argued by researchers to some extent. Due to large scale emigration, origin countries including Pakistan experience a reduction in workforce which in the short term potentially addresses unemployment in the country and improves the availability of jobs (Grogger and Hanson 2011). Moreover, investment activity by immigrants develop capital markets driving funding into the country (Burchardi et al., 2019). In terms of support in education, innovation and research, emigrants who are physicians can play a huge role in improving the underdeveloped healthcare systems in the country. Around 10-15% of physician migrants return to Pakistan. Further, remittances contribute to a large part of the gross domestic product (GDP) in many countries. The World Bank estimates officially recorded remittances at $29.87 billion in 2022 in Pakistan (World Bank Open Data, 2023). Remittances provides households in the lower income bracket some economic freedom, especially in instances of sudden shocks and allow consumption smoothing as recipients gain access to credit and are free to save for shocks (Mohapatra et al., 2009). In the past, remittances have significantly worked at bringing down poverty levels in the home country along with improving educational outcomes (Binci and Giannelli, 2018).
+
+Policies for Possibilities of Reversal of Brain Drain
+
+University enrollments and higher income have a positive influence on reversing brain drain, so it would be beneficial for authorities to establish job banks to assist fresh university graduates in finding better job opportunities across the country. However, as trivial increases in wages in the healthcare sector are not expected to have a substantial impact on brain drain reversal due to the large and ever-rising wage gap between origin and destination countries, it is necessary to examine the social, political, and economic factors contributing to the brain drain and create a secure environment. Lowering standards cannot be an option, on the other hand, local conditions should be evaluated and improved. Policy makers should prioritize making productive investment opportunities more attractive for immigrants so countries experience positive returns so as to channel resources away from less productive investments such as real estate. Similarly, citizens should also show responsibility in terms of reducing the consequences posed by brain drain by contributing their experience to origin countries with no significant costs with the help of technological advancements like telemedicine.
+
+China converted Taiwan’s brain drain into brain gain by offering good education and research opportunities to entice and retain talent in the country. By participating in the Human Genome Project, China became the only developing country to lead in scientific research (Cyranoski, 2001). By implementing specific educational programs, developing countries can create strong networks of skilled and experienced expatriates and ultimately redirect brain drain.
+
+Finally, improvement of work standards for women in their respective professions, particularly in the healthcare sector can go a long way, including flexible hours, safe transportation, and daycare facilities, along with family-friendly policies in place. Policy makers should also focus on increasing the migration pie for female migrants by providing training in skills that are in high demand in host countries such as nursing (Shah et al., 2020).
+
+Conclusion
+
+The issue of highly skilled professionals leaving developing countries is a challenging problem that poses a significant dilemma for the global community. However, brain drain in Pakistan, particularly in the healthcare sector, should be looked at closely since Pakistan has lost a significant portion of its trained workforce in proportion to its needs. Although remittances can aid in development, it is crucial to acknowledge that countries require skilled individuals to drive innovation and establish strong institutions, which are the foundation of sustainable development.Highly skilled and talented workers in Pakistan opt for migration due to factors including a lack of opportunities, weak institutions and limited research facilities. Further, a lack of a merit system, a productive working environment and lower salaries have led to emigration of medical professionals and doctors out of the country. This phenomenon of brain drain has had significant and far-reaching effects on society, including a shortage of highly qualified medical professionals, a decrease in concern for the public good, and poor returns of investment by the government into the youth of the country.
+
+Therefore, developing country governments like in Pakistan should focus on policies for ensuring availability of job opportunities, provide appropriate research facilities and ensure secure working environments and merit systems to limit brain drain out of the country. Conclusively, it is important to note that the development and successful implementation of policies relating to migration in Pakistan face significant challenges due to a lack of a significant database containing international migration statistics. Hence, for successful policy implementation maintaining such a database is crucial amongst other factors.
+
+References
+
+Afridi, F. K., Asif, M., Qazi, R., and Afridi, W. 2020. “Reversing the Brain Drain of Human Capital through China Pakistan Economic Corridor.” Journal of Business and Tourism 6 (1): 179–87. Accessed May 1, 2023. https://doi.org/10.34260/jbt.v6i1.187 .
+
+Afzal, S., Iqbal, H., and Inayay, M. 2012. “Terrorism and Extremism as a Non-Traditional Security Threat Post 9/11: Implications for Pakistan’s Security.” International Journal of Business and Social Science 3(24).
+
+Ali, A., Khalid, N., Rashid, Y., and Shahbaz, M. 2015. “Human Capital Outflow and Economic Misery: Fresh Evidence for Pakistan.” Social Indicators Research 124 (December): 747–64.
+
+Asghar, R. S., U. Firdos, and S. Ashraf. 2020. “Managing Nursing Brain Drain from Pakistan.” European Academic Research VII (January): 5231–41.
+
+Askari, S. J. 2008. “Economic Woes Cause Brain Drain”, The Nations
+
+Binci, M., and G. C. Giannelli. 2018. “Internal versus International Migration: Impacts of Remittances on Child Labor and Schooling in Vietnam.” International Migration Review 52 (1): 43–65. Accessed April 25, 2023. https://doi.org/10.1111/imre.12267 .
+
+Brugha, R., S. McAleese, P. Dicker, E. Tyrrell, S. Thomas, C. Normand, and N. Humphries. 2016. “Passing through – Reasons Why Migrant Doctors in Ireland Plan to Stay, Return Home or Migrate Onwards to New Destination Countries.” Human Resources for Health 14 (1): 35. Accessed April 30, 2023. https://doi.org/10.1186/s12960-016-0121-z .
+
+Burchardi, K. B., T. Chaney, and T. A. Hassan. 2019. “Migrants, Ancestors, and Foreign Investments.” The Review of Economic Studies 86 (4): 1448–86. Accessed May 1, 2023. https://doi.org/10.1093/restud/rdy044 .
+
+Bureau of Emigration and Overseas Employment (BEOE)- Government of Pakistan. n.d. Accessed April 26, 2023. https://beoe.gov.pk/ .
+
+Clemens, M. A., Montenegro, C. E., Pritchett, L. 2019. “The Place Premium: Bounding the Price Equivalent of Migration Barriers.” The Review of Economics and Statistics 101 (2): 201–13. https://ideas.repec.org//a/tpr/restat/v101y2019i2p201-213.html .
+
+Cyranoski, D. 2001. “Chinese Biology. A Great Leap Forward.” Nature 410 (6824): 10–12. https://doi.org/10.1038/35065246 .
+
+Dodani, S., LaPorte, R. E. 2005. “Brain Drain from Developing Countries: How Can Brain Drain Be Converted into Wisdom Gain?” Journal of the Royal Society of Medicine 98 (11): 487–91. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1275994/ .
+
+Doghri, L., Khalafalla, K. Y., Diagne, M., and Jam., A. B. 2006. “Converting brain drain into gain in Pakistan, in report on brain drain in IDB member countries: Trends and development impact.” Islamic Development Bank , occasional paper No. 12, Rabi Al-Thani 1427-Hijri.
+
+Gallup Survey. 2011. “Pakistan’s Troubled State.” https://news. gallup.com/poll/157055/pakistan-troubled-state.aspx (Accessed 20 Jan 2020)
+
+Grogger, J., and G. H. Hanson. 2011. “Income Maximization and the Selection and Sorting of International Migrants.” Journal of Development Economics 95 (1): 42–57. Accessed April 25, 2023. https://doi.org/10.1016/j.jdeveco.2010.06.003 .
+
+Hippler, J., and V. Ahmed. 2022. Global Pakistan – Pakistanʿs Role in the International System . Friedrich-Ebert-Stiftung Pakistan. Accessed May 16, 2023. https://pakistan.fes.de/e/global-pakistan-pakistan%CA%BFs-role-in-the-international-system .
+
+IMF, 2016. World Economic Outlook. Chapter 4: Spillovers from China’s Transition and from Migration.
+
+Kousar, S., F. Ahmed, and S. A. A. Bukhari. 2020. “Macroeconomic Determinants of Brain Drain in the Era of Globalization: Evidence from Pakistan.” Liberal Arts and Social Sciences International Journal (LASSIJ) 4 (2): 24–41. Accessed April 15, 2023. https://doi.org/10.47264/idea.lassij/4.2.3 .
+
+Mohapatra, S., G. Joseph, and D. Ratha. 2009. “Remittances and Natural Disasters: Ex-Post Response and Contribution to Ex-Ante Preparedness.” Environment Development and Sustainability 14 (June). https://doi.org/10.1007/s10668-011-9330-8 .
+
+Nadir, F., H. Sardar, and H. Ahmad. 2023. “Perceptions of Medical Students Regarding Brain Drain and Its Effects on Pakistan’s Socio-Medical Conditions: A Cross-Sectional Study.” Pakistan Journal of Medical Sciences 39 (2): 401–3. Accessed May 1, 2023. https://doi.org/10.12669/pjms.39.2.7139 .
+
+Najimdeen, B. A., K. Durrani, and A. Tauhidi. 2014. “Human Capital Flight: Impact and Challenges on Economy, A Case of Pakistan.” Mediterranean Journal of Social Sciences , January. Accessed May 8, 2023. https://doi.org/10.5901/mjss.2014.v5n1p43 .
+
+Salik, K., A. Qaisrani, M. Awais, and S. Mohsin Ali. 2017. “Migration Futures in Asia and Africa: Economic Opportunities and Distributional Effects – the Case of Pakistan.” https://doi.org/10.13140/RG.2.2.22393.77922 .
+
+Shah, D. N. M., M. Hameed, D. R. Amjad, and A. Shahzad. 2020. “Pakistan Migration Report 2020.” Lahore School of Economics .
+
+Stilwell, B., K. Diallo, P. Zurn, M. Vujicic, O. Adams, and M. Dal Poz. 2004. “Migration of Health-Care Workers from Developing Countries: Strategic Approaches to Its Management.” Bulletin of the World Health Organization 82 (8): 595–600. Accessed May 1, 2023. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2622931/ .
+
+Tahir, W., R. Kauser, and M. Tahir. 2011. “Brain Drain of Doctors; Causes and Consequences in Pakistan.” World Academy of Science, Engineering and Technology 75 (March): 406–12.
+
+Talati, J. J., and G. Pappas. 2006. “Migration, Medical Education, and Health Care: A View from Pakistan.” Academic Medicine: Journal of the Association of American Medical Colleges 81 (12 Suppl): S55-62. https://doi.org/10.1097/01.ACM.0000243543.99794.07 .
+
+United Nations Development Programme (UNDP). 2018. “Pakistan National Human Development Report |.” UNDP . https://www.undp.org/pakistan/publications/pakistan-national-human-development-report .
+
+World Bank Open Data. n.d. World Bank Open Data. Accessed May 18, 2023. https://data.worldbank.org .
+
+World Population Review. 2023. “Immigration by Country 2021.” Accessed May 18, 2023. https://worldpopulationreview.com/country-rankings/immigration-by-country .
+
+Zeeshan, M. and A. Sultana. 2020. “Reintegration of Returnee Migrants: A Case Study of Neo-Citizenry in Potohar Region of Pakistan.” Global Social Sciences Review 1: 73-83.

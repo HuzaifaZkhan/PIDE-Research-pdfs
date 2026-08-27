@@ -1,0 +1,167 @@
+Executive Summary
+
+Pakistan’s budget strategy usually relies on taxation and borrowing. However, it does not emphasize a durable financing framework, which requires mobilizing domestic savings, redirecting informal savings toward formal instruments, and reducing public-sector dissaving. As such, a larger share of investment must be financed from domestic resources.
+
+Pakistan’s gross domestic savings rate fell from 17.4% of GDP in 1992 to 6.4% in 2024, widening dependence on foreign savings. The Finance Bill FY2026-27 should introduce a targeted National Savings Mobilization Package built around capped tax incentives, approved long-term instruments, digital and Islamic savings products, pension reform, and credible real returns.
+
+Key Policy Messages
+
+Treat domestic savings as a macro-fiscal priority, not merely a household behaviour issue.
+
+Use the FY2026-27 Finance Bill as the entry point for a targeted National Savings Mobilization Package.
+
+Restore and redesign savings-related tax incentives for approved long-term formal instruments, with caps and minimum holding periods.
+
+Protect small and vulnerable savers. Targeted concessions may be introduced for pensioners, widows, Shuhada families, women, and first-time savers.
+
+Expand digital, Islamic, pension, and protection-linked savings products. These will redirect informal savings from cash, gold, and property into regulated channels.
+
+Reduce public-sector dissaving and crowding out. It will help mobilize savings to finance productive investment rather than recurrent fiscal gaps.
+
+Monitor progress annually through a Savings Mobilization Dashboard. It should cover savings rate, formal savings uptake, pension participation, retail Sukuk investment, public savings, and private-sector credit.
+
+1. Why Savings Should Be a Budget Priority
+
+Pakistan’s budget debate is dominated by revenue mobilization, debt servicing, development spending, and subsidy reform. These are legitimate preoccupations. However, they often overshadow a more important aspect of savings, which are too low to finance the economy’s investment needs.
+
+The relationship between domestic saving and long-run growth is well documented in the literature. Carroll and Weil (1994) argue that sustained income growth tends to increase saving, implying that a stronger savings base cannot be separated from the broader growth environment. Similarly, domestic saving rates are significantly associated with per capita income growth, financial depth, and macroeconomic stability (Loayza, Schmidt-Hebbel and Servén, 2000). Domestic savings remain an important source of financing for capital formation, particularly in economies where sustained reliance on external financing creates macroeconomic vulnerability. In developing Asia, the ability to raise domestic savings depends importantly on income levels, demographic structure, and financial-sector development (Horioka and Terada-Hagiwara, 2012). However, Pakistan is lagging behind this trajectory, given low household savings and the government’s dissaving.
+
+The life-cycle framework of Modigliani (1970) links aggregate saving to income growth, population age structure, and confidence in future returns. The low saving rate in Pakistan reflects a failure on several of these dimensions simultaneously. First, the real income growth is sluggish. Second, it is facing adverse demographic pressures. Third, there is persistent macroeconomic instability, and lastly, real returns on formal financial instruments are weak.
+
+Pakistan’s savings performance reflects long-term structural weakening. Gross domestic savings were relatively higher in the early 1990s. However, it declined very sharply, particularly after the mid-2000s. The 5-year moving average also shows a persistent downward trend, indicating that the challenge is structural rather than a one-year shock.
+
+Figure 1: Pakistan’s Savings Rate Has Declined Structurally Over Three Decades
+
+Source: Author’s calculations from World Development Indicators
+
+This policy viewpoint proposes that the upcoming budget should treat savings mobilization as a macro-fiscal priority. A loss of the savings base diminishes the ability to finance investment using its own resources. It highlights the importance of taking appropriate measures beyond revenue and of offering the National Savings Mobilization package. The objective is to move Pakistan from an externally dependent financing model to one in which domestic savings provide a stronger and more stable base for productive investment and sustainable growth.
+
+2. Pakistan: A Regional Outlier
+
+Gross domestic saving in Pakistan gradually declined from 17.4 percent of GDP in 1992 to 6.4 percent in 2024 (a period average of 10.9%), exposing the economy to recurring external financing pressures due to increasing dependence on foreign savings. During the same period, gross national savings in Bangladesh, India, and Vietnam increased sustainably and averaged 20.7%, 28.4%, and 30%. Differences in income levels among the countries alone are not enough to explain this gap. As such, many countries have experienced similar challenges in the past. Through prudent policy measures, they have been successful in breaking this trap and mobilizing savings. Given this perspective, it is critical to ensure macroeconomic stability, positive return on savings, and depth of financial systems, pension and insurance coverage, sound public finances, and the capacity to absorb household savings through financial instruments.
+
+Figure 2: Pakistan’s Savings Rate Compared with Peer Economies
+
+Source: Author’s Formation from World Development Indicators
+
+An economy with persistently low savings has serious consequences, including unsustainable investment levels and higher external financing requirements. Therefore, raising domestic savings should be treated as a top priority to ensure broader growth and macroeconomic resilience.
+
+3. Pakistan Savings Challenge
+
+The country’s low savings rate reflects weak disposable income, high inflation, and consumption. This trend is further exacerbated by the widespread informality of the economy. Citizens don’t trust in formal financial instruments due to their low or negative returns. Also, financial exclusion adversely affects savings. These factors are interdependent on each other. Low real income limits the capacity to save. Inflation reduces the incentive to save, and weak financial access keeps savings outside formal intermediation. Table 1 summarizes the constraints and their relevance to the budget agenda.
+
+Table 1: Key Constraints to Savings Mobilization in Pakistan and their Policy Relevance
+
+Determinant
+How it Affects Savings in Pakistan
+Policy Relevance
+
+Low real income and disposable surplus
+Essential spending on food, utilities, housing, transport, health and education leaves limited room for regular household saving.
+Protect purchasing power and support productivity-led income growth; avoid budget measures that disproportionately compress low- and middle-income disposable income.
+
+High inflation
+Erodes real income and reduces the value of money-denominated savings, particularly for small savers.
+Price stability is a precondition for sustained savings mobilization.
+
+Low or negative after-tax real returns
+Makes formal financial savings less attractive relative to gold, property, foreign currency and cash holdings.
+Tax treatment and product design should reward approved long-term formal savings while avoiding open-ended concessions.
+
+Consumption-dominated economic structure
+A persistently high consumption share of GDP leaves a narrow pool of domestic savings available for investment.
+Fiscal and financial policies should gradually promote planned saving and investment rather than reinforce short-term consumption dependence.
+
+Public-sector dissaving
+Persistent fiscal deficits reduce national savings, while large government borrowing absorbs financial resources that could support productive investment.
+Expenditure efficiency, credible fiscal consolidation and better use of borrowed resources are integral to savings reform.
+
+Informality and asset-based saving
+Household savings remain concentrated in cash, gold, property, committees and informal arrangements, limiting productive financial intermediation.
+Provide credible formal alternatives through retail Sukuk, regulated gold funds, REITs, digital savings and accessible National Savings products.
+
+Limited financial access and institutional trust
+Women, rural households, informal workers and small savers face access barriers, difficult onboarding and low confidence in formal products.
+Simplified Know Your Customer (KYC) requirements, digital accounts, consumer protection and product-linked financial literacy should broaden the formal savings base.
+
+Product preference and Shariah-compliance needs
+Some potential savers remain outside conventional financial channels because available products do not align with their preferences.
+Expand retail Sukuk, Islamic savings products, takaful-linked instruments and Shariah-compliant pension options.
+
+Weak pension and protection coverage
+Limited pension, insurance and health-protection coverage exposes households to shocks that can force them to liquidate savings or borrow informally.
+Strengthen voluntary pension incentives and consider capped support for approved protection-linked savings products.
+
+Demographic and dependency pressures
+High dependency and large household needs reduce current saving capacity, despite the long-term potential of Pakistan’s working-age population.
+Employment creation, skills development, women’s financial inclusion and gradual demographic transition are medium-term complements to savings reform.
+
+Source: Author’s compilation based on the literature on savings determinants,
+
+4. The Inflation-Consumption Trap
+
+Pakistan’s weakness in savings is closely linked to two reinforcing pressures: high consumption and repeated episodes of high inflation. A large share of national income is absorbed by consumption. Repeated cost push shocks further erode purchasing power and reduce the incentive to save in formal financial instruments. These two factors create an inflation-consumption trap. Households consume more to meet their basic needs and have limited capacity to save, especially when real returns on savings are weak.
+
+Figure 3: Consumption and Savings Trends in Pakistan
+
+Source: Author’s Formation from World Development Indicators
+
+Figure 4: Inflation Has Weakened the Incentive to Save, 1990–2024The Inflation–Savings Trap: Macroeconomic Instability Destroys the Will to Save
+
+Source: Author’s Formation from World Development Indicators
+
+For the upcoming budget, inflation control should also be viewed as a savings policy. Tax incentives and financial inclusion campaigns will have a limited impact unless households are confident that the real value of their savings will not decrease. Therefore, targeted protection for low and middle-income households is required to absorb shocks and implications of rising indirect taxation, utility prices, or administered prices.
+
+A savings-oriented budget should support macroeconomic stability and also encourage positive real returns on formal instruments. It also reduces any distortions that push households toward informal or speculative assets. Without breaking the inflation-consumption trap, Pakistan’s savings rate is unlikely to improve on a sustained basis.
+
+5. Public Dissaving and the Fiscal Dimension
+
+Savings in Pakistan is not only a behavioral challenge at the household level. Public dissaving affects the economy through two channels. First, fiscal deficits directly reduce national savings because the government spends more than it collects. Second, large government borrowing absorbs a significant share of domestic financial resources, leaving less room for private-sector credit and productive investment. When banks and financial institutions allocate a large share of their funds to government securities, savings are mobilized but not sufficiently channeled toward private investment and productivity growth.
+
+The upcoming budget should treat expenditure efficiency as part of the savings agenda. Fiscal consolidation must be supported by better expenditure prioritization, lower losses in public entities, improved targeted subsidies, and a gradual shift from unproductive current spending toward growth-enhancing investment. A National Savings Mobilization Package will remain incomplete unless it is accompanied by credible public-sector discipline.
+
+6. Tax Measures for Inclusion in the Finance Bill
+
+The savings agenda should have a clearly defined tax component in the Finance Bill. Pakistan’s tax system should not only mobilize revenue; it should also encourage households and firms to shift from consumption, cash holdings, gold, property, and informal arrangements toward formal, long-term savings instruments. The Income Tax Ordinance, 2001 provides the relevant legal framework, while the Finance Bill can restore, redesign, or introduce targeted provisions that support long-term formal savings[1].
+
+These measures may require amendments not only in a single section, but also in the relevant schedules, withholding provisions and definitions under the Income Tax Ordinance, 2001. The proposal should therefore be framed as a targeted tax package to restore and redesign the main savings credits. Additionally, it must protect small and vulnerable savers while aligning the First and Second Schedules with long-term formal saving objectives.
+
+Restore a targeted long-term savings tax credit
+
+The Finance Bill should focus on restoring a targeted tax credit for long-term savings. It requires reviving the policy intent of the earlier Section 62 of the Income Tax Ordinance, 2001. As such, before its omission through the Finance Act 2022, Section 62 provided tax credit for investment in shares and life insurance premiums and supported formal market-based savings. Its withdrawal occurred at a stage when formal savings already had a low base, thereby discouraging savings.
+
+A redesigned Section 62 may be introduced as a long-term savings tax credit for approved investment instruments such as mutual funds, exchange-traded funds, retail Sukuk, specified long-term deposits and other SECP/SBP-notified savings instruments. Pension contributions should remain under Section 63, while protection-linked insurance and takaful products should be covered under a redesigned Section 62A to avoid overlapping credits.
+
+Strengthen the existing voluntary pension tax credit
+
+The existing tax credit under Section 63 of the Income Tax Ordinance, 2001 should be strengthened rather than replaced. Section 63 provides a tax credit for contributions to an approved pension fund under the Voluntary Pension System framework [2] . The Finance Bill may enhance this provision for first-time pension contributors, workers below the age of 35, women, self-employed professionals, and informal-sector workers entering approved pension schemes.
+
+A temporary additional allowance for the first five years of contribution may be considered within a capped limit. This would help build early-life-saving habits and expand long-term domestic savings through the pension system, especially outside the public and formal salaried sectors.
+
+Reintroduce tax credit for health, life, and protection savings
+
+The Finance Bill should reintroduce the policy intent of the earlier Section 62A, which provided tax credit for investment in health insurance, but was omitted through the Finance Act, 2022 [3] . A revised provision may be introduced as a Health, Life, and Protection Savings Credit, covering health insurance, life insurance, family takaful, micro-insurance, and protection-linked savings products.
+
+There should be a targeted benefit for individuals and families purchasing approved protection products. This is a justified measure because health and income shocks often force households to liquidate savings. It also pushes them toward informal borrowing and reducing their essential consumption. Protection-linked savings products can build precautionary savings and reduce distress financing.
+
+Introduce lower tax rates for small and long-term savers
+
+The tax treatment of profit on debt should distinguish between large short-term passive income and small long-term savings. Profit on debt is taxed under Section 7B of the Income Tax Ordinance, 2001, with rates specified in the First Schedule [4] . Recent budget documentation and tax commentaries on the Finance Act 2025 show an increase in the tax rate on profit on debt paid by banking companies or financial institutions to 20 percent, while other cases remain at 15 percent [5] .
+
+Such taxation may support revenue, but it weakens the post-tax return for formal savers when inflation remains high. A savings-oriented Finance Bill should therefore consider a capped concessional final tax rate for individuals on profit from approved long-term savings instruments. It should be subjected to an annual profit ceiling and a minimum three-year holding period. Normal or higher rates may continue for large short-term deposits. The principle is to protect small and long-term savers without creating an open-ended concession for large passive income holders.
+
+Protect concessional treatment for vulnerable savers
+
+The vulnerable savers should be protected under the existing concessional treatment. Instruments such as Bahbood Savings Certificates, Pensioners Benefit Accounts, and Shuhada Family Welfare Accounts serve a social protection and income support role. They are designed for pensioners, widows, families of Shuhada, and other vulnerable savers. Under the Second Schedule, FBR’s Tax Expenditure Report 2024 records concessional treatment for yield or profit on Bahbood Savings Certificates and Pensioner’s Benefit Accounts [6] .
+
+The Finance Bill may consider similar capped concessions. It should be for approved women’s savings certificates, senior citizen digital savings accounts, and small saver Islamic certificates. Any extension should be subject to balance or profit ceilings. It will not only prevent leakage to high-income savers but also ensure that the concession remains a targeted social protection and savings mobilization measure.
+
+Second-stage supporting measures
+
+A comprehensive set of measures is critical, which must include approved mutual funds and exchange-traded funds, along with education savings accounts and employer-assisted savings. However, any concession should be limited and restricted to regulated financial instruments. It should be linked to a minimum holding period or a verified purpose. This will ensure that the tax system rewards long-term formal saving instead of short-term asset shifting.
+
+Avoid taxes that discourage formal financial saving
+
+A savings-oriented Finance Bill should avoid taxes that penalize formal saving. In the past, withholding or transaction taxes on banking channels have discouraged formal financial activity. It has encouraged the preference for cash. Transfers from bank accounts to approved savings instruments should not be taxed at the point of entry. Similarly, pension and mutual funds, Sukuk, insurance products, or National Savings products should be treated in the same manner.
+
+A key policy principle is to make formal saving more convenient, safe, and tax-effective than informal saving through cash, gold, and real estate. There must be certain holding periods, and only approved instruments should be involved and clawed back when necessary. With the right approach and design, a Finance Bill package would broaden the financing base. It will improve financial market depth and strengthen household resilience. Most importantly, there will be reduced dependence on foreign financing while avoiding open-ended tax breaks.

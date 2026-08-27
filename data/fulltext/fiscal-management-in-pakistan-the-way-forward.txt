@@ -1,0 +1,45 @@
+Pakistan’s economic difficulties are generally described in terms of balance of payments imbalances and insufficient foreign exchange reserves. However, the conjoint fiscal crisis which has historical roots and is further worsening, is often neglected. Because of the chronic twin deficits, which periodically erupts, Pakistan has to approach IMF for relief and stabilisation support. These programs provide emergency ward assistance for macroeconomic stabilisation but do not prescribe long term solutions. Because of these stop-gap arrangements the endemic fiscal crises remerge with even more force; which again leads to engagement with IMF on even harder conditionality. This naturally results in continually worsening fiscal positions and the obstruction of economic growth through fiscal policy interventions. As it can be seen from the figure below, the gap between revenue and expenditures is widening in each next fiscal year at an exponential rate.
+
+Source: www.sbp.org.pk
+
+In the given circumstances, budget making for Pakistan – which has always been a challenge – becomes quintessentially important. It has to set a clear direction for the economy with the goal of macro stability along with fiscal sustainability in the coming years. Despite enacting the comprehensive Public Financial Management system under the PFM ACT-2019 and vetting by parliaments of all governments across Pakistan (Federal and Provincial), optimal fiscal management unfortunately seems a far-fetched dream. The fiscal management seems to be just an accounting exercise, with complex and cross cutting statutory guidelines for public financial management (15+1 guidelines [1] ). These complex layers of rules and procedures cripples the system and obstructs the move to performance based budgeting – which would unleash the economic potential of ideal fiscal management.
+
+Besides this, there are operational problems on ground which also severely compromise the outcomes and hinder the movement towards achieving fiscal sustainability as a goal. We see it in many instances; for example, besides the public investment already having a negligible multiplier [2] the financing for it is even a bigger problem. Throw forwards for PSDP are so severe that the existing project portfolio financing would require that no project is initiated for the next 11 years and PSDP is funded by the average value (600 Billion Rs) [3] . Similarly, in other fiscal management areas such as pensions we observe multiple erupting crises, eroding the confidence in Public Financial System for the country [4] .
+
+The second important question in fiscal management is on tax policy. Ministry of Finance sets illusive tax-to-GDP targets, and FBR is required to meet these through arbitrary measures. Growth and employment are left primarily to some PSDP-funded projects. Taxation policy does not follow principles of fairness, certainty, efficiency, and convenience, leading to a policy environment that is killing transactions while pursing tax targets. Mini budgets and fragmented sales taxes have increased uncertainty. Further excessive documentation raises the cost of compliance too; PIDE estimated [5] , on average, for each business the annual compliance cost is Rs. 250,000+ irrespective of the business size. Tariff policy has strangled competition and growth, with the average effective tariff rate (11.2%) being the highest in the region. Overall higher tax rates (Anti-Growth [6] ), narrow bases, differential treatments, and exemptions hinder economic growth and the flow of revenue. PIDE Growth Commission presented The PIDE Reform Agenda for Accelerated and Sustained Growth in April 2021 which identifies that the current tax policy regime is full of complexity, excessively focused on documentation for no purpose and misses the fundamental requirement of growth [7] .
+
+Another dimension of Fiscal Management in Pakistan is the number of government entities generating the demands for grants for expenditures. It is pertinent to explore the criteria on which these demands are made. For the FY 2022-23 there were 82 federal spending entities who sought budgets against their spending needs – out of which 10 were charged (not discussed in parliament/not voted) and 4 new entities were added. There is also a list of attached departments and autonomous bodies which are provided with public money through the same spending entities. Besides these, according to the last report of the Ministry of Finance (Finance Division, GOP, 2021) there were 212 SOEs working in various sectors of the economy all across Pakistan. As per the government policy (provided in Federal Budget Books), in case of losses of State Owned Entities (SOEs) the government will provides financial support to SOEs in the form of guarantees, grants, loans, equity investments etc. if the situation so warrants. Whereas the losses of SOEs continue, provision of financial support by the government impacts fiscal operations considerably because of mounting circular debts and invoked guarantees.
+
+Finally, one way to deal with the issues described above is to develop fiscal responsibility laws – which will allow complex government operations to be dealt with in a prudent and efficient manner due to their capping and oversight principles. However, that is only possible if these laws are independently and vociferously followed. For Pakistan the situation is precarious; there exists a law, Fiscal Responsibility and Debt Limitation Act, (FRDLA) 2005, amended in 2016; but its implementation for prudent Public Debt Management is absent. Several key fiscal policy decisions are made through SROs at arbitrary times during the fiscal year, creating an atmosphere of uncertainty and perceptions about rent seeking. One such case is the FBR Tax expenditures (estimates of tax Waivers-Policy Revenue Gap). From a small value of Rs. 35 billion in 2000s it has swelled to 1.5 trillion rupees in FY 2022-23.
+
+What is the way forward? What are the opportunities to reform? There is no mathematical answer to this complex question. However, PIDE has been endeavoring to generate evidence for recommending steps to do Fiscal Policy Better . Some of the key reform areas are provided below:
+
+Making Planning Commission independent . An independent and professional entity can play a pivotal role in refocusing Fiscal Policy to facilitate growth both in short and long run.
+
+Improving the Budget Making Process. Recurrent and Development budget process has to be aligned with Public Financial Management best practices. PFM Act-2019 needs to be implemented by developing required manuals and capacity building.
+
+Prudent Debt Management . Public debt management needs to improve both institutionally as well as exploring better options for debt raising.
+
+Doing Development Better . Refocus the PSDP from infrastructure-hardware to software of the economy through implementing result based frameworks (RBM) such as the Public Investment Management (PIM) system of World Bank.
+
+Solving Public Sector Enterprises (PSEs) conundrum . Triage report of Ministry of Finance needs to be implemented after comprehensive homework.
+
+Pension Sustainability . Move toward the Defined Contribution System of Pensions, thus, making pension payouts sustainable in the long run.
+
+Taxation Policy . Pakistan urgently needs a clear and consistent tax policy that outlines the objectives, rationale, and methods of taxation. Tax policies should promote investment, economic growth, and fairness, avoiding arbitrary changes driven solely by revenue targets.
+
+The author is a Senior Research Economist at the Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+[1] Constitution of Pakistan 1973, Federal Financial Procedures, Public Finance Management Act- 2019, Fiscal Responsibility and Debt Limitation Act, (FRDLA) 2005, NFC orders; President’s Orders No. 5 dated May 2010 and No. 6 dated July 2015, Public Debt Act 1944, General Financial Rules (GFR), Federal Treasury Rules, The Rules of Business, 1973, Rules of Procedure and Conduct of Business in the National Assembly, 2007, Rules of Procedure and Conduct of Business in the Senate 2012, Public Accounts Committee, System of Financial Control and Budgeting 2006, Roles and Responsibilities for Budgeting, State Bank of Pakistan and its Agents etc
+
+[2] Doing Development Better: Analysing the PSDP, Nadeem ul Haq, The Pakistan Development Review, 59:1 (2020) pp. 139–142.
+
+[3] Reforming the Federal Public Sector Development Programme , Muhammad Ahmed Zubair, Shahid Cheema, Zeeshan Inam, Mahmood Khalid and Ahsan ul Haq Satti, PIDE working papers, No 2023/10.
+
+[4] Fiscally Sustainable Pensions in Pakistan , Mahmood Khalid, Naseem Faraz and Ayesha, PIDE working papers, No 2023/9.
+
+[5] PIDE Macroeconomics Section (2020), “Growth Inclusive Tax Policy: A Reform Proposal”, PIDE Research Report, June.
+
+[6]Higher Taxes Reduce Economic Growth: Overwhelming International Evidence, PIDE Knowledge Brief, No. 2020:14, August
+
+[7] The PIDE Reform Agenda for Accelerated and Sustained Growth by RAPID, PIDE Research Report, 2021.

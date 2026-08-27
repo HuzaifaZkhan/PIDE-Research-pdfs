@@ -1,0 +1,266 @@
+EXECUTIVE SUMMARY
+
+This Knowledge Brief examines Pakistan’s demographic transition using evidence from the Household Integrated Economic Survey (HIES) 2024–25 to assess the conditions under which Pakistan can realize a demographic dividend. With 67 per cent of the population below the age of 30 and approximately 63 million people aged 15–29, the structural potential for a dividend is present. HIES 2024-25 data reveals four interconnected constraints to realize this dividend.
+
+First, the fertility transition has effectively stalled. The Total Fertility Rate declined marginally from 3.7 to 3.6 between HIES 2018–19 and HIES 2024–25 — a change too small to alter population momentum. More significantly, fertility increased among secondary-educated women and the wealthiest quintile, complicating the standard assumption that education and income automatically drive fertility down. Second, near-universal contraceptive knowledge has not translated into use: only 38 per cent of married women use any method. The evidence points to constrained reproductive agency and limited demand for smaller families, not a supply or information failure. Third, provincial divergence is widening, with Balochistan’s TFR at 5.0 and Punjab’s at 3.3 — a gap that signals multiple simultaneous demographic transitions which a uniform national policy cannot address. Fourth, human capital deficits are severe-28 million children aged 5–16 are out of school, and 28.4% of youth aged 15-24 are not in education, employment, or training (NEET) — a structural liability that high fertility actively compounds.
+
+Pakistan’s demographic dividend is not automatic — it must be earned. Population policy must be repositioned as a macroeconomic priority, with differentiated provincial strategies, agency-centred family planning, and demographic targets embedded in national fiscal frameworks. Without this repositioning, the youth bulge will become a liability rather than an asset.
+
+Introduction
+
+Pakistan is one of the youngest countries in the world and its population age structure promises a demographic opportunity. According to the 2023 Population and Housing Census, Pakistan’s population stands at 241 million with 67% of its population below the age of 30. Within this youth bulge, around 63 million are aged between 15 and 29. When a country possesses such a large share of young population, it signals a potential dividend. However, what is far less discussed in policy circles, is the conditionality attached to that dividend.
+
+The demographic dividend is the period of accelerated and sustained economic growth due to the shifts in age structure of the population. In other words, when the share of working-age population exceeds the dependent share, demographic dividend happens. However, demographic dividend is not given, it needs to be earned by lowering fertility, expanding education particularly of women, and productive employment opportunities.
+
+This knowledge brief builds on three interconnected arguments. First, the demographic transition is incomplete and unequal — fertility decline is stalling among the poor, the rural, and the less educated, precisely where human capital deficits are most severe. Second, the youth bulge is not an automatic dividend — it is possible only when young people are educated, skilled, healthy, and productively employed. Pakistan’s current human capital indicators are poor and insufficient to realize this opportunity. Third, women’s empowerment and agency are central to the idea of demographic dividend. Women’s education alone is not enough but women’s entry into labor market along with decision making power in both reproductive and productive sphere is the key to sustainable development.
+
+1. Fertility Transition: Progress Without Momentum
+
+A marginal decline in Pakistan’s Total Fertility Rate from 3.7 in 2018–19 to 3.6 in 2024–25 signifies a stalled fertility transition. This change is too small to alter population momentum or open a meaningful demographic window in the near future. Ideal family size in Pakistan has remained remarkably stable over recent decades (approximately four children per woman) which may be a hurdle in lowering the fertility. The acceptance of a two-child family size appears to be limited, even among the women with higher level of education. Two findings from HIES 2024–25 deserve particular analytical attention, because they complicate the standard policy assumptions.
+
+1.1 The Education Paradox
+
+Education — particularly female education — is documented as the strongest predictor of fertility decline. Educated women are likely to have fewer children and are more likely to use contraception. The 2024–25 data confirm that the educational gradient in fertility holds — but with a critical exception. The data reveal that fertility among secondary-educated women has slightly increased between 2018–19 and 2024–25. This is contrary to theoretical expectations as well as the approach of the family planning programme of Pakistan, which has historically concentrated outreach on less educated, rural and high-parity women.
+
+A similar finding was documented earlier by Bashir and Guzzo (2021) who observed that contraceptive use has increased substantially among women with no formal education over the 1990–2018 period, with comparatively stagnant uptake among the educated cohort. Taken together, these findings suggest that family planning efforts should focus on the needs of the educated middle segment of Pakistan’s female population who is underserved currently and any strategy that assumes education alone will lead to fertility decline is operating on outdated evidence. A parallel anomaly that the TFR of the highest wealth quintile (Q5) increased from 1.9 to 2.3 between survey periods warrants further analysis to check whether this reflects a tempo effect, compositional change in the highest wealth quintile, or rebounding of fertility among the wealthiest. The finding suggests that declining fertility is no longer a straightforward function of rising income.
+
+Table 1: TFR by Wealth Quintile and Education Level — HIES 2024–25
+
+Category
+TFR 2018–19
+TFR 2024–25
+Change
+
+Wealth Quitile
+
+Lowest wealth quintile (Q1)
+6.1
+5.4
+Modest decline
+
+Second quintile (Q2)
+4.7
+4.4
+Modest decline
+
+Middle quintile (Q3)
+3.7
+3.6
+Stalling
+
+Fourth quintile (Q4)
+3.1
+3.0
+Stalling
+
+Highest quintile (Q5)
+1.9
+2.3
+INCREASED ↑
+
+Women’s Education
+
+No education
+4.5
+4.5
+Stalled
+
+Below Primary
+4.0
+3.6
+Modest decline
+
+Completed Primary education
+3.6
+3.6
+Stalled
+
+Lower Secondary
+3.2
+3.1
+Slow
+
+Upper Secondary education
+2.8
+2.9
+INCREASED ↑
+
+Post-secondary education
+2.2
+2.5
+INCREASED ↑
+
+Source: Pakistan Bureau of Statistics, HIES 2024–25.
+
+1.2 The Provincial Divide
+
+After the 18th Amendment, population management became a provincial subject. Contrary to the assumption that Pakistan is experiencing a single demographic transition, evidence suggests that Pakistan is going through multiple province-specific demographic transitions. Punjab, with a TFR of approximately 3.3, leads the transition whereas Balochistan, at 5.0, has not meaningfully begun one. Sindh and Khyber Pakhtunkhwa are in the middle. Intra-provincial variation in fertility rates is also pronounced, with each province facing distinct challenges related to population management.
+
+Inter and intra-provincial differences in population growth signal a structural failure. A uniform policy, no matter how well-funded, cannot address the issues of high and low fertility regions simultaneously. For instance, Balochistan requires a different intervention strategy — one that focus on basic infrastructure, female schooling, and community-level outreach — than Punjab, where the priority is preventing stall and closing intra-provincial equity gaps.
+
+Table 2: TFR and CPR by Province — HIES 2024–25
+
+Province
+TFR 2018–19
+TFR 2024–25
+Transition Status
+
+Punjab
+3.4
+3.3
+Leading— decelerating
+
+Sindh
+3.8
+3.8
+Moderate — slow
+
+Khyber Pakhtunkhwa
+4.4
+4.1
+Lagging
+
+Balochistan
+5.2
+5.0
+Transition not started
+
+National
+3.7
+3.6
+Stalled
+
+Source: Pakistan Bureau of Statistics, HIES 2024–25
+
+2. Health Gains Are Real — and Precarious
+
+Improvements in child health and family planning indicators are critical for successful fertility transition and to achieve demographic dividend. Pakistan has experienced significant improvement in maternal and child health between 2018-19 and 2024-25. The Infant Mortality Rate has declined from 60 to 47 per 1,000 live births. Similarly, pre-natal care coverage stands at 88 per cent nationally, and skilled birth attendance has reached 84 percent.
+
+However, these are national averages that hide the geographical and socioeconomic disparities. The findings from HIES 2024-25 show a strong inverse relationship between maternal education and infant mortality; in other words, the decline in IMR is disproportionately concentrated among children born to educated, urban, and higher-income mothers. Rural and poorer women remain substantially less likely to access quality antenatal care, and the 15 percentage point gap in female literacy relative to males (PBS, 2023) serves as a standing structural constraint on any further gains.
+
+Despite this progress, any further gain in health outcomes will depend on improved birth spacing and voluntary limitation of family size among high-risk, low-resource populations. Otherwise, the demographic pressure will overwhelm the health infrastructure that has generated recent progress. The health gains and the fertility stall are not separate problems — they are the same problem presenting through different indicators. Sustaining the former requires resolving the latter, which in turn depends on the conditions under which women make reproductive decisions — the subject of the following section.
+
+3. Contraceptive Use and Women’s Agency: Diagnosing the Real Constraint
+
+3.1 The Knowledge–Use Gap Is Not an Information Problem
+
+Despite almost universal knowledge about contraceptive methods, only 38% of married women are using contraception for either spacing or limiting their family size, with significant provincial and socio-economic disparities (HIES, 2024-25). The gap between knowing and using is not entirely explained by supply-side constraints such as availability and access to facilities; rather, the conditions under which women make their reproductive decisions play a significant role in the utilization of services.
+
+Three important patterns emerge from the data analysis that explain the knowledge-use gap and support the above argument. First, contraceptive uptake increases sharply with parity — meaning that family planning is adopted as a stopping mechanism after large families are already formed, not as a spacing and planning tool. This runs against the purpose and objective of effective FP programming. When contraception is used as a stopping method rather than a spacing and planning tool, it cannot meaningfully alter population momentum. Second, the abortion data collected by Sathar et al. (2025) show that the share of unintended pregnancies ending in abortion rose from 54 to 64 per cent between 2012 and 2023, with the abortion rate itself increasing by 25 per cent during the same time period. Unintended pregnancies on this scale are not a knowledge failure. This pattern shows that women are using abortion as a contraceptive method. Third, Balochistan’s CPR of 22 per cent — the lowest in the country — exists in a context where the informational gap is real, but a significant lack of decision-making power in any domain of their lives leads to non-use of contraception.
+
+3.2 The Decision-Making Evidence
+
+HIES 2024–25 provides household-level data on women’s decision-making power across multiple domains. Women’s decision making power both at individual and household level is a critical driver of demographic change. The statistics are sobering and reflects the stark reality of women’s empowerment in Pakistan. The findings again strengthen the argument that family planning is not a supply-and-awareness problem but rather the constrained women’s agency in reproductive and productive sphere.
+
+Table 3: Women’s Decision-Making by Domain —All Women Aged 15-49 Years
+
+Decision Domain
+Woman decides herself (%)
+Head Jointly with spouse (%)
+Household head decides (%)
+Head with concerned woman (%)
+Agency level
+
+Own education
+10
+30
+31
+13
+Low
+
+Own employment
+10
+32
+27
+14
+Low
+
+Own marriage
+3
+47
+24
+20
+Negligible
+
+Family planning use
+1
+68
+9
+38
+Constrained
+
+Source: Pakistan Bureau of Statistics, HIES 2024–25
+
+Only 23 per cent of women are involved in decisions about their own education. The proportion with meaningful autonomy over employment and marriage decisions is still lower. Family planning uptake is contingent on spousal approval — in a context where husbands have a greater say and social norms continue to value high fertility as an indicator of masculine status and household economic security.
+
+The demographic implications of constrained women’s agency follow directly. Contraceptive use will not increase to the levels required for fertility transition through supply expansion alone, nor through awareness campaigns directed at populations that already have near-universal knowledge. The limiting factors are structural in nature. Women’s empowerment—achieved through education, employment, and financial independence—is a necessary condition to reduce population growth.
+
+The fertility stall in Pakistan is fundamentally a women’s agency deficit. Family planning programmes that are designed around supply and awareness, rather than the conditions that allow women to exercise reproductive choice, will continue to produce the outcome that HIES 2024–25 documents: high awareness, modest uptake, and persistently high unintended pregnancy rates.
+
+4. Human Capital: The Unresolved Enabling Condition
+
+The demographic dividend literature is unequivocal on the enabling conditions: fertility decline is necessary but not sufficient. A large share of working-age population produces economic gains only when that population is educated, skilled, and healthy and above all the labor market has capacity to absorb it.
+
+In case of Pakistan, the human capital indicator of population are poor. Nearly 28 million children aged 5 to 16 remain out of school, with rural girls facing the highest exclusion rates. Approximately 40 per cent of the population aged 10 and above has no formal education. The female literacy rate is 15 percentage points below the male rate (PBS, 2023). Primary education attainment has barely changed since 1999. There is some evidence of a generational shift — younger women are better educated than their mothers — but the pace is insufficient relative to the demographic challenge (Bashir et al., 2024).
+
+The relationship between education and fertility is not abstract. Education plays a significant role in driving the demographic transition and to harness the demographic dividend. For instance, educated women marry later, have fewer children, are more likely to use contraception, have healthier children, and participate in the formal labour force at higher rates. Poor female educational outcomes are a compounding demographic cost that not only affect the women herself but the outcomes of her children.
+
+Education — particularly female education — matters, but it is not sufficient on its own to drive fertility decline. What matters more is the employment opportunities that give women real economic independence. Studies from around the world suggests that employment status per se does not reliably predict lower fertility, particularly where women’s are employed predominantly in the informal sector, agriculture, or unpaid family labor — as is the case in Pakistan (HIES 2024–25). This type of employment carry little bargaining power over household decisions. The fertility-reducing mechanism that the demographic literature identifies is not employment in isolation, but control over earnings provides the women agency in reproductive decision-making (Jejeebhoy, 1995; Upadhyay et al., 2014). Until women’s labour force participation shifts toward formal, paid work that provides genuine economic independence, employment gains will not automatically translate into fertility decline. Therefore, providing women meaningful and productive employment opportunities is the key to enhance women’s agency and decision making power that will in turn accelerate Pakistan’s fertility transition.
+
+The window of demographic dividend is still open for Pakistan, however, the critical question is whether with this high rate of population growth and poor human capital, can Pakistan reap its dividend through domestic productivity or will remain dependent on external transfers and remittances — with a population that has continued to grow faster than its human capital base.
+
+5. Limitations:
+
+The analysis presented in this Brief draws primarily on HIES 2024–25 and is subject to several data, methodological, and contextual limitations and point to areas where further research is needed.
+
+Survey instrument limitations. HIES is designed primarily as a household expenditure and income survey. Its demographic modules — covering fertility, contraceptive use, and maternal health — are secondary to its core purpose, and fertility estimates derived from it, especially at disaggregated levels, are subject to sampling variance that a dedicated demographic survey such as the PDHS is better placed to address. The anomalies between HIES 2018–19 and HIES 2024–25 — the TFR increase among women belonging to the highest income strata and the rise in fertility among secondary-educated women — are significant findings, but they require validation from other primarily fertility related survey such as with the next PDHS data.
+
+The COVID-19 inter-survey interval. The period between the two HIES rounds spans the COVID-19 pandemic and lockdowns (2020–2021). Disruptions to health service delivery — including reduced access to family planning facilities and suspension of LHW outreach— may have depressed contraceptive uptake and changed birth spacing patterns during this interval. Global evidence shows differential influence of COVID-19 on fertility: some countries saw fertility increases due to service disruption, others recorded declines associated with economic uncertainty. Pakistan likely experienced variation by province and socioeconomic group depending on lockdown severity and the availability of health services. It is therefore not possible to attribute all observed inter-survey changes to structural demographic shifts; some of this variation may reflect a COVID-19 disruption effect. Future research should account for the disruption caused by the pandemic years.
+
+Brain drain and the domestic dividend assumption. The demographic dividend thesis assumes that a large working-age population will generate economic gains domestically. However, this assumption must be viewed with caution as Bureau of Emigration and Overseas Employment (BEOE) data indicate that over 800,000 Pakistanis departed for overseas employment in 2023 alone, with a disproportionate share from educated and professionally trained segments. When educated and skilled adults emigrate, the country loses the workers most likely to drive domestic economic growth. Remittances sent home support families and ease pressure on foreign exchange reserves, but they do not replace the productivity that leaves with the workers themselves. A full understanding of Pakistan’s dividend potential would need to incorporate this outflow. That analysis lies beyond the scope of this brief; however, brain drain is noted here as a structural limitation to the dividend argument that deserves dedicated policy attention and research.
+
+Research gaps. Several questions raised by this analysis cannot be resolved within its scope: Why has fertility increased among secondary-educated women and the wealthiest quintile? Is this a survey artefact, a tempo effect, or a structural reversal? To what extent does skilled emigration reduce the domestic demographic dividend? These are important research questions that, given the macroeconomic stakes of Pakistan’s demographic trajectory, warrant prioritization in the national research agenda.
+
+6. POLICY IMPLICATIONS AND RECOMMENDATIONS
+
+The analysis supports three priority interventions. These are the minimum conditions without which other investments in human capital and economic development will be partially offset by continuing demographic pressure.
+
+Recommendation 1. Reorient Family Planning from Supply to Agency
+
+Pakistan’s family planning programme is well-designed for the problem it was originally built to solve — low awareness and limited supply. However, the family planning program does not focus on creating demand for smaller families. The programme must be redesigned around the determinants that increase the demand for family planning i.e. women’s secondary education, delayed marriage, and spousal communication. This requires embedding family planning within girls’ education programming and social protection, not alongside it. The Lady Health Worker programme — Pakistan’s most successful indigenous community health intervention, administered by the Ministry of National Health Services, Regulations and Coordination at the federal level and by provincial Primary and Secondary Healthcare departments — should be revitalized with focus on agency-building outreach rather than method distribution alone. Most importantly, family planning programming must extend to secondary-educated women, a cohort that HIES 2024–25 shows is being underserved and whose fertility has, counterintuitively, increased.
+
+Recommendation 2. Adopt Geographically-Differentiated Demographic Strategies
+
+National-level fertility indicators usually conceal the regional and socio-economic disparities. A three-child gap in total fertility rates (TFR) between the richest and poorest quintiles, alongside a two-child differential between provinces such as Punjab and Balochistan, highlights the limits of uniform policy. Therefore, spatially and socioeconomically differentiated strategies should be adopted, with particular focus on district-level heterogeneity and within-province inequality.
+
+As mentioned earlier population management is a devolved provincial mandate after 18 th amendment and implemented through provincial Population Welfare Departments. However, the federal government retains a critical coordinating and financing role. One mechanism through which this role can be operationalized is the National Finance Commission Award (NFC). If NFC transfers is linked to clearly defined demographic outcomes, it would create an incentive to provinces to prioritize population development. Key indicators may include female secondary school enrolment, contraceptive prevalence rate (CPR), median age at first marriage, and reductions in TFR. However, NFC conditionality is constitutionally contested and requires consensus among the federal and provincial governments. An alternative option could be to create a dedicated funding window within the PSDP to reward the provinces based on their demographic performance.
+
+Recommendation 3. Elevate Population Dynamics to a Macroeconomic Priority
+
+Pakistan adds approximately six million people per year — equivalent to Singapore’s entire population — to a development infrastructure that is not expanding at the same rate. This is a macroeconomic problem with demographic roots, and it must be treated as one. The Medium-Term Budgetary Framework and the URAAN Pakistan implementation matrix should include fertility rate, dependency ratio, female secondary net enrolment, and CPR as macro-critical variables that are tracked alongside GDP growth, inflation, and fiscal deficit. Population dynamics should be a standing item on the National Economic Council agenda, with annual demographic reporting presented alongside the Economic Survey. Without this repositioning, population policy will continue to be managed as a welfare programme — underfunded, under-prioritized, and episodically attended to when a census reveals what the trajectory has been for the previous decade.
+
+Conclusion
+
+Pakistan’ demographic window is not closed; it is narrowing. The findings of fertility stall, poor human capital, and the constrained women agency in both productive and reproductive sphere highlight that population issue cannot be tackled in silos instead it needs a holistic approach. All these factors reinforce each other and until and unless all these issues are dealt together, population growth will not decline. All of the above policy interventions are not novel, they require political prioritization that has so far been absent.
+
+The Bangladesh experience set an example. Bangladesh’s TFR fell from 6.0 in 1975 to 2.3 in 2022, driven by sustained investment in girls’ secondary education, community-based family planning, and female employment opportunities. It is the accumulated result of a series of choices made by Bangladesh’s governments over three decades.
+
+Pakistan’s next set of choices will determine whether the youth bulge becomes an economic asset or a fiscal and social liability. That is not a demographic prediction. It is a policy decision — one that will be made, explicitly or by default, in the upcoming budget cycle, the PSDP allocation, and the provincial development plan.
+
+References
+
+Bashir, S; Sadiq, M., Imran, W., and Lindeboom, W. (2024). Population Dynamics Overview. In Pakistan @ 2050: Demographic Change, Future Projections, and Development Opportunities . Population Council, Pakistan.
+
+Bashir, S., & Guzzo, K. (2021). Women’s Education, Spousal Agreement on Future Fertility Intentions, and Contraceptive Use in Pakistan. Studies in Family Planning, 52 (3), 281–298.
+
+Jejeebhoy, S. J. (1995). Women’s education, autonomy, and reproductive behaviour: Experience from developing countries . Clarendon Press.
+
+Pakistan Bureau of Statistics (PBS). (2023). Population and Housing Census 2023: Provisional Results. Islamabad: PBS.
+
+Pakistan Bureau of Statistics (PBS). (2025). Household Integrated Economic Survey: HIES Provincial 2024–25 Social Report. Islamabad: PBS.
+
+National Institute of Population Studies (NIPS) & ICF. (2019). Pakistan Demographic and Health Survey 2017–18. Islamabad and Rockville: NIPS and ICF.
+
+Sathar, Z., Singh, S., Shah, I.H., Niazi, M.R., Parveen, T., Mulhern, O., et al. (2025). Abortion and unintended pregnancy in Pakistan: new evidence for 2023 and trends over the past decade. BMJ Global Health.
+
+Upadhyay, U. D., Gipson, J. D., Withers, M., Lewis, S., Ciaraldi, E. J., Fraser, A., Huchko, M. J., & Prata, N. (2014). Women’s empowerment and fertility: A review of the literature. Social Science & Medicine , 115 , 111–120. https://doi.org/10.1016/j.socscimed.2014.06.014

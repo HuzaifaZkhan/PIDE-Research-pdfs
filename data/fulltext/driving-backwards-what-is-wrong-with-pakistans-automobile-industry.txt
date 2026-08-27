@@ -1,0 +1,167 @@
+PREFACE
+
+“Driving Backwards: What is Wrong with Pakistan’s Automobile Industry” is the result of a collaborative effort led by Usman Qadir, Shaaf Najib, and myself, aimed at unraveling the complexities and inefficiencies that have long plagued Pakistan’s automobile sector. The importance of the global automobile industry is undeniable, with its valuation projected to reach USD 4.36 trillion in 2024. This sector is not only essential for daily mobility but also underpins numerous ancillary industries such as steel, glass, engineering, rubber, and paint. Despite these vast potentials, Pakistan’s automobile industry has struggled to tap into these opportunities, remaining trapped in a cycle of low production, outdated technology, and widespread consumer dissatisfaction.
+
+For the past 70 years, Pakistan’s automobile policy has been misguided, providing excessive protection to the industry without fostering the development of exports. This protectionist approach has stunted growth and innovation, leading to an industry that is insulated from global competition and out of touch with international standards. Moreover, the policy dialogue in Pakistan is dominated by outdated concepts such as “localization,” “indigenization,” and “import substitution.” These terms have long been rendered obsolete by decades of research on global value chains, economic growth, and the experiences of other countries. Yet, they persist in Pakistan, often to the point of absurdity.
+
+The policy-making process itself is another area of concern. Policies are formulated in the interests of a select few, with little to no local research or public debate. Such policies are often crafted behind closed doors, without any meaningful discussion with society at large. This lack of transparency and inclusivity has contributed to the perpetuation of ineffective and outdated strategies.
+
+One glaring example of misguided policy is the longstanding ban on new car imports. For decades, there has been no local car import business, and instead, Pakistan has relied on convoluted schemes like the “baggage scheme” and inconsistent secondhand car import policies. At various times, these policies have allowed the import of three-year-old cars, five-year-old cars, and now, no secondhand cars at all can be imported. These erratic policies have only served to stifle competition and limit consumer choice.
+
+Manufacturers in Pakistan often contend that they need decades to build a position where they can export. However, this argument does not hold up under scrutiny, as many countries that started after Pakistan are now successfully exporting vehicles, often using the same manufacturers as those in Pakistan. Additionally, manufacturers frequently threaten that any disruption to their operations would destabilize the Pakistani labor market. In reality, these manufacturers employ only a small number of workers, and their departure would not significantly disturb the market. The broader car value chain, which employs a far greater number of people, has the potential to thrive if the industry were opened up to competition and innovation.
+
+To address these issues, the Pakistan Institute of Development Economics (PIDE) recommends a radical shift in policy. Specifically, PIDE proposes that the profits of automobile manufacturers be taxed at a rate of 60%. However, to incentivize exports, manufacturers should be offered a rebate of 2% for every 1% of their sales that they export. In this way, any manufacturer that exports 30% of its production could effectively become tax-free. This policy aims to push manufacturers towards greater integration into global markets, enhancing competitiveness and reducing reliance on the domestic market alone.
+
+This book is the culmination of three years of intensive research, stakeholder consultations, and conferences organized by PIDE. It is meticulously structured to provide a thorough analysis of the persistent challenges faced by the sector and to propose potential pathways for revitalizing this critical industry. The book is divided into seven chapters, each penned by experts in the field, offering a diverse range of perspectives and in-depth analyses.
+
+The initial chapters (two to five) delve into the fundamental issues that have stunted the growth of Pakistan’s automobile industry. These discussions cover the detrimental impacts of an overemphasis on localization, the ongoing challenges faced by consumers, the black market premium phenomenon known as “On Money,” and a critical review of past government policies. The subsequent chapters (six to eight) turn towards the future of mobility, exploring the potential and challenges associated with Electric Vehicles (EVs) in Pakistan. These chapters address environmental implications, the current state of the EV transition, and a comparative analysis of the costs and benefits of EVs versus Internal Combustion Engine Vehicles.
+
+Our objective with this book is to illuminate the deep-seated issues within Pakistan’s automobile industry and to stimulate discussions on actionable strategies for reform. The insights provided by the various contributors underscore the urgent need for a paradigm shift in policy and industry practices, aligning them with global advancements and consumer expectations.
+
+As editors, Usman Qadir, Shaaf Najib, and I are deeply grateful to the contributing authors for their invaluable input and to PIDE for its unwavering support of this research endeavor. We hope that this book will serve as a catalyst for meaningful change, guiding policymakers, industry stakeholders, and academics towards a more competitive, efficient, and consumer-friendly automobile industry in Pakistan.
+
+Nadeem ul Haque
+
+Vice Chancellor, PIDE
+
+CONTRIBUTORS:
+
+Usman Qadir, Senior Research Economist, PIDE
+
+Mohammad Shaaf Najib, Research Fellow, PIDE
+
+Saddam Hussein, Assistant Chief (Policy), PIDE
+
+Mohammad Armughan, Research Associate, PIDE
+
+Abid Rehman, Research Fellow, PIDE
+
+Anjeela Khurram, Lecturer, PIDE
+
+Saba Anwar, Senior Research Economist, PIDE
+
+EDITORS:
+
+Usman Qadir, Senior Research Economist, PIDE
+
+Mohammad Shaaf Najib, Research Fellow, PIDE
+
+Nadeem Ul Haque, Vice Chancellor, PIDE
+
+RESEARCH SUPPORT:
+
+Zaheen Zada Research Assistant, PIDE
+
+Composed & Designed by Mohsin Ali, Graphic Designer, PIDE
+
+Key Takeaways
+
+Chapter 2
+
+The emphasis on localization and indigenization in Pakistan’s automobile industry is outdated. The focus should shift towards integrating into Global Value Chains (GVCs) to enhance productivity, efficiency, and competitiveness, as seen in examples from South Korea, Estonia, and Vietnam.
+
+The economic drawbacks of over-reliance on localization are low production volumes, high prices, poor quality, and limited consumer choices. This has led to inefficiencies and consumer welfare losses in Pakistan’s automobile industry.
+
+There are significant transformations in the global automobile industry, like Ford’s assembly line and the Japanese quest for efficiency, which have driven the industry’s global success. These lessons are crucial for Pakistan to learn from.
+
+Pakistan’s protectionist policies have created a non-competitive environment. It suggests that the industry should be exposed to competition to drive growth and improve standards.
+
+Pakistan’s automobile industry needs transformative changes to align with global practices, which will resolve persistent inefficiencies and bottlenecks in the domestic market.
+
+Chapter 3
+
+Structural issues still persist in the automobile industry.
+
+Despite continued efforts of localization, the policy has failed.
+
+Local auto parts manufacturers produce only basic, low-tech products.
+
+Automobile assemblers depended on import of CKD/SKD kits for value added components and vehicle assembly.
+
+Policy formulation seems divorced from reality.
+
+Automobile industry and auto parts manufacturers both disintegrated from global value chain. They target only the local market and have failed to increase production to meet even local demand, let alone expand into foreign markets.
+
+In recent years, some positive changes can be seen. Number of assemblers has increased from 3 to over 10, hybrid vehicles are being introduced while companies also seem to be benefitting from favorable tax regime to introduce EVs in the country.
+
+Production and availability of vehicles still remains limited. Long delivery times, price fluctuations, arbitrary tax changes and On Money continue to haunt consumers.
+
+CBU import restrictions have unnecessarily protected companies from foreign competition and reduced consumers’ options.
+
+Chapter 4
+
+Booking culture must end. Companies must manufacture vehicles without bookings and sale through dealerships only already manufactured vehicles present at the dealership
+
+A comprehensive import framework is necessary to facilitate import of vehicles to increase competition in the automobile market and give consumers a wider range of vehicles to choose from.
+
+Chapter 5
+
+AIDEP (2007-12): Targets unmet due to global recession and poor implementation.
+
+ADP (2016-21): New market entrants, but no significant production increase; issues like delayed deliveries persisted.
+
+AIDEP (2021-26): Struggles with competition and import reliance; ambitious goals unmet.
+
+Production doesn’t increase as there is no policy affect due to three big players doing 90% of Production
+
+Localization – Import Substitution doesn’t work as Import value increased despite these three policies
+
+Policy doesn’t contribute to Supply Chain and only Limited to Africa, Afghanistan and UAE
+
+Increase in Exports- doesn’t happened as export of auto parts decreased after 2021.
+
+Pakistan’s policies lag behind countries like Brazil, Malaysia, and Thailand, which saw mix of various strategies like import substitution, export promotion, and protectionism, with mixed outcomes in terms of industry growth and technological capabilities.
+
+Chapter 6
+
+EVs offer a cleaner, greener future for Pakistan, slashing carbon emissions and reducing fossil fuel dependency.
+
+EV transition demands meticulous planning, robust infrastructure, and a comprehensive strategy to address the myriads of challenges
+
+Pakistan’s power sector needs a major upgrade to support widespread EV adoption, renewable energy is key.
+
+Managing the environmental impact of EV batteries, from production to disposal, is essential.
+
+Public awareness campaigns can drive the shift towards a sustainable, electrified future.
+
+The road ahead is complex, but with strategic foresight and collective effort, Pakistan can steer towards EV transition.
+
+Chapter 7
+
+Despite the initiation of an electric vehicle policy in 2019, almost zero progress suggests a lack of serious commitment from the government, potentially hindering the necessary support for EV integration
+
+Higher prices of electric vehicles (EVs) compared to conventional vehicles make them less accessible for the majority of the population in Pakistan, where affordability is a significant concern
+
+Economic challenges limit the government’s ability to provide subsidies for EVs, further impeding their affordability and widespread adoption
+
+Lack of a well-established charging infrastructure is a major hurdle. Without sufficient charging stations, consumers are deterred by concerns about the feasibility and convenience of regularly charging EVs
+
+The reliability and consistency of the power supply in Pakistan may undermine consumer confidence in EVs, particularly if power outages are common, raising concerns about the feasibility of regular charging
+
+Well-established preference for traditional vehicles in Pakistan’s automobile market creates cultural resistance to embracing electric vehicles, making behavioral changes challenging
+
+Concerns about the limited driving range of electric vehicles on a single charge, especially in areas with varied landscapes, contributing to range anxiety and hesitancy in adoption
+
+Pakistan heavily relies on imports for EV components, including batteries. Import-related costs, taxes, and logistical issues, make EVs attractive to consumers
+
+The substantial reliance on fossil fuels for electricity generation in Pakistan compromises the perceived environmental advantages of EVs. To bolster the environmental appeal of electric vehicles, a parallel emphasis on transitioning to cleaner and renewable energy sources is imperative.
+
+Chapter 8
+
+Comparison reveals petrol costs 40-60% higher in ICE vehicles than energy costs for EVs. It would take 10-15 years to offset upfront EV cost with savings from charging, hindering EV adoption.
+
+High upfront cost and lengthy payback period deter potential EV buyers, delaying transition.
+
+Pakistan can start with introducing EVs in public transport i.e. intra and inter city buses. This is more viable as these buses run on a pre-determined route, so provision of charging infrastructure would be comparatively easy
+
+Hybrid and plug in electric vehicles are the way to go. Transition to electric vehicles can be adopted in the long run, after initiating comprehensive and multipronged yet complementing policy tools
+
+As the energy price reaches PKR 130 per unit, charging an EV becomes more expensive than fueling an ICE vehicle. This contradicts the common belief that EVs are always cheaper to run than petrol cars.
+
+Pakistan’s infrastructure is not equipped for an immediate transition from ICEVs to EVs.
+
+The government focus must be on providing a fair playing field to EV producing companies.
+
+Consumers must have the option to choose from, as across the globe, what they deem as the best fit for their mobility.
+
+Competition among the automobile firms must be promoted, protection from foreign competition and different category vehicles such as PHEVs, HEVs and EVs must be eliminated.

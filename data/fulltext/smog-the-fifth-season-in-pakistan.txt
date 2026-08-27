@@ -1,0 +1,59 @@
+Smog, the Fifth Season in Pakistan
+
+Farah Naz and Abedullah[1]
+
+Figure 1. Environmental pollution a sources of health risk [2]
+
+____________________
+
+[1] Farah Naz and Abedullah are respectively Ph.D. Scholar and Chief of Research at PIDE
+
+[2] https://www.euro.who.int/en/health-topics/environment-and-health/air-quality/news/news/2018/5/over-half-a-million-premature-deaths-annually-in-the-european-region-attributable-to-household-and-ambient-air-pollution/infographic-air-pollution-the-silent-killer
+
+Smog (smoke+fog) is becoming a fifth season in Pakistan especially in Lahore and its surroundings. Its intensity increases since last few winters. Smog greatly reduces the visibility, slow down the daily activity, increased the probability of accidents and may lead to flight cancellations. The readings of Air quality index (AQI) helps in understanding the severity of smog Table 1.
+
+Table 1. AQI limits and pollution measurements
+
+Air pollution kills approximately 7 million people worldwide every year, of which 4.2 million deaths are due to exposure to ambient air pollution and rest are due to household exposure to smoke from dirty cook stoves and fuels (Figure 1). WHO data shows that 9 out of 10 people breathe air that exceeds WHO guideline limits containing high levels of pollutants, with low- and middle-income countries suffering from the highest exposures.
+
+Smog is composed mainly of tropospheric ozone (O3); primary particulate matter (PM) such as pollen and dust; and secondary particulate matter (PM) such as Sulphur oxides, volatile organic compounds, nitrogen oxides (NOx) and ammonia gas. The prominent causes of smog include regular pollution with fossil fuel burning with lack of pollution control technology in our vehicles, power production, and in industrial sector. Among other sources of pollution includes, burning of municipal and industrial waste, bricks kilns which again use dirty fuel such as rubber tyres, burning of crop residue and dust from construction sites such building new roads and buildings. Generally, people know the key causes of smog but the big question mark is who will control it and how to control it? And what are the steps being taken by relevant authority (if any) in order to manage and lesson it.
+
+In Pakistan the Ministry of climate change (MOCC) is concerned with climate changes at federal level while in Punjab there is “Environment Protection Department” responsible for these changes. MOCC established “Smog Control Room” in Lahore in order to monitor the health hazards associated with smog in various regions of Punjab. The room is also supposed to maintain check on AQI in Punjab especially Lahore.
+
+At the end of 2019 there were certain announcements by prime minister of Pakistan for the possible control of smog, “ Govt. announced that till the end of year 2020 Euro5 fuel would be imported while the recent fuel would be converted into Euro4. 90% pollutants could be reduced by such steps. Oil refineries to be given three years to improve and adopt modern technologies. Furthermore, negotiations are underway with electric vehicles manufacturers. The govt. would import machinery worth Rs. 30 billion to help control the stubble burning issue, moreover the govt. will convince owners of kilns to adopt modern zigzag technology. 60,000 kanal area of land had been identified for urban forestry in Lahore. To have an effective strategy, there should be monitoring centers to keep a check on the air quality, he said, Lahore had two such centers and now their number would be increased to 30 which would help give accurate data” —PM Imran Khan, November 2019
+
+But there is yet lot to do in actual terms, in Lahore the range of AQI for the second week of November 2021 ranges from 221-337 which in intensity is from “very unhealthy to hazardous” requiring a health emergency management because it may affect people at large scale (AQI, 2021). In December 2021, according to the AQI, Lahore has been ranked first in the list of polluted cities with reading as highest as 453 which is termed as extremely toxic, also the PM 2.5 crosses 300 μg/m³ which is ranked as hazardous (AQI, 2021). The poor air quality has serious health effects, aggravating the lung and heart diseases and causing respiratory effects in general population. Table 2 is projecting unhealthy air in Lahore for the month of January 2022 with three sets of readings each after 10 days.
+
+Table 2: Reading of AQI and PM 2.5 Lahore | Source: AQI (2022)
+
+There is a need to fight this environmental issue for the safer future. The relevant bodies need to actively handle the smog weather before its arrival and also there is a need to create awareness in the general public because usually people misunderstand smog as “fog. Solutions provided by WHO which are adopted by various countries in order to combat air pollution includes:
+
+Investment in energy-efficient power generation
+
+Improving domestic, industry and municipal waste management
+
+Reducing agricultural waste incineration, forest fires and certain agro-forestry activities
+
+Making greener and more compact cities with energy-efficient buildings
+
+Providing universal access to clean, affordable fuels and technologies for cooking, heating and lighting
+
+Building safe and affordable public transport systems and cycle-friendly network
+
+Additionally, there are also certain artificial yet technical measures to contest smog which are:
+
+Gas to liquid technology in fuel which is more environment friendly
+
+Usage of hydrogen fuels additive which can reduce the emission of pollutants
+
+Usage of photo-catalytic materials which can remove the pollutants from air in the presence of sunlight
+
+Air purification like smog free towers which can suck the pollutants from air and emit the clean air in the atmosphere (first such tower was installed in the Rotterdam, and the inventor claimed that the single tower can clean the 3.5 million cubic meters of the air per day) [Usman et al. 2019]
+
+Reference:
+
+Usman M, Aamir HM, Naz Iqbal HF, Arshad HA (2019). “New Techniques for the Prevention Control of Smog and Air Pollution in Pakistan”. Environment Pollution and Climate Change , 2(4), 166
+
+AQI (2021). Air Quality Index in Pakistan. https://www.iqair.com/pakistan
+
+AQI (2022). Air Quality Index in Pakistan. https://www.iqair.com/pakistan

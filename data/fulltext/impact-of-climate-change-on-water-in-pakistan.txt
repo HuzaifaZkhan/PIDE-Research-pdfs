@@ -1,0 +1,259 @@
+“The water issue is critically related to climate change. People say that carbon is the currency of climate change. Water is the teeth.” Jim Yong Kim, Former President, World Bank
+
+1. INTRODUCTION
+
+Water is the prime channel through which the impacts of climate change on the world’s ecosystems and livelihoods will be felt. Pakistan is already a water-stressed country, ranking 14 among the 17 ‘extremely high water risk’ countries.[1] Climate change in the form of rising temperatures and extreme and less predictable weather patterns are projected to affect patterns of rainfall, snowmelt, river flows, groundwater and water quality in Pakistan. This can lead to an increase in both inter- and intra-country disputes over water sharing arrangements.
+
+Over the last two decades, Pakistan has been ranked among the top 10 most vulnerable countries of the world to climate change, with 10,000 fatalities due to climate-related disasters and financial losses amounting to about $4 billion from 173 extreme weather events.[2] The country is already facing climate-related threats to water resources as is evident from the change in monsoon patterns, receding glaciers, rising temperatures and recurrence of floods and droughts. The floods of 2010, 2011 and 2012 not only incurred human cost but also economic costs, resulting in economic growth on average at a rate of 2.9 percent instead of its potential rate of 6.5 percent.[3] Prolonged droughts in Tharparkar in Sindh and Balochistan also caused loss to human life and livelihoods. Since mid of June 2022, Pakistan has been affected by worst floods caused by record monsoon rains and melting glaciers, costing the economy over US$30 billion. Over 33 million people have been affected out of total population of 222 million, and around 1,400 people have been killed. One-third of the country is under water, with over 80 districts (out of 160 districts) in the country having been officially notified as ‘calamity hit’ – 31 in Balochistan, 23 in Sindh, 17 in KP, 06 in GB and 03 in Punjab.[4] The paper aims to address the impact of climate change on water systems and people.
+
+______
+
+[1] WRI 2022.
+
+[2] Eckstein et al. 2021.
+
+[3] Saeed 2013.
+
+[4] WFP, Pakisan 2022.
+
+______
+
+MAIN SOURCES OF WATER IN PAKISTAN
+
+With 2.8 percent of the global population, Pakistan accounts for 0.5 percent of global renewable water resources.[5] In other words, with the fifth largest population in the world, Pakistan ranked 36 out of 184 countries in total renewable water resources compared to India’s rank at 8 th and Bangladesh’s at 12th in 2017.[6]
+
+Pakistan is a ‘water scarce’ country with a per capita water availability of less than 1,000 cubic metres. In 1951, Pakistan had an abundance of water with 5,260 cubic metres per capita, however, the country became ‘water vulnerable’ in 1981 with less than 2,500 cubic metres of water availability per capita to ‘water stress’ in 1991 with less than 1,700 cubic metres of water (see figure 1). By 2025, Pakistan could face droughts as its per capita water availability is going to become ‘absolutely scarce’ with less than 500 cubic metres.[7]
+
+Indus Basin accounts for 96 percent of total available freshwater resources in Pakistan and around 80 percent of the country’s freshwater originates from outside the country, making it extremely risky and vulnerable (see table 1).[8] Glacier melt , snow melt and rainfall runoff account for 10 percent, 55 percent and 35 percent of total water in the upper Indus respectively. Over 85 percent of total water in the Indus originates from the Upper Indus and is shared between Pakistan (53 percent of the total area of Indus), India (33.5 percent), China (6.7 percent) and Afghanistan (6.3 percent).[9] Stream flow in the upper Indus basin is highly seasonal: approximately 80 percent of the volume of annual stream flow in the tributaries of the upper Indus basin occurs during the summer months of mid-June to mid-September.[10]
+
+_______
+
+[5] FAO 2022.
+
+[6] FAO 2022.
+
+[7] Roberts 2017.
+
+[8] Young et al. 2019.
+
+[9] Biemans et al. 2019.
+
+[10] Mani 2021.
+
+_______
+
+Figure 1 Per capita Water Availability in Pakistan, 1951-2025
+
+Source : GOP 2017.
+
+Pakistan ranks 160 th in the ratio of water withdrawals to water resources (in 2017), performing better than 18 countries only.[11] Agriculture is the largest water consumer, followed by households and industry (see figure). More worrying is that Pakistan’s groundwater supplies, the last resort of water security, are also being rapidly depleting. NASA’s satellite data (released in 2015) of global underground water aquifers reveals that the underwater aquifer in the Indus Basin, whose rivers and tributaries constitute Pakistan’s key water resource, is the second-most stressed in the world.[12] Demand for water is on the rise, projected to reach 274 million acre-feet (MAF) by 2025 mainly due to increasing population, expanding cities and rising incomes, while supply is expected to remain stagnant at 193 MAF (143 MAF from river inflows plus 50 MAF from groundwater), resulting in a demand-supply gap of approximately 81 MAF.[13]
+
+______
+
+[11] WRI 2022.
+
+[12] NASA Global Climate Change. 2015.
+
+[13] IMF 2015.
+
+______
+
+Figure 2 Pakistan’s Water Sector Overview
+
+Sources : PIDE Staff computations, FAO 2022 and LEAD, Pakistan 2016.
+
+IMPACT OF CLIMATE CHANGE ON WATER CYCLE
+
+Climate change is not the sole factor for water crisis in Pakistan, however, it further exacerbates existing conditions, making the management of water availability and quality more difficult, and demanding new strategies for managing water resource.
+
+Climate change manifests itself primarily through changes in water cycle – the delicate balance between evaporation and precipitation. As climate changes, it alters the water cycle through an increase in temperature and increased evaporative demand, changes in the amount of rainfall and monsoon patterns, rapid melting of Himalayan glaciers, a rise in sea level, and variations in river runoff and groundwater recharge with severe consequences (see figure 3).
+
+Figure 3 Climate Change Effects on the Water Cycle
+
+Source : FAO 2017.
+
+3.1 Melting of Glaciers: As mentioned above, about two-thirds of the flow to the Indus River is ensured by the glacial and snowmelt in the upper Indus basin. With Himalayan glaciers having lost more mass since 2000 than in the entire 20 th Century, the water scarcity in the country is projected to worsen with climate change. The Indus Basin, with an expected GDP loss of US$ 5,000 billion by 2100, is among the world’s five basins where water scarcity-led GDP losses are projected to be the highest.[14]
+
+The Northern areas of the country are home to over 7,000 glaciers. An increasing temperature can cause faster melting of glaciers, resulting in glacial lake outburst floods. Over 3,000 glacial lakes have formed in Gilgit-Baltistan (GB) and Khyber Pakhtunkhwa (KP), with 33 glacial of them identified as being vulnerable to dangerous glacial lake outburst floods (GLOF). Around 7 million people in GB and KP are exposed to the risk of glacial lake-outburst floods, which typically occur in July and August, the warmest months.[15] The record-high temperature during April in the country has resulted in the melting of glaciers faster than normal; a key highway bridge in the Gilgit-Baltistan region has been swept away in flash flooding caused by glacier melt. In Pakistan, river flows are expected to increase during the first 50 years and decrease by 30-40 percent during the next 50 years. The Indus River could likely become a seasonal river in soon.
+
+_______
+
+[14] ANI 2022.
+
+[15] Abubakar 2020.
+
+_______
+
+3.2 Rising Temperature and Erratic Precipitation: Climate change will change the temperature and increase the variability in the magnitude and timing of rainfall especially during the monsoon season, resulting in lesser water storage and increased water stress.
+
+The average annual mean temperature in Pakistan increased by 0.74°C between 1961 and 2018.[16] The future projected annual temperature rise in Pakistan is significantly higher than in the world. The IPCC projects a global average temperature increase of 3.7°C (between 1986–2005 and 2081–2100) under the highest emissions pathway (RCP8.5) compared to of 5.3°C increase for Pakistan in the same scenario. The difference in the average estimate under RCP2.6 and RCP8.5 is over 3.0°C, reflecting the huge potential benefits of enhanced global emissions reductions (figure 4).
+
+______
+
+[16] Sathar and Khan 2019.
+
+______
+
+In Pakistan, both increasing and decreasing trends in rainfall have been observed over the last century. In the future, the annual mean precipitation is projected to increase in Pakistan under all emission scenarios (low to high) (see figure 5). The country has observed a shift in the summer monsoon trend that has shifted from north-east to north-west by a range of 80-100 kilometres, making an additional 25 districts of KPK and Punjab vulnerable.
+
+3.3 Extreme Weather Events (Floods and Droughts): Climate change is already making extreme weather events such as droughts and floods more intense and more frequent, and will continue to do so in the future, negatively affecting water resources and water security.
+
+In 2010, the country experienced one of the worst cases of flooding in its history as a result of exceptionally heavy monsoon rains. The event caused some 2,000 casualties and affected more than 20 million people. Other years in which the country faced severe flooding include (in decreasing order of severity) 2015, 1983, 2011, 1976, 1997, 1994, and 1992.[17] In Punjab, 48 million of Punjab’s 120 million people live in high-risk flood zones, corresponding to 38 percent of the province’s total population.[18]
+
+Similarly, Pakistan has experienced three major dry periods over the last 58 years, including 1962–66, 1968–72, and 1999–2002. At the national level, 2018 was the eighth driest year in Pakistan since 1961; the annual average rainfall was 207.2 mm, 34 percent below the normal (1981–2010) annual average value of 312.2 mm.[19] This was also the fifth consecutive year in which dry conditions prevailed in the southwest of the country (Balochistan province), with rainfall less than 62 percent of the normal amount.
+
+The frequency and intensity of droughts have also increased in Pakistan due to rising temperatures, resulting in a decrease in water tables. Drought frequency is increasing in already arid and semi-arid areas.[20]
+
+In future, the intensity of floods and droughts will increase, with a negative impact on water resources. According to the World Resource Institute, between 2010 and 2030, the number of people exposed to riverine flood risk in Pakistan is expected to increase from 1.9 million to 5.2 million, GDP loss to increase from $4.6b to $22b and the amount of urban property damaged by riverine floods is expected to increase from $1.6 billion to $9.3 billion by 2030.[21] The probability of meteorological drought is projected to increase under all emissions pathways, and with very strong increases.
+
+______
+
+[17] Sathar and Khan 2019.
+
+[18] Rentschler et al. 2022.
+
+[19] Sathar and Khan 2019.
+
+[20] Ahmed et al. 2018.
+
+[21] WRI 2020.
+
+______
+
+3.4 Sea Level Rise: The global sea level is rising at an increasing rate with a similar trend in Pakistan, partly due to massive loss from glaciers and ice melt. The country is vulnerable due to its long and densely populated coastal areas, especially Karachi, facing the threat of inundation, and the threat of saltwater intrusion for its agricultural plains and freshwater resources. The average temperature in Pakistan has increased by 0.6 0 C between 1901-2000, and the annual rise in sea level is estimated at 1.1 mm.[22] The seawater intrusion has already reduced Sindh’s farmland significantly. Figure 6 shows a projected increase in the sea level in the range of 0.3 to 0.8 metres under all emission scenarios (low to high) in coastal areas of Pakistan during the 21 st Century (figure 6).
+
+THE IMPACT OF CLIMATE CHANGE ON WATER: IMPLICATIONS FOR PEOPLE
+
+4.1 Implications for Agriculture and Food Security: Climate change affects the country’s agriculture and food security through increased temperature (resulting in an increase in crop water requirements) and changing water availability. In Pakistan, the 2010 floods destroyed 2.1 million hectares of farmland, decreasing food production and increasing wheat prices 50 percent higher than the pre-flood prices.[23] The impact will be higher on the urban poor who will pay more for food. Furthermore, global warming will increase net crop water requirements, putting stress on already scarce water resources, which will further be exacerbated by climate change. According to a study, in Pakistan, a 6 percent decline in rainfall will increase net irrigation water requirement by 29 percent.[24] According to the Global Change Impact Study Centre’s (GCISC) projections, wheat crop yield will be reduced by 3.4 to 12.5 percent in semi-arid irrigated areas including Faisalabad and Sheikhupura, and 3.8 to 14.5 percent in arid areas including Hyderabad, Badin, Bahawalpur and Multan towards the end of the current century. Additionally, rice crop yields are likely to register a fall of 12 to 22 percent in almost all rice-growing areas of the country by the end of this century because of the rising global temperatures.[25]
+
+_______
+
+[22] GOP 2015.
+
+[23] Cheema et al. 2015.
+
+[24] Spijkers 2012.
+
+[25] APP 2017.
+
+_______
+
+4.2 Implications for Human Displacement: Climate-induced human migration is already happening in Pakistan due to rising sea levels, floods, droughts and glacial melt.
+
+Low-lying coastal cities in Pakistan could be affected by coastal impacts of climate variability which can result in massive displacement of the population. In Pakistan, a rising number of people have fled the country’s coastal region in recent years to escape rising sea levels and saltwater contamination. The coastal belt of Pakistan, especially in Thatta and Badin, has seen more than 40,000 people migrating to Karachi due to extreme events like the cyclones of 1999 and 2005, seawater intrusion which has rendered up to 1.2 million acres of land infertile, and water shortages since the 1970s.[26] Entire communities from Badin, Sajiwal and Thatta districts have migrated to Karachi permanently after the cyclones and floods of 2010 and 2011.[27]
+
+A similar trend is evident in the case of floods. For instance, in the 2010 floods, 14 million people were temporarily relocated while 200,000 took shelter in aid camps. Moreover, heatwave and hot weather are expected to have much larger impacts than the cold weather in Pakistan. According to a study, between 1991 and 2012, flooding had modest to insignificant impacts, while heat stress increased the long-term migration of men to look for work elsewhere, mainly because it reduced income from farming and other sources. High temperatures affect people’s livelihoods by harming farm yield thus; when heat stress caused wheat to mature early in Pakistan in 2010, yields dropped by 13 percent.[28]
+
+In Pakistan, a study has found a strong correlation between extreme high temperatures in the summer and human migration.[29] Climate shocks impact ecological conditions in rural areas that trigger shifts in farm productivity, thus eroding the incomes of poor and marginalized cultivators. Rural households may take migratory decisions to escape the losses in rural incomes that may be aggravated by climatic stress. It has been projected that such changes are likely to be magnified by 2030 in the arid and semi-arid areas of Pakistan that are important in terms of wheat production and are home to a majority of the country’s rural population. Given the sensitivity of the wheat crop to heat stress, it is anticipated that a decline in wheat production will affect the rural poor and marginalized households across Pakistan.[30]
+
+4.3 Implications for Health: Water-borne diseases (diarrhoea, cholera, malaria and dengue fever), deaths and injuries due to disasters and malnutrition may be the most devastating consequences. In Pakistan, the incidence of infectious disease and diarrhoea increased after the 2010 floods.[31] The World Health Organization (WHO) projects that, under a high emissions scenario (RCP8.5), 46 million people in Pakistan will be at risk of contracting malaria by 2070. However, under a significant reduction in global emissions (RCP2.6), this number is projected to be around 12 million by 2070. Similarly, diarrhoeal-related deaths in Pakistan are projected to decrease significantly by 2050, but, under a high emissions scenario, the proportion of those attributable to climate change is expected to rise from 11.7 percent in 2030 to 17 percent by 2050.[32]
+
+_______
+
+[26] Sattar 2013.
+
+[27] Oxfam, Pakistan 2019.
+
+[28] Rowling 2014.
+
+[29] Mueller et al. 2014.
+
+[30] Saeed et al. 2015.
+
+[31] Hallegatte et al. 2016.
+
+[32] WHO 2015.
+
+_______
+
+CLIMATE CHANGE PLANS, INITIATIVES AND POLICIES IN PAKISTAN
+
+The Government of Pakistan has ratified all the major global conventions on climate change with the aim of climate change mitigation and adaptation. The country ratified the ‘1992 United Nations Framework Convention on Climate Change (UNFCCC)’ in 1994, the ‘1997 Kyoto Protocol to the UNFCCC’ in 2005, the ‘2015 Paris Climate Agreement to the UNFCCC’ in 2016, the ‘1985 Vienna Convention for the Protection of the Ozone Layer’ in 1992, and the ‘1987 Montreal Protocol on Substances that deplete the Ozone Layer’ in 1992.
+
+The country developed both the National Policy on Climate Change and the National Disaster Risk Reduction Policy in 2012 to ensure that climate change is mainstreamed in the economically and socially vulnerable sectors of the country. This was followed by a Framework for Implementation of the Climate Change Policy (2014-2030) in 2013 which listed priority, short-term, medium-term and long-term adaptation and mitigation actions required to be taken in various sectors. However, the climate change policy and its implementation framework need to be reviewed based on the Paris Climate Agreement and the SDGs framework.
+
+The existing water sector initiatives include National Water Policy 2018 and the Indus Water Treaty. The National Water Policy 2018 does talk about climate change, however, does not mention any guidelines to offset the effects of climate change. The Indus Water Treaty is the only treaty that governs water sharing in the Indus Basin. However, it does not address the effects of climate change on water availability. Article VII of the Treaty does provide a clause for ‘future cooperation’. There is a need to strengthen the role of institutions like the Permanent Indus Water Commission to work on the resolution of issues such as monitoring water quality, the impact of climate change and better watershed management.
+
+In 2017, Pakistan approved the Climate Change Act, which brought it among the small group of countries with climate change legislation building on the commitment made in Paris in 2015. The Act suggested the formation of three institutions: the establishment of the high-level Pakistan Climate Change Council, the full-fledged Pakistan Climate Change Authority, and the Pakistan Climate Change Fund. The establishment of these institutions is instrumental to the implementation of the Climate Change Policy, in fulfilling the country’s international climate change (mitigation) commitments, and in building the country’s resilience capacity to adapt to climate change. Effective implementation of all these initiatives requires strong linkages between the federal Ministry of Climate Change and the related ministries of food security, energy, finance, planning, industry, housing, maritime affairs and water which have not been fully institutionalized yet. Moreover, after the initiation of all the policy initiatives, the delivery of outcomes in the policy documents depends on the efficiency of provinces and their commitment to the subjects of environment and forestry, which have been devolved after the 18th Amendment to the Constitution. However, the capacity of the provinces remains limited to address these new responsibilities.
+
+CONCLUSION AND THE WAY FORWARD
+
+Pakistan needs to take a series of measures to address the issue.
+
+6.1 Increasing Water Supply through Recycling and Desalination : The policymakers need to rethink water policy by urging the recycling of wastewater as is done in Israel and Singapore based on the principle of private sector participation and optimal pricing of water. This needs to be coupled with increased investment in cost-effective brackish groundwater and seawater desalinization to improve water supply.
+
+6.2 Expand Both Local Level Surface and Groundwater Storage Capacity: We need to increase effort and investment in local water systems in both cities and rural areas to store and use rainwater to build local resilience against drought. Also, there is a need to increase efforts for groundwater recharge, local level surface-water storage, and rehabilitation of dams to regain storage capacity.
+
+6.3 Reduce Demand for Water by Improving Water Use Efficiency and Efficient Groundwater Management : Need to set efficiency standards for domestic and industrial water use in both rural and urban areas. Also, there is a need to support conservation and water efficiency practices in the farm sector. This should be supplemented by sustainable groundwater management for all uses. Redesigning urban bylaws to allow vertical construction and discouraging urban sprawl will help protect forestry, green areas and soil. This will help in the recharge of groundwater.
+
+6.4 Reforms and Governance: There is a need to fill the vacuum between policies, reforms and their implementation by devising a detailed implementation plan. The government needs to institute a major paradigm shift that promotes the more judicious use of water. This will include water infrastructure maintenance, water conservation technologies and awareness-raising. There is also a need to resolve the disconnect between provincial (water, food and agriculture, and environment) and federal (climate changes) issues through better coordination.
+
+6.5 Regional Cooperation: A region-wide institution for shared water resources should have mechanisms and processes for: the exchange of data and information; help to forge more robust water sharing treaties, especially concerning hydrological variability and climate change; and be able to address the issue of pollution and promote better flood management. This will help South Asia in holistic river basin management, making water from a source of
+
+conflict into a source of cooperation. A regional-level green fund along with a shared pool of resources for best practices for green growth as well as successful practices for community-based disaster risk reduction and social safety nets can also benefit all. Similarly, common adaptation strategies may be adopted keeping in view shared eco-systems such as glaciers, rivers, mountains and rains as well as the common interest of countries and prevention of conflict. This could also involve conducting joint studies on the extent of glacial melt, creating joint mitigation and adaptation techniques and watershed management, sharing information and improving flood-forecasting systems. A regional-level climate change mitigation strategy may include ways to unlock regional renewable energy potential.
+
+REFERENCES
+
+Abubakar, S. M. 2020. “Pakistan’s Melting Glaciers.” https://www.dandc.eu/
+
+Ahmed, K., S. Shahid, and N. Nawaz. 2018 . “Impacts of Climate Variability and Change on Seasonal Drought Characteristics of Pakistan.” Atmospheric Research 214: 364–374.
+
+ANI (Asian News International) News . 2022. “Pakistan’s Water Woes to Worsen with Climate Change. 17 May. https://www.aninews.in/
+
+APP (Associated Press of Pakistan) 2017. “Climate Change to Significantly Affect Wheat, Rice Crop Yields.” The Nation , 26 June.
+
+Biemans, H. et al. 2019. “Importance of Snow and Glacier Meltwater for Agriculture on the Indo-Gangetic Plain.” Nature Sustainability 2: 594–601.
+
+Cheema, I., S. Hunt, M. Jakobsen, M. Marzi, S. O’Leary and L. Pellerano. 2015. Citizen’s Damage Compensation Programme: Impact Evaluation Report . Oxford: Oxford Policy Management.
+
+Eckstein, D., V. Kunzel and L. Schafer. 2021. Global Climate Risk Index 2021 . Bonn: Germanwatch.
+
+FAO (Food and Agriculture Organization). 2017. “Water management for Climate-Smart Agriculture.” https://www.fao.org/
+
+FAO (Food and Agriculture Organization). 2022. FAO AQUASTAT. www.fao.org/aquastat
+
+GOP (Government of Pakistan). 2015. Pakistan National Biodiversity and Strategy Action Plan . Islamabad: Ministry of Climate Change.
+
+GOP (Government of Pakistan). Annual Report 2016-17: State of the Economy. Karachi: State Bank of Pakistan.
+
+Hallegatte, S., M. Bangalore, L. Bonzanigo, M. Fay, T. Kane, U. Narloch, J. Rozenberg, D. Treguer and A.V. Schilb. 2016. Shock Waves: Managing the Impacts of Climate Change on Poverty . Climate Change and Development Series. Washington, DC: World Bank.
+
+IMF (International Monetary Fund). 2015. Issues in Managing Water Challenges and Policy Instruments: Regional Perspectives and Case Studies . Washington, D.C.: IMF.
+
+Leadership for Environment and Development ( LEAD ) , Pakistan. 2016. Monthly Newsletter. Feb-March 2016. Islamabad: LEAD, Pakistan.
+
+Mani, M. 2021. Glaciers of the Himalayas : Climate Change, Black Carbon, and Regional Resilience. South Asia Development Forum . Washington, DC: World Bank .
+
+Mueller, V., C. Gray and K. Kosec. 2014. “Heat Stress Increases Long-term Human Migration in Rural Pakistan.” Nature Climate Change 4 (3): 182-185.
+
+NASA Global Climate Change. 2015. “Study: Third of Big Groundwater Basins in Distress.” https://www.nasa.gov/
+
+Oxfam, Pakistan. 2019. Climate Induced Migration in Sindh, Pakistan . Islamabad: Oxfam, Pakistan.
+
+Rentschler, J., M. Salhab and B.A. Jafino. 2022. “Flood Exposure and Poverty in 188 Countries.” Nat Commun 13 , 3527 (2022).
+
+Roberts, R. 2017. “Pakistan could Face Mass Droughts by 2025 as Water Level Nears ‘Absolute Scarcity’.” Independent , 15 September.
+
+Rowling, M. 2014. “Heat, not Floods, Pushes Pakistanis to Migrate: Study.” Thomson Reuters Foundation News , 4 February.
+
+Saeed, A. 2013. “ Floods have Halved Pakistan’s Economic Growth.” Thomson Reuters Foundation News , 9 September.
+
+Saeed, F., K.M. Salik and S. Ishfaq. 2015. “Climate Induced Rural to Urban Migration in Pakistan.” Pathways to Resilience in Semi-arid Economies (PRISE) Working Paper. http://prise.odi.org/
+
+Sathar, Z.A. and K. Khan (eds). 2019. Climate, Population, and Vulnerability in Pakistan: Exploring Evidence of Linkages for Adaptation. Islamabad: Population Council.
+
+Sattar, A. 2013. “Migration, Water Stress and Climatic Change in the Indus Delta: A Scoping Study.” bdro.org/
+
+Spijkers, M. A. 2012. “Implications of Climate Change on Agriculture and Food Security in South Asia.” In Climate Change and Food Security in South Asia , eds., R. Lal, M.V.M. Sivakumar, S.M.A. Faiz, A.H.M.M. Rahman and K.R. Islam. New York: Springer.
+
+WFP (World Food Program), Pakistan. 2022. WFP Pakistan Situation Report. 12 September. https://reliefweb.int/
+
+WHO (World Health Organization). 2015. “Climate and Health Country Profile – 2015 Pakistan.” http://apps.who.int/ pdf;jsessionid
+
+World Bank. 2022. “Climate Change Knowledge Portal: Pakistan.” https://climateknowledgeportal.worldbank.org/country/pakistan.
+
+WRI (World Resource Institute). 2020. “RELEASE: New Data Shows Millions of People, Trillions in Property at Risk from Flooding — But Infrastructure Investments Now Can Significantly Lower Flood Risk”. April 23, 2020. https://www.wri.org/
+
+WRI (World Resource Institute). 2022. “Aqueduct Water Risk Atlas.” https://www.wri.org/data
+
+Young, W. J., A. Anwar, T. Bhatti, E. Borgomeo, S. Davies, W. R. Garthwaite III, E. M. Gilmont, C. Leb, L. Lytton, I. Makin, and B. Saeed. 2019. Pakistan: Getting More from Water . Washington, D.C.: World Bank.

@@ -1,0 +1,235 @@
+Policy Hook
+
+Poverty in Pakistan remains one of the most debated and fluid statistics in the national discourse, as its number changes every time its definition changes. Whether measured through calories, consumption, the dollar-per-day, or multidimensional deprivation, each metric produces a different picture of who is poor. This shifting statistical foundation means that the meaning of poverty often evolves faster than the lived realities of citizens. Yet, evidence from two and a half decades of longitudinal household data shows that while poverty has declined, vulnerability continues to remain high.
+
+1.Background and Context
+
+Pakistan’s poverty measurement has undergone several methodological transitions. The official methodology followed the Food Energy Intake (FEI) method till 2010, and Cost of Basic Needs (CBN) approach was applied in 2013 by adding more non-food items in consumption basket. Later, in 2016, the Multidimensional Poverty Index (MPI) was also introduced to measure deprivation through multiple indicators (i.e., education, health, and living standards) rather than consumption alone. These evolving approaches indicate not only methodological refinement but also the political and institutional nature of poverty measurement.
+
+Pakistan has seen real improvements in opportunity and welfare whether we see poverty trends overtime or progress in education and health outcomes. It is the economic growth of a country, as supported by the human capital investment that will create economic opportunities. However, this progress cannot be declared ‘excellent’, keeping in view the boom-and-bust nature of growth, declining productivity and a host of shocks, especially the floods (Table 1).
+
+Table 1: Key Welfare Indicators by Province (in %)
+
+Indicators
+Year
+Punjab
+Sindh
+KP
+Baluchistan
+Overall
+
+Net Enrollment Rate at primary (NER)
+2004
+60
+66
+54
+57
+44
+
+2019
+70
+55
+65
+64
+64
+
+Skilled Birth Attendance
+2004
+33
+38
+26
+14
+31
+
+2019
+70
+70
+66
+52
+68
+
+Flush Toilet Access
+2004
+66
+51
+48
+23
+54
+
+2019
+89
+76
+84
+44
+83
+
+Source: Pakistan Social and Living Measurement Survey (PSLM) 2004 & 2019
+
+Poverty measurement largely relies on the Household Integrated Economic Survey (HIES), a cross-sectional data that does not provide a good insight to the poverty fluctuations at the household level over time. The Pakistan Panel Household Survey (PPHS) fills this gap as it provides poverty insights by using three rounds of same households interviewed in 2001, 2010, and 2024. The sample details are placed in Table 2. Four features are noteworthy as listed below;
+
+The 2001 round was rural in nature and households were interviewed from 16 districts.
+
+The urban households from same 16 districts were added in 2010.
+
+The sample from 14 new districts was added in 2024.
+
+A split household is a new household where at least one member of the panel household has shifted permanently to another household in same village.
+
+Only the rural sampled households are panel households in all the 3 rounds (2001, 2010 & 2024). However, the 2010 and 2024 round covers the urban panel households as well.
+
+Table 2: Sample Size (in numbers) of various rounds of PPHS
+
+Round and nature of HH
+Punjab
+Sindh
+KP
+Balochistan
+National
+
+2001 round
+1,071
+808
+447
+395
+2,721
+
+2010 round
+Panel
+893
+663
+377
+265
+2,198
+
+Split
+328
+189
+58
+27
+602
+
+Rural
+1,221
+852
+435
+292
+2,800
+
+Urban
+657
+359
+166
+160
+1,342
+
+Total
+1,878
+1,211
+601
+452
+4,142
+
+2024 round
+Panel
+1,409
+892
+418
+343
+3,062
+
+Split
+1,065
+970
+269
+216
+2,520
+
+New
+1,354
+760
+541
+384
+3,039
+
+Total
+3,828
+2,622
+1,228
+943
+8,621
+
+Source: various rounds of PPHS
+
+2. Current Poverty Situation
+
+The 2024 PPHS dataset shows that poverty rate is 27.3%; 33.3% in rural and 14.4% in urban areas. Poverty numbers largely rely on poverty line as we used CBN approach and inflated the 2018/19 poverty line by consumer price index (CPI). During 2021-2023 periods, the country faced a high double-digit inflation; if inflation rate would be around 7%, the poverty line would be around 6,139 instead of the current line used in the study (Rs. 8,142 per adult equivalent per month in 2024). This high inflation increased poverty rates by 6-7%. In other words, poverty could be 20-21% in 2024 under a modest inflation rate (Table 3). The difference between nominal poverty and inflation-adjusted poverty in 2024 underscores that macroeconomic volatility now plays a larger role in determining welfare outcomes than structural inequality alone.
+
+Table 3: Poverty Rates in 2024 (Cost of Basic Need Approach)
+
+Poverty
+Rural
+Urban
+Overall
+
+Poverty Rates
+33.3
+14.4
+27.3
+
+Poverty Rates under normal Inflation
+26.2
+9.3
+20.8
+
+Inflationary impacts on Poverty
+7.2
+5.1
+6.5
+
+Source: Estimated from PPHS 2024 Round
+
+A close look at the data on poverty levels shows that extreme poor are fewer in the country, however, a significant group of households clustered around the poverty line and they can be affected by any economic shock (positive or negative). Different policy measures are required for different groups, i.e., extreme poor needs assets to upscale their wellbeing, and vulnerable households (around poverty line) requires protective interventions to avoid shocks and falling into poverty.
+
+Table 4: Poverty rates across various Bands in 2024
+
+Band of Poverty
+Rural
+Urban
+Overall
+
+Extreme poor (<50% of poverty line)
+7.5
+1.6
+5.6
+
+Ultra poor (>=50 to <75% of poverty line)
+12.6
+5.0
+10.2
+
+Poor (>=75 to <100% of poverty line)
+13.2
+7.9
+11.5
+
+Vulnerable (>=100 to <125% of poverty line)
+11.3
+10.9
+11.2
+
+Quasi Non-Poor (>=125 to <200% of poverty line)
+24.1
+28.7
+25.5
+
+Non Poor (>=200% of poverty line)
+31.3
+46.0
+35.9
+
+Total
+100.0
+100.0
+100.0
+
+Source: Estimated from PPHS 2024 Round

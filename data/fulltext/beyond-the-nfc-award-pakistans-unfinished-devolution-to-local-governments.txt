@@ -1,0 +1,290 @@
+The passage of Pakistan’s 18 th Constitutional Amendment in 2010 was widely recognized as a landmark reform in the country’s democratic trajectory and fiscal federalism. By devolving political, administrative, and fiscal powers from the federal government to the provinces and increasing share of provinces National Finance Commission (NFC) Awards was seen as a long-overdue correction to decades of over-centralization. For the first time in Pakistan’s history, provinces were guaranteed 57.5% of the federal divisible pool, a change that many considered the strongest move of fiscal federalism since independence.
+
+This fiscal realignment was aimed to bring governance closer to the people by strengthening not just the provincial tier but also the local tier including the municipalities, town councils, and district administrations responsible for delivering essential services such as water, sanitation, primary education, and waste management. While provinces have flourished under NFC transfers, the local governments, arguably the most critical link in democratic service delivery, remain chronically underfunded and institutionally sidelined.
+
+The Devolution Plan, 2001, envisaged the setting of a Provincial Finance Commission (PFC) in each province to decide on the nature of fiscal relations between provincial and local governments. PFCs implementation from 2001 to 2007 has been considered as a golden age (Pasha, 2018)
+
+[1]. However, none of the provinces announced PFC Awards on regular basis. Sindh has so far announced four PFC Awards, Baluchistan – five, whereas Punjab has only announced three PFC awards whereas KPK has announced ten PFC Awards as presented in the Table 1. This great disequilibrium in distribution of resources resulted a hollow core in Pakistan’s federalism: a robust first and second tier, but a weak, fiscally starved third tier.
+
+Table 1: Timeline for Provincial Finance Commission (PFC) Awards
+
+Fiscal Year
+2002-03
+2003-04
+2004-05
+2005-06
+2006-07
+2007-08
+2008-09
+2009-10
+2010-11
+2011-12
+2013-14
+2014-15
+2015-16
+2016-17
+2017-18
+2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+
+Sindh
+1 st
+2 nd
+3 rd
+–
+4 th
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+Punjab
+1 st
+2 nd
+–
+–
+–
+–
+–
+–
+–
+–
+–
+3 rd
+–
+–
+–
+–
+–
+–
+–
+
+Balochistan
+1 st
+2 nd
+3 rd
+4 th
+5 th
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+KPK
+1 st
+2 nd
+3 rd
+4 th
+–
+5 th
+–
+–
+–
+–
+6 th
+7 th
+8 th
+9 th
+10 th
+–
+–
+–
+
+Sources: Provincial Finance Ministries, Provincial Assemblies
+
+Constitutional Ambiguity and Provincial Control
+
+The imbalance between provincial and local fiscal powers stems, in large part, from a structural flaw in the constitutional framework. The NFC enjoys explicit and detailed constitutional coverage under Article 160, with mandatory award cycles. The PFC, however, is only indirectly referred to under Article 140A, which obligates provinces to establish a local government system but leaves the scope, composition, and frequency of PFC awards entirely at the discretion of provincial legislatures. It recognized the local government as a legitimate tier by inserting Article 140A which states:
+
+Each Province shall, by law, establish a local government system and devolve political, administrative and financial responsibility and authori- ty to the elected representatives of the local
+
+governments.
+
+This legal ambiguity has produced a chronic pattern of delay and selective compliance. Provinces can simply postpone the formation of Provincial Finance Commissions (PFCs) without breaching any explicit constitutional timelines. Even when they do establish such commissions, mandates can be weakened by excluding key revenue sources or limiting the scope of transfers. In some cases, the law may formally require regular PFC cycles but in practice, compliance remains optional and unenforced.
+
+In the absence of predictable, formula-based transfers, provincial finance ministries have discretionary powers of local funding, disbursing resources through ad hoc grants and sub-optimal development schemes, mechanisms that consolidate political control while undermining local fiscal autonomy.
+
+The Scale of Local Exclusion — Provincial Trends
+
+Despite the 18 th Amendment’s commitment to empower local governments through fiscal devolution, the actual transfer of resources has moved in the opposite direction over the past decade. The data show that in FY12, Sindh transferred 15.7% of its provincial receipts to local governments, but by FY26 this had dropped to just 5.8%. Punjab’s share fell from 28.0% to 19.1% over the same period, while Khyber Pakhtunkhwa saw a reduction from 30.0% to 22.0%. The most severe decline occurred in Balochistan, where transfers plummeted from 5.8% to an almost negligible 0.2%.
+
+This consistent downward trend points to a steady centralization of fiscal authority at the provincial level, undermining the capacity of local governments to function as autonomous units. Reduced fiscal transfers leave local administrations dependent on provincial grants, constraining their ability to maintain infrastructure, deliver public services, and respond to local development priorities. Over time, such fiscal dependency not only weakens service delivery but also deepens regional disparities. The widening gap between constitutional intent and fiscal reality has effectively marginalized local governments, limiting their contribution to socio-economic growth and governance at the grassroots level.
+
+Sources: Provincial Finance Ministries, Planning and Development Departments, and Financial Statements from Accountant General – KP
+
+Note: Share has been computed as share of Local Government Transfers to Provincial General Revenue Receipts
+
+Baluchistan is not represented in any of the graphs due to unavailability of its Budget Documents
+
+Provincial Priorities and PFC Awards Formula
+
+Pakistan’s Provincial Finance Commission (PFC) awards, intended to guide the equitable distribution of fiscal resources between provincial and local governments, show considerable variation in both structure and intent across provinces. The table reveals significant disparities in PFC Awards across provinces, with varying criteria for resource distribution. While all provinces broadly define their divisible pool as “all revenues excluding obligatory expenditures,” their approaches differ in restrictiveness. Punjab and KP apply the simplest rule, excluding only obligatory spending, while Sindh uniquely excludes non-tax revenues (e.g., user fees, asset sales), retaining more central revenue control. Balochistan is the most restrictive, excluding major sources like GST shares, property tax, and net capital receipts, significantly shrinking the funds available to local governments and constraining grassroots fiscal space. Vertical distribution shows KPK allocating the highest share (60%) to local governments, whereas Punjab retains more funds at the provincial level (56%) with additional special grants (6.5%). Horizontal distribution criteria also differ significantly, Punjab and Baluchistan heavily prioritize population (75%) whereas Sindh incorporates infrastructure (35%), development needs (10%), and performance-based incentives (10%), and KPK includes backwardness (20%) and infrastructure lag (20%). These differences reflect distinct fiscal priorities with Sindh and KPK emphasizing equity and service delivery, while Punjab and Baluchistan favor simpler, population-driven models, potentially neglecting underdeveloped regions.
+
+Table 02: PFC Awards Criteria across Provinces (for latest PFCs only)
+
+Sindh
+Punjab
+KPK
+Baluchistan
+
+Last PFC
+2007-09
+
+(4 th PFC)
+2016
+
+(3 rd PFC)
+2020-21
+
+(10 th PFC)
+2006-09
+
+(5 th PFC)
+
+Divisible Pool
+All revenues excluding non-tax revenues and obligatory expenditures
+All revenues excluding obligatory expenditures
+All revenues excluding obligatory expenditures
+All revenues excluding:
+
+– GST (2.5% Federal+ district share)
+
+– Property tax payable
+
+– Net Capital Receipts
+
+Vertical Distribution
+
+Provincial Government
+45.0%
+56.0%
+40.0%
+56.0%
+
+Local Government
+55.0%
+37.5%
+60.0%
+44.0%
+
+Grants for Special Purposes
+–
+6.5%
+–
+–
+
+Horizontal Distribution
+
+Population
+40.0%
+75.0%
+60.0%
+75.0%
+
+Backwardness
+–
+25.0%
+20.0%
+–
+
+Expenditure Need
+–
+–
+–
+
+Cost of Service Delivery
+–
+–
+–
+
+Service Infrastructure*
+35.0%
+–
+–
+–
+
+Lag in Infrastructure**
+–
+–
+20.0%
+–
+
+Development Needs
+10.0%
+–
+–
+–
+
+Area
+5.0%
+–
+–
+25.0%
+
+Performance:
+10.0%
+–
+–
+–
+
+i. Revenue Collection (RC)
+05 .0%
+–
+–
+–
+
+ii. Primary School Enrollment
+05 .0%
+–
+–
+–
+
+Total
+100.0%
+100.0%
+100.0%
+100.0%
+
+Source: Provincial finance departments
+
+*Service Infrastructure includes inverse per capita hospital beds, inverse length of roads per km area, and inverse per capita distance from primary school
+
+**Lag in Infrastructure index derives from urban development, rural sanitation, and transport and communication .
+
+Conclusion
+
+Pakistan’s fiscal federalism remains structurally imbalanced, while the NFC has strengthened provincial autonomy, absence of PFC Awards has left local governments underfunded and subordinate to provincial bureaucracies. A meaningful path forward requires reforms on multiple fronts. Constitutional amendments to Article 140A should make PFCs mandatory, enforce a fixed three-year award cycle, and embed legally binding allocation formulas. Provincial budgets must guarantee a minimum of 25% for local governments, while granting them tax autonomy over property taxes, user fees, and other local revenue instruments.
+
+Only when fiscal democracy flows beyond the provincial tier to the street corner, the school, and the neighborhood tap will it acquire the depth and resilience necessary to meet Pakistan’s governance challenges.
+
+[1] Pasha, H. A. (2018). Growth and inequality in Pakistan. Islamabad, ISB: Friedrich-Ebert-Stiftung (FES), Pakistan Office
+
+Dr. Usama Ehsan Khan is the Head of Research at the Policy Research & Advisory Council (PRAC), Karachi.
+
+Ms. Uzma Aftab is serving as the Senior Research Associate at the Policy Research & Advisory Council (PRAC), Karachi.

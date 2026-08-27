@@ -1,0 +1,122 @@
+Background:
+
+“The Earth is what we all have in common,” said Wendell Berry, highlighting our shared duty to protect the environment. Climate change has become one of the most pressing global challenges, affecting nations worldwide. Recognizing the urgency of this issue, countries have come together to find collaborative solutions. This commitment was evident during the 29 th Conference of the Parties (COP-29) of the United Nations Framework Convention on Climate Change (UNFCCC), held in November 2024 in Baku, Azerbaijan.
+
+One of the major outcomes of COP-29 was the announcement of increased climate finance. Developed nations will provide USD 300 billion annually to assist developing countries in mitigating and adapting to climate change. This increase from the earlier USD 100 billion goal highlights the growing recognition of supporting vulnerable nations (UNFCCC, 2024). However, it is still USD one trillion less than the finance required.
+
+This enhanced financial assistance will be extended to developing nations through various channels, including carbon markets. Carbon credits have emerged as a vital mechanism within the compliance market, allowing countries and corporations struggling to meet their emission reduction targets to purchase credits from others. This system not only facilitates global emission reductions but also provides an economic incentive for nations to invest in green projects (Politico, 2024).
+
+By embracing renewable energy and carbon credit mechanisms, Pakistan has an opportunity to transform its approach to climate action. Further, the country can turn environmental challenges into economic opportunities, ensuring a sustainable future for its citizens. Yet we don’t know the exact potential of carbon credits. Here we try to understand and estimate the approximate potential for carbon credits that can be extracted from electricity production through renewable energy in Pakistan.
+
+What are Carbon Credits: an overview
+
+A carbon credit is a tradable certificate representing the right to emit. For example, one metric ton of CO₂ emissions. These credits are generated through activities that reduce, avoid, or sequester emissions, such as renewable energy projects, reforestation, or energy efficiency initiatives.
+
+Article 6 of the Paris Agreement 2015 permits nations to work together to help others meet their climate objectives by exchanging carbon credits obtained via cutting GHG emissions. Article 6.2 allows cross-border trade of carbon credits. However, operationalizing carbon credits involves establishing a framework for quantifying, verifying, and certifying emissions reductions, as well as creating markets where these credits can be traded. For instance, compliance markets, governed by regulatory schemes, and voluntary markets, driven by corporate sustainability goals, serve as platforms for carbon credit transactions (World Bank, 2021; Gold Standard, 2020).
+
+Success stories from other developing nations demonstrate the potential of carbon credits. Ghana, for example, implemented climate-smart cocoa farming practices, reducing nearly one million tons of carbon emissions. These efforts earned Ghana USD 4.8 million in carbon credit payments between June and December 2019, with an additional USD 45 million anticipated for 2024 (World Bank, 2023). Likewise, Thailand’s community forest conservation initiatives have supported local livelihoods and preserved natural resources while generating substantial carbon credits. Thailand’s programs aim to sequester up to 500,000 tons of CO 2 annually, combining environmental conservation with economic gains (World Economic Forum, 2023).
+
+Pakistan and Carbon Credit Markets:
+
+Pakistan has yet to fully tap into the potential of carbon credits, although the policy guidelines for trading in the carbon market have been announced by the government recently. However, the exact potential that can be extracted through these markets is unidentified. Challenges such as inadequate verification systems and limited alignment with international standards can hinder its participation. Therefore, addressing these issues is critical for unlocking the country’s ability to engage effectively in compliance and voluntary carbon markets.
+
+Pakistan holds immense potential to benefit from carbon credits, particularly through renewable energy development. With abundant solar resources, Pakistan is well-positioned to transition towards a low-carbon economy. By investing in solar energy, the country could significantly reduce its greenhouse gas emissions and generate carbon credits for sale in the international market. This dual benefit offers an opportunity to address environmental challenges while creating a new revenue stream (Muhammadi et al., 2024).
+
+The Status of Renewable Energy in Pakistan
+
+Clean energy is energy derived from renewable, sustainable sources that have minimal impact on the environment and produce less GHG emissions during generation (IRENA, 2021). Renewable energy is the opportunity for Pakistan to reduce carbon emissions, lower electricity costs, alleviate power shortages, and enable the sale of Certified Emission Reductions (CERs) in the international market. According to NEPRA, currently, only 4.58% of total electricity generation is coming from renewables, highlighting substantial room for growth in this sector (NEPRA, 2023). Moreover, electricity generation from renewable energy sources including solar and wind is five times cheaper than other electricity generation methods in Pakistan (Shahid et al., 2020).
+
+Solar Energy Potential in Pakistan
+
+Pakistan experiences diverse weather conditions, providing ample opportunities during the summer to harness solar energy for electricity production, aligning with global trends in solar utilization. Pakistan possesses abundant solar irradiation, with a daily average ranging from 4.5 to 5 kWh/m2, offering a substantial opportunity for solar energy utilization (Khan et al. 2019). The solar energy potential in Pakistan is over 100,000 MW annually, particularly in the Sunny Belt regions (Muhammadi et al. 2024). With the ongoing initiatives and heightened research and development in renewable energy, Pakistan’s energy mix is expected to shift towards greater reliance on solar energy in the future. This transition will lessen the country’s dependence on imported energy and reduce carbon emissions into the environment (Kamran, M. 2018).
+
+Net Metering in Pakistan
+
+The integration of net metering and renewable energy into Pakistan’s energy market can yield several economic benefits, including enhanced stability, reduced production costs, and alleviated fiscal deficits (Malik et al., 2018). Net metering is crucial for harnessing solar potential which consequently assists in estimating emission reduction/avoidance. The current count of net metering consumers in Pakistan stands at 56,427, with these consumers collectively exporting 481,863 megawatt hours of electricity to the national grid (NEPRA, 2023).
+
+Source: State of Industry Report 2023
+
+The distribution of net metering users among different electricity distribution companies (DISCOs) is shown in Figure 1. Lahore and Islamabad stand out with the most customers. The concentration of net metering users in these cities is also influenced by the accessibility of three-phase connections. Larger net metering systems require these connections, which are more prevalent in metropolitan locations like Islamabad and Lahore. These cities become more appealing to those looking to gain from net metering agreements. Usually, customers have more opportunities to use their own generated power when needed and to export excess electricity to the grid in locations where power outages occur less frequently. This can cause relatively less load shedding in certain cities as compared to others.
+
+The distribution of solar energy trade within the country, for example, exported and imported units across different sectors such as commercial, industrial, agricultural, and household users are shown in Figure 2. Commercial, industrial, and household users account for the majority of the share, while agricultural net metering consumers make up the smallest portion. This discrepancy is primarily due to the agricultural sector’s reliance on off-grid solar power, as most farmers are not connected to the national grid.
+
+Source: NEPRA, 2023
+
+For better carbon credit valuation for solar energy, it is necessary to connect agricultural consumers with a national grid system. This could unlock additional potential for carbon credit generation. The agricultural users can be attracted through different incentives.
+
+Valuing Carbon Credits for Solar Energy
+
+It is a prerequisite to estimate the difference in emissions between the source of electricity generation such as from a renewable source (Like solar or wind) and a typical grid-based power source (Like Thermal). To estimate carbon credits for renewable energy, we need to calculate the emissions avoided equaling one carbon credit. This calculation usually involves using a recognized carbon standard and its specific emission factors. The exact cost or price for emission avoided varies depending on different factors such size of the intervention project, location, and incentives from the government.
+
+The Sindh Forest Department pioneered the nation’s foray into carbon credit markets. As the sole seller of carbon credits in Pakistan, this project has generated a commendable 3.1 million carbon credits, fetching an impressive USD 40 million (CDPI, 2023; Kunbhar, 2023). The average price of USD 12.90 per carbon credit, extracted from above above-discussed project can be a base for the estimation of carbon credit from renewable energy. This price may not reflect the present market dynamics in Pakistan precisely. However, there is another case where the IMF has suggested introducing a carbon tax of USD 25 to 75 per tonne of CO2e. This means one tonne of emissions value varies from USD 25 to 75. This can also be used as a base to estimate the total potential of emissions avoided through solar energy. We utilized both of the cases for estimating the total potential revenue from solar energy.
+
+Potential Revenue for Solar Energy through Carbon Credits:
+
+Net metering consumers, collectively export 481,863 MWh of electricity to the national grid (NEPRA, 2023). As we know solar energy is less emission-intensive so here we estimate the total emissions avoided and the value of those emissions. Table 1 present the detail on emission avoided through solar energy.
+
+Table 1: Emissions Avoided through Solar Energy
+
+Source of Electricity
+Emission Rate (Tonne per MWh
+Total Emission (Tonnes of CO2e)
+Emission Avoided
+
+Thermal
+1.0
+481863
+N/a
+
+Solar
+0.0125
+6023
+475840
+
+Considering an emission rate of 0.0125 tons of carbon emissions per MWh for electricity generated, producing 6023 tons of CO2 emissions. If the same amount of electricity was generated through thermal sources, it would have an emission rate of 1 ton per MWh, and it would generate 481,863 tons of CO2e.
+
+The difference of emissions between thermal and solar sources is 475,840 tons of CO2e.
+
+The total value of carbon credits using the average price of USD 12.90 per ton will be approximately USD 6.1 million.
+
+Assuming that net metering constitutes only 40% of the total solar energy generation, the remaining 60% is off-grid, which will become 1,204,657 MWh. The worth of this 60% off-grid renewable energy generation will be approximately USD 15.35 million.
+
+By combining the value of carbon credits from both net metering and off-grid solar production, the total worth of electricity generated by renewable sources is approximately USD 21.49 million, and this sector is expanding indicating much bigger potential for carbon credits.
+
+If we consider the lowest suggested tax by the IMF as a base value for the emissions, the size of potential revenue will be almost double around USD 43 million.
+
+Conclusion:
+
+Transitioning to clean energy sources presents a promising avenue for Pakistan to both mitigate carbon emissions and strengthen its economic prospects. By leveraging solar energy sources and participating in carbon credit markets, Pakistan can not only earn revenue but also significantly reduce its carbon footprint. The potential revenue from the current renewable energy production in Pakistan is about USD 21.5 to 43 million. Expanding solar energy generation would amplify these benefits significantly. If Pakistan were to annually increase its renewable energy capacity by an amount equal to the current level, the country could potentially secure carbon credits worth USD 21.5 to 43 million each year, a fundamental aspect of Pakistan’s energy transition for a greener and sustainable future and ensuring a better tomorrow for future generations.
+
+References
+
+Agreement, P. (2015). Paris agreement. In report of the conference of the parties to the United Nations framework convention on climate change (21st session, 2015: Paris).
+
+Gold Standard. (2020). What is a Carbon Credit? . Gold Standard Foundation. Retrieved from https://www.goldstandard.org/
+
+Iftikhar, M. N., Justice, J. B., & Audretsch, D. B (2020). Urban Studies and Entrepreneurship (Chapter 12). Springer International Publishing.
+
+International Renewable Energy Agency (IREA). (2021). What is renewable energy?
+
+Kamran, M. (2018). Current status and future success of renewable energy in Pakistan. Renewable and Sustainable Energy Reviews, 82, 609-617.
+
+Khan, M. S., & Adil, M (2019). Review of Net Metering Techniques for Low Income Communities.
+
+Kunbhar, Z. (2023). Pakistan’s mangrove carbon credit sales hit USD 40mn, boosts target to USD 12bn by 2075. Arab News.
+
+Malik, S., Qasim, M., & Saeed, H. (2018). Green finance in Pakistan: Barriers and solutions. ADBI Working Paper.
+
+Muhammadi, A., Wasib, M., Muhammadi, S., Ahmed, S. R., Lahori, A. H., Vambol, S., & Trush, O. (2024). Solar Energy Potential in Pakistan: A Review. Proceedings of the Pakistan Academy of Sciences: Life and Environmental Sciences, 61(1), 1-10.
+
+NEPRA (2023). State of Industry Report, 2023 by National Electric Power Regulatory Authority (NEPRA).
+
+Politico. (2024). COP29 Climate Summit Approves Divisive USD 300 Billion Deal.
+
+Shahid, M., Ullah, K., Imran, K., Mahmood, I., & Mahmood, A. (2020). Electricity supply pathways based on renewable resources: A sustainable energy future for Pakistan. Journal of Cleaner Production, 263, 121511.
+
+United Nations Framework Convention on Climate Change. (2024). COP29 Outcomes: Climate Finance Commitments
+
+World Bank, (2021). State and Trends of Carbon Pricing 2021 . Washington, DC: World Bank.
+
+World Bank, (2023). In Ghana, Sustainable Cocoa-Forest Practices Yield Carbon Credits.
+
+World Economic Forum, (2023). How carbon credits can tackle poverty & biodiversity loss.

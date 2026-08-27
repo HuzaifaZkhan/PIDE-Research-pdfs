@@ -1,0 +1,23 @@
+HEADLINES
+
+Mobile phone Manufacturing Policy 2020 has failed to achieve its most of targets of localization, bringing in FDI and Export to Africa.
+
+The idea of Import substitution has failed in case of Mobile phone assembling, just like all other Import substitution policies.
+
+One of the markets with the fastest-growing rates of cell phone use is Pakistan. The Pakistan Bureau of Statistics (PBS) reports that from USD 28 million in 2019 to USD 2 billion in 2020, the import of cell phones rose by 51%. The Mobile Phone Manufacturing Policy 2020 was created by the Pakistani government in response to the rising demand for cell phones. It offers producers of mobile devices favorable tariffs and non-tariff measures to encourage local manufacturing while addressing their concerns. This case demonstrates the critical importance of balancing import substitution with the development of a strong domestic market. For Pakistan and other emerging economies, it is essential to foster domestic commerce to create a platform for competitive exports. Without this, policies risk becoming mercantilist, trapping industries in low-value production that cannot scale for global success. By June 2023, 49% localization is the goal established by this policy, with 10% localization in motherboards and batteries included. To support Pakistan in maintaining strong development over an extended period, the policy’s primary goals are job creation, import substitution of value-added engineering items, and export diversification and enhancement. If the mobile manufacturing sector barriers are removed, the nation can participate in international value chains.
+
+PIDE’S VIEW ON IMPORT SUBSTITUTION POLICY AND DOMESTIC COMMERCE
+
+Both the PIDE Reform Manifesto[1] Economic Policy and the study on domestic commerce, particularly focusing on mobile phone manufacturing, identify serious deficiencies in Pakistan’s economic policy, such as excessive reliance on import substitution and over-regulation. The policy for mobile phone manufacturing aimed to promote local production by reducing imports but failed to achieve the goals of localization, export growth, and job creation. This reflects broader structural problems highlighted in the PIDE Reform Manifesto, which criticizes Pakistan’s continued dependence on protectionist policies and government interference in the market[2]. In both cases, policies intended to protect domestic industries, such as tariffs on imported goods, fail to foster a competitive and innovative economy. They argue that overly restrictive government policies and regulations create a “permission economy,” leading to high costs and significant restrictions on economic activities. Similarly, the study on domestic commerce emphasizes how unnecessary bureaucratic obstacles like no-objection certificates and letters of credit deter both foreign and local investment, limiting innovation and market growth.
+
+Both the Reform Manifesto and the domestic commerce study stress the importance of investment in R&D and creating an environment that fosters innovation. The Reform Manifesto advocates for replacing outdated policies with a market-oriented economy, embracing international competition, and harnessing national talent through R&D[3]. This is reflected in the mobile phone case study, which shows that without substantial investment in technology and localization of key components, the industry remains stuck in low-value production reliant on imported parts. Both documents also stress the need to learn from international examples like Vietnam, which successfully used trade liberalization, deregulation, and market competitiveness to become a global manufacturing hub. By reducing bureaucratic barriers[4], promoting innovation, and integrating into global value chains, both the PIDE Reform Manifesto and the domestic commerce study argue that Pakistan can overcome its current economic challenges and unlock its potential for sustained growth.
+
+[1] PIDE Reform Manifesto: https://pide.org.pk/research/pide-reform-manifesto-transforming-economy-and-society/
+
+[2] Haque, N.U., Qasim, A.W., & Khawaja, I (2022). PIDE Sludge Audit Volume I. Islamabad: Pakistan Institute of Development Economics.
+
+Haque, N.U., Qasim, A.W., & Khan, F.J (2023). PIDE Sludge Audit Volume II. Islamabad: Pakistan Institute of Development Economics.
+
+[3] Unrevealing the State of Engineering Industry Phase I (2023). https://pide.org.pk/research/unraveling-state-of-engineering-industry/
+
+[4] Haque, N.U. (2007). Entrepreneurship in Pakistan. Microeconomic Working Papers 22190. Canberra: East Asian Bureau of Economic Research.

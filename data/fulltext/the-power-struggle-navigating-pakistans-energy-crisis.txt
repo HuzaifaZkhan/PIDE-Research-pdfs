@@ -1,0 +1,67 @@
+Energy crisis, rising tariffs, IPPs, capacity payments! These words appear in Pakistani newspapers daily, highlighting potential policy changes and their profound impact on citizens’ daily lives.
+
+The capacity payments of 2.1 trillion required consumers to pay PKR 17.31 per kWh as capacity charges in FY2025. This has sparked a heated debate about the dollar-indexed capacity payments that are part of the take-or-pay contractual agreements between IPPs and the government.
+
+Following a 17.6% increase in the electricity base tariff for FY2025, the cost of electricity per unit for residential consumers now ranges from PKR 6.76 (the lifeline in the protected category) to PKR 48.84 (the last slab in the unprotected category).
+
+Consumers’ difficulties have escalated, and more so due to a corresponding increase in taxes and surcharges in electricity bills.
+
+Fuel cost adjustments and quarterly adjustments will further financially strain consumers, who are already struggling with inflated electricity bills. Moreover, it is proven that when consumer-end tariffs go up, so do system inefficiencies and, consequently, financial losses.
+
+The recent price increases also reflect Pakistan’s energy mix, with 44% of projected generation coming from thermal energy, a major chunk of which is imported. Pakistan’s electricity tariffs have also been raised to generate extra revenue needed to offset imported fuel costs, among other reasons.
+
+To reduce reliance on imported fuels and achieve the target of reducing its projected emissions by 50% by 2030, the country is planning to shift to 60% renewable energy by 2030 and increase reliance on indigenous resources.
+
+Multiple alternative solutions have been suggested to offer economic relief, energy security, and achieve climate goals.
+
+Besides the widely discussed solar, wind, hydro, and nuclear as clean energy sources, green hydrogen is another noteworthy alternative often discussed. Green hydrogen is produced through electrolysis—splitting water into hydrogen and oxygen using renewable sources. Its versatile nature allows for cross-integration across various sectors.
+
+However, concerns about feasibility and cost-effectiveness overshadow the potential benefits of large-scale green hydrogen adoption.
+
+Although it is promoted as a sustainable, zero-carbon power source, its carbon footprint is substantial at the production, storage, and transportation levels. A recent study found the environmental costs of green hydrogen from solar PV to be $3-$7 kg per CO2 per H2.
+
+Although one green hydrogen project was announced in 2021, green hydrogen is not a viable power source for Pakistan due to high operational costs, infrastructure requirements, emissions, conversion losses, lack of infrastructure, storage and transportation issues, technical expertise, and water scarcity. This option would increase the burden of capacity payments and have a carbon footprint.
+
+Solar PV can be a key player in securing Pakistan’s energy future by reducing reliance on imported fuels. Apart from smaller installations, the development of solar power plants started in Pakistan with the introduction of the upfront tariff for solar PV plants in 2015.
+
+In FY2023, six solar IPPs with an average plant factor of 18% generated electricity for the grid. All these plants are under a 25 to 30-year long-term agreement. The upfront tariff for all these plants (except for Atlas Solar) is very high and rather uncompetitive.
+
+As per NEPRA tariff projections for FY2025, the projected power purchase price (PPP) for solar IPPs is PKR 37.18/ kWh, much higher than the average PPP of PKR 27/ kWh. Adding more solar IPP in the future may not relieve consumers but add to the capacity payment burden.
+
+Likewise, about 36 Wind IPPs are currently commissioned. Due to its high upfront tariff, the projected power purchase price for WPP is also very high (PKR 36.93). The existing transmission constraints further complicate matters. We are unable to fully utilize existing wind power potential fully, increasing financial costs for consumers.
+
+Pakistan currently has excess capacity and plans to add over 10,000 MW more by 2034 (IGCEP-2024), with construction underway for several hydro and one large nuclear power plant.
+
+Planning is also underway to convert imported coal plants to local coal. All this means no more relief from the capacity payment burden in the years to come by adding power plants with significant CAPEX or new investments in existing plants.
+
+An analysis of large-scale renewable projects such as solar and wind indicates that these initiatives can help meet climate goals.
+
+Yet, for instance, utility-scale solar, despite being more efficient, involves lengthy permission processes from multiple government agencies, leading to delays in project completion timelines and higher costs associated with acquiring access rights from landowners. These plants require substantial investments in transmission infrastructure, adding to the costs of connecting them to existing grids.
+
+In comparison, rooftop distributed generation reduces reliance on the central grid and minimizes transmission losses from long-distance power delivery. It also has a lower environmental impact as it doesn’t require extensive land acquisition or habitat disruption.
+
+Due to economic constraints and a capacity glut, large renewable projects are currently not feasible for Pakistan’s economy. Pakistan needs to reassess its energy strategy due to the complexities and costs of large renewable projects. The focus should be on utilizing the existing capacity to the maximum by reducing transmission and distribution constraints.
+
+In FY2023, PKR 46.6 billion was paid to power plants for Part Load Adjustment Charges due to transmission and distribution constraints, which increased fuel cost adjustments for end-consumers
+
+In FY2023, 50% of the total generated electricity was consumed in the domestic sector. In Pakistan, despite being trapped in a capacity dilemma, decision-makers are more focused on increasing the capacity of solar IPPs.
+
+In contrast, rooftop solar allows for small private investments without the burden of capacity payments or exposure to fluctuations in the dollar exchange rate. This helps reduce carbon footprints and lessen the strain on public funds.
+
+Even more importantly, rooftop solar does not require new transmission infrastructure.
+
+The government should shift its focus from large solar plants to encouraging rooftop solar generators. Currently, rooftop solar generators have less than a 0.5% share, excluding off-grid solar PV. They should be promoted for offering a stable and predictable cost structure compared to the IPP capacity payments.
+
+Pakistan needs to develop a clear strategy for empowering consumers rather than overburdening them.
+
+Copyright Business Recorder, 2024
+
+Afia Malik
+
+The writer is a Senior Research Economist at the Pakistan Institute of Development Economics (PIDE), Islamabad. She tweets @malikafia2021
+
+Ayesha Rehman
+
+The writer is a Research Assistant at the Pakistan Institute of Development Economics (PIDE), Islamabad. She posts on X: @AyeshaR49950874
+
+News Paper Link

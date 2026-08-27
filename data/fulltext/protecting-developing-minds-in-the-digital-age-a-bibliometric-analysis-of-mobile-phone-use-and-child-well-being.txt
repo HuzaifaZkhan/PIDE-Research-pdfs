@@ -1,0 +1,276 @@
+Executive Summary
+
+Given the omnipresence of screens in the contemporary world, children today are at a heightened risk of experiencing the negative implications of using mobile phones and other electronic gadgets. The purpose of this knowledge brief is to sift through the relevant literature to shed some light on how exposure to screens can impact children’s (up to 12 years of age) overall well-being . The data suggests that mobile usage can boost learning results, communication, and social connection, but may also lead to concerns such as mental discomfort, disrupted sleep, limited physical activity, and impaired family interactions when use is excessive or poorly managed. Importantly children’s unique traits and gender determine how they engage with mobile phones and how these technologies affect their development. The findings indicate a dynamic, two-way relationship in which children influence technology use, while technology use impacts their developmental outcomes. Given that children represent society’s future human capital, learning how to balance the benefits and risks of mobile phones is vital. This knowledge brief provides an evidence-informed foundation to help debates about child well-being in increasingly digitalised cultures.
+
+Introduction
+
+The term “screen time” is described as the time spent consuming the content on screen which may include smart phones, tablets, televisions, video games, computers or wearable technology. Youngsters born after 2008, commonly referred to as “digitods”, represent the first cohort to grow up fully engaged with smartphones, tablets, and other wireless devices (Holloway et al., 2021). These gadgets represent an integral part of their lives, not only offering them an opportunity to connect but also providing access to information available online (Livingstone & Helsper, 2007). Although parents are making efforts to ensure the safety of their children online, the exposure to mobile technologies at early ages poses significant threat to their development and general well-being (Bennett et al., 2008).
+
+Globally, 10-20% of children and adolescents suffer from mental health concerns, with nearly half of all disorders emerging before age 15 (Kucirnova & Sakr, 2015). Empirical evidence establishes correlation between mobile use and depressive and anxiety symptoms. For Pakistan, the trends exhibited are consistent with the global patterns with regards to this discussion. Research illustrates that one-third of the adolescents in Pakistan experience socio-emotional challenges (Zafar et al., 2019). Khokher and Khan (2005) reported the level of suicide ideation among young Pakistani adolescents and young adults to be as high as 31.4%. Additionally, almost 29% of young Pakistanis are facing mental health disorders including higher prevalence of depression and anxiety rates (Hussain et al., 2018). It is important to mention that the extant literature has frequently attributed these issues among children to their technology rich environment (Hussain et al., 2018). This is something that emphasises the need to understand this subject in more detail, specifically as the COVID-19 pandemic has increased the reliance of children on the digital technologies.
+
+In light of the stated problem, this knowledge brief aims to comprehensively review the existing empirical evidence, highlighting several dimensions of the association between mobile phone use and child wellbeing, including developmental outcomes and gender-specific patterns.
+
+The significance of this investigation extends beyond immediate academic interest: children build the future human capital of society, and understanding how mobile technology impacts their growth is crucial for boosting their learning, social competence, and overall well-being. Identifying an ideal balance in mobile phone use is therefore crucial to ensure that these technologies serve as facilitators of growth rather than barriers, adding to the broader discourse on child wellbeing in an increasingly digitalised society.
+
+Why This Age Group Matters?
+
+Literature has established that a child’s earliest screen exposures can be decisive in various ways:
+
+Habits tend to form during the early years of age, and an early overexposure raises the probability of overuse in later life.
+
+During early childhood, health routines – including media use – are formed more easily in comparison to the later years.
+
+There is a tendency of increased screen time over years in order to incorporate more and different forms of entertainment.
+
+Theoretical Foundations
+
+Before discussing the competing theories pertaining to this topic, it is important to understand the notion of problematic smartphone use. It is defined as a compulsive and poorly managed use of smartphone that tends to hinder the daily functioning and leads to poorer mental and physical health, compromised academic performance, and social relationship problems (Elhai et al., 2017).
+
+This relationship between mobile use and child wellbeing could be understood by different theoretical viewpoints. For example, Uses and Gratifications Theory , which postulates that individuals actively use media to satisfy their social and psychological needs (Goode et al. 2019). Communication and social connection are fundamental human needs, and smartphones are commonly used to meet these purposes. In this sense, mobile phone use can support aspects of childhood development by helping children stay connected with peers and family members, build social relationships, and access emotional support – factors that are closely associated with the psychological wellbeing (Castellacci and Tveito 2018).
+
+Additionally, Social Learning Theory highlights that children can learn behaviours by observing others through mobile phones, including peers, social media contacts, and online content. These observed behaviours – whether prosocial, risky, or normative – can impact children’s social interactions, emotional development, and daily use of mobile phones, showing how mobile phones can shape developmental outcomes (Bandura & Walters, 1977).
+
+Moreover, Finite Resources Theory provides a parallel perspective positing time and attention as finite resources. Time spent with mobile phones may cause children to have less time for healthy activities including exercise, academic learning and face-to-face interaction, as well as sufficient sleep (Fletcher-Brown et al., 2021). Complementing this, the digital natives perspective illustrates that children born in the last two decades have been raised in environments where digital technologies are deeply integrated in their daily lives (Bennett et al., 2008). While this exposure enables children to be technologically savvy and utilise screens for the purpose of academic training, communication, and expand their knowledge base, it also highlights the importance of understanding how the technology-rich environment has influenced their developmental and well-being outcomes – both positively and negatively – in comparison to the older generations.
+
+Empirical Evidence
+
+Existing empirical literature suggests that mobile phone use exerts a multidimensional influence on childhood development, ranging from both beneficial and adverse outcomes. The nature of these effects are shaped by children’s individual characteristics, and patterns of device use, highlighting the nuanced role of mobile technology in children’s developmental processes.
+
+The empirical evidence in this section has been validated by the bibliometric analysis presented below which elucidates the various dimensions through which mobile phone usage impacts childhood growth. Bibliometric analysis systematically examines publication patterns, citation networks, and other bibliographic data (Mortazavi et al., 2021). It offers important insights into the intellectual structure, trends, and impact of research within a field (Ellegaard, 2018). Therefore, bibliometric analysis can help policymakers, researchers, and practitioners identify influential publications, and research gaps, helping to inform decision-making, guide future research directions, and quantitatively evaluate the overall productivity and impact of scholarly output. This analysis was performed by extracting keywords such as child wellbeing and mobile phone use from the Scopus database, and executed in the VOSviewer statistical software. As a robustness check, a minimum of 20 occurrences of concepts from each article linked to the chosen keyword were selected. This is demonstrated in the subsequent sub-sections.
+
+Implications of Mobile Phone Use for Children’s Well-being
+
+Empirical literature suggests that higher digital device usage is linked with a range of adverse developmental outcomes. Globally, 10-20% of children and adolescents experience mental health issues, with approximately 50% of disorders emerging before age 15 (Kucirnova & Sakr, 2015). The development of these disorders can be attributed to a range of factors such as biological, psychological, and environmental. Mobile use had been linked to depression, anxiety, and other behavioural issues, particularly under patterns classified as “problematic smartphone use” among adolescents (Lemola et al. 2015).
+
+Adolescence is marked by heightened social and emotional sensitivity, with peer recognition and interaction becoming central to identity formation. The pervasive use of mobile phones and social media during this time may interfere with the sleep cycles, inhibit physical activity, and restrict the communication with family and also reduce the hours spent playing outdoor (Holloway et al., 2021). Such interruptions can tend to have long-term consequences for cognitive, emotional, and social development. Furthermore, exposure to cyberbullying, violent content, or hate speech online may exacerbate anxiety, fear, and aggression, leading to the maladaptive social behaviours. Moreover, limited parent-child interaction, including verbal engagement and shared activities, has been associated with impaired acquisition, self-regulation, and compromised academic achievement (Bennett et al., 2008). Likewise, spending more time with screen and diminished playtime with the fellows may hinder the formation of creative problem-solving skills and socio-emotional competencies. In the same fashion, a Pakistani study on cell phone usage patterns among teenagers of southern Punjab also reported that cell phones had become indispensable for the youths (Tariq et al., 2019). Regardless of certain gains, the heightened usage of smartphones has brought up numerous questions on the undesirable impact on academics, health and character-building of smartphone users. Another study undertaken by Ali et al. (2014) involved a descriptive cross-sectional community household survey which was conducted from January to May 2017 in 10 towns of Lahore, Pakistan. It comprised school-going smartphone users. Children who used smartphones for up to 2 hours a day were considered short-term users while children who used smartphones for more than 2 hours a day were considered long-term users . It was reported that out of the 2889 subjects, 199 (69%) were short-term users and 896 (31%) were long-term users. Long-term smartphone usage was significantly associated with behavioural problems as well as with psychological problems.
+
+Contrary to this, mobile devices can also serve as facilitators of social and emotional development when used purposefully. Evidence suggests that using digital devices for communication – through messaging or calls – is positively linked with subjective well-being, reduced loneliness, and decreased depressive symptoms. It also enables children to acquire digital learning skills (Noonan et al. 2018).
+
+These devices also help with the formation and maintenance of social capital, both by strengthening strong ties with family, close friends and by fostering bridging ties with acquaintances and broader peer networks (Ortega et al. 2010; Booker et al. 2018). Such social networking provides psychological support, a sense of belonging, and emotional stability, implying that the use of mobile phones can positively contribute to the psychosocial development, if utilized for interpersonal engagement and learning.
+
+Figure 1 below – generated using VOSviewer – offers a bibliometric visualization of the literature, delineating research clusters that highlight the beneficial and adverse effects of mobile use on children and adolescent’s overall wellbeing. It illustrates the dominant research themes in this context. Each node represents a keyword, with larger nodes being indicative of higher frequencies of occurrence, while the connecting lines show the linkages between the keywords. Different thematic clusters are being represented by different colours.
+
+The bibliometric analysis provided in figure 1 reveals two broad research streams which are substantiating the discussion above. The first theme highlights the adverse effects of mobile phone use, with keywords such as mental health, depression, anxiety, hyperactivity, and loneliness. This is something that raises the concerns regarding children’s psychological and behavioural well-being, as discussed earlier on. Secondly, the network given in figure 1 illustrates the possible benefits of mobile phone use, connecting child wellbeing with educational technology, learning apps, and the development of numeracy and literacy competencies, suggesting that mobile phone use can also facilitate children’s learning process. This demonstrates that the impact of mobile phone use on children’s wellbeing is not uniform, rather it is multifaceted and depends upon the context and patterns of use. This is corroborating the empirical analysis presented above.
+
+Figure 1 – Source: Author (2025)
+
+Individual and Contextual Determinants of Mobile Phone Use Outcomes
+
+The literature has also established the differences in the developmental implications of the screen usage among children of different ages. It highlights that the effects are dependent upon how children’s individual characteristics interact with their use of technology. Children with attentional issues or who are deemed more challenging may be more attracted to mobile phones since the continual stimulus holds their attention. This can motivate them to spend more time on the gadgets, which may enhance the risk of unfavourable developmental outcomes (Noonan et al. 2018).
+
+Parents also have a significant impact on these effects. For example, in low-income households, the use of cell phones to distract or calm children has been associated with higher levels of social and emotional difficulties, particularly when parents believe they have little control over their child’s attitude. Taken together, this research demonstrates that there exists a bidirectional relationship: children’s qualities and family circumstances impact how mobile devices are used, while mobile usage, in turn, affects children’s emotional, social, and cognitive development.
+
+Gendered Patterns of Mobile Phone Use
+
+Research also illustrates that how gender shapes the nature of mobile phone use influencing both the patterns and purposes of mobile phone use, leading to differences in the frequency and type of mobile engagement by girls and boys respectively. For instance, girls are more likely to use mobile phones for communications and sustaining peer ties, while boys use them for entertainment or exploratory purposes (Livingstone et al. 2018). Children’s online interactions and self-presentation are influenced by gender differences in social media use. A girl’s mobile usage is more closely tied to social connections and peer feedback, which means they tend to show higher levels of dependence and greater vulnerability to internalising the difficulties like negative self-concept, in comparison to the boys (Williams et al. 2009).
+
+Overall, mobile phone use shapes children’s social, emotional, and behavioural development. Girls tend to engage more in social communication, while boys are more exploratory in their use. These findings are consistent with the existing empirical evidence and are validated by the bibliometric analysis in the figure 2 given below, which highlights key research trends prevailing in this field.
+
+Figure 2 – Source: Author (2025)
+
+Figure 2 shows that the extant research has predominantly focused on children, adolescents, and preschool children, with specific emphasis on their mental health, psychological wellbeing, and quality of life. The frequent occurrence of keywords including depression, psychological wellbeing suggests that psychological outcomes have been widely explored in this context. Furthermore, the presence of terms such as observational study, longitudinal studies, and controlled study shows that the increasing use of diverse research designs to investigate this association. All in all, the bibliometric evidence demonstrates that the extant evidence extends beyond reporting the mobile phone use patterns to understanding its broader developmental and psychological implications for children.
+
+A summary of key studies on the impact of screen use in children and adolescents is provided in the Appendix.
+
+Research Gaps
+
+Although the literature on mobile phone use and children’s wellbeing has grown significantly in recent years, it remains largely concentrated on psychological outcomes, with relatively less attention given to the contextual factors that potentially influence this relationship. Specifically, evidence regarding the roles of child characteristics, family environment, and gendered differences remains limited, particularly in the context of developing nations including Pakistan.
+
+Screen Time Limits for Kids: How Much is Too Much?
+
+Appropriate screen time limits differ according to the age and developmental phase which the children are in. Younger children learn most from the direct interaction with caregivers and active play, while older children and adolescents require balanced media use that promotes healthy development. The following table 1 provides age-specific guidance on screen time duration, supervision, and healthy digital habits.
+
+Table 1 – Suggested Screen Time Use by Age
+
+Age Group
+Recommended Screen Time
+Content & Supervision
+Additional Guidance
+
+0–18 months
+No screen time recommended (except video chatting)
+Any screen use should be limited to interactive video calls with family and friends and supervised by a caregiver (Anderson et al., 2001; Duch et al., 2013)
+Prioritize face-to-face interaction, play, language development, and caregiver engagement (Anderson et al., 2001; Duch et al., 2013).
+
+18–24 months
+Very limited screen time
+If digital media is introduced, choose only educational content and co-watch with the child to help them understand what they consuming, shared activities with family that encourage bonding, interaction, and conversation (Hamilton et al., 2016).
+Screen time should not replace sleep, physical activity, play, or caregiver interaction (Hamilton et al., 2016).
+
+2–5 years
+Less than 1 hour per day of routine or regular screen time
+Use high-quality, age-appropriate content and co-view whenever possible. Discuss content and help children apply it to the world around them (Anderson et al., 2001; Lerner & Barr, 2014; Linebarger et al., 2014).
+Screen time should not be a routine part of childcare. Encourage reading, active play, social interaction, and learning activities (Anderson et al., 2001; Lerner & Barr, 2014; Linebarger et al., 2014).
+
+6–12 years
+Establish consistent daily limits based on the child’s needs and family values
+Monitor both the amount and type of media consumed. Encourage educational and age-appropriate content (Linebarger et al., 2014).
+Ensure screen use does not interfere with adequate sleep, physical activity, schoolwork, family time, or other healthy behaviours (Linebarger et al., 2014).
+
+12 years and older
+Balanced use with healthy boundaries rather than a fixed hourly limit
+Encourage responsible digital habits, critical thinking, and age-appropriate content choices (Hoyos Cillero & Jago, 2010; Kostyrka-Allchorne et al., 2017).
+Designate media-free times (e.g., family meals, driving) and media-free locations (e.g., bedrooms). Avoid screens for at least 1 hour before bedtime . Ensure screen use does not negatively affect sleep, physical activity, academic performance, relationships, or mental well-being (Hoyos Cillero & Jago, 2010; Kostyrka-Allchorne et al., 2017).
+
+Source: Author (2025)
+
+Practical Implications
+
+For curbing the adverse effects associated with the excessive and unsupervised screen time, parents and other caretakers should ensure that the children are not left unsupervised with the screens and there should be screen time limits in place which are suitable for different ages. Furthermore, the overall productivity of the children can be boosted by integrating technology i.e. screens into learning practices and social environments they are a part of.
+
+Since the effects of mobile use can vary depending upon the age, gender and other behavioural characteristics of the children, it is important to customise any support offered to them accordingly to match their needs. This can minimize the negative effects of the time spent online. In addition to this, encouraging the conversations around cyberbullying and online hate can help with improving the overall wellbeing of the children while also instilling a sense of responsible digital presence. Additionally, co-using technology with the supervisors can also reinforce responsible use of technology while also promoting the overall productive use of the gadgets.
+
+In the light of aforementioned analysis, it is pertinent to narrow down the findings in the context of Pakistan where the omnipresence of screens among children is eyebrow-raising. The rate of internet penetration in Pakistan was approximately 45.7% in 2025, which comprises 116 million users aged between 5-17 years (Kemp, 2025). The evidence stated above, coupled with the higher presence of children online, contains useful lessons for the academic facilitators, parents, and policy makers in Pakistan. For example, it is imperative to institutionalise the digital literacy programs at both classrooms and household levels. Moreover, having child protection measures and digital governance frameworks in place will promote child safety online. The literature also stresses on the role played by the parents and caregivers in shaping up the children’s digital presence. For this purpose, initiatives such as parental mediation workshops and national legislation framework can promote child’s safety online. Furthermore, given the differences in vulnerabilities arising from the gendered aspect of this issue, a more inclusive and sophisticated approach is required to meet the needs of every child.
+
+Conclusion
+
+The link between mobile use and child development can be clearly established from the literature. However, it is important to note the added layers to this association i.e. how it is contextually dependent. For example, the nature and degree of this impact is largely dependent upon the patterns of use, personality traits, family environment, and developmental stages. While the exposure to screens can help with improving the learning outcomes and refining the communication skills, its excessive and unsupervised use can lead to compromised overall well-being.
+
+The findings highlight how important it is to deal with this issue by having appropriate measures in place including setting screen time limits and promoting co-use of technology, among others.
+
+References
+
+Ali, S., Rizvi, S. A. A., & Qureshi, M. S. (2014). Cell phone mania and Pakistani youth: Exploring the cell phone usage patterns among teenagers of South Punjab. FWU Journal of Social Sciences , 8 (2), 43.
+
+Anderson DR, Huston AC, Schmitt KL, Linebarger DL, Wright JC. Early childhood television viewing and adolescent behavior: The recontact study. Monogr Soc Res Child Dev 2001;66(1):i–viii, 1–147.
+
+Bandura, A., & Walters, R. H. (1977). Social learning theory (Vol. 1, pp. 33-52). Englewood Cliffs, NJ: Prentice-hall.
+
+Bennett, S., Maton, K., & Kervin, L. (2008). The ‘digital natives’ debate: A critical review of the evidence. British Journal of Educational Technology, 39(5), 775–786.
+
+Best Start in Life. (2026, June 29). Screen time guidance for under 5s . https://beststartinlife.gov.uk/screen-time-under-5s/
+
+Booker, C., Kelly, Y., & Sacker, A. (2018). Gender differences in the associations between age trends of social media interaction and well-being among 10-15 year olds in the UK. BMC Public Health, 18, 321
+
+Castellacci, F., & Tveito, V. (2018). Internet use and well-being: A survey and a theoretical framework. Research Policy, 47, 308–325.
+
+Duch H, Fisher EM, Ensari I, Harrington A. Screen time use in children under 3 years old: A systematic review of correlates. Int J Behav Nutr Phys Act 2013;10:102.
+
+Elhai, J. D., Dvorak, R. D., Levine, J. C., & Hall, B. J. (2017). Problematic smartphone use: A conceptual overview and systematic review of relations with anxiety and depression psychopathology. Journal of affective disorders , 207 , 251-259.
+
+Ellegaard, O. (2018). The application of bibliometric analysis: disciplinary and user aspects. Scientometrics , 116 (1), 181-202.
+
+Fletcher-Brown, J., Turnbull, S., Viglia, G., Chen, T., & Pereira, V. (2021). Vulnerable consumer engagement: How corporate social media can facilitate the replenishment of depleted resources. International Journal of Research in Marketing , 38 (2), 518-529.
+
+Goode, J. A., Fomby, P., Mollborn, S., & Limburg, A. (2019). Children’s technology time in two US cohorts. Child Indicators Research, 13, 1107-1132.
+
+Green, L., Holloway, D., Stevenson, K., Leaver, T., & Haddon, L. (Eds.). (2021). The Routledge companion to digital media and children . New York, NY, USA: Routledge.
+
+Hamilton K, Spinks T, White KM, Kavanagh DJ, Walsh AM. A psychosocial analysis of parents’ decisions for limiting their young child’s screen time: An examination of attitudes, social norms and roles, and control perceptions. Br J Health Psychol 2016;21(2):285–301.
+
+Hoyos Cillero I, Jago R. Systematic review of correlates of screen-viewing among young children. Prev Med 2010;51(1):3–10.
+
+Hussain SS, Gul RB, Asad N. Integration of mental health into primary healthcare: perceptions of stakeholders in Pakistan. East Mediterr Health J. 2018;24(2):146.
+
+Kemp, S. (2025). Digital 2025: Pakistan. DataReportal. https://datareportal.com/reports/digital-2025-pakistan
+
+Khokher S, Khan MM. Suicidal ideation in Pakistani college students. Crisis. 2005;26(3):125–7.
+
+Kostyrka-Allchorne K, Cooper NR, Simpson A. The relationship between television exposure and children’s cognition and behaviour: A systematic review. Develop Rev 2017; 44:19–58.
+
+Kucirnova, N., & Sakr, M. (2015). Child-father creative text-making at home with crayons, iPad collage and PC. Thinking Skills and Creativity, 17, 59–63.
+
+Lemola, S., Perkinson-Gloor, N., Brand, S., Dewald-Kaufmann, J., & Grob, A. (2015). Adolescents’ electronic media use at night, sleep disturbance, and depressive symptoms in the smartphone age. Journal of Youth & Adolescence, 44, 405–418
+
+Lerner C, Barr R. Screen Sense: Setting the Record Straight; Research-Based Guidelines for Screen Use for Children Under 3 Years Old Zero to Three 2014.
+
+Linebarger DL, Barr R, Lapierre MA, Piotrowski JT. Associations between parenting, media use, cumulative risk, and children’s executive functioning. J Dev Behav Pediatr 2014;35(6):367–77.
+
+Livingstone, S., & Helsper, E. (2007). Gradations in digital inclusion: Children, young people and the digital divide. New Media and Society, 9(4), 671–696.
+
+Mori, Y., Silwal, S., Wan Mohd Yunus, W. M. A., & Sourander, A. (2026). Long-Term Trends in Screen Time Use Among Children and Adolescents: A Systematic Review Including Pre-and Post-COVID Periods. Clinical child psychology and psychiatry , 13591045261432532.
+
+Mortazavi, S., Eslami, M. H., Hajikhani, A., & Väätänen, J. (2021). Mapping inclusive innovation: A bibliometric study and literature review. Journal of Business Research , 122 , 736-750.
+
+Noonan, K., Burns, R., & Violato, M. (2018). Family income, maternal psychological distress and child socioemotional behaviour: Longitudinal findings from the UK millennium cohort study. SSM – Population Health, 4, 280–290.
+
+Ortega, F. B., Ruiz, J. R., Martinez-Gómez, D., De Henauw, S., et al. (2010). Sedentary patterns and media availability in European adolescents: The HELENA study. Preventive Medicine, 51(1), 50–55
+
+Tariq, K., Tariq, R., Ayesha, A. H., & Shahid, M. (2019). Effects of smartphone usage on psychological wellbeing of school going children in Lahore, Pakistan. JPMA. J Pak Med Assoc , 69 (7), 955-958.
+
+Williams, J., Greene, S., Doyle, E., Harris, E., Layte, R., McCoy, S., … & Thornton, M. (2009). Growing up in Ireland national longitudinal study of children. The lives of 9 year olds. Dublin: The Stationary Office.
+
+Zafar S, Johar N, Haseeb F, Azam N, Mahmood H, Pervaiz F. Prevalence of socio-emotional problems in school-aged adolescents of army public schools of Rawalpindi. Pakistan Armed Forces Med J. 2019;2:S181.
+
+Appendix
+
+Study
+Age / Sample
+Screen Use Examined
+Outcome Domain(s)
+Overall Effect Direction
+
+Bennett et al., 2008
+Children & young people
+General digital technology use
+Learning, digital skills
+Benefits and risks both reported
+
+Booker et al., 2018
+10–15 year olds, UK cohort
+Social media interaction frequency
+Well-being, life satisfaction
+Negative (at high levels of use)
+
+Goode et al., 2019
+Two US child cohorts
+Overall daily technology time
+Daily routines, time use patterns
+Context dependent
+
+Green et al., 2021 (Ed.)
+Children & adolescents
+Digital media broadly
+Learning, participation, risk
+Benefits and risks both reported
+
+Kucirnova & Sakr, 2015
+Young children and parents
+Creative digital activities
+Creativity, parent–child interaction
+Positive (in guided, creative contexts)
+
+Lemola et al., 2015
+Adolescents
+Night-time electronic media use
+Sleep quality, depressive symptoms
+Negative
+
+Livingstone & Helsper, 2007
+Children & young people
+Internet access and use
+Digital skills, opportunities, online risks
+Benefits and risks both reported
+
+Noonan et al., 2018
+UK longitudinal cohort
+Home media use in the context of family environment
+Socioemotional behaviour
+Contextual Effects
+
+Ortega et al., 2010
+European adolescents
+Social media availability in the home
+Physical activity, sedentary time
+Negative
+
+Williams et al., 2009
+Irish 9-year-olds
+General digital technology use
+Well-being, development indicators
+Effects are context specific i.e. (exposure patterns)
+
+Early Years Screen Time Advisory Group (2026)
+Umbrella review; children <5 years
+Screen media
+Cognitive, socio-emotional, sleep, physical health
+Mixed – educational/co-viewed screen use may be beneficial, while excessive use is associated with adverse outcomes.
+
+Mori et al. (2026)
+Systematic review (60 studies); children & adolescents
+Screen time
+
+Behavioural and health outcomes
+Predominantly Negative – screen time increased post-COVID and was associated with adverse health and behavioural outcomes.
+
+Source: Author (2025)

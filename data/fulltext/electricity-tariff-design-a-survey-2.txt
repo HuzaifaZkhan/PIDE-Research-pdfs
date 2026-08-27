@@ -1,0 +1,39 @@
+INTRODUCTION
+
+In a perfectly competitive market, electricity is priced at the Marginal Cost (MC); MC pricing guarantees economic efficiency (Gunatilake, et al., 2008). In other words, efficient electricity tariffs consider all power supply costs. To a great degree, it also accounts for capital investments for future expansion and up-gradation (Kojima, et al., 2014). In a free market, market forces of demand and supply pushed for MC recovery.
+
+In contrast, for a regulated market, the regulator sets the tariff according to the costs and reasonable return determined through the regulatory process. The regulator followed pre-determined guidelines, parameters, and standards set by the government; it may or may not be MC pricing. When a regulated tariff is set at a low level, it distorts the development/ functioning of the market at both the wholesale and retail levels.
+
+“If regulated end-user prices are not in line with wholesale market conditions, suppliers without significant low-cost generation capacity or equivalent long-term contracts will not be able to make competitive offers that will allow them to recover their costs. Consequently, with a limited number of suppliers, there will be no development of the wholesale markets. Liquidity will remain at a low level. As a result, neither the wholesale nor retail markets will be competitive” (Cited from Suzzoni, 2009, p. 5)
+
+The electricity tariff includes the operating and maintenance costs involved in generating, transmitting, and distributing electricity and a return on investment for a company engaged in these activities. Besides, it considers subsidies, surcharges, or taxes as per government policy, especially in the case of regulated tariffs.
+
+This survey presents different electricity tariff structures and designs across countries. It heavily relies on regional and global surveys (Foster and Witte, 2020; AfDB-ERERA, 2019; and INNOGATE, 2015). On top, it reflects on Pakistan’s electricity tariff structure, identifies loopholes, and suggests a way to improve them.
+
+ELECTRICITY TARIFF CATEGORIES
+
+Box 1. Tariff Categories
+
+There are four types of volumetric tariffs:
+
+Linear Tariff _ every unit consumed is charged the same rate.
+
+Increasing Block Tariff (IBT) _ unit rate increases with an increase in successive bands/blocks of marginal consumption stepwise.
+
+Decreasing Block Tariff (DBT) _ unit rate decreases with successive bands/ blocks of marginal consumption increasing stepwise.
+
+Volume Differentiated Tariff (VDT) _ linear tariff increases (or decreases) if total monthly consumption crosses a specific volume limit; otherwise, a single linear rate is charged.
+
+In some countries/ consumer categories, volumetric charges are accompanied by fixed load charges.
+
+Fixed Load Charges_ capacity rather than the energy consumed determines fixed costs on the power system. These are linear load charges per KW.
+
+Time-of-use Charges_ that apply multipliers to standard charges depending on consumption during peak or off-peak hours. These are linear but vary with time blocks.
+
+Across the world, a volumetric tariff is applied—linear, and IBT structures are common (Table 1). Linear tariffs are generally applied to agricultural, commercial, and industrial consumers but are used less frequently for residential consumers, especially in developing countries. Load-based tariffs sometimes combine with other volumetric tariff structures in commercial and industrial schedules. For commercial and industrial customers, linear charges are modified by time-of-use factors and complemented with load-related fixed charges. Evidence suggests the simultaneous presence of various tariff designs in countries; variation is across sectors.
+
+Tariffs with demand-based charges are more widely used for industrial and commercial and industrial customers but rarely exist for residential consumers and are more prevalent in high-income countries. In almost all countries where demand charges exist, these are linear load charges per kW.
+
+Time-Based Rates are designed to reflect the real impact of the peak-hour load more accurately. It is designed to encourage customers to participate in reducing overall system costs or achieving other goals. Time-based rates (peak and off-peak) can provide more accurate price signals to customers, better reflecting the marginal cost of supplying and delivering electricity during specific day hours. These price signals may lead customers to change their consumption patterns to reduce peak and total consumption. It is common in industrial and commercial tariff schedules but rarely applied in residential tariff schedules.
+
+In countries applying time-of-use blocks mainly consists of peak and off-peak hour blocks. Less common are broader divisions into day and night times and seasonal variation applied to those that do not use their facilities year-round (e.g., a cottage). Some of the modern utilities offer weekend /holiday rates to residential consumers. When time-of-use is practiced, unit charges during peak hours are almost double that of off-peak hours.

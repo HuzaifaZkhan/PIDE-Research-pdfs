@@ -1,0 +1,43 @@
+Until the third industrial revolution, most economies overlooked environmental concerns in their quest for economic expansion. Industrial progress was pursued at the expense of ecological integrity, and climate change was rarely considered a critical challenge. However, as the repercussions of unchecked emissions became more apparent, global economies began acknowledging the dire need for sustainable policies. Today, the world is witnessing a shift towards a more regulated carbon economy, particularly in the European Union (EU), where the Carbon Border Adjustment Mechanism (CBAM) is being enforced. The CBAM policy seeks to curtail carbon emissions from imported goods and promote fair trade by placing environmental accountability on exporting nations. This shift, however, contrasts starkly with the trajectory of the China-Pakistan Economic Corridor (CPEC), which, despite its potential economic benefits, poses significant environmental risks for Pakistan.
+
+CPEC, a flagship component of China’s Belt and Road Initiative (BRI), has been instrumental in modernizing Pakistan’s energy and transportation sectors. While its economic promises are substantial, its environmental cost remains under-discussed. Over the past decade, Pakistan has witnessed devastating climate impacts, including severe flooding, escalating heat waves, rising temperatures, biodiversity loss, and accelerated glacier melting (Ali & Askari, 2023). Yet, environmental sustainability has not been a focal point of CPEC’s agenda since its inception in 2015.
+
+A prime concern is Pakistan’s continued reliance on coal-fired energy, even as the world transitions toward cleaner alternatives. Many countries are actively reducing their dependence on coal to mitigate greenhouse gas emissions. However, under CPEC, Pakistan has expanded its coal-based power generation by 75%, largely through Chinese financing (Downs, 2019). The Thar coal power plants alone are projected to emit an additional 51 million tons of greenhouse gases annually (Aslam, 2021), exacerbating climate risks and undermining global de-carbonization efforts.
+
+Beyond energy, CPEC’s impact on transportation emissions is another pressing issue. The project envisions major upgrades to Pakistan’s freight infrastructure, with investments amounting to USD $10.63 billion. However, the majority of freight transport in Pakistan still relies on outdated, heavy-duty trucks, which could add up to 36.5 million tons of carbon dioxide emissions if this practice continues unchecked (Aslam, 2021). Without a shift toward greener transportation solutions, such developments could further degrade air quality and accelerate climate-related challenges.
+
+Additionally, CPEC is expected to trigger both population growth and temperature increases in key corridor regions. The combination of rising human activity and climate change will likely heighten exposure to extreme heat waves, particularly nighttime heat waves in northern, southwestern, and southern CPEC zones (Ullah et al., 2023). The scale of human vulnerability to these climatic extremes remains uncertain, but the risks are undeniable. Without comprehensive climate adaptation strategies, these environmental shifts could lead to significant health and economic repercussions.
+
+CPEC’s implications for Pakistan’s agrarian economy also demand attention. Improved infrastructure and connectivity offer opportunities for agricultural mechanization and resource optimization. However, these benefits will remain unrealized if critical agrarian challenges—such as inefficient irrigation, inadequate farmer training, suboptimal crop yields, limited technology adoption, and poor-quality seed inputs—are not addressed (Asghar et al., 2021). If mismanaged, CPEC’s impact on agricultural land and rural communities could be more damaging than beneficial, exacerbating water scarcity and soil degradation in an already vulnerable sector.
+
+Need for Structured Carbon Policy
+
+Despite the environmental risks posed by CPEC, Pakistan’s policy framework remains fragmented and reactive. The country’s climate governance has largely relied on external donor support and the Clean Development Mechanism (CDM), introduced under the Kyoto Protocol in 2005. While Pakistan submitted its initial National Communication on Climate Change Report to the United Nations Framework Convention on Climate Change (UNFCCC) in 2003, subsequent updates have been irregular, limiting effective climate action.
+
+In contrast, China has pursued a proactive, market-driven approach to carbon management. Since launching its pilot carbon trading initiatives in seven provinces, China has progressively integrated carbon pricing into its national economic strategy. The National Development and Reform Commission (NDRC) released interim regulations on carbon emissions trading in 2014, laying the foundation for a national carbon market. The system operates through Certified Emissions Reductions (CCER) and emission quotas, providing industries with structured incentives to reduce carbon footprints.
+
+This stark policy divergence highlights Pakistan’s need for a comprehensive, market-based carbon pricing mechanism. Rather than relying solely on donor-driven CDM initiatives, Pakistan must develop a structured emissions trading framework aligned with its industrial and economic policies. A shift toward a proactive, sustainability-oriented governance model will be crucial for achieving long-term climate resilience.
+
+Economic Growth with Environmental Accountability
+
+As Pakistan advances with CPEC-related developments, revising its environmental strategy is not just desirable—it is imperative. Shifting from coal-based energy projects to renewable alternatives and investing in climate-resilient infrastructure will be essential to mitigating environmental harm. Economic integration with China must be complemented by legal cooperation on environmental policies, ensuring that CPEC evolves into a sustainable and secure initiative.
+
+Environmental degradation knows no borders, making it vital for China and Pakistan to align their strategies with broader ecological and economic security concerns. Rather than formulating environmental provisions on a case-by-case basis, China should establish a high-standard, uniform framework for trade-related environmental policies. Integrating such measures into future Free Trade Agreements (FTAs) under the One Belt One Road (OBOR) initiative will enhance the credibility and long-term success of mega-infrastructure projects like CPEC.
+
+By embedding sustainability within its economic ambitions, Pakistan can ensure that CPEC does not become an environmental liability but rather a model for responsible, forward-thinking development.
+
+References
+
+Ali, T. Z., & Askari, M. U. (2023). Impacts of the China-Pakistan Economic Corridor on the Natural Environment of Pakistan . https://doi.org/10.35484/pssr.2023(7-IV)58
+
+Asghar, A. J., Cheema, A. M., Hameed, M. I., Abbas, S. Q., & Fatima, U. (2021). The Critical Junction between CPEC, Agriculture and Climate Change . https://ccls.lums.edu.pk/sites/default/files/2023-01/the_critical_junction_between_cpec_agriculture_and_climate_change.pdf
+
+Aslam, H. (2021, July 20). CPEC & Environmental Sustainability [Online post]. https://southasianvoices.org/cpec-environmental-sustainability/
+
+Downs, E. (2019). China-Pakistan Economic Corridor Power Projects: Insights into Environmental and Debt Sustainability . https://www.energypolicy.columbia.edu/publications/china-pakistan-economic-corridor-power-projects-insights-environmental-and-debt-sustainability/
+
+Ullah, S., You, Q., Ullah, W., Sachindra, D. A., Ali, A., Bhatti, A. S., & Ali, G. (2023). Climate change will exacerbate population exposure to future heat waves in the China-Pakistan economic corridor. Weather and Climate Extremes , 40 , 100570. https://doi.org/10.1016/j.wace.2023.100570
+
+About the Author
+
+Mr. Mohammad Armughan is a senior researcher at the Federation of Pakistan Chamber of Commerce and Industry (FPCCI). His areas of interest include climate change, environment and E-Waste among others.

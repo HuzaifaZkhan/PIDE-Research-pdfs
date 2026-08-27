@@ -1,0 +1,155 @@
+Pakistan’s economic policymaking has long been clouded by unpredictability, especially in the realm of fiscal planning. Fiscal policy, a key instrument for steering economic activity, has in Pakistan been consistently undermined by erratic tax changes, inconsistent public spending, and ad hoc borrowing strategies. This persistent volatility—commonly referred to as Fiscal Policy Uncertainty (FPU) — has evolved into a structural constraint. It undermines macroeconomic stability, discourages investment, and stifles long-term growth.
+
+As Pakistan prepares for Budget 2025–26 amid deepening economic fragility, understanding and addressing FPU is not just relevant—it is urgent . The upcoming budget presents a critical opportunity to move beyond routine expenditure frameworks and toward meaningful macroeconomic reform. Tackling FPU is essential for restoring investor confidence, ensuring policy credibility, and unlocking the full potential of fiscal tools.
+
+Recent empirical evidence reveals the damaging effects of FPU. Riaz (2022), using a Vector Autoregressive (VAR) model based on data from 1980 to 2019, showed a significant negative effects of FPU on macroeconomic performance. For instance, in the short run, uncertainty depresses private investment and output growth; in the long run, it results in persistent underperformance across multiple economic indicators from GDP to employment.
+
+Similarly, Waheed (2020) estimates the economic cost of fiscal uncertainty and showed that fiscal uncertainty alone can reduce GDP growth by up to 1.2% annually and crowd out up to 15% of private investment. Such staggering numbers reflect how the absence of credible, transparent fiscal planning restrains economic potential and leads to inefficient resource allocation. The table below consolidates the estimated short- and long-term effects of fiscal policy uncertainty on key economic indicators:
+
+Table 1: Effects of policy uncertainty in Pakistan
+
+Economic Indicator
+Short-Run Impact
+Long-Run Impact
+
+GDP Growth
+-0.8%
+-1.2%
+
+Private Investment
+-10%
+-15%
+
+Inflation
++0.5%
++1.0%
+
+Employment
+-2%
+-3.5%
+
+Public Investment
+-5%
+-8%
+
+Exchange Rate Volatility
+High
+Persistent
+
+The evidence suggests that fiscal policy uncertainty is not just a macroeconomic nuisance; it is a structural bottleneck. The government’s inability to offer stable and predictable fiscal signals fuels speculative behavior in markets, discourages long-term investment, erodes investor confidence and misaligns resource allocation. It also diminishes the effectiveness of other policy instruments, such as monetary policy and public investment frameworks.
+
+If the upcoming budget fails to confront this foundational issue, it risks repeating the past, missing growth targets, deepening market uncertainty, and leaving Pakistan trapped in a cycle of economic instability.
+
+The fiscal performance of Pakistan’s austerity measures has exhibited varied trends over the past few decades. The figure 1 illustrates the recorded progress of tax achievement. During the 1990s, the country experienced significant fiscal imbalances, largely due to weak revenue mobilization, high non-development expenditures, and rising public debt. The fiscal performance of the country showed notable improvement from 2002-03 to 2006-07, supported by economic reforms and better macroeconomic management. Following the period of 2006-2007, there has been a notable decline in fiscal outcomes, with the average budget deficit consistently hovering around 7% of GDP from 2008 to 2013. The situation primarily resulted from reduced tax collection, influenced by slower economic growth, persistent losses from inefficient public sector enterprises, increased public expenditures in response to severe flooding, rising debt service obligations, and sharper-than-expected revenue shortfalls. The graph below illustrates the evolution of the country’s budget position from 2000 to 2018, highlighting the cyclical nature of fiscal policy and its structural weaknesses.
+
+Figure 1: Trend Analysis of Fiscal Policy Determinants and Growth
+
+This figure 2 illustrates Fiscal Policy Uncertainty over time, from 1980 to 2020, likely based on a measure of fluctuations in fiscal variables around expected trends or projections.
+
+Figure 2: Fiscal Policy Uncertainty (FPU)
+
+Source : Sheeba Waheed (2020)
+
+Global Evidence of Fiscal Policy Uncertainty (FPU):
+
+Across a range of economic systems—from advanced economies like the United States to emerging markets such as China—empirical research consistently shows that fiscal policy uncertainty (FPU) has recessionary effects on output, investment, and employment. These findings highlight a crucial lesson for countries like Pakistan: without credible and predictable fiscal planning, even structurally sound economies struggle to maintain growth and stability.
+
+A study by Anzuini and Rossi (2021), finds that in US Fiscal policy uncertainty shocks have clear recessionary effects. An increase in fiscal uncertainty significantly lowers output, industrial production, and employment. For instance, in our VAR estimates, industrial production drops by 0.13% and employment by 0.08% following a one standard deviation FPU shock. These effects are even stronger in constrained environments like the zero lower bound (ZLB), where the inability of central banks to offset shocks amplifies the recessionary outcome.
+
+Complementing these findings, Fernández et al. (2015) employ a New Keynesian business cycle model with time-varying volatility in tax and spending processes to analyze fiscal uncertainty in the U.S. They find that fiscal volatility shocks substantially reduce economic activity, with contractionary effects comparable to a 25-basis-point increase in the federal funds rate. This underscores the powerful dampening effect of fiscal uncertainty on consumption, investment, and output.
+
+Similarly, Born and Pfeifer (2021) investigates the impact of policy risk —defined as uncertainty surrounding monetary and fiscal policy—on business cycle fluctuations in the U.S. Using an estimated New Keynesian model with Sequential Monte Carlo Methods, they find that while policy risk is empirically significant , its “pure uncertainty” effects on output are relatively small due to dampening general equilibrium mechanisms and counteracting partial effects. However, the study suggests that persistent unpredictability in fiscal policy can have meaningful macroeconomic consequences , particularly in environments already marked by structural weaknesses.
+
+Fiscal policy uncertainty (FPU) can remain high even in countries with sustainable public finances , particularly when political polarization and weak fiscal frameworks are present (Kontopoulos & Perotti, 2002; Roubini & Sachs, 1989). In such settings, political transitions or unstable coalitions often result in erratic or unpredictable shifts in fiscal policy , amplifying FPU. Moreover, even in fiscally stable and institutionally sound countries , unexpected events can trigger fiscal uncertainty shocks that dampen economic activity by increasing precautionary savings and delaying private investment , ultimately leading to slower growth and reduced employment.
+
+Adding to the global perspective, Empirical evidence from China’s new energy sector (2007–2019) highlights the negative impact of fiscal policy uncertainty on corporate innovation investment. Wen et al. (2022) finds that FPU significantly reduces innovation spending, primarily by weakening the incentive effect of government support. Secondly, product market competition helps mitigate the adverse effects of FPU, lending support to the strategic growth option theory. Third, the main channel through which fiscal uncertainty constrains innovation is through bank credit constraints, as firms experience tighter lending conditions during uncertain fiscal environments
+
+Together, these studies emphasize that fiscal policy uncertainty is not merely a cyclical challenge—it is a structural risk. When fiscal frameworks lack credibility, and political signals are erratic, uncertainty becomes embedded in the economy, distorting investment decisions, increasing precautionary savings, and ultimately slowing long-term growth. For Pakistan, where institutional capacity is weaker and fiscal vulnerabilities are higher, the implications of this global evidence are particularly sobering.
+
+Reforming the Fiscal Framework
+
+What Pakistan needs now is a credible, transparent, and forward-looking fiscal policy framework. Anchoring fiscal rules, establishing independent fiscal councils, and releasing medium-term budget frameworks can help reduce the uncertainty premium embedded in investment and lending decisions. Moreover, eliminating arbitrary tax exemptions, expanding the tax base, and capping unproductive spending will improve both the efficiency and predictability of fiscal operations.
+
+The solution lies not just in increasing allocations but also in creating predictability, transparency, and alignment with long-term objectives. This requires introducing a rules-based fiscal framework embedded in law, coupled with an annual “Fiscal Confidence Report” assessed by an independent council. It also means protecting development spending from political cycles and ensuring that all new expenditures meet clear economic and social return criteria.
+
+The link between fiscal uncertainty and poor planning outcomes is not just theoretical. It is evidenced in the persistent mismatch between policy goals and fiscal actions. If 2025–26 is to be different, it must mark the beginning of a new fiscal doctrine—one centered on predictability, productivity, and participation.
+
+Pakistan is preparing to announce next fiscal budget for 2025–26. The persistent economics fragility measured by low and cyclical economics growth (this year projected growth is around 2.6% well below to population growth), mounting debt—and inflation. Among others, the least discussed yet most impactful factors is fiscal policy uncertainty.
+
+Impact of Fiscal Policy Uncertainty
+
+Drawing from recent research on the impact of fiscal policy uncertainty on macroeconomic performance in Pakistan, it is evident that unpredictable fiscal strategies have become a systemic drag on investment, consumption, and overall economic stability.
+
+Fiscal policy uncertainty in Pakistan has historically stemmed from three main sources: frequent changes in tax regimes, volatile expenditure patterns, and ad hoc government borrowing. These inconsistencies create confusion among investors, both domestic and foreign, and undermine the confidence of the business community. When policies shift with every budget cycle or political change, businesses are unable to plan long term, leading to underinvestment in productive sectors.
+
+Evidence indicates that high fiscal uncertainty significantly reduces private sector investment and depresses GDP growth. The negative effects are even more pronounced in Pakistan due to the absence of strong stabilizing institutions. Moreover, inflationary pressures become exacerbated when fiscal uncertainty translates into monetary instability — as budget deficits are often financed through borrowing from the central bank, weakening the rupee and increasing inflation.
+
+One of the central findings is the asymmetric impact of fiscal uncertainty on different components of the economy. Consumption contracts more sharply during periods of high uncertainty, and government capital expenditures — the kind that foster long-term growth — are usually the first to be cut. This short-termist approach is deeply problematic and perpetuates a cycle of low growth and high vulnerability.
+
+Table 4: Impact FPU on Economic Indicators
+
+Economic Indicator
+Short-run Impact (%)
+Long-run Impact (%)
+
+GDP Growth
+-0.8
+-1.5
+
+Private Investment
+-1.2
+-2.1
+
+Public Investment
+-0.6
+-1.3
+
+Inflation
++0.5
++1.2
+
+Interest Rate
++0.7
++1.5
+
+Exchange Rate Volatility
++1.1
++2.0
+
+Employment Rate
+-0.9
+-1.7
+
+Consumer Confidence
+-1.4
+-2.3
+
+Table 4 showing that FPU has significant and far-reaching consequences for Pakistan’s economic trajectory. In the short run, it reduces GDP growth by 0.8%, and in the long run, the drag intensifies to 1.5%, clearly underscoring the structural damage it inflicts on long-term development. The investment climate is particularly vulnerable, with private investment declining by 2.1% in the long run. This contraction reflects how fiscal unpredictability undermines investor confidence, deters business expansion, and discourages foreign direct investment. Public investment also suffers, weakening infrastructure development and service delivery, further impeding growth potential.
+
+Moreover, fiscal uncertainty fuels macroeconomic instability. Inflation and interest rates tend to rise in response to erratic fiscal signals, imposing additional burdens on households and firms. Exchange rate volatility also intensifies, with a long-run impact of 2.0%, disrupting trade competitiveness, remittance flows, and capital inflows. These fluctuations make long-term planning difficult for businesses and policymakers alike. Finally, fiscal volatility erodes employment prospects and weakens consumer confidence—both critical drivers of aggregate demand and inclusive economic growth.
+
+Conclusion
+
+FPU carries significant economic costs. It depresses growth, deters investment, undermines macroeconomic stability, and erodes public trust in government decision-making. As the evidence shows, both short-run and long-run impacts of FPU on GDP, investment, inflation, and employment are substantial. To mitigate these risks, Pakistan’s budget for 2025–26 must be more than a revenue-expenditure statement—it must be a strategic tool for restoring credibility and ensuring predictability.
+
+If upcoming Budget is to break from the past, it must move beyond firefighting. It must build trust. That starts with anchoring fiscal policy in predictability, transparency, and law—not political cycles. Without such a reset, uncertainty will remain Pakistan’s most predictable fiscal outcome.
+
+References
+
+Fernández-Villaverde, J., Guerrón-Quintana, P., Kuester, K., & Rubio-Ramírez, J. (2015). Fiscal volatility shocks and economic activity. American Economic Review , 105 (11), 3352-3384.
+
+Born, B., & Pfeifer, J. (2014). Policy risk and the business cycle. Journal of Monetary Economics , 68 , 68-85.
+
+Anzuini, A., & Rossi, L. (2021). Fiscal policy in the US: a new measure of uncertainty and its effects on the American economy. Empirical Economics , 61 (5), 2613-2634.
+
+Wen, H., Lee, C. C., & Zhou, F. (2022). How does fiscal policy uncertainty affect corporate innovation investment? Evidence from China’s new energy industry. Energy Economics , 105 , 105767.
+
+Kontopoulos Y, Perotti R (2002) Fragmented fiscal policy. J Public Econ 86:191–222
+
+Roubini N, Sachs J (1989) Political and economic determinants of budget deficits in the industrial democracies. Eur Econ Rev 33:903–938
+
+Riaz. A (2022). Impact of Fiscal Policy Uncertainty on Macroeconomic Performance. MPhil thesis, PIDE, 2022
+
+Waheed, S (2020). The economic cost of the fiscal policy uncertainty in Pakistan. MPhil thesis, PIDE, 2020
+
+Ms. Amna Riaz is an Independent Researcher, currently working with the Pakistan Institute of Development Economics

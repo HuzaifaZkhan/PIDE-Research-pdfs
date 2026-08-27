@@ -1,0 +1,65 @@
+Pakistan Institute of Development Economics hosted a webinar titled “Artificial Intelligence (AI) and Policy in Developing Countries,” in which Shahid Mehmood, Research Fellow, PIDE, served as a moderator, and speakers of the webinar were: Saqib Hussain, Research Associate, PIDE. This webinar is about Artificial Intelligence. The objectives of the webinar were:
+
+Impact of Artificial Intelligence on occupational change in developing countries?
+
+What Artificial Intelligence can evolve future jobs in Industrial Revolution IV?
+
+Artificial Intelligence
+
+First, we need to understand what the term Artificial Intelligence means. “ Artificial Intelligence is an area of study in the field of computer science. Artificial intelligence is concerned with the development of computers able to engage in human-like thought processes such as learning, reasoning, and self-correction .” Artificial Intelligence has three layers:
+
+How AI could change the job market in the Future
+
+The diagram shows there are major industries that evolve the industry after the industrial revolution IV.
+
+The topmost industry is the Healthcare Industry. Many applications are used by developed countries in the healthcare industry, like pharmaceuticals; even AI is performing surgeries now. The most common example of AI in the healthcare industry can involve natural language processing applications. Natural language processing helps in understanding and NLP classify clinical documentation; the system can analyze unstructured clinical notes, which gives incredible insight. It improves the quality of results for the patients. So, in the healthcare sector, AI can replace the person which is doing a particular job and that could create a new job market, and a new occupation.
+
+The other sectors are Communication, the Health sector, Education, etc. In the hospitality sector, AI also evolves. A recent example there was a hotel in Japan that was named Henna. That hotel was considered the first revolutionary step toward implementing AI technology because all employees were computer reboots, including reception staff, portals, room service staff, and cleaners. But this revolutionary is not much appreciated by the consumers as they do not fully understand the customers’ issues and do not adequately respond to their queries.
+
+The lowest job creation market regarding AI is manufacturing. There is a difference between developed and developing countries in this sector. For example, in the auto market, the developed are using more reboots, and humans are replaced by AI machines in the manufacturing of different products. But developing countries rely on humans. Because developing countries do not have much infrastructure to replace humans with the machines. And the second thing which is a challenge for developing countries in the context of economics is profitability. Implementing AI is costly, especially in the countries like India, Pakistan, and Bangladesh, because of more population and the availability of cheap labor.
+
+Economic Impact of Artificial Intelligence
+
+Artificial Intelligence has different economic impacts on jobs, infrastructure, technology, machinery, and productivity. These all-factor link to each other.
+
+Jobs: There will be new jobs evolving if Artificial Intelligence is implemented, and there will be no more stagnant jobs if implement Artificial Intelligence.
+
+Infrastructure: Artificial Intelligence improves the infrastructure, and without infrastructure, improvement in AI is not possible. Developed have a much strong infrastructure; they will not take much time to invest, build, and implement AI as compared to developing countries which is the main difference between developing and developed countries.
+
+Technology: The technological aspects only improve when a country has a strong Infrastructure.
+
+Machinery and Productivity: These are the two most common parts of Artificial Intelligence. Machinery can be improved through Artificial Intelligence, and this will directly increase productivity.
+
+Since Artificial Intelligence is gaining significant importance in the current technological era, it reduces the role of development economics. Artificial Intelligence has the potential to transform the economic situation in all sectors in which some have applications, for instance, economic growth, trade, and employment. Due to recent development in Artificial Intelligence, there is a risk of losing a higher number of jobs, including cognitive and nonroutine tasks, which eventually affect every sector of the economy, especially in developing countries.
+
+Challenges for the Developing Countries
+
+The major challenges for developing countries to adopt Artificial Intelligence are:
+
+Unavailability of data: Artificial Intelligence is purely based on data, and in developing countries, the availability of data is the biggest question. The available data is not refined to implement on any application.
+
+Privacy: privacy is also a concern in developing countries. The implementation of Artificial Intelligence reduces privacy which is also a challenge for developing nations.
+
+Lack of skills: For Artificial Intelligence skills is also an important factor; without skills, the implementation of AI is not possible. The lack of skills is the biggest challenge in our countries.
+
+There is a dire need to create the necessary infrastructure and pro-technological policies and regulations that favor both technology and the labor market side coupled with financial support. The biggest thing is a framework of technological change on employment for developing countries, and this perspective does not fit as the low wage is the biggest hurdle in the implementation of Artificial Intelligence. Before adopting any technology, profit-making companies compare the profitability. It is difficult for them to bring change in labor and technology. So, the implementation of AI is a challenge for developing countries.
+
+Conclusion Remarks
+
+Without counterbalanced technologies, the ongoing development of AI will affect the current jobs. However, in developing countries, specifically in the manufacturing sector, the demand for labor will continue.
+
+The sensor technology of AI, for instance, image and speech recognition, will gradually replace human labor in relevant fields.
+
+Nurses, technicians, and other healthcare workers can benefit greatly from AI apps that collect and analyze data, allowing them to deliver a greater array of services and more accurate health advice, judgment, and treatment.
+
+AI focuses solely on computerizing labor-intensive tasks because they are likely to result in job losses, wage stagnation, and increased inequality.
+
+The improper form of Al, which focuses predominantly on automation, leans towards benefiting a small segment of influential people who are already wealthy and diplomatically strong, such as highly experienced experts and businesses that rely heavily on automation and data.
+
+It can be an engine for speeding up economic progress while also having the ability to restrain growth if the needed structure for its implementation is not in position.
+
+The consequences are still unknown and will be determined by various factors such as economic progress, persistent unemployment, population size, and the quality of human and physical resources.
+
+Vulnerable employment is less affected by digital transformation alone; instead, it is more tied to implementing labor laws and regulations.
+
+Allocating the right amount of funds to the right technologically intensive sectors and creating the right environment for digital market makers are all challenges.

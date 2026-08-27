@@ -1,0 +1,69 @@
+Rationale
+
+The use of modern IoT-related technologies including 5G and drones is becoming a center of hope against agricultural challenges such as low yield, high cost, and crop pests. Precision agriculture, facilitated by these technologies, enables the efficient utilization of resources resulting in increased crop productivity and minimized inefficiencies. The collection and analysis of data on the health of crops, soil, and patterns of weather, helped to make decisions, leading to improved allocation of resources and enhanced efficiency. Internationally, there is consensus on the increasing number of advantages of precision farming, which include notable enhancements in crop productivity, financial savings, and ecological sustainability.
+
+The Pakistan Bureau of Statistics reports that key crops such as sugarcane, wheat, and rice have significantly lower yields per hectare compared to the world average. As an example, the world average for wheat production is approximately 3.5 tons per hectare, but in Pakistan, its closer to 2.8 tons per hectare (API, 2024).
+
+The losses after harvesting always remained a matter of concern in Pakistan and in most cases, the emphasis remained on improving the storage and transportation facilities. According to reports, the average losses in fruits, grain, and vegetables are estimated between 15 to 40 percent (Firdous, 2021). The situation of food security has become worse in the past few years due to high inflation rates and the income of the farmers is compromised.
+
+Pakistan can leverage the convergence of Internet of Things (IoT) and 5G technology to address persistent obstacles in its agricultural industry. Pakistan can enhance its agricultural productivity by implementing modern farming practices.
+
+To maintain economic growth, it is important to manage the essentials of life in the country. It is possible only by improving the lives in rural areas that contribute to nearly half of the population in Pakistan. Future success in Pakistan’s agricultural sector and global leadership in sustainable agriculture hinge on the country’s adoption of these technologies.
+
+Key Findings
+
+The area under automation is increasing around the world and after the incorporation of 5G, the scope is beyond expectations. This is the reason, that developing countries are investing more in the improvement of accuracy. For instance, in the US, the largest farmers are bringing more area under cultivation with the use of drone technology harboring remote sensors. As a result of implementing this strategy, the expenses associated with inputs have decreased substantially, the use of water has become more effective, and agricultural productivity has increased. Farmers can optimize productivity and minimize losses by making well-informed decisions using real-time data and promptly adjusting to dynamic conditions.
+
+Another example is Australia which is one of the major exporters of agricultural goods and value additions. Even with the limited workforce, it is managing its global position by using smart agricultural techniques.
+
+These technological developments enable more accurate surveillance of animal movements, more effective control of feeding schedules, and improved monitoring of livestock health. As a result, there has been a rise in the output of meat and dairy products, even though there has been a significant decrease in labor expenses and an enhancement in the well-being of animals. The implementation of precision agriculture has yielded significant advantages for Japan’s rice cultivation. The use of sensors has greatly improved the accuracy of applying pesticides and fertilizers. As a consequence, there has been a rise in more sustainable agricultural methods, leading to higher rice production and reduced reliance on chemical substances.
+
+Source Credit: www.Precedenceresearch.com
+
+China has become an important case study which is not only feeding the over a billion population but also became the center of the agricultural export market. China is expanding its market with CPEC and other initiatives. The combination of AI-powered analytics and unmanned aerial vehicles allows for very efficient control of agricultural processes. Agricultural output, resource usage, and expenditure have all seen significant improvements as a result. India, a nation that relies largely on agriculture, is using precision agricultural technologies to address inefficient use of resources.
+
+Economic Impact
+
+The national economy might have a transformational impact on the adoption of the above-discussed technologies. Currently, all the economically important crops, have average yields per hectare that are significantly lower than the world average right now. As an example, although the world average for wheat output is approximately 3.5 tons per hectare, Pakistan’s average yield is closer to 2.8 tons. Pakistan may be able to raise its food products by approximately 20% or more by adopting and combining multiple modern practices. Not only would this raise food security, but it would also bring in billions of rupees more for farmers.
+
+More importantly, the targets of substantial savings can be achieved with modernization. Depending on the crop and region, farmers can decrease input costs by 15-30% by optimizing and computational monitoring. Farm operations can be enhanced by the reinvestment of these savings, which in turn boosts profitability and productivity. Pakistan may enhance market efficiency and increase food supply by decreasing post-harvest losses, which presently constitute as much as 40% of certain crops.
+
+These advancements could have a significant overall impact on Pakistan’s economy. There would be more GDP growth, millions of farmers’ livelihoods would improve, if agricultural productivity were to increase. As a whole the global ranking of the Pakistan’s agriculture can be improved. Reducing pesticide use and improving resource management would have environmental benefits as well, which would help Pakistan’s agricultural industry last and continue to be an important part of the country’s economy.
+
+Important Challenges
+
+After the emergence of pandemic, the evaluation of the different techniques applied in the smart agriculture remained in the critical evaluation and it is very important to understand them in context of Pakistani conditions for their implementation. Some of them are discussed here.
+
+In less populated areas, the lack of basic infrastructure is much more of a problem for farmers. Although it is essential for 5G networks and IoT devices to have constant internet access, it is not always available. The data required for precision agriculture is too much for many rural locations to handle on 3G or 2G networks. Without substantial investment to enhance rural internet infrastructure, its implementation’s fate would remain uncertain.
+
+Pakistan is struggling to manage the energy crisis. The high cost of electricity and lack of policies for the sustainable energy is making the condition worsen that is disappointing the local and international investors. The precision agriculture technologies rely heavily on reliable power sources and the accessibility of resources through automated systems. Unfortunately, Pakistan experiences frequent power outages, particularly in rural areas, and many farmers simply cannot afford the exorbitant electricity bills. Issues with energy have a disproportionate impact on small-scale farmers, which is biggest hurdle in compelling them to adopt the technology. We must immediately begin investing in solar power and other renewable energy sources to help farmers overcome this challenge and have access to a reliable and affordable power source.
+
+The high cost of precision agriculture technologies is another big obstacle. Important components of precision agriculture are out of reach for many Pakistani farmers, especially those operating on a smaller scale, due to a lack of finance. The lack of affordable financing options compounds this problem and prevents wider adoption. Lack of funding and interest from stakeholders is the main reason these technologies are out of reach for the farming community.
+
+Training of the field worker is another big challenge. Workers who have stuck with the same methods for decades are understandably hesitant to adopt new technology. The majority of them have no idea what 5G and other forms of precision agriculture can do for their fields. In other words, having these tools available isn’t going to cut it. Instead, it is critical to reach a consensus on the significance of precision agriculture. The influence of precision agriculture is limited and farmers are hesitant to engage in new technologies due to gaps in data availability. Farmers can avoid this issue by participating in extension and training programs that highlight the benefits of precision agriculture.
+
+Pakistan is struggling to manage its finances. It is the reason that the government inspite of great desire, is unable to provide the subsidy to the farmers. Due to decrease in foreign reserve, the import processes are becoming complicated that is discouraging the investors to introduce new technologies. Investors also don’t want to take these kinds of risks because the market is volatile, which makes long-term planning harder. For faster adaptation of technology, it is important to make sure that policies that support modernizing agriculture and making investments safe are stable and consistent.
+
+It is very important to solve these problems right away if Pakistan wants to modernize its agricultural industry. This can be done by making the facilities better, lowering the cost of energy, helping people financially, and teaching people how to use the technology.
+
+Pakistan’s political and economic situation has never lived up to what people around the world thought it would be like, but the problem is very bad right now. The government is having a hard time running things and is under a lot of political pressure. Investing and farming have lost interest because policies change quickly and conditions are hard to predict. Investors also don’t want to take these kinds of risks because the market is volatile, which makes long-term planning harder. For adaptation of IoT in agriculture, it is important to make sure that policies that support modernizing agriculture and making investments safe are stable and consistent.
+
+To achieve the modernization of Pakistan’s agricultural sector, it is imperative to promptly solve these challenges. Pakistan has the opportunity to fully harness the benefits of precision agriculture, which may significantly enhance production, sustainability, and economic growth. This can be achieved by improving infrastructure, reducing energy expenses, providing financial assistance, and offering training to users.
+
+Way Forward
+
+In the light of above mentioned facts and discussion, the importance of the IoT is evident and there is an urgent need to allocate resources for its implementation. Intervention by the government to assist farmers in the adoption of technology should be the main goal of the Agriculture departments. This can be achieved by motivating international investors and companies to establish their model systems and provide interest-free loans to farmers having the intention of developing IoT infrastructure. The aforementioned obstacles can be surmounted by investing significantly and encouraging policies for the facilitation of the formation and use of renewable energy sources including solar energy.
+
+Currently, hundreds of Pakistani students are doing research in China on agricultural projects. Pakistan has a significant opportunity to re-design its research with Chinese universities collaboration. These graduates can become an important part of agricultural development through smart technologies. Collaborative research might further propel innovation in the field.
+
+Programs for training are just as important. Farmers can be better prepared to make use of these technologies if agricultural training institutes are established with a focus on precision farming. In addition to increasing output, this will guarantee that monetary investments in technology produce the expected results.
+
+There may be a sizable monetary effect from these upgrading initiatives. The efficiency of resource utilization might lead to a 30% decrease in input prices for Pakistan’s agricultural sector if infrastructure and training were to be improved. The country’s economy would get a huge boost if farmers could earn an extra billion rupees from a 20% rise in crop yields. These adjustments would boost food security and establish Pakistan as a strong contender in the international agricultural market, which would lead to sustainable economic growth in the long term.
+
+References
+
+Khan, N., Ray, R. L., Sargani, G. R., Ihtisham, M., Khayyam, M., and Ismail, S. (2021). Current progress and future prospects of agriculture technology: Gateway to sustainable agriculture. Sustainability. 13, 4883. Available at: https://doi.org/10.3390/su13094883 [Accessed on: 18/07/2024].
+
+Pakistan Economic Survey (2024) Agriculture . 1-27. Available at: https://www.finance.gov.pk/survey/chapters_24/02-Agriculture.pdf
+
+The writers are working at Centre of Agricultural Biochemistry and Biotechnology (CABB), University of Agriculture, Faisalabad; Pakistan

@@ -1,0 +1,105 @@
+‘Capital’ in the economic context refers to assets that can be invested to generate income. With time, however, the term has gained many different usages than how it was initially used. An expanded definition of ‘capital’ now includes:
+
+i. Financial capital- funds that can be used in productive goods,
+
+ii. Physical capital- land, tool, machines and other equipment capable of production,
+
+iii. Natural capital- natural resources that can be used as raw materials in a productive process,
+
+iv. Human capital- education, skills and knowledge of individuals,
+
+v. Cultural capital- the set of values, traditions and behaviour maintained by people, and most recently
+
+vi. Social capital- trust and cohesiveness in society.
+
+While much clarity exists for understanding all sorts of capitals, social capital remains a much-confused concept. Usually mistaken for human capital, social capital has its own meaning and is used with specific connotations in different disciplines. This BASIC Note would help explain the concept of social capital.
+
+Multi-vocality of the Concept
+
+During the last three decades, the concept of social capital has been used by many disciplines, each with its own definition. Sociologists and political scientists refer to social capital as networks of social relations which are characterized by norms of trust and reciprocity that result in mutual benefits (including the works of Bourdieu 1993; Putman, Leonardi and Nanetti 1993; Stone, et al. 2003; Woolcock 2000; and Rose 2000). There are others who consider social capital to facilitate certain actions of actors within a social structure (Coleman, 1988). These structures do not just include informal horizontal relationships and vertical hierarchical organizations but also the formalization of institutional relationships.
+
+Economists stress the contribution of social capital to economic growth at all levels- individual, community and macro-economy (Chou 2006; Iyer, Kitson and Toh 2005). Some of the prominent economists, including Solow (2000) and Arrow (2000), however, object to the term ‘capital’ as, according to them, it implies an economic good, an extension of time and a deliberate sacrifice in the present to reap the benefit in the future- qualities that they found the concept of ‘social capital’ lacking. These objections by economists are best discounted by Bourdieu (1986) in his The Forms of Capital. [1]
+
+Social capital is considered a key asset for individuals and communities in the development process (McAslan, 2002). Social capital entails the idea of social relations between individuals and groups (Willis, 2002)- these relationships are based on trust, reciprocity, and socio-economic exchanges. Willis (2002), while explaining social capital, also draws a commonality between social capital and economic capital or human capital by asserting that social capital functions as an asset that individuals and groups use to contribute to their socio-economic growth. Therefore, the groups or individuals who inhabit more social capital show more advancement than those who lack social capital and are marginalized or ostracized.
+
+Social Capital as an Instrument
+
+McAslan (2002) describes two types of capital inhabited by individuals and groups: bonding capital and bridging capital. Bonding capital articulates links between individuals and groups of similar backgrounds, communities, or social groups, whereas bridging capital describes the links between individuals or groups outside their groups or communities. Woolcock (2000), in addition, talks about Linking Capital- linkages that enable individuals and groups to leverage resources and ideas from formal institutions and those in positions of power or authority.
+
+For a social structure to work cohesively, there needs to be a good balance between bonding , bridging and linking . Any imbalance among the three processes can lead to social disruption and be counterproductive. For instance, the dominance of bonding over bridging can result in a scenario where a group is internally strong due to the mutual trust and cooperation norms, but because of weak bridging becomes isolationist, less tolerant and pursue narrow and self-serving goals. Bonding without bridging has thus the potential to hinder social cohesion. Cartels, smugglers, and terrorist groups are classic examples of highly bonded groups without bridging and linking social capital.
+
+________
+
+[1] https://home.iitk.ac.in/
+
+________
+
+If the ‘bonding, bridging and linking’ triangle of social capital (presented in the figure) is truly integrated, society sees high social cohesion reflected in the rule of law, social inclusion, access and equality of opportunities and efficient and non-corrupt means of governance. On the contrary, if the horizontal and/or vertical linkages are weak, society would see low social cohesion exhibiting itself through oppressive and authoritarian rule, social inequality/inequity and exclusion, and a corrupt and inefficient means of governance.
+
+So, what makes social capital important in the development context? Evidence suggests that social capital can help improve the level and usage of human, natural, physical, and financial capitals by acting as a mediating agent. This, however, is not a one-way relationship and other forms of capital also affect the strength of any population’s social capital. Social capital plays a mediating role in achieving other objectives, be they related to employment, education, poverty alleviation, finalization of business contracts or health. Strong social capital, through trust, acceptance, and cooperation, helps achieve better outcomes for education, such as higher retention rates. Likewise, various patterns of social networks, including the security of the employment contract and trust in the co-worker support, can lead to higher acceptance of job offers, higher reported job satisfaction and lower rates of quitting without being necessarily paid higher wages. Social capital has palpable benefits for the economy, evident in its potential to lower transaction costs and the flow of relevant knowledge through social networks. Costs linked to negotiations and enforcement of a transaction are lowered when trust and cooperation exist between those involved.
+
+The Sociological Lens
+
+Sociological theories are revisited in the following text to understand the complexity underlying social interactions, relationships, power dynamics, and how this complexity explains social capital.
+
+Durkhiem (1993), while detailing the difference between mechanical solidarity and organic solidarity, describes that in pre-modern societies, subservience to power and authority resulted from habit and social bonds developed from similarities in socio-economic statuses. In modern societies, however, organic solidarity exists wherein individuals and groups, despite being socio-economically, ethnically, and culturally heterogeneous, develop and sustain social ties. The social relationship between the groups defines exchanges. Hence the role of social relations in creating, maintaining, and broadening the functioning of modern society was conceptualised long before the contemporary sociological theorists articulated the recent debates.
+
+Bourdieu (1977) understands the complexity of power existing among human interactions and relations. Bourdieu’s understanding of social capital is based on field, habitus, and capital concepts. To Bourdieu, the field is a place of action and struggle where agents (individuals) and institutions (rules, codes, or principles defined along the axes of social, cultural, political, religious, and economic institutions) intersect. These points of intersection are termed interactions which can take the form of discussions, contestations, negotiations, and conflicts. These fields are essentially social fields where such interactions take place. The agents in these social fields fill in different dominant and dominated positions, which also hints at what agents can do and cannot do. Hence these fields tend to become spaces of power where the positioning of agents in the power relations are differentiated based on the amount and the type of capital they possess.
+
+The four forms of capital, as theorised by Bourdieu, include economic (revenue-driven), cultural (embodied, objectified, and institutionalized forms), social (reciprocity, nobility, and exchanges), and symbolic (respect, rank, prestige, and status). Another factor that plays out significant in ascertaining a person’s influential position in a social field is Habitus. According to Bourdieu (1977), an agent’s position in power relations also depends on one’s language, tastes, lifestyle, and indispositions, shaped by that person’s Habitus. These manifestations of individuals’ preferences, orientations, and indispositions are structured by their past experiences, feelings, perceptions, actions, and evaluations, which Bourdieu calls Habitus. According to Bourdieu, differential access to resources results from inequality in the distribution of cultural or economic capital, which results from how smoothly people mobilize a group (including but not limited to the family, kin, club, elite schools, etc.). The intersectionality of the habitus, social institutions, and field can be understood in how Bourdieu and Wacquant (1992) define social capital.
+
+“Social capital is the sum of resources, actual or virtual, that accrue to an individual or a group by possessing a durable network of institutionalized relationships of mutual acquaintance and recognition.”
+
+(Bourdieu and Wacquant 1992: 119)
+
+Coleman (1990) explains that social capital is not just limited to the powerful but can be helpful in the financial and social security of the poor and the marginalized. Trust, shared values, and mutual reciprocity does not confine to a given individual, group, or community. These shared values connect socially heterogeneous individuals and groups to achieve variant goals, the most pertinent being a child’s social and cognitive development. Social capital is not merely an instrument of privilege for the rich but rather an asset for the disadvantaged and the deprived.
+
+“The norms, the social networks, and the relationships between adults and children are of value for the child’s growing up. Social capital exists within the family, but also outside the family, in the community.”
+
+(Coleman 1990: 334)
+
+Putnam (1993) illustrates social capital as an economic input used for producing an outcome that can be profitable, can be invested in, and earn a return on. Putnam (1993) grounds his argument about social capital on the performance of regional administrations in the North and South of Italy. Using an institutionalist lens to understand the performance of public policy actors, Putnam explained that the relatively successful institutional performance of the northern regions was due to mutual interrelationships between government and civil society. The autonomous functioning of medieval guilds, well-oiled functioning of state machinery, and self-regulating city-states are the reasons for the mutual trust, reciprocity, and interrelationships in the North of Italy. On the other hand, the lack of mutual trust and reciprocity fueled mistrust and unrest between the government and civil society. This is the reason for the inconsistent institutional performance of the southern regions of Italy. Based on this example, Putnam (1993) identifies the role of civic engagement, trust, norms, and networks in institutional performances and funnels social capital down to:
+
+“Social capital here refers to features of social organization, such as trust, norms, and networks, that can improve the efficiency of society by facilitating coordinated actions.”
+
+(Putnam, 1993a: 167)
+
+It is also reflected in the most recent literature that people who cooperate achieve their goals. The achievement of their goals hinges upon previous knowledge people has of one another and the fact that they trust each other without being wronged, exploited, or defrauded. Coleman is critical of the field of economics in which economists used to ignore the role of trust in the economic lives of people and the business decisions people take. Coleman (1990) asserts that there are two sides to an individual, a micro-level (utilitarian, profit-maximizing, and self-satiating) and a macro-level (a social system composed of individuals who are connected, develop networks, and build trust with each other). Coleman (1990) is critical of economics scholarship, which fails to see the transformation of an individual from a micro-level to a macro-level. This transformation hinges upon trust and frails through mistrust. Bourdieu (1977) does not compulsorily speak on trust but recognizes that in elite groups, trust plays a critical role in their social network expansion. More recently, Fukuyama (1995) pinpoints trust as an essential component of social capital. According to Fukuyama (1995):
+
+“Social capital is a capability that arises from the prevalence of trust in a society or certain parts of it.”
+
+(Fukuyama 1995: 26)
+
+These theorisations of social capital manifest that networks, ties, relationships, reciprocities, and bonds are structured around social units. These social units can be detailed along kinship, family, friends, groups, powerful factions, politicians, pressure groups, peer groups, community mobilisers, cultural actors, and civil society. These social units use ties and relationships to build trust, actualize a sense of belonging, form associations, and materialise shared goals and objectives.
+
+References
+
+Arrow, K. J. (2000). Social capital: A multifaceted perspective ). Observations on social capital. In Dasgupta, and I. Serageldin (Eds.),. Washington DC: World Bank.
+
+Bourdieu, P. and Wacquant, Loic J. D. (1992). An Invitation to Reflexive Sociology. Chicago: The University of Chicago Press.
+
+Bourdieu, P. (1977). Outline of a Theory of Practice . Cambridge: Cambridge University Press.
+
+Chou, Y. K. (2006). Three simple models of social capital and economic growth, Journal of Behavioral and Experimental Economics , 35 (5), 889-912.
+
+Coleman, J. S. (1990). The Foundations of Social Theory . Cambridge, Mass: Harvard University Press.
+
+Durkheim, Emile. (1933). The Division of Labor in Society, Translated by George Simpson, The Free Press, New York.
+
+Fukuyama, F. (1995). Trust: the social virtues and the creation of prosperity , Hamish Hamilton, London.
+
+Iyer, Sriya., Kitson, Michael. and Toh, Bernard. (2005). Social capital, economic growth and regional development, Regional Studies , 39(8), 1015-1040.
+
+McAslan, E. (2002). Social Capital and Development, in V. Desai and R. Potter (eds). The Companion to Development Studies , London, pp. 139-43.
+
+Putnam, Robert. (1993). The Prosperous Community. The American Prospect, 4(13):35-42.
+
+Putnam, R. D. (1993). Making Democracy Work: Civic Traditions in Modern Italy . Greenwood Publishing Group.
+
+Rose, R. (2000). How much does social capital add to individual health? A survey study of Russians, Social Science & Medicine , 51(9), 1421-1435.
+
+Solow, R. (2000). Notes on social capital and economic performance. In Dasgupta, P., Serageldin, I. (Eds), Social Capital, A Multifaceted Perspective . Washington: The World Bank.
+
+Willis, Katie. (2002). Theories and Practices of Development , New York, Routledge.
+
+Woolcock, Michael. (2001). The Place of Social Capital in Understanding Social and Economic Outcome. Canadian Journal of Policy Research .

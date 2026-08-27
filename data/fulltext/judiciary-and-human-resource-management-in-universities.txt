@@ -1,0 +1,95 @@
+Judiciary and Human Resource Management in Universities
+
+Ghulam Mustafa and Abid Rehman[1]
+
+Background & Motivation
+
+While we pay homage to human capital and development, human resource management which is how human capital is used in organizations remains subject to outmoded rule enforced by courts without contextual knowledge. Pakistan’s public sector universities have no exception in experiencing conflict or disputes between faculty and administration. Failing to resolve conflict internally, one party drags the matter in civil courts to superior judicial forums such as the high court, and Supreme Court, etc. Also, In the case of Pakistan, due to ineffective judicial accountability, judicial system, and complex service structure, court takes the cases without have proper penalty mechanism after provision of testimony by HR experts for the loser party in case or wrong litigation/defamation.
+
+In respect of the above-mentioned brief discussion, the underlying piece of Knowledge brief aims to identify the following questions.
+
+On average, how many cases or matters of conflict between faculty and public sector administration are being prosecuted in courts?
+
+What is the nature of the unresolved conflict and cost of litigation between faculty and public sector university administration which is being sued in the courts?
+
+What judicial reforms and internal mechanism are required in order to avoid very case to be pursued in the court?
+
+____________
+
+[1] Authors are Research Fellows at Pakistan Institute of Development Economics (PIDE), Islamabad respectively
+
+Number of Cases Filed
+
+To know, on average, how many cases are being filed in service tribunals and higher courts by the faculty, we gathered information matters from 15 public sector universities on currently filed cases (detail of the survey is given in box-1). From surveyed Pakistani universities, we have found that, on average, 105 conflict cases are being prosecuted in courts to be settled the matters between faculty and administration of all surveyed universities. Moreover, on average 50 cases from relatively younger public sector universities, while on average 160 conflict cases are being sued in any form of the courts (see Figure 01a).
+
+Disaggregation of the cases into academic & non-academic faculty showcases that out of sampled universities, on the whole, 58 percent of the cases are filed by academic faculty, while 42 percent of the cases are sued by non-academic faculty (see Figure 02).
+
+Virtually 64 percent of the academic faculty from younger universities are found filing cases in the courts, while 52 percent of the academic faculty are from older universities (see Figure 02). These estimates demonstrate that on average, academic faculty has a relatively higher percentage of cases filed in the courts.
+
+Box-1 Data & Methodology
+
+In order to accomplish underlying research, we have collected data through primary sources. For this purpose, data is collected through universities to explore the matters which are being prosecuted by courts, and data is also collected through lawyers to gauge the litigation cost of the service tribunal cases.
+
+Data Collection Through Universities :
+
+Initially, we planned to collect information on a number of cases, and their nature from 50 public sector universities across
+
+Nonetheless, we came to know that universities were extremely reluctant to share such information. With our best efforts, we were able to gather information from 15 public sector universities.
+
+So, for data collection, convenient sampling has been implemented. Here, universities are classified into two broad categories: (i) older universities (i.e., established before 2005), and (ii) younger universities (i.e., established after 2005).
+
+Data Collection Through Lawyers :
+
+To gauge the litigation cost of the service-related matters, we approached 15 lawyers— 13 lawyers from the Service Tribunal (3 from Lahore, 5 from Islamabad, 2 from Peshawar, and 3 from Multan) and 2 lawyers from Islamabad high courts. Like university data, convenient sampling has been implemented to collect information from the lawyers.
+
+Nature of the Cases and Cost of Litigation Being Prosecuted in Courts
+
+We have asked about the nature of those cases which are being prosecuted in the courts. On average, surveyed older universities report that out of the total cases being sued in the courts, virtually 70 percent of cases belong to promotion, 18 percent of cases are sued by faculty who want to be permanent, while almost 5 percent of cases are sued by students on multiple issues.
+
+Like older universities, 60 percent of cases are related to promotion, while 25 percent of cases are pertaining to the persons who want to be permanent.
+
+Figure 03 demonstrates that by and large 65 percent of the total cases being sued in the courts are related to promotions, 22 percent are related to being permanent, while 8 percent of cases are related to the student’s matters related to examination or other issues.
+
+Delving into the promotion and restoration cases by academic and non-academic faculty exhibits that virtually 67 percent of the cases pertaining to the restoration of the non-academic faculty, while 33 percent of the cases related to restoration are being sued by academic faculty of the public sector universities (see Figure 04a).
+
+Similarly, 65 percent of the cases related to promotion cases are being sued by the academic faculty, whereas 35 percent of matters in courts are being sued by the non-academic faculty of the public sector universities of Pakistan (see Figure 04b).
+
+To know the litigation cost of the matters, we collected data from 15 lawyers who have been dealing with cases related to service matters. Findings from the survey demonstrate that the cost of litigation is determined by the following factors including either applicant is an Individual/ single person or a group, Pay scale or salaries of the applicant and repute of lawyer.
+
+Gauging average litigation, we asked the surveyed lawyers to throw out any range of the average litigation cost mentioned in Table 01.
+
+Surveyed lawyers reveal that on average each case takes 6 months to be a decision made by service tribunals. The time duration can linger if the applicant takes the matter into high/supreme courts in the case of losing the matter in service tribunals.
+
+judicial Reforms and Internal mechanism from World Practices
+
+The available best practices (Watson et al., 2017) reveal that conflict in educational institutes is resolved through effective and inclusive internal mechanisms of accountability in the majority of developed and developing countries. Worldwide most of the faculty conflicts or disputes are by following Mechanisms before going to any court.
+
+Faculty Grievance System (FGS)
+
+integrated conflict management system (ICMS)
+
+For example, in Georgia, the FGS procedures involve a predictable series of steps. In the first step, the grievant presents his or her evidence in support of the grievance to a representative of the institution’s administration, along with a proposed solution. The president or his or her representative must make a reply within a set period.
+
+If the issue cannot be resolved at this level, an internal or external review panel is set up to make an advisory recommendation to the administration and the grievant regarding a resolution.
+
+Whereas, in the ICMS, Consortium on Negotiation and Conflict Resolution (CNCR) was first introduced by the University System of Georgia (USG), which was responsible to resolve conflicts and disputes in higher education institutions (HEIs) in the state. All public HEIs in Georgia were unified as the USG under a single governing body, the board of regents, and a chief executive officer, the chancellors.
+
+Conclusion and Recommendations
+
+Promotion and being permanent from contractual status are the leading sources of disputes between the faculty and University administration.
+
+Average cost of litigation for lower scales ranges from PKR 50,000 to 200,000 per person, while for higher ranks it ranges from PKR 150,000 to 500,000 per person.
+
+People often go to courts because there is no penalty in the case of losing case by one party.
+
+Study recommends either proper penalty mechanism after provision of testimony by HR experts for the loser party in case or wrong litigation/defamation or develop the effective and inclusive mechanisms of conflict management learning from best practices.
+
+There should be Human Resource Experts in the courts that can provide valuable insights into the company’s policies, practices, and procedures related to the issues raised in the lawsuit before taking case in the court.
+
+Additionally, human resource experts can provide testimony about the actions taken by the employer in response to the employee’s complaints or grievances.
+
+References
+
+Watson, N. T., Watson, K. L., & Stanley, C. A. (2017). In F. Nafukho & B. Irby (Eds.), Conflict management and dialogue in higher education: A global perspective (2nd ed.). Charlotte, NC: Information Age Publishing.
+
+Yarn, D. (2014). Designing a conflict management system for higher education: A case study for design in integrative organizations. Conflict Resolution Quarterly, 32(1), 83-105.

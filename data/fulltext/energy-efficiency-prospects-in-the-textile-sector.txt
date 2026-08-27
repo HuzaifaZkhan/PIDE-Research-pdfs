@@ -1,0 +1,178 @@
+Introduction
+
+Global energy consumption is on the rise, and Pakistan is no exception. Since 2000, primary energy consumption in Pakistan has increased from 484 terawatt-hours (TWh) in 2000 to 1071 TWh in 2021 [2] . The textile industry in Pakistan is one of the largest electricity consumers, making it a promising candidate for energy efficiency measures. The textile sector is a significant contributor to Pakistan’s economy. More than 61% of Pakistan’s total exports are textile and apparel, and the sector directly employs about 40% of the nation’s industrial labor force. [3] The sector’s contribution to GDP is about 8.5%.
+
+This knowledge brief discusses a sustainable solution for managing the increasing energy demand in Pakistan’s industrial sector, notably in the textile industry. The textile industry has undoubtedly made considerable progress in reducing energy consumption by adopting various measures such as installing smart meters [4] , optimizing thermal utilization, introducing fuel economy standards, implementing controls to lessen compressed air leaks, and improving electrical motor maintenance. Despite the advancements made, this sector still has a considerable amount of energy-saving potential, which can lead to significant cost savings.
+
+Energy Consumption in Pakistan
+
+Pakistan’s total energy consumption is TOE is 60.21 million [5] . By adopting clean and efficient technology, Pakistan could save 10-12 million TOE of primary energy supply [6] . Investing in energy efficiency can have a noteworthy impact on the economy, primarily when it relies significantly on energy imports. The National Energy Efficiency and Conservation Authority (NEECA) aims to save about 3 million TOE of energy through various sector-wide interventions by 2025. Furthermore, increasing energy productivity can lead to a 5% increase in GDP in the next five to seven years [7] .
+
+Energy Consumption in Industry
+
+The industrial sector is the most energy-intensive economic sectors of Pakistan. In 2021, its consumption stood at 40.10% of final energy consumption ( Figure 1), accounting for more than 18% of all national GHG [8] emissions [9] . Figure 2 demonstrates energy efficiency or productivity in the industrial sector since 2010.
+
+.
+
+Source: Author’s Estimate based on data from World Development Indicators and Pakistan Energy Yearbook (various Years)
+
+In Figure 2, energy has been converted to measure industrial energy efficiency. One reason of decline in industrial energy efficiency over the past eleven years can be attributed to the increased cost of imported fuel. The elevated expense of fuel not only raises electricity costs, but also impacts the efficiency of the power sector. In 2021, the cost of power generation was higher by approximately 20-25% compared to previous years, primarily due to the surge in global energy prices and a decrease in the production of domestic energy resources. This situation necessitates taking measures to use energy more efficiently, since energy consumption in industrial sector is predicted to increase in the coming years[10]. The estimates based on Pakistan’s urbanization and industrial GDP growth trends indicate that by 2030, coal consumption in the industrial sector will continue to increase and account for 56% of total energy consumption, followed by natural gas consumption at 28%. Overall electricity consumption is also anticipated to increase gradually over time.
+
+Energy Efficiency Prospects
+
+Pakistan’s industrial sector has great energy and cost savings potential ( Table 1). In 2021, industry consumed 1.4 MTOE of oil, 7.8 MTOE of gas, 2.4 MTOE of electricity, and 12.4 MTOE of coal [11] . Since Pakistan’s textile sector is the major contributor to its economic growth, it is imperative to discuss its energy needs. The textile industry is a major consumer of gas and electricity. It accounts for 28% of the overall electricity and 40 % of the natural gas industries consume. Investing in energy efficiency measures in the textile industry can yield significant benefits. In particular, the textile spinning and processing sub-sectors has the potential to save 2404 GWh of energy and reduce costs by more than 6 billion PKR [12] ( Table 1). The performance of spinning mills is closely linked to the rotor speed; any inconsistency in energy supply can disrupt this, leading to reduced efficiency. It also impacts the contribution of energy costs in overall manufacturing costs. Admittedly, due to its reliance on off-grid captive generation, the overall energy consumption in the textile industry in Pakistan is undocumented [13] .
+
+The State Bank of Pakistan (SBP) reveals that the textile sector accounts for 60% of recent TERF loan applications, securing $1.60 billion in investments during the first half of the fiscal year. The sector’s substantial demand for loans is attributed to competitive energy tariff rates and concessionary mark-ups [14] . Effective energy management techniques, new technologies, and practices can help the industrial sector become more energy-efficient [15] . The most energy efficiency improvements can be made by taking the simplest possible actions in the industrial sector ( Box 1).
+
+Table 1: Energy & Cost-Saving Potential in the Industrial Sector of Pakistan
+
+Industry
+National Sector Wide Energy Savings (%)
+Energy Saving Estimates per year (GWh)
+Associated Cost Saving per year (Million PKR)
+
+Textile Spinning
+3.50%
+248
+2,075
+
+Textile processing
+18.40%
+2156
+4,262
+
+Sugar
+3.60%
+1150
+1,698
+
+Leather
+6.90%
+10
+14
+
+Pulp & Paper
+6.30%
+167
+142
+
+Total
+
+3,731
+8,191
+
+Source: IFC-funded Study “Sustainable Growth: Cleaner Production in Pakistan” by National Productivity Organization (NPO) & Cleaner Production Institute (CPI), 2016
+
+In 2016, IFC collaborated with the National Productivity Organization and Cleaner Production Institute to conduct a study, “Sustainable Growth: Cleaner Production in Pakistan.” It revealed that Pakistan’s industrial sector has the potential to save up to US$ 4 billion through energy efficiency improvements, which typically have a payback period of five years. According to the study, rising energy prices and uncertain energy supply in Pakistan are the driving factors to force industries to adopt energy-efficient measures to save on the production cost. Thus, by proper retrofitting and tuning up an optimal combustion, efficiency can be achieved in the industrial boilers, furnaces, and captive generators mainly run by gas. One milestone can be deploying an energy management system (EMS: Box 1) (with an investment of US$ 3 billion) and energy managers across the industrial sector for knowledge sharing and documentation.
+
+Role of NEECA in Promoting Energy Efficiency and Conservation in the Textile Industry
+
+NEECA—the National Energy Efficiency and Conservation Authority, is a government body aiming to promote energy efficiency and conservation practices across different sectors within Pakistan’s economy. NEECA regulates various sectors across the country including the textile sector, to promote energy efficiency, reduce environmental impact, control energy costs, and improve market access. NEECA has been mandated to promote energy efficiency in the industrial sector by relaxing custom duties on energy-efficient equipment. The textile industry can benefit significantly from implementing customs duty exemptions on energy-efficient equipment and machinery, on-bill financing schemes, soft loans, and other financial incentives for introducing energy efficiency practices.
+
+NEECA has proposed an Action Plan for 2023-2030 to maximize national prosperity through efficient and eco-friendly use of energy and natural resources. Some policy targets are mentioned
+
+in Box 2. All that is required is its effective implementation. Currently, overall energy efficiency trend in the country is almost flat annually since 2000 in real terms. Almost no change in the last two decades.
+
+To counter this, NEECA planned to pursue the overarching goal of 9 MTOE reduction in the primary energy consumption and GHG emission reduction of 35 MTCO2 cumulative in Pakistan in the period of 2023-2030. The twenty-seven actions have been prioritized across five key sectors of the economy: industry, buildings, transport, and agriculture on the demand side and energy sector on the supply side, across cross-cutting areas.
+
+As per information on its website, NEECA has planned to invest US$ 1.1 billion in the textile sector by installing meter controls to lessen compressed air leakages and to improve the maintenance of electric motors [16] . Some measures have already been taken; for instance, over 100 textile industries have installed energy meters’ automatic control systems to monitor energy consumption. Some of the necessary actions mentioned in Box 1 and 2 are taken to ensure energy savings of up to 0.2 MTOE in the textile industry.
+
+Energy audit reports for 200 textile industrial units were expected to be available by 2023, using specific formats. Under the directives of the Cabinet Committee on Energy (CCOE), NEECA announced an “Energy Audit of Captive Power Plants” (2020). However, these energy audits have proved challenging for the government as the textile and other industries have obtained a stay order from the Sindh High Court [17] . As a result, these audits are yet to be conducted.
+
+Textile Industry Challenges
+
+It is important to note that the textile industry is crucial for Pakistan’s economy as it helps the country earn foreign exchange. The challenges the textile industry is facing has impacted its productivity, competitiveness, and sustainability over time. Energy related challenges are among the leading factors affecting, in particular, the export-oriented sectors (Fraz et al., 2023) [18] . Energy shortages are disrupting the supply chain in various ways, as highlighted in Table 2. Therefore, it is vital to ensure a constant and uninterrupted energy supply across all units of the textile supply chain. On the other hand, all the major textile heads in the supply chain are energy-intensive, starting from fiber production to apparel production ( Figure 3).
+
+Table 2: Energy Shortages Impact on Textile Supply Chain
+
+Main Energy Intensive Textile Heads
+Impact of Energy Shortage
+
+Spinning (Export Driven Sector)
+Disruptions in operations
+
+Appx 2.5 million workers lost jobs [19] .
+
+High power rate burden
+
+Weaving & Knitting (Export Driven Sector)
+Delayed Production
+
+The garment industry registered nominal growth due to power shortages [20]
+
+Dyeing/ Finishing
+Quality and operations delays
+
+Garments Stitching
+Low production & missed timelines
+
+Printing Fabric
+Final design and color issues may arise
+
+Large industrial units, such as textiles, often have captive generation capacity. Yet, most units employ standby generators as a backup option to meet their energy needs in case of power disruptions from the grid. Thus, their grid reliance is low. Annually, this costs 1 billion USD on imports of backup generators (ABB, 2011) [21] .
+
+In 2019, UNIDO audited five sectors: ceramic, dairy, foundry, pulp and paper, and textile. The report primarily evaluates the Sustainable Energy Initiative for Industries in Pakistan (REEE) . It confirms that various industries, including the textile sector, are adopting energy-efficient measures to reduce operational costs. Several textile industries have incorporated solar photovoltaic systems in their captive energy production mix. This is because it is more cost-effective than using the grid or natural gas [22] .
+
+According to IFC (2016), industries are taking decisive actions to reduce their energy consumption due to energy scarcity and increasing prices. Several industrial facilities, including those in the textile and sugar industries, have already managed to save PKR 381 million or 287 GWh (or 15% of the present electricity usage) by voluntarily employing energy management technology and energy conservation methods. But more on a large scale needs to be done.
+
+The EU’s CBAM may create significant consequences for textile and garment exporters such as tax on emission of greenhouse gasses making product expensive for exporter and obscuring supply chains [23] .
+
+Way Forward
+
+The textile industry is energy intensive. Implementing energy-efficient technologies and practices can help the sector reduce operational expenses, decrease greenhouse gas emissions, and increase export competitiveness. Industry can significantly improve its energy efficiency and sustainability by optimizing resource utilization.
+
+Pakistan’s textile sector has limited capital investment, low awareness about energy efficiency, high costs, outdated equipment, increased wastage and leakages, inadequate technical skills, and resistance to change. Overcoming these hurdles can significantly enhance energy efficiency and boost textile exports.
+
+The textile sector could benefit significantly from international collaboration and networking opportunities, which can create an environment that encourages the adoption of energy efficiency measures. It is crucial to involve all key players and increase awareness and advocacy to promote a nationwide shift towards energy efficiency.
+
+Securing an uninterrupted and sufficient energy provision for the textile industry has the potential to significantly improve energy efficiency. A steady energy supply enables textile operations to uphold consistent production processes, reducing energy losses caused by frequent machine startups and shutdowns. This stability brings confidence in investing in energy-efficient technologies, as the predictable return on investment becomes more evident.
+
+Globally, export markets are adopting various trade tools and agreements, like the EU’s Carbon Border Adjustment Mechanism (1), Generalized Scheme of Preference Plus (GSP+), etc., to reduce GHG emissions [24] . Efficiency gains in the textile industry can be achieved by optimizing various sub-sectors. That is, by improving the efficiency of compressors, heat transfer and recovery systems, lighting, motors, power factor correction panels, process control, steam systems, and variable frequency drives (VFDs). These improvements can save energy significantly and make the export-oriented sector more competitive.
+
+[1] We are really thankful to Dr. Nadeem-ul-Haque for his support. We are equally grateful to Mr. Shahid Sattar (former member Planning Commission) for his valuable comments and suggestions to improve this knowledge brief. We do acknowledge the support and guidance offered by Ms. Afia Malik.
+
+[2] https://ourworldindata.org/energy/country/pakistan?country=~PAK#how-much-energy-does-the-country-consume-each-year
+
+[3] https://www.innovationintextiles.com/prospects-for-the-textile-and-clothing-industry-in-pakistan-2022/#:~:text=The%20textile%20and%20clothing%20industry%20in%20Pakistan%20is%20of%20major,the%20country’s%20total%20industrial%20workforce
+
+[4] https://aptma.org.pk/wp-content/uploads/2023/07/APTMA-Management-Report-June-2023-without-Accounts-and-with-Attachments.pdf
+
+[5] Pakistan Energy Yearbook 2021
+
+[6] https://pide.org.pk/research/energy-efficiency-and-conservation-in-pakistan/
+
+[7] https://pide.org.pk/research/energy-efficiency-and-conservation-in-pakistan/
+
+[8] GHG stands for Green House Gas
+
+[9] International Institute for Sustainable Development, IISD
+
+[10] https://www.pc.gov.pk/uploads/report/IEP_Outlook_Final.pdf
+
+[11] Pakistan Energy Yearbook 2021
+
+[12] https://www.undp.org/sites/g/files/zskgke326/files/migration/pk/National-Action-Plan—Final-28th-Nov-2019.pdf
+
+[13] https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/24906/Assessing%20Industrial%20Energy%20Transition%20in%20Pakistan%27s%20Textile%20Sector.pdf?sequence=1&isAllowed=y
+
+[14] https://www.pide.org.pk/Research/Regionally-Competitive-Energy-Tariffs.pdf
+
+[15] https://neeca.gov.pk/SiteImage/Downloads/DRAFT%20NEEC%20ACTION%20PLAN%202023-2030.pdf
+
+[16] Ibid
+
+[17] https://tribune.com.pk/story/2281470/audit-of-inefficient-plants-halted
+
+[18] https://pide.org.pk/research/sectoral-total-factor-productivity-in-pakistan/
+
+[19] Source: Nation, 2023
+
+[20] Source: F2F, 2023
+
+[21] Trends in Global Energy Efficiency: An Analysis of Industry and Utilities, ABB (2011)
+
+[22] Ibid
+
+[23] https://www.texintel.com/press-room/new-eu-carbon-emissions-tariff-will-significantly-impact-textile-imports-to-the-eu
+
+[24] https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en

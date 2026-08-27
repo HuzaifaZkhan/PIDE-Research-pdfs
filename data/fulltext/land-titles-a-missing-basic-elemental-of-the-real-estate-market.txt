@@ -1,0 +1,211 @@
+Key Findings
+
+No titles to land in the existing land titling system therefore instruments in the contemporary system are not instruments of title and hence are not conclusive.
+
+Records of right are not instruments of titles only carry the presumption of truth
+
+Mutation since not part of the record of right, does not even carry the presumption of truth and is neither document of title.
+
+Transfer deed registration does not equate to the registration of title/right rather it just adds the element of presumption of truth.
+
+So, the contemporary does not provide titles to land and hence not a land titling system. Rather a land record management system that just registers the tools and records the rights transferred based on those tools.
+
+Multiple agencies are handling records pertaining to land and records keeping is just for revenue generation purposes.
+
+The system itself is outdated and has serious implications for the economy and society since land is not part of the economic transactions due to unclear and dubious property rights.
+
+Past transactions and transfer of rights are needed to establish the chain of ownership.
+
+Torrens is the only way forward, as it will provide title to land in a transparent and effective manner.
+
+1.Introduction
+
+One of the fundamental objectives of market regulations is to ensure the smooth and secure transfer of rights, among other key functions (Roth, 2015). In the case of the real estate market, land titles need to be accurate, clear, and up-to-date to ensure transparent rights that have been traded in the market (De Soto, 2001). Unfortunately, the current land record management system in Pakistan is outdated and does not cater to modern needs. The system is prone to errors and mistakes, therefore, the rights it generates are dubious and the cause of almost all major disputes in real estate transactions.
+
+The land record has a long history in the Indian subcontinent, but the British formalized and codified it and introduced a systematic land revenue system. Therefore, the land record system was primarily intended to seek revenue collection and did not aim to establish any kind of land titles. Although different initiatives to modernize the system were taken, none of them meant to create transparent and enforceable land titles. Currently, the major sources of land revenue are stamp duties and registration fees, along with a smaller proportion of property value tax.
+
+Figure 1 : Revenue Generation from land
+
+Source: Punjab-zameen.gov.pk, Sindhzameen.gos.pk
+
+The land recording system in Pakistan is a devolved subject and the existing system is characterized by a complex and opaque institutional setup involving multiple agencies. The Board of Revenue (BOR) is the primary agency for land administration, but its main role has shifted from revenue collection to being the custodian of land rights records, especially in rural areas. While Excise and Taxation Department (ETD) is now responsible for revenue collection in urban areas of Pakistan. In urban areas, development authorities also have the legal power to be involved in land record management by issuing allotment and exemption letters. Besides, private housing societies have their own mechanisms to manage land records under their jurisdiction.
+
+Mechanism of property transfer and registration
+
+The existing property transfer and registration mechanism in Pakistan constitute two distinct tasks. The first task is to obtain a transfer deed (land registry), which is a legal document serving as legal proof of ownership. The transfer deed is an agreement of land transaction between the buyer and seller, executed by the lawyer. Later substantiated by registration at the Registrar’s Office of BOR. However, the transfer will only be completed after the mutation[1] takes place in the official record. Without mutation in the record, the transfer of property rights in Pakistan may not be verified. Therefore, the second task is to update the land record, which is kept by Patwaris/Arazi Record Centers. The buyer registers the land transaction under his name in the record of rights on the base of the transfer deed the land registry serves only as proof of ownership but must be complemented by a mutation in the record of rights to make it legally effective in the contemporary system.
+
+Due to the outdated and paper-based record system, real estate transactions especially in rural areas always necessitate due diligence of the buyer. Information about past transactions and transfer of rights is critical to establishing the chain of ownership and finding any obligation or conflict associated with the land. Since the institutional structure that is in place does not provide conclusive and clear titles.
+
+Land management system reform – The case of Punjab
+
+A pilot was conducted in the Lahore district in 2001 for the computerization of land records, demonstrating the need for a change to move away from the Patwar culture. Another pilot project was carried out in the Kasur district by BOR between 1999 to 2003, highlighting the need for comprehensive software to document the record digitally. Another pilot was carried out in districts Rahim Yar Khan and Gujrat is failed aimed at the computerization of records in 2005 but both stagnated due to Patwar’s undocumented practices in the field. Part of the issues were also attributed to the Punjab Information Technology Department, which prompted the assigning of the future software’s implementation to the Punjab Information and Technology Board.
+
+Later in 2007, LRMIS (with over USD 45 million allocation) was perceived through the digitization of records and the establishment of Arazi Record Centers. A subunit of BOR named Project Management Unit (PMU) took over the software-related bureaucratic responsibilities and considerable software-related responsibilities were outsourced. The data entry and verification started in 2010 and was expanded to 13 districts by the end of 2011. In May 2011 the LRMIS was operated in Kasur district. Due to various issues originating from the existence of the Patwar system, patwaris’ power to issue Fard was removed by the amendment in the Act in 2012.
+
+The project was extended by the World Bank with an additional cost of USD 70 million. The ARCs were established at the tehsil level instead of the Kanungo (village) level and expanded to all 36 districts of Punjab by 2016.
+
+Subsequently, PLRA was established in 2017 and succeeded PMU, for formulating policies for land record management. For identification purposes, LRMIS partnered with NADRA in 2012, and later in 2018 PLRA was integrated with NADRA in 2018.
+
+Source: Graglia, et al., (2018).
+
+2.LAND RECORD AND PROPERTY RIGHTS – LEGAL STATUS
+
+Registration of deeds rather than the record of rights: The Registration Act (1908) mandates the registration of agreements for the sale, transfer, and conveyance of immovable property. This requirement ensures that the seller’s declaration to the buyer is officially recorded. However, the registration of transfer deeds under the Registration Act (1908) does not equate to the registration of records of titles or rights.
+
+Caveat Emptor – Mushtari Hushyar Bash: Another significant law related to the transfer of rights is the Transfer of Property Act (1882). Section 55 of this Act outlines the rights and obligations of the parties involved in a transfer. It places the burden of full disclosure on the seller and the responsibility for examining the title on the buyer. Additionally, it specifies how immovable property should be transferred.
+
+The entries in the record of rights are not absolute and are only presumptive records : The Punjab Land Revenue Act (1967), section 52 states that “ Any entry made in a record-of-rights in accordance with the law for the time being in force, or a periodical record in accordance with the provisions of this Chapter and the rules made thereunder, shall be presumed to be true until the contrary is proved or a new entry is lawfully substituted therefor .” Therefore, entries in the record of rights that are kept by the provincial revenue departments are not absolute and are only presumptive records. Furthermore, the entries for mutation are not part of the record of right hence those are not even considered presumptions of truth[2]. Neither the Registration Act (1908) nor the West Pakistan Land Revenue Act, 1967 establishes a certificate of land title by the state. Revenue records are not documents of title, consequently the country is devoid of title registration of property.
+
+Presumption – Status in Law
+
+The Black’s Law Dictionary defines presumption as an inference that is affirmative or negative, regarding the truth or falsehood of any proposition or fact. This inference is drawn by a process of probable reasoning in the absence of actual certainty of its truth or falsehood until such certainty can be ascertained.
+
+In simpler terms, presumption is an act of accepting that something is true until it is proven otherwise. It is a legal principle that allows a court to assume that a fact is true unless proven otherwise. Presumptions can be classified into two categories:
+
+The conclusive presumption , also known as an absolute or irrebuttable presumption, is a rule of law that determines the quantity of evidence required to support of an assertion. This type of presumption cannot be overcome by any proof that contradicts the fact that it represents. It is the inference that the judicial system draws from the proof, which no evidence, however strong will not be permitted to overture.
+
+On the other hand, the inconclusive or disputed presumption is a presumption of law that holds good until it is invalidated by proof or a stronger presumption. This type of presumption is contrary to the absolute or irrebuttable presumption, and it is an inference that is considered true until it is proven wrong.
+
+In law, the presumption of truth attached to something means that if something is disputed, it will be considered true because of the prima facie weight it holds until it is proved to be wrong by cogent evidence.
+
+3.CASE LAW STUDIES – RECORD OF RIGHTS, MUTATION, AND REGISTERED DEED
+
+Record of Rights: As stated before, the presumption of truth is attached to the record of rights, which can only be reverted through evidence of significant value.[3] Entries in the record of rights that are by Section 52 of the West Pakistan Land Revenue Act (1967) carry the presumption of truth.[4] However, they are not instruments of title[5] and they stand true only until the contrary to it is proven.[6] The entries in the record of rights/Jamabandi do not provide title but mere evidence to establish rights, its use as evidence in court is also subject to the validity of the entries in the record of rights which must be proved through independent supporting evidence (documents based on which entries were made)[7].
+
+Long-standing entries in the record of rights grant the rights to the party in immovable property against which those are recorded.[8] If these entries are not challenged either through Revenue or Civil Courts, they are presumed to be true unless the contrary to it is proved.[9] Even the evidence presented needs to be concrete to establish the claim and mere oral evidence will not be enough to revert the entries made in the record of right and presumption of truth.[10]
+
+Mutation: The entries of mutation do not provide any rights to the property since those are only made for revenue collection.[11] They are devoid of presumption of correctness before they enter into the record of rights. Additionally, it can only be used as evidence in a legal case if its validity is proven with supporting evidence[12] and is in accordance with the law[13]. As mutation is not a document of title, hence even its validity cannot provide title to someone over immovable property.[14] The mutation itself does not grant or create ownership in the property but is only used as a presumptive piece of evidence to establish rights.[15]
+
+The mutation document does not create or destroy any existing rights because it only shows the revenue records. Therefore, the transaction’s validity and authenticity, based on which the mutation took place, must always be determined. Even the evidentiary value of the mutation document is debatable, as it is sometimes completely ruled out in some cases.[16]
+
+Registered Deed: The first step in the transaction of land involves the execution of a deed between the parties involved in the transaction. The deed is required to be registered with the Registrar’s Office, which attests and substantiates the transaction. The act of registration adds the element of presumption of truth to the document,[17] and in the case of the disputed contents the beneficiary of the deed has to prove its validity. Even the endorsement of the authority (Sub-registrar) in the case of payment of the sale deed will also be rebutted in the case of the dispute if the payment of the sale deed cannot be supported by any evidence in writing.[18]
+
+4.IMPLICATIONS OF UNCLEAR PROPERTY RIGHTS
+
+Uncertainty in land titles and lack of absolute ownership can lead to various problems that affect not only the land itself but also everything directly or indirectly associated with it. De Soto (2000) argued that the growth of developed countries was significantly impacted by the clear and protected private property rights.
+
+Land Related Litigation
+
+According to Siddique (2020), land-related issues account for 60 to 70 percent of all civil litigation in Pakistani courts. Moreover, these issues also lead to 40 to 50 percent of all litigation cases in the country. In rural areas, 90 percent of criminal cases stem from disputes related to land and water, as reported by Khan et al. (2023). The resolution of land related disputes takes significant amount of time in Pakistan. where an inheritance related case takes more than 4.25 years and inland revenue courts take 3.6 years, the cumulative cost of sludge due to the inefficiencies is substantial amounting to 1.65 % of the GDP of Pakistan (Haque & Waqar , 2024)
+
+Any claim on rights and any defects in titles can significantly reduce the value of properties. Additionally, it puts a burden on the courts as most civil cases are related to land disputes. The traditional system of land records in Pakistan overburdens the judicial machinery and increases litigation (Kardar, 2007).
+
+The disputed land that is under litigation in the courts has opportunity costs on multiple fronts. Firstly, because of unclear titles, any economic activity that could have been generated from the land is no longer possible, resulting in a decline in revenue from the land and decreased productivity. As the land is under temporary injunction in most cases, it is kept out of the economy. The resolution of land-related issues takes decades, which decreases investor confidence, hampering overall economic growth (Khan et al., 2023).
+
+Figure 2 Instances of Injunction in Punjab
+
+Source: punjab-zameen.gov.pk
+
+Moreover, inefficient titling systems contribute to the opportunity cost of courts. If titling systems were efficient, courts could spend their time on other cases, reducing the backlog and resolving conflicts (Haque & Waqar, 2024).
+
+Besides, defective land titles create an environment of uncertainty and mistrust, which deters both domestic and foreign investment in land, having a direct relationship between ownership security and investment (Salas et al., 1970; Feder & Nishio 1998). Even after ownership rights have been rectified, defective titles fail to attract fair market value, as they add an element of uncertainty to the rights associated with that parcel of land.
+
+Lastly, due to the above-mentioned reasons, the land in Pakistan cannot be integrated with the financial sector. This results in a non-existent mortgage market since banks are reluctant to provide loans against land whose titles are not clear and transparent. Please refer to Figure 3 for the instances of mortgages in Punjab for the last five years.
+
+Figure 3 Mortgage count in Punjab
+
+Source: punjab-zameen.gov.pk
+
+Research indicated that land titling increases access to formal credit by 74 to 123 percent (Burns, 2004) and insecure titles decrease access to credits, particularly in the agriculture sector farmers are unable to tap the financial markets for the provision of loans leading to decreased investment and inputs, ultimately resulting in lower productivity (Feder et al., 1988).
+
+Figure 4 Land Titling System
+
+5.TORRENS TITLING SYSTEM – A POSSIBLE SOLUTION AND WAY FORWARD
+
+As we have discussed before, the records of property ownership titles in Pakistan are only presumptive, which means they do not provide conclusive evidence of ownership. The system merely registers the registration deed and keeps it as a record of the transaction. The titles are based on documents and are not a guarantee of absolute ownership. Therefore, absolute ownership of property rights is not guaranteed.
+
+On the other hand, land titles that are provided through actual registration of the owner’s title to the property in the public record are conclusive and provide a guarantee of ownership. Adopting the Torrens titling system provides a clear framework for land titling.
+
+Torrens system adoption across the globe
+
+The Torrens system of land registration was conceived by Robert R. Torrent in South Australia in mid-1850s. It was introduced in South Australia in 1958 through Real Property Act, 1958. Later on, it was adopted by all the Australian states. New Zealand adopted Torrens system in 1870 (Taylor, 2008)
+
+Outside Australia Torrens is adopted by Canada (excluding few provinces), which gave it the international status, with regards to its suitability outside Australia. Afterwards, it was adopted by some states in USA while the failure of its adoption across states in USA is to some extent due to the vested interest of lawyers and title insurance companies. The land record system in Papua New Guinea, Malaysia, Kenya, Philippines, Uganda, Tunisia, Ethiopia, Madagascar, Fiji, Jamaica, Finland, the Dominican Republic, Ireland, Israel, Russia, Saudi Arabia, Singapore, Spain, Sir Lanka, Sweden, Thailand, and Iran is torrent based. Even the contemporary land registration system in England is also referred to as Torrens (Investopedia).
+
+The three principles of the Torrens-based system are:
+
+Figure 5 : Torrens Tittles – Unassailable and conclusive proof of ownership of property.
+
+Torrens ensure certainty of titles once the title is registered and certified by the state, while buyers who are entering a transaction related to land do not have to investigate the chain of ownership.
+
+Torrents-base Land Record Titles in Pakistan
+
+The system that will be put in place will require the seller and buyer to attend the registrar where the transaction will take place and be recorded in a public register. The register will establish the title to the legally possessed land containing all the details. Each parcel will possess a unique number in the title register. Ultimately providing title by registration rather than the registration of rights.
+
+This will involve the formation of a district cadastral (Connected with a central provincial cadastral, which will eventually be the merger of all districts cadastral) that records the entries of the transaction and assigns titles to the property owner rather than mere registration of the instrument. The cadastral as an institution will nullify invalid claims, resulting in the smooth transaction of the land. The integration of the sub-registrar office data, and Arazi record office data (including the record of right data and cadastral documents), along with identifying the parcel number on GPS and complementing it with the old layout will be the only way to efficiently club all under a single entity, and the resultant titles record will be digital and clear. This will also make use of the transaction amount to determine the property values and increase revenue collection.
+
+The record will also mirror the current necessary information, and the availability of the price-related information will also depict the true property prices. This will also increase the revenue from property taxation and facilitate governance in rural and urban areas. Which at present is almost impossible as the rates are arbitrarily set by FBR and DC and are not market representative. This way the market will be directed by the players taking part in the transaction of the land, rather than the authorities which is the case at present.
+
+The solution in the shape of adoption of torrents and implementation through conceiving blockchain, will achieve all the basic principles needed for a clear land titling system. The records will be real-time and up-to-date, which satisfies the mirror principle. As the records will be real-time, up-to-date, and clear it will bring in the curtain principle as no inquiry will be needed in the past transaction and titles of the land.
+
+The existence of a public register will by default protect the owners from any loss arising due to errors and defects. However, to satisfy the principle of indemnity, the owner must be insured against future losses, for that to happen the owners must be compensated not only against the losses as a result of inaccuracies in titles but also the expenses including but not limited to litigation, etc. The element of title insurance will also assist in revealing the defects in the titles and will provide coverage against claims or losses due to other reasons. Title insurance in the case of Pakistan will be most effective and needed once the first two principles of Torrens are implemented and the market is functioning, with the integration of land into the financial sector attracting mortgage financing.
+
+Confidence can be gained through the adoption of technology such as blockchain. After adopting blockchain technology, the Torrens register will function as a public institution with multiple present entities integrated into one. This will enhance the overall system’s ease of access and eliminate the role of the revenue department as the sole custodian. Since the information will be digital and up to date, the time and cost associated with the validation of the titles in the case of the transaction will be eliminated. This will also ease the process of getting ownership records and mutation will be less costly and time consuming.
+
+Implementation
+
+The implementation can be carried out in phases. Firstly, through the adoption of the proposed technology at the district levels and ensuring that all the titles that are at present devoid of any conflict are transferred onto the blockchain-based cadastral. Once the title devoid of any conflict is entered into the system resulting in the creation of a new block, the only way forward for this will be either the creation of one more block in the case of the transaction to a single buyer or the creation of multiple blocks in the case of mutation of land in inheritance cases. This will resultantly create two simultaneous systems of land titles, the titles which are at present under conflict can be transferred into the new cadastral, once resolved. The market will eventually create an incentive for the transition of the titles to blockchain-based cadastral, through higher property prices for the transparent land titles.
+
+With conclusive titles, the titles will serve a greater purpose rather than just a revenue collection tool, which is supporting the financial and economic sectors and paving the way for the development of real estate as a sector. Most litigation in Pakistan originates from the presumptive nature of titles, adoption of conclusive titles will drastically reduce the litigation in courts. The tampering of the records also originates from the presumptive truth, which will eventually be curbed .
+
+References
+
+Burns, A. (2004). Thailand’s 20-Year Program to Title Rural Land.
+
+Feder, G., & Nishio, A. (1998). The benefits of land registration and titling: economic and social perspectives. Land use policy , 15(1), 25-43.
+
+Feder, G., Onchan, T., Chalamwong, Y., & Hongladarom, C. (1988). Land policies and farm productivity in Thailand (165pp).
+
+Graglia, M., Robustelli, T., & Marcus, M. (2018, July). The Punjab example: Systemic land reform in rural Pakistan. New America
+
+Haque, N. U. & Qasim, A. W. (2024). Pide Sludge Audit Vol 3 (No. 2024: 1). Pakistan Institute of Development Economics.
+
+Kardar, S. (2007). Establishing Property Rights through a Secure System of Land Title Management.
+
+Khan, S. S., Ashfaq, A., Imtiaz, M., & Imtiaz, I (2023). Critical Appraisal Of Legal-Institutional Structure Of Revenue Courts In Pakistan: Minimizing Sludge In Agricultural Property Cases.
+
+Roth. A. (2015). Who gets what and why? Eamon Dolan/Houghton Mifflin Harcourt.
+
+Salas, O., Knight, F., & Saenz, C. (1970). Land titling in Costa Rica: a legal and economic survey. USAID and University of Costa Rica Law School .
+
+Siddique, O. (2020). The Economic Analysis of Law in Pakistan. The Pakistan Development Review , 121-127.
+
+Soto, H. (2000). The mystery of capital: why capitalism triumphs in the West and fails everywhere else. Basic Books/New York.
+
+TAYLOR, G. (2008). Law of the Land: The Advent of the Torrens System in Canada. University of Toronto Press . https://doi.org/10.3138/9781442688469
+
+[1] Mutation in the context of land records is the process of updating land records based on the change in ownership, where the mutation register includes entries pertaining to the acquisition and transfer of land.
+
+[2] Punjab Land Manual, Chapter 7, section 7.1, 1934 L.L.T.2.
+
+[3] 2023 CLC 788
+
+[4] 2009 YLR 876
+
+[5] 2015 YLR 1751
+
+[6] 2014 CLC 1484
+
+[7] 2002 PLD 58
+
+[8] 2012 MLD 1691
+
+[9] 2008 PLD 571
+
+[10] 2008 PLD 621
+
+[11] 2023 SCMR 1928
+
+[12] 2023 SCMR 1645
+
+[13] 2023 PLD456 SC
+
+[14] 2023 SCMR 1645
+
+[15] 2023 CLC 600
+
+[16] 2022 YLR 1284
+
+[17] 2006 SCMR 1144
+
+[18] 2005 CLC 368 LHC

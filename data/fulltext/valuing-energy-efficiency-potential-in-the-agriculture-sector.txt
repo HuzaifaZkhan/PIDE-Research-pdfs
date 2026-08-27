@@ -1,0 +1,169 @@
+The energy crisis in Pakistan has extended the need for investments and improvements in energy efficiency to make the present energy consumption more efficient. This article focuses on energy efficiency within the agriculture sector by examining the current state of energy consumption, and the potential of energy efficiency in the agriculture sector.
+
+Pakistan is primarily an agricultural country, and its agricultural sector is a significant consumer of energy resources. Energy sources are used in various ways in the agriculture sector, having major applications encompassing mechanization, irrigation, and transportation. This energy consumption predominantly takes the form of electricity (90%) and High-Speed Diesel (HSD) (10%) [1] . Mechanization involves the use of tractors, harvesters, transplanters, and other seasonal machinery, spanning tasks from land management to harvesting and the subsequent transportation of agricultural produce to markets. Another critical area of energy consumption lies in irrigation, where a substantial amount of energy is required to operate tube wells. Tube wells are powered by both electricity and diesel to ensure efficient irrigation processes.
+
+The energy consumption trends worldwide reveal that energy consumption in developing countries, including Pakistan, is increasing. However, in the case of Pakistan, this heightened energy demand has led to an energy crisis. This underscores the necessity for alternative energy sources, such as solar power, or to promote the more efficient use of energy to address and manage this crisis effectively.
+
+Pakistan Energy Situation
+
+The diversification that has occurred over time in Pakistan’s energy sector is shown in (Figure 1). The per capita energy consumption has increased significantly, which has surged to 937 terawatt-hours (TWh) in 2023 [2] . The primary source of energy comes from gas (8.44 TWh), followed by oil (217 TWh), coal (171 TWh) and from renewables (16 TWh).
+
+Figure 1: Diversification in Energy Sector
+
+To strengthen its national economy, Pakistan should consider investing in enhancing energy efficiency. An ADB Report (2009) highlights that Pakistan has the potential to save 11.09 MTOE through improvements in energy intensity without compromising GDP growth, which is approximately 18 percent of its primary energy consumption. In terms of the net oil imports, this translates to a 51 percent reduction, considering that the cost of importing oil amounted to $12 billion in FY 2008. Well-planned energy efficiency initiatives could also lead to savings in gas and electricity, effectively adding 6,770 MW of generation capacity.
+
+Energy Consumption in the Agriculture Sector
+
+The agriculture sector plays a pivotal role in the country’s economy, contributing 24 percent to the GDP and employing approximately 37.4 percent of the workforce. [3] Furthermore, it serves as a vital source of raw materials for industries, making its expansion intricately linked to the overall economic health. From the perspective of rural development and food security, sustainable growth in this sector is of paramount importance. The post-COVID-19 period has realized a sharp increase in the prices of various commodities, further highlighting the significance of this sector. However, it is worth mentioning that the advancements in agriculture production systems also come with significant energy consumption.
+
+Improving energy efficiency is vital to sustainable agriculture growth. Pakistan being one of the economies with the lowest agricultural energy efficiency can achieve a competitive edge by reducing production costs, by adopting energy-efficient measures.
+
+The traditional agricultural methods rely on internal combustion engines using petroleum products like HSD and Light Diesel Oil, primarily supporting mechanization and irrigation that are employed in tasks ranging from land preparation to harvesting and the subsequent transportation of agricultural produce to markets. However, over the last three and a half decades, there has been a gradual decline in oil consumption in the agricultural sector, with a corresponding shift towards increased electricity consumption. A significant uptick in electricity usage in the agriculture sector has been observed due to various government-sponsored initiatives, like providing subsidized electric motors, pumps, and other equipment to encourage farmers to adopt modern farming practices. Concurrently, the introduction of electricity-based agricultural machinery and rural electrification projects further contributed to this trend. As a result, electricity has gradually replaced a substantial portion of petroleum consumption within the agriculture sector. This trend seems to persist during the current decade as well [4] . Another prospect is that farmers may tend toward solar tube wells to meet their future demands and to avoid bills and uninterrupted supply for smooth operation. However, this may lead to the over-extraction of groundwater in the country.
+
+The Potential Energy Efficiency in Land Management:
+
+The energy demand for land management, particularly for soil preparation can largely be attributed to the rising level of mechanization, leading to a greater number of tractors used in agriculture. Currently, there are approximately 692,626 operational tractors in the country, providing an availability of around 0.9 horsepower (HP) per acre. However, the recommended power requirement is 1.4 HP per acre [5] . This shortfall suggests that there is still a gap to be bridged, and the growing number of tractors will result in even greater energy consumption to meet the required power levels. Nevertheless, the pivotal issue now is the inefficiency of nearly 60 percent of the total tractors, which are approximately 0.41 million out of a total of 0.692 million. This inefficiency significantly contributes to energy loss due to the increased consumption of HSD. It is worth noting that inefficient tractors usually consume 4 liters per acre more than efficient tune-up tractors. Alternatively, we can say that a properly tuned-up tractor can conserve 4 liters of energy per acre.
+
+To estimate the total burden of the inefficient tractors, the extra energy used is multiplied by the area under cultivation. The total cultivated land area in the country amounts to 59.65 million acres, where tractors are employed to cultivate 35.79 million acres, representing 60 percent of the total cultivated area as reported by NARC ( Table 1). Consequently, the estimated annual energy savings from utilizing well-maintained tractors is 143.154 million liters. This translates to a significant value of PKR 38.18 billion.
+
+Table 1: Estimated Energy Savings from Improved Tractor Efficiency
+
+GCVof HSD
+37.5 MJ/L
+
+Total No. of Tractors in Pakistan (Nos.)
+6,92,626
+
+Inefficient Tractors, Kissan Board (Nos.)
+415576 (60 %)
+
+Total Area Cultivated in Pakistan
+59647500 (Acres)
+
+Area cultivated by Tractors
+35788500 (60 %)
+
+Saving Potential of HSD by Tune-up
+4 L/acre
+
+Total Energy Saved (Liters/year)
+143154000
+
+Total Energy Saved (MJ/year)
+5368275000 (37.5 MJ/L)
+
+Total Value of Saved Energy
+PKR 38.18 billion
+
+(HSD @266.70/liter, Aug 2024)
+
+Source: Authors estimates based on data from multiple sources
+
+The Potential Energy Efficiency in Irrigation (Tube-wells)
+
+Irrigation is another source of energy consumption in the agricultural sector, with a substantial amount of energy required to operate tube wells. However, irrigation through diesel and electric-powered pumps is highly inefficient. Inefficient irrigation techniques and practices, like flood irrigation, the excessive extraction of groundwater, and limited storage capacity, have all played a role in the loss of both water quantity and quality, along with a high level of energy consumption. The running cost of electricity diesel pumps is lower, making them more cost-effective than diesel pumps. Approximately 90 percent of the energy consumed comes from electricity, while 10 percent from HSD. Many conventional tube wells operate with an operational efficiency of 30 percent or even less in some cases [6] . Inefficient use of energy in these pumps often stems from issues such as oversized pumps and improper selection, a lack of proper maintenance, and the use of high-friction piping networks. Implementing effective energy efficiency measures like MEPS (Minimum Energy Performance Standards) for motors besides process optimization techniques can provide farmers with several benefits, including energy savings and reduced production costs.
+
+The energy efficiency and conservation techniques in the agriculture sector can save up to almost 6.69 billion PKR ( Table 2). The saving potential in diesel and electric tube wells is 0.5 percent and 15 percent respectively (NEECA, 2023).
+
+Table 2: Energy Efficiency Potential in Tubewells
+
+Saving Potential in Diesel Tubewells
+
+GCV of HSD
+37.5 MJ/L
+
+Total No. of Tube wells
+1,425,225
+
+Total Diesel Operated Tubewells
+962,502
+
+Inefficient Diesel Tube Wells
+4813
+
+Consumption of inefficient Diesel Engine
+2.5 L/Hr
+
+Consumption of Efficient Diesel Engine
+2 L/Hr
+
+Average Daily Usage
+6 Hrs
+
+Average no. of Days (annually)
+180 days
+
+Annual Fuel Saving (annually)
+540 L
+
+Total Saved Fuel
+259,875,5.4L
+
+Total Cost Saved (annually) (HSD @266.70/L, Aug 2024)
+0.69 billion PKR
+
+Saving Potential in Electric Tube wells
+
+Total Electric Tube wells
+407,626 [7]
+
+Average Daily Usage (Electricity)
+7 KW
+
+Daily Average usage
+6 Hrs/Day
+
+Average Daily Consumption of Electricity
+42 KW/Day
+
+Total Daily Consumption in Pakistan
+17120.3 MWh/Day
+
+Average no. of Days
+180 Days
+
+Annual Electricity Consumption
+3,081,654 MWh
+
+Annual Electricity Consumption (Efficient scenario @15%)
+2,619,406 MWh
+
+Annual Saving through EE measures (annually) @ 15%
+462,248 MWh
+
+Total Cost Saved (annually) @ PKR13/kWh [8]
+6 billion PKR
+
+Source: Authors estimates based on data from multiple sources
+
+Conclusion:
+
+This article concludes that there is a sizeable potential for energy efficiency within the agriculture sector by using efficient tractors for land management practices and employing more efficient pumping motors of tube wells for irrigation. The estimated annual energy savings through utilization of well-maintained tractors amount to a substantial 1.43 billion liters of HSD, equivalent to a significant value of PKR 38.18 billion PKR. Whereas, the energy saved in irrigation through efficient tube wells, both electric and HSD, can save up to almost 6.69 billion PKR. Enhancing energy efficiency in the agriculture sector underscores a substantial opportunity to alleviate a significant cost, estimated at nearly PKR 44.87 billion.
+
+Way Forward:
+
+This objective of energy efficiency can be achieved through planned awareness campaigns, especially during the cultivation and harvesting season. Implementing an awareness campaign for energy efficiency in the agricultural sector would primarily involve engaging two key stakeholders, the agricultural department’s extension wing and NEECA.
+
+Energy efficiency can be realized by restructuring the incentive framework within the agricultural sector to prioritize energy efficiency. These incentives could specifically target the replacement of older tube wells with more energy-efficient pumping systems.
+
+Solarization presents a viable means to reduce energy consumption, but it must come with economic water pricing and metering mechanisms to prevent excessive depletion of already scarce resources like water.
+
+NEECA has undertaken a task to replace a maximum number of tube well pumps to enhance energy efficiency. However, there exists an opportunity to expand the scope of these programs further.
+
+Dr. Anjeela Khurram & Dr. Muhammad Faisal Ali are Lecturer and Research Fellow respectively at PIDE Islamabad
+
+[1] https://neeca.gov.pk/SiteImage/Downloads/DRAFTpercent 20NEECpercent 20ACTIONpercent 20PLANpercent 202023-2030.pdf
+
+[2] https://ourworldindata.org/energy-production-consumption
+
+[3] https://finance.gov.pk/survey/chapter_24/2_agriculture.pdf
+
+[4] https://www.pc.gov.pk/uploads/report/IEP_Outlook_Final.pdf
+
+[5] https://www.finance.gov.pk/survey/chapters_23/02_Agriculture.pdf
+
+[6] https://www.undp.org/sites/g/files/zskgke326/files/migration/pk/National-Action-Plan—Final-28th-Nov-2019.pdf
+
+[7] https://mnfsr.gov.pk/SiteImage/Publication/mnfsrpublication.pdf
+
+[8] https://www.brecorder.com/news/40211690

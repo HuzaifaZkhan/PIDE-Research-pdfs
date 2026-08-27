@@ -1,0 +1,226 @@
+Executive Summary
+
+Inflation has slightly re-accelerated, with CPI inflation rising to 7.3 percent year-on-year in March 2026 from 7 percent in February, and to 1.18 percent month-on-month. Core inflation (rural) has also edged up, but it remains 2.1 percent below the policy rate. At the same time, GDP growth has improved to 3.89 percent in Q2 FY2025-26. On the external side, conditions are relatively stable but not strong enough to comfortably absorb a fresh external shock. SBP reserves stood at $15.1 billion as of 17 April 2026. The ongoing Israel-US-Iran war has introduced a new layer of risk through oil prices, freight and insurance costs, and rising inflation expectations. In this context, a rate cut would be premature, while a hike would still be excessive. The most appropriate decision is therefore to keep the policy rate unchanged, with a cautious and mildly hawkish bias.
+
+1. The policy question before the April MPC
+
+The Monetary Policy Committee (MPC) meeting on 27 April 2026 should be approached differently from earlier meetings. The question is no longer whether inflation has fallen enough from its 2023 peak to allow for further easing of monetary policy. It is whether Pakistan can safely ease policy into a period of renewed geopolitical and commodity-market stress. This policy viewpoint answers this question, supported by evidence and an academic underpinning. It is a deliberate attempt to preserve disinflation credibility while the external risk environment remains unsettled.
+
+The economic realities that must be kept in focus by the monetary authorities require careful analysis of the current macroeconomic situation. As such, they are confronting a combination of re-accelerating domestic inflation, improving but still incomplete growth recovery, thin but improved external buffers, and elevated geopolitical uncertainty. This combination changes the policy test. The burden of proof for another cut has become significantly higher than it was when inflation was falling more rapidly, and external conditions were stable. Table 1 provides a holistic snapshot of the latest macroeconomic indicators.
+
+Table 1: Latest Macroeconomic Snapshot Ahead of the 27 April 2026 MPC Meeting
+
+Indicator
+Frequency
+Latest period
+Value
+
+SBP policy rate (%)
+Current
+16-Apr-2026
+10.50
+
+WA overnight repo rate (%)
+Daily
+20-Apr-2026
+10.58
+
+3M MTB cut-off yield (%)
+Auction
+15-Apr-2026
+11.44
+
+6M MTB cut-off yield (%)
+Auction
+15-Apr-2026
+11.15
+
+12M MTB cut-off yield (%)
+Auction
+15-Apr-2026
+11.89
+
+Headline CPI inflation (%)
+Monthly
+Mar-2026
+7.30
+
+Urban core (NFNE) inflation (%, YoY)
+Monthly
+Mar-2026
+7.40
+
+Rural core (NFNE) inflation (%, YoY)
+Monthly
+Mar-2026
+8.40
+
+GDP growth (%, YoY)
+Quarterly
+Q2 FY2025-26
+3.89
+
+Industry growth (%, YoY)
+Quarterly
+Q2 FY2025-26
+7.40
+
+LSM growth (%, YoY)
+Monthly
+Feb-2026
+6.45
+
+LSM cumulative growth (%, YoY)
+Cumulative
+Jul-Feb FY26
+5.89
+
+Current account balance (USD mn)
+Monthly
+Mar-2026
+1,070
+
+Workers’ remittances (USD mn)
+Monthly
+Mar-2026
+3,831.0
+
+SBP FX reserves (USD mn)
+Weekly
+17-Apr-2026
+15,097.6
+
+Exports(bop) (USD mn)
+Monthly
+Mar-2026
+2,526.0
+
+Imports(bop) (USD mn)
+Monthly
+Mar-2026
+4,902.0
+
+Trade balance(bop) (USD mn)
+Monthly
+Mar-2026
+-929
+
+Petroleum crude imports ($ mn)
+Monthly
+Mar-2026
+442.032
+
+Petroleum products imports ($ mn )
+Monthly
+Mar-2026
+342.654
+
+2. Inflation has become less comfortable, not more
+
+The strongest immediate argument against a cut is the inflation data. Pakistan’s March 2026 inflation reading showed a clear loss of comfort. The national CPI inflation and Core urban CPI (YOY) inflation increased to 7.4 percent in March 2026, driven by domestic fuel price adjustments due to war-derived oil supply disruptions amid the closure of the Strait of Hormuz during the US-Iran War. The urban area has recorded relatively lower inflation (i.e., 7.4 percent) as compared to its rural counterpart, where it is recorded at 8.4 percent (Figure 1A). This disparity could be partly due to higher transportation costs and inefficiencies in the supply chain in rural areas, and also less competitive markets and variations in consumption patterns, especially the increased weight of food products in rural consumption baskets.
+
+Following the ceasefire between the United States, Israel, and Iran in early April 2026, easing geopolitical tensions has reduced market uncertainty. As a result, the price of oil has decreased compared to March 2026 globally, and domestic petrol and diesel prices have decreased. This will help reduce inflation in the near future. In line with this development, the weekly price data demonstrates that inflation has been moderated, with the SPI (Sensitive Price Index-51 essential items) decreasing in two weeks in a row, i.e., the 2nd and 3 rd week of April 2026 (Figure 1B).
+
+The March 2026 inflation outcome is significant not merely because inflation rose modestly. It is also important because the increase occurred at a time when energy-related risks were already intensifying, raising concerns that price pressures could broaden if fuel, transport, and imported cost channels strengthen further. It becomes more difficult to justify monetary easing. It is an indication of further exposure to exogenous shocks and an emphasis on policy credibility; reducing rates today might be interpreted as emphasizing short-term sentiment over anchoring inflation.
+
+3. Growth has improved enough to remove the urgency for easing
+
+Another perspective is to examine economic activity at the sectoral level. It highlights not weak but uneven growth across sectors, which can be used as an argument against easing the policy rate. Pakistan’s quarterly national accounts show that real GDP growth is 3.89 percent in Q2 FY2026, while Q1 was revised to 3.63 percent. Industry growth reached 7.40 percent in Q2 FY2026, compared to 6 percent in the same period last year. At the same time, the QIM index reveals a volatile, stop-start pattern, with a sharp early-year slowdown, partial mid-year recovery, strong uptick in Jan-2026, and renewed contraction in Feb-2026, indicating that momentum is externally driven and fragile. As such, the economy is not booming but in a recovery phase rather than in distress.
+
+This distinction matters for policy. When inflation is sticky and the external environment is fragile, a rate cut should only be used if the economy clearly needs urgent support. That is not the current situation. The marginal growth gain from cutting 50 basis points in April would likely be limited, while the possible cost in terms of weaker expectations and renewed imported inflation could be materially larger. The improvement in growth, therefore, reduces the urgency for further easing and strengthens the case for a pause.
+
+SBP’s Half-Yearly Report FY2026 shows that cumulative weekly private sector credit flows surpassed the five- year average growth during November-January FY2026. At the same time, capital machinery imports increased by about 15.7 percent. This expansion in industrial and business activity reflects improved economic conditions, driven by reduced economic uncertainty, greater political stability, and the SBP’s gradual monetary easing through continued cuts in the policy rate since July 2025.
+
+4. The external side has improved, but the buffer is still thin
+
+The current account posted a surplus of $1.07 billion in March 2026, mainly driven by workers’ remittances of about $3.8 billion received. However, the reserve position calls for caution. SBP’s liquid foreign exchange reserves were above $16.4 billion in early April but declined to $15.1 billion by 17 April 2026. While this provides a buffer, it is not sufficient to comfortably absorb a prolonged oil or shipping shock without affecting the exchange rate, import financing, and market sentiment. The key takeaway is consolidation rather than celebration. Pakistan’s external position has become more resilient, but not immune.
+
+5. The Israel-US-Iran war changes the monetary policy calculus
+
+The most important new development since earlier easing discussions is the regional war. It raises monetary policy risks through multiple channels, particularly for Pakistan (Table 2), where reliance on imported energy remains a key vulnerability. The current phase should therefore not be treated as a normal cyclical moment in which lower inflation automatically creates room for another cut. It is a risk-management phase. The priority should be to avoid easing financial conditions until the scale and duration of the external shock become clearer.
+
+Table 2: Transmission Channels of the Israel-US-Iran War to Pakistan’s Economy
+
+Shock channel
+First-round Effect
+Second-round Effect
+Main variable affected
+Policy relevance
+
+Higher crude oil prices
+Raises landed fuel cost and power generation cost.
+Feeds into fuel, electricity and transport prices.
+Inflation; import bill; trade balance.
+Raises the bar for further easing.
+
+Hormuz shipping disruption
+Delays cargo movement and raises freight/insurance costs.
+Broadens imported inflation beyond crude itself.
+Import prices; supply chains; external account.
+Argues for policy caution.
+
+Exchange-rate pressure
+Higher oil bill and risk aversion can weaken PKR.
+Pass-through raises CPI and imported input costs.
+Inflation expectations; reserves.
+Supports a hold / hawkish bias.
+
+Fertilizer and transport spillovers
+Costlier energy raises agriculture and logistics cost
+Can feed food inflation with a lag
+Food inflation; rural inflation.
+Makes core disinflation harder.
+
+Expectations and risk premium
+Firms and households price in repeated external shocks.
+More persistent core inflation and higher yield premia.
+Core inflation; market yields.
+Strengthens case to preserve credibility.
+
+Source: Author’s Analysis
+
+6. Why the answer is neither cut nor hike
+
+A rate cut is difficult to justify because inflation has re-accelerated, core inflation remains sticky, growth has improved, and the regional war has added upside risks to both prices and the external account. At the same time, a rate hike also appears premature. The policy rate of 10.5 percent is higher than the March headline inflation of 7.3 percent in ex-post terms. Short-term interest rates and Treasury bill cut-offs indicate caution rather than market stress or panic.
+
+This leaves holding the policy rate as the most balanced option (Table 3 provides a complete analysis). It preserves credibility, avoids overreacting, and allows the MPC time to assess whether the conflict-driven price pressures fade or intensify. In this sense, a hold with a cautious or mildly hawkish stance is not indecision; rather, it is the best option that fits the current mix of inflation risks, improving growth, and still-fragile external buffers.
+
+Table 3: Policy Options Matrix for the April 2026 MPC: Cut, Hold, or Hike
+
+Policy option
+Move
+Arguments in favor
+Arguments against
+Assessment
+Decision
+
+Cut
+-50 bps
+Would marginally support sentiment and further lower borrowing costs.
+Inflation has
+
+re-accelerated; core is sticky; war raises oil, freight, and exchange-rate risks; could weaken credibility.
+Not recommended for April 2026.
+Do not cut into a
+
+war-driven supply shock.
+
+Hold
+No change
+Preserves disinflation credibility; allows time to assess imported inflation, oil, shipping, and reserve effects; growth has improved enough to pause.
+May look conservative if oil/freight risks ease quickly.
+Base case / recommended.
+Maintain the policy rate at 10.5 percent with a cautious or mildly hawkish bias.
+
+Hike
++50 bps
+Would reinforce inflation-fighting signal if war shock becomes severe and persistent.
+Too early while
+
+first-round effects are still unfolding; recovery remains moderate; current real policy stance is already positive.
+Not a base case for April.
+Keep this only as a contingency if oil, exchange-rate, and inflation pressures intensify sharply.
+
+7. Conclusion
+
+The macroeconomic situation is currently being shaped by a temporary but sharp external shock cycle, where CPI inflation (YoY) increased from 7 percent in February to 7.3 percent in March 2026, primarily due to war-driven energy and supply disruptions. Early signs suggest some easing of inflation as fuel prices stabilize at a higher level under a fragile ceasefire. Moreover, the existing policy rate is 2.1 percent higher than core inflation (rural). Growth has improved modestly but remains uneven across sectors, particularly between industry and agriculture. Although the external position has strengthened due to higher remittances, the foreign exchange reserve buffer is still limited. In this context, both easing and tightening would be premature; therefore, maintaining the policy rate at 10.5 percent is the most appropriate stance, allowing for assessing the persistence of external energy shocks, anchoring inflation expectations, and preserving domestic price stability.

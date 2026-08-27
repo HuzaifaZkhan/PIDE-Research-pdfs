@@ -1,0 +1,51 @@
+Introduction
+
+Pakistan has for decades now been facing a financing crisis. The expenditures have always remained significantly higher than the revenues making the governments look to various sources to finance this gap. One major reason for the country’s lackluster performance in managing its expenses stems from the import dependency of the economy. Not only do we import the raw materials for our industries, but the local demand for commodities, agricultural and manufactured, is met through imports. While Pakistan’s import per capita remains lower than other regional countries[1], the low export value which has remained rather stagnant over years is a major cause of concern. Figure 1 below depicts Exports and Imports of Pakistan during the last decade.
+
+This graph explains why Pakistan has knocked on the doors of IMF over 20 times while also taking loans from various other countries. Recently, Pakistan has plunged into a similar crisis once again. The reserves continued to fall while arranging external finance for the impeding currency crisis was become a difficult task. Subsequently, the threat of default and bankruptcy started looming over Pakistan’s economy. In this scenario, the government along with other steps to put brakes on the financial crisis decided to ban various imports. Through the S.R.O. 598(I)/2022[2], the ministry of commerce amended the Import Policy Order, 2022 [3] by including 33 more product lines to the Import Policy Order Appendix A and thus adding them to list of commodities placed under an import ban. It is important to note that not all sub-categories of these 33 product lines have been banned, instead mostly selective categories falling under these have been placed on the import ban list. The total number of different product categories banned though totals just over 450. This policy viewpoint aims to analyze whether the policy will be effective in achieving the goals set out by the government or not using last year’s import data.
+
+____________________________
+
+[1] Prof. Dr. Abdul Jalil’s calculation, presented at PIDE Webinar ‘A Vision for the Unforgotten Economy’ dated: April 12, 2022 —“https://fb.watch/dhVz04Tr3Q/”—–
+
+[2] https://www.commerce.gov.pk/wp-content/uploads/2022/05/SRO-Ban-on-Import-of-Luxury-and-N_essential-Items.pdf
+
+[3] https://www.commerce.gov.pk/wp-content/uploads/2022/04/IPO-2022-SRO-No.-545I-2022-dt.-22.4-2022.pdf
+
+Situation at Hand
+
+During the fiscal year 2020-21[4], Pakistan’s total commodity imports stood at PKR 8.9 trillion (USD 56 billion). In the same time, the value of the over 450 product categories recently placed under import ban was almost PKR 383 billion (USD 2.3 billion, assuming a constant ER of USD 1 = PKR 160, the average ER of FY 2020-21). In percentage terms, the now banned products formed 4.3% of the total commodity import values (See Table 1). This means that the products banned under the tag of luxury imports constitute a very small amount of our total import bill and is neither a driving force behind the import crisis nor is making any secondary but significant contribution to it.
+
+As the table 2 shows, the ban on these products based on varying exchange rate would have saved not more than USD 2.552 billion in import bill at an exchange rate of USD 1 = PKR 150. To put this into context, during the Fiscal Year 2020-21, the least monthly import bill was USD 3.3 Billion[5] during the month of August, 2020. Subsequently, the dollars saved by an annual ban on import of these products will not finance even a single month’s import bill.
+
+At this point, it is essential to highlight that Pakistan’s import bill though has varied during the course of last decade, but has on average increased by 3.425% per annum. Considering this, we run a few scenarios (see table 3) regarding the growth in import value of the now banned products and its impact on the overall import bill. Unlike table 2, we use exchange rate ranging between USD 1 = PKR 180 and USD 1 = PKR 220 as this is the most likely range for the exchange rate to vary between during the coming months.
+
+_________________________
+
+[4] External Trade Statistics Data at 8-digit level (Pakistan Bureau of Statistics)
+
+[5] Annual Analytical Report on External Trade Statistics of Pakistan FY 2020-21 (Pakistan Bureau of Statistics
+
+Table 3 shows that if the import value of all the now banned products is increases by 3.425%, the average increase in import value in Pakistan, then with varying exchange rate the government will be able to save between USD 1.8 to 2.20 billion over the period of one year. This value again will not be enough to finance the import bill of even a single month. Based on different scenarios as displayed in table 3, even with a 20% increase in import value of these products and the exchange rate being brought down to USD 1 = PKR 180, the government will be able to save less than even USD 2.6 Billion, which would be same as the total annual import bill of these products during the fiscal year 2020-21.
+
+An interesting statistic to come out of the import data tells us that products banned belonging to 5 product lines contribute to 86% of the total import value of these banned products. These are Mobile Phone CBUs, Fruits and Dry Fruits, Auto CBU, Home Appliances CBU, and Cosmetics and Shaving Items. Together these five had share of just 3.67% in the total commodity imports during the FY 2020-21.
+
+Furthermore, the import value of Automobile CBU is equal to the amount of own money[6] that consumers pay annually in Pakistan to purchase a car. PIDE Policy Viewpoint 32:2021[7] concludes that in the last 5 years consumers have paid PKR 150-170 billion in own money, making it PKR 30-34 billion annually. This represents that high import dependency in multiple products, especially such CBU products is also down to the inefficiencies of the local market and the right way to curb imports of these products is not to ban them but to improve the local market structures and making them more efficient which will automatically draw imports out of the picture. The policy of banning imports of CBU products which are already being sold on own in the local market will increase the own on these products thus increasing the cost to consumers of products in local market by furthering the demand and supply gap.
+
+It must also be noted that goods that fall under these categories but if imported in Pak Rupees or through a barter system will be exempted from this ban. The ban also is not applicable on goods falling under these categories for which the LCs were opened prior to the ban imposition or those that were en-route at the time of ban imposition. This means that in the immediate short run, the products will be available in the local markets while the policy will be unable to achieve its objectives of saving reserves immediately as is the need of the hour.
+
+___________________
+
+[6] PIDE Knowledge Brief No. 41:2021 https://pide.org.pk/research/the-nuisance-of-own-money-in-automobile-purchases/
+
+[7] https://pide.org.pk/research/the-issue-of-own-money/
+
+The government must also realize that such regulatory bans have an adverse impact by creation of an alternate route and market for these products through smuggling. In case of smuggling, not only will the products still be reaching the local market, but the dollars will continue to be used through the private forex market thus creating a completely parallel system for the import of these products. The only loss would be to the government in case of lost revenue from the custom and import duties on these products while they continue to be sold after being smuggled in while the dollars will not be saved either. Moreover, additional administrative measures to control smuggling will only increase the expenses of the government.
+
+Policy Recommendation
+
+As shown above, not only will this ban prove to be highly insignificant in making an impact on the import bill and will not save any noteworthy amount of dollars even if the ban continues for the entire year, it will lead to an increase in smuggling and force the government to bear additional expenses of controlling smuggling while losing revenue in form of custom duties.
+
+The government henceforth must immediately take back its decision to ban these imports, and instead look for alternate measures to manage the export-import gap.
+
+The ban intends to protect the dollar reserves from falling as well as restricting the currency depreciation. While the policy seems to be not effective in saving reserves as shown through data above, curtailing depreciation through import bans is not a wise approach. Instead, the government must allow the currency to depreciate as per the market forces as such a depreciation will eventually play some role in curtailing imports itself without establishing any parallel market through smuggling of goods. Significant protection through import bans and/or high duties have already been provided to local industries of electronics, mobile phone and automobiles which though might have to some extent restricted the import of these CBUs, but the industry overall has failed to take benefit of this protection to meet local demand in terms of quantity and quality both. Any such import ban will only put the consumers at a worse position due to the inability of local industry to uplift itself to a competitive state against any imported products and the ban will make local industry even less competitive.

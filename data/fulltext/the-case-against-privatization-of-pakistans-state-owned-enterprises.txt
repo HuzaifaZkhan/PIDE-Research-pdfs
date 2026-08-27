@@ -1,0 +1,79 @@
+Since the 1980s, most mainstream parties in Pakistan have come into power promising to privatize ‘inefficient’ and ‘loss-making’ state owned enterprises (SOEs), framing this as one of the principal routes to development. This is of course a global trend – since the onset of neoliberal economic ideology in the 1970s, privatization has been aggressively advanced as a policy imperative in developing countries as part of the neoliberal economic prescriptions of international financial institutions like the International Monetary Fund and World Bank.
+
+After decades of enforced privatization around the developing world, however, the record stands clear – privatization is not the development panacea it is claimed to be, particularly for countries at earlier stages of development, and its effectiveness as a generator of sustainable growth and efficiency is in fact deeply questionable. In contexts dominated by postcolonial rentier states amid high wealth and land concentration like Pakistan, the evidence demonstrates that privatization simply tends to result in the capture of state rents by domestic or international business interests, often at considerable economic, fiscal and environmental cost to the public (Glade, 1989).
+
+State Enterprise in Post-War History
+
+Neoliberal supporters of privatization often represent it as a core ingredient of the economic success of developed countries. However, evidence from the economic histories of Western Europe to North America to East Asia suggests quite the opposite – that there is no significant large economy that developed successfully through policies of privatization and deregulation from the get-go (Chang, 2003), whereas there are many examples of economies where SOEs, particularly in strategically important industries, have played significant roles in growth, employment, and technological innovation.
+
+Post-War European history is replete with such examples, where growth under Keynesianism was achieved with large SOE-dominated sectors. In France, technological modernization and industrial development was led by public firms like Thomson, Renault, Alcatel, Usinor and Thales, among others while in Finland, it was led by state investment in forestry, steel, mining, transport, paper machinery and chemical industries (Berne and Pogorel, 2003; Willner, 2003). More broadly, the origins of some of the most important general-purpose technologies of the 20 th century, from mass production systems to information and communications, and aerospace technology, can be traced to public-sector investments (Mazucatto 2020; Ruttan 2006; Block and Keller 2011).
+
+The evidence from the economic success stories of East Asia is in the same vein. South Korea, in its most rapid growth periods, maintained a very large state sector in industries likes steel, oil, gas, electricity, and fertilizers while Taiwan has had one of the largest public sectors in the developing world, with oil, coal, gas, electricity, and fertilizers having long been supplied by public enterprises. In one of the world’s most rapidly growing economies in the 21 st century, Viet Nam, state enterprises still account for 30% of GDP and 40% of total investment (Dang, Nguyen and Taghizadeh-Hesary, 2020).
+
+China’s rise as an economic and technological superpower, often attributed by neoliberal economists to the rise of its private sector and rollback of the state, in truth has been and continues to be led by SOEs. As recently as 2019, Chinese SOEs accounted for over 60% of China’s market capitalization and in 2020, they generated 40% of China’s GDP of US$15.97 trillion (101.36 trillion yuan). (Tjan, 2020)
+
+The evidence from the most prominent economic success stories of recent history are clear – far from privatization being the driving force behind development, state-owned sectors have been key in driving economic growth and technological innovation. Countries like Japan, South Korea, Taiwan and China all made rapid economic and technical progress using SOEs, usually following periods of land reform, particularly at earlier stages of development. While the opening of their markets also played a key role in growth, global markets were most effectively utilized by states with the capacity to regulate and discipline business and financial interests to effectively serve national development objectives, such as export growth and technological learning. (Studwell, 2014)
+
+Pakistan’s Sordid Privatization History
+
+Pakistan’s own history with privatization reveals a great deal about its perils in the context of an undemocratic authoritarian state apparatus, high levels of wealth concentration and absence of land reform.
+
+Privatization in Pakistan began under the PPP government in 1988 and was continued by the PMLN and Musharraf governments throughout the 90s and 00s, mostly as part of IMF and World Bank loan conditions. Over the course of the next two decades, successive governments gave away control of strategically important sectors, including energy, banking, telecommunications, and transport, to the private sector. Over 160 industrial units (in industries like cement, chemicals, fertilizers, steel, food and others) worth Rs 120 billion were privatized by the end of the 1990s (Naqvi and Kemal, 1991). Another study has put the total value of privatized state enterprises between 1990 and 2010 at Rs 476 billion (Fatima and Rehman, 2012).
+
+The evidence-based reviews of the privatization process in Pakistan that have since taken place show a consistent pattern: of non-transparent privatization processes that enable business interests to capture state rents with no incentives for or resultant improvements in efficiency or productivity.
+
+In their detailed analysis of the performance of public and private industrial enterprises following privatization in Pakistan, Naqvi and Kemal (1991) found that that “changing the locus of ownership of industries is by itself neither a necessary nor a sufficient condition for efficient operation of industrial enterprises.” They further found that greater incidence of allocative inefficiency was actually in privatized industrial enterprises, with “51 of 60 industrial units identified as inefficient found to be in the private sector” (Ibid). They further found that productive capacity utilization was comparatively higher in public enterprises. In light of this, they found that “divestiture of public enterprises, mainly on ideological grounds, or to satisfy the sensibilities of donors and creditors was not an optimal policy”. (Ibid)
+
+In their analysis of the outcomes of privatization in energy and banking, Munir and Naqvi (2018) found that, in both cases, “the privatizations failed not only with respect to their stated aims, leading to a decline in national productive capabilities, but also had adverse distributional consequences, shifting the rewards to the buyers while the risks and costs remained with the public sector.”
+
+In banking, several major Pakistani banks were privatized in 1991 (through heavily criticized and non-transparent processes) as an apparent remedy for inefficiency, ownership concentration, low savings, inadequate credit to small and medium enterprises (SMEs) and high levels of non-performing loans. In the years following privatization, bank profitability dramatically increased even though economic growth rates remained sluggish – instead of lending for productive enterprise, banks shored up profits through increased investments in high yielding government debt. Meanwhile, lending to the private sector, including to manufacturing, agriculture and SMEs, fell from 25% of GDP in 2000 to 16% in 2015 (Ibid). Privatization even failed to address ownership concentration, with the five largest commercial banks accounting for 60% of deposits and 80% of profits until only recently (Ibid).
+
+In their analysis of Pakistan’s 1994 energy privatization, Munir and Khalid (2012) document the excessively generous terms provided to independent power producers (IPPs), which promised guaranteed USD returns irrespective of electricity production and without any incentives for design efficiency. The IPP policy also incentivized the use of expensive furnace oil-based thermal IPPs, passing the cost to the government. (Ibid) The generous terms provided to IPPs ended up “privatizing the profits and socializing the losses” of electricity generation, with the government ending up “spending $21.42 million more for every 100 MW generated” through thermal power than it would in the public sector over the projects life. (Ibid) Further, with the shift to thermal, the country became hostage to rising oil prices, leading to massive debts that had to be cleared through more borrowing, creating the infamous circular debts that have continued to be a massive fiscal drain for governments.
+
+PTCL’s privatization tells an even sorrier tale. In his analysis of telecommunication giant’s privatization, Mangi and Siddiqui (2013) documents how PTCL was transformed from a highly profitable organization and one of the strongest telecom players in South Asia, with regionally recognized technical expertise, to a mismanaged organization with declining margins and technological prowess following privatization. After being sold to UAE giant Etisalat, PTCL’s performance on every measurable metric – from profits, market capitalization, to share prices, to tax revenue generated – fell drastically while the remuneration of its executives rose to among the highest in the industry (Mangi and Siddiqui, 2013; Munir, 2012).
+
+Beyond the Neoliberal Straitjacket
+
+While proponents of privatization continue to play up its theoretical benefits, it has not lived up to its claims – be it improving allocative efficiency, expanding productive capacity, or leading to sustainable economic growth. The fact is the idea of the private sector as the sole engine of economic growth and creator of value is an increasingly obsolete one. As economists like Mazucatto (2020) have shown, the state has long played a critical role in value creation, has actively shaped markets, capital investments, and innovation, and shouldered crucial financial risks before private actors are willing or able to.
+
+From China, to Korea, Taiwan and Viet Nam, to many others, economic progress has been built on the back of interventionist policy prescriptions like smallholder-oriented land reform, state-led industrial policy geared towards export discipline and technological development, and tightly regulated financial sectors geared to support domestic industry and employment (Studwell, 2014). Privatization, in the absence of a state with the capacity to discipline business interests, has merely enabled those interests to obtain state rents without contributing to national development objectives, while the risk and fiscal burden is borne by the public sector and the taxpayer.
+
+This is not to suggest that the many badly-managed SOEs in Pakistan do not require significant restructuring and reform. Most are often governed through the same opaque, clientelist and top-down logic that animates the rest of the state in Pakistan. Widespread changes are needed in their governance and management structures, performance incentives, productive investments, and resource allocations. Fixing them is also a question of generation of political will – such as that exercised for successful reform of now well-performing state institutions like Pakistan Post and NHA. But one-size-fits-all privatization can no longer be a credible policy prescription.
+
+As events since the 2007 global financial crash have demonstrated, there exists a massive need for a strong productive, distributive, and regulatory state role in the economy, beyond simply ‘fixing market failures’ or ‘welfare provision’. The COVID-19 pandemic demonstrated the perils of handing over critical sectors of the economy to the whims of the market and brought back to focus the importance of effective state capacity, be it for addressing systemic demand shocks in the economy or public investments and guarantees for rapid vaccine development. The climate crisis, and the urgent need for investments in renewable energy, ecological restoration, and green technology, as well as global climate cooperation and an expansion of the ecological commons underscore the importance of creatively reimagining the role of the state – as a cooperative and democratic instrument for value creation and economic, social, and ecological well-being – beyond the neoliberal straitjacket.
+
+The author is a researcher in development, public policy and public health and is affiliated with the Awami Workers Party.
+
+Bibliography:
+
+Berne, M., and Pogorel, G. 2003. ‘Privatization Experiences in France’, Paper presented at CESifo Conference on Privatization Experiences in the EU, Cadenabbia, Italy.
+
+Block, F., and Keller, M.R. 2011. Where Do Innovations Come From? Transformations in the US Economy, 1970– 2006. Working Papers in Technology Governance and Economic Dynamics No. 35, TUT Ragnar Nurkse School of Innovation and Governance.
+
+Chang, H-J. 2002. Kicking away the ladder: development strategy in historical perspective. Anthem Press.
+
+Dang, L. N., D. D. Nguyen, and F. Taghizadeh-Hesary. 2020. State-Owned Enterprise Reform in Viet Nam: Progress and Challenges. ADBI Working Paper 1071. Tokyo: Asian Development Bank Institute. Available: < https://www.adb.org/ >
+
+Glade, W. 1989. ‘Privatization in Rent-Seeking Societies’, World Development. pp. 673-82.
+
+Goher, F & Rehman, W. 2012. A review of privatization policies in Pakistan. Interdisciplinary Journal of Contemporary Research in Business. 3. 1017-1032.
+
+Mangi, R & Siddiqui, K. (2013). Privatization of PTCL: Corporate Governance Failure. IUP Journal of Corporate Governance. 12. 35-39.
+
+Mazzucato, M and Li, H. L. 2020. The Entrepreneurial State and public options: Socialising risks and rewards. UCL Institute for Innovation and Public Purpose, Working Paper Series (IIPP WP 2020-20). Available at: https://www.ucl.ac.uk/
+
+Munir, K and Naqvi, N. 2017. Privatization in the land of believers: the political economy of privatization in Pakistan. Modern Asian Studies, 51 (S6). pp. 1695-1726. ISSN 0026-749X
+
+Munir, K. 2012. ‘Privatization of PTCL: A lesson for policymakers’. Published in Express Tribune on 13 March 2012.
+
+Munir, K., and Khalid, S. 2012. ‘Pakistan’s Power Crisis: How did we get here?’ Lahore Journal of Economics, September 2012, pp. 73-82
+
+Naqvi, S. N. H. and A. R. Kemal. 1991. ‘The Privatization of the Public Industrial Enterprise in Pakistan’, Pakistan Development Review, vol. 30, no. 2, 1991, 108,
+
+Ruttan, V. 2006. Is war necessary for economic growth? Military procurement and technology development. Department of Applied Economics, University of Minnesota
+
+Studwell, J. 2013. How Asia works: success and failure in the world’s most dynamic region. Grove Press: New York.
+
+Tjan, S T. 21 May 2020. “How reform has made China’s state-owned enterprises stronger”. www.weforum.org. Retrieved 9 October 2022.
+
+Willner,. J. 2003. ‘Privatization and State Ownership in Finland’ CESifo Working Paper, no. 1012, Ifo Institute for Economic Research, Munich.

@@ -1,0 +1,29 @@
+Session 1: Energy Issues
+
+Techno-Economic Analysis Of Widespread Microgrid/Minigrid (Mg) Deployment In Pakistan’s Electrical Power Sector
+
+Danial Saleem
+
+The Government of Pakistan has taken appreciable initiatives in the Electrical Power Sector which is undergoing an extensive reform and restructuring process, especially in the fields of de- carbonization and deregulation. However, a significant percentage of population is yet to be electrified in Pakistan though the country has been bestowed with huge natural energy resources. Due to various reasons such as limited financial resources, scattered population, etc., expansion of centralized grid is not economically viable in most of the remote unelectrified locations. In this regard, Micro/Mini Grids deployment offer an excellent opportunity to address this problem and to improve the life quality of people of Pakistan and complement the economy thereof. The study is based on simulation and analysis based research methods, wherein the techno-economic evaluation is performed for the potential regions of Pakistan modelled with their associated characteristics.
+
+As per the study findings, Renewable Energy dominated Micro/Mini Grids presents much more financial viability as compared to fossil-fuel based Micro/Mini Grids, which will also help in reducing detrimental effects on the environment. At the same time, they offer a lucrative investment opportunity for the investors. Although Micro/Mini Grids present a very cost- effective solution for remote unelectrified areas of Pakistan, however, they may face technical issues if not properly designed. Direct Current Micro/Mini Grids and the application of Micro/Mini Grids for irrigation purposes present interesting cases, reducing the overall cost of energy. Some of the important factors to be considered to evaluate the feasibility of Micro/Mini Grids are electricity demand pattern, supply reliability requirement, discount rate and the project lifetime.
+
+There is an urgent need of dedicated and comprehensive policy and regulatory framework, since the existing one is insufficient to effectively upscale Micro/Mini Grids deployment in Pakistan. While assessing electricity provision options for remote unelectrified areas of Pakistan, it is imperative for the electricity planners to consider and evaluate Micro/Mini Grids before proposing huge investments for transmission and distribution infrastructure. One of the important considerations is to align the design of Micro/Mini Grids with the affordability of the customers in the specific geographical area, to create a win-win situation for all the stakeholders.
+
+Reducing Weighted Average Cost Of Generation In Pakistan Through Time Of Use (Tou) Pricing Models Of Flexible Electric Loads
+
+Naveed Arshad
+
+Pakistan has faced under and over supply of electricity over the past decades. Historically Pakistan has faced a shortfall of upto 7000 MW but at present the country has 12000 MW of excess capacity even after meeting the peak summer demand. The undersupply curtailed the GDP growth and is a major cause of industrial slow down, but the present oversupply is constantly causing an incremental rise in electricity prices and circular debt. Intelligent management of electricity demand may help reduce electricity prices and may also curtail the circular debt accumulation.
+
+Demand Side Management (DSM) techniques allow intelligent management of electricity load where electricity distribution companies provide various financial incentives to shift demand from peak to off-peak times to reduce the Weighted Average Cost of Generation (WACG). In this report we present a DSM tool that performs in-depth data analytics to assess the impact of demand shifts at hourly basis. Using authentic and verified data from the power sector the tool provides impact of demand shifts on WACG. The tool encodes not only the tariffs of all generating units operating of Pakistan but also considers other financial conditions including mandatory capacity and energy payments from IPP agreements in calculating its results. The tool also incorporates the technical parameters of all generating units to create a digital twin of the generation sector. Moreover, the tool also calculates the impact on environment through operating various sets of generation units.
+
+Household Energy Poverty In Pakistan
+
+Fouzia Sohail & Ambreen Fatima
+
+This research study examines the impact of electricity sector reforms on the household welfare of the country. The ongoing reform process gradually eases the fiscal burden by eliminating subsidies. However, an increase in electricity prices reduces poor households’ affordability and is thus believed to increase energy poverty in Pakistan.
+
+This study found that increasing electricity prices burdened the limited household resources and thus altered their budgetary allocation by employing secondary data. Further, it is found that without undertaking appropriate measures of compensation, a substantial proportion of poor households would be dragged below the poverty line. The study suggests that successful reforms should be accompanied by compensation packages for the poor and increased service quality and reliability for households paying higher prices.
+
+The study also conducted a household survey of Karachi city as a case study to obtain in-depth information on the energy situation. Findings from the survey data show that although tariff rates are still subsidized for lower consumption households, additional charges like government charges, TVL fees, fuel adjustment charges etc., constitute a significant proportion of total electricity bills. The study also recognizes households’ cognitive and behavioural aspects in energy use by incorporating these modules in the survey questionnaire. Hence, numerous viable policy options are recommended in the study to successfully implement reforms without compromising the social aspects.

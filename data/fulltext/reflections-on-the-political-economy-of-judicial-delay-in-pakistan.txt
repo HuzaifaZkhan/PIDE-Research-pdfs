@@ -1,0 +1,119 @@
+According to research findings announced by a former Supreme Court judge, a civil suit of ordinary complexity takes 25 years before it is finally resolved by the Pakistani justice system.[1] Given that the average lifespan in Pakistan is only 67 years[2], this represents well above a third of an average citizen’s total time. Like other Pakistani citizens, I have always been deeply concerned about how this delay-riddled judicial culture affects the overall business environment in the country.
+
+The general understanding about the situation, which has been popularised by lawyers and economists alike, is that our delay-riddled civil justice system is inhibiting all kinds of business growth equally; and that everyone in the country is losing out because of this problem uniformly. Having practiced law for over a decade, I have come to realise that this assessment of the impact of civil delay is quite naïve. Judicial delay is a far more complex phenomenon than what is ordinarily postulated. Political economists know that, generally speaking, a social phenomenon persists only if there are some classes or categories of people who are benefiting out of it, even while others lose out. As I will explain in greater detail in this paper, the phenomenon of judicial delay is no different: it benefits some and harms others; and, at the very least, it doesn’t affect everyone equally.
+
+In fact, I would venture to suggest that one of the reasons why all earlier attempts to ‘fix’ this issue – including the Asian Development Bank’s Access to Justice Program and numerous World Bank sponsored efforts such as the setting of ‘commercial courts’ – have failed despite spending hundreds of millions of donor-funded dollars is because we haven’t carried out enough research to understand what the problem really is to begin with. We have been focusing so much on the ‘reform’ and ‘advocacy’ part exclusively that we have almost ignored the anatomy of the problem. While the scientific study of a phenomenon such as civil justice delay cannot be carried out in one single paper, what I am trying to do in this paper is to urge the community of Pakistani social scientists to study the subject of who is winning and who is losing on account of judicial delay. A more indigenous and informed conversation on this subject is essential. Empirical study is an essential prelude to devising better policy interventions.
+
+The way I intend is to trigger this conversation is by asking a few questions which are never asked when talking about judicial delay.
+
+Is the civil justice system uniformly slow in dispensing ‘remedies’ to aggrieved investors?
+
+The simple and indisputable answer to this question is a resounding no. Any lawyer worth their salt will tell you that – if you ask him, that is. It is well-known that our judicial system provides for a certain set of ‘remedies’ which are infinitely more effective than others: ‘stay orders’ or, in legal parlance, ‘interim injunctions’. If your ‘grievance’, whether real or imagined, is of a nature that entitles you to obtain a ‘stay order’, then the problem of judicial delay does not affect you at all. To the contrary, once you obtain a stay order, the problem of judicial delay becomes an asset to you and bane for your opponent.
+
+The rule of thumb is that stay orders are easiest to obtain if your investment is in real estate, as opposed to an investment in a ‘business’ producing goods and services. The fact that the judicial system responds more quickly to real estate investors is such a major feature of our legal system but hardly anyone dwells upon the economic significance of this attitude. An example will illustrate this point better.
+
+Suppose Mr. A sets up an enterprise called ‘Urban Renewal’ whose business model is as follows: buy dilapidated, multistory buildings in the city center, re-furbish them, and sub-let units in the building to users along with providing maintenance; and charge them a decent rent as well as maintenance charges. The net rent as well as the capital gains are reaped by Mr. A. Since this appears to be a reasonably profitable business, you reach out to Mr. A with a proposal to invest in Urban Renewal. There a number of ways you can do so.
+
+If Urban Renewal is registered as partnership under the Partnership Act, 1932, you can become a ‘partner’ in it, with, let’s say, a 5% stake in the company. If Urban Renewal is incorporated as a private limited company with the Securities and Exchange Commission of Pakistan (SECP) under Section 9 of the Companies Act, 2017, you can buy 5% of the company’s total shares. If Urban Renewal is neither a partnership nor a company but rather a sole proprietorship registered only with the FBR upon Mr. A’s National Tax Number, you can enter into an ‘investment contract’ with Mr. A directly where he simply acknowledges receipt of your money, promises to return your capital to you upon demand and to share 5% of the profits of his enterprise with you, for as long as you don’t demand your capital back.
+
+Now assume that a few months after making this investment, you feel that Mr. A is not being transparent with the business and is not granting you your fair share of profits. What are the legal remedies available?
+
+If you took the route of becoming a 5% partner in a registered partnership, you can file a ‘Suit for Dissolution of Partnership, Rendition of Accounts and Recovery of Mesne Profits’. In a suit of this sort, there is very little chance, if any, of getting ‘urgent’ relief, i.e. a stay order. Mr. A will be able to continue to enjoy whatever ill-gotten profits he has made at your expense without facing any serious hassle – at least until the day the case is finally decided, which could take decades.
+
+If you took the route of buying 5% shares in an SECP-registered company, you can file a complaint with the SECP claiming oppression of minority shareholder and, if that doesn’t work, go to the Company Court under the Companies Rules, 1992. Here too, there is no real chance of getting a stay order or urgent relief. Nothing will pinch Mr. A as he drags the case in courts for years.
+
+If you took the route of entering into an investment agreement, your only option is to file a ‘Suit for Recovery of Money’ before the Civil Court. Here, the changes of a stay order are nil.
+
+There is, however, one other roundabout way to structure your investment transaction: buy real estate from Mr. A. If you were able to convince Mr. A to ‘sell’ one of the units in the buildings managed by Urban Renewal to you, you have a much better chance of fighting it out with him in the courts. It is fine if you never had any intention to actually obtain possession of this unit; for as long as you have ‘property rights’ over a unit in the building and some paperwork to support this claim, you have good leverage. The day you feel aggrieved by Mr. A’s actions, you can go to the Civil Court and file a Suit of Declaration and Permanent Injunction along an Application for Interim Injunction. Within 24 hours of your instructions, any moderately skilled lawyer should be able to get you a stay order from the Civil Court restraining Mr. A from leasing out or selling or in any way changing the character of ‘your’ unit in the building during the pendency of the case. This ‘freeze’ order regarding real estate would have sufficient nuisance value to bring Mr. A to the talking table and eventually he might just ‘buy you out’ to ensure smooth functioning of Urban Renewal.
+
+The purpose of this illustration is to reiterate my point: the civil justice system does not respond with the same speed to the grievances of all kinds of investors. The grievance of investors in real estate are responded to with far better speed compared to the grievance of investors in other assets classes. Even when their claims are backed by evidence and have a solid chance of succeeding, they would still have to wait for decades before getting any remedy.
+
+What impact does this phenomenon – swifter remedies for the claims of aggrieved real estate investors over investors in other kinds of business – have on the investment climate?
+
+One does not have to be a genius or even an economist to realise that this judicial approach – privileging the claims of aggrieved real estate investors over investors in other kinds of business – is quite likely to be one of the reasons why we are, by all estimates, over-investing in real estate. Recently, a World Bank study made ripples when it pointed out a significant percentage of Pakistan’s demographic is investing more than 80 percent of all savings in the form of residential real estate. Not only is this leading to environmental destruction, it is starving other kinds of businesses of much-needed investment.[3] It could even be causally connected with the country’s declining export competitiveness because competitiveness can only be increased through investment in high-end service sector businesses.
+
+Is this a quirk or a design feature?
+
+It’s not a quirk. And it’s not because of ‘corruption’ or ‘inefficiency’. It’s a design flaw. The difference between the approach of courts toward different kinds of investor claims, illustrated in the example above, is enshrined in our laws such as the Specific Relief Act, 1877.[4] This design, in turn, goes back to medieval English history which was transplanted here during the period of colonial occupation of the Indian sub-continent and has been rather thoughtlessly perpetuated by the post-colonial state.
+
+Contrary to popular perception, under English common law, the courts are not supposed to ‘specifically enforce’ all kinds of contracts. To the contrary, the general rule in English common law is that ordinarily the court will not compel the breaching party to perform its obligations; instead, the court will quantify the loss suffered by the complaining party and have it paid. It is only in certain enumerated exceptional situations that contracts are to be specifically enforced and damages are not deemed an adequate remedy. In this regard, reference may be made to Sections 12 and 21 of the Specific Relief Act, 1877. When both are read together, it becomes clear that the only real candidate for urgent relief is an investor in real estate, i.e. immoveable property. Both provisions are reproduced below:
+
+Cases in which specific performance enforceable. – Except as otherwise provided in this Chapter, the specific performance of any contract may in the discretion of the Court be enforced–
+
+(a) when the act agreed to be done is in the performance, wholly or partly, of a trust;
+
+(b) when there exists no standard for ascertaining the actual damage caused by non-performance of the act agreed to be done;
+
+(c) when the act agreed to be done is such that pecuniary compensation for its non-performance would not afford adequate relief; or
+
+(d) when it is probable that pecuniary compensation cannot be got for the non-performance of the act agreed to be done.
+
+Explanation. Unless and until the contrary is proved, the Court shall presume that the breach of a contract to transfer immoveable property cannot be adequately relieved by compensation in money, and that the breach of a contract to transfer moveable property can be thus relieved
+
+Contracts not specifically enforceable. The following contracts cannot be specifically enforced:-
+
+(a) a contract for the non-performance of which compensation in money is an adequate relief;
+
+(b) a contract which runs into such minute or numerous details, or which is so dependent on the personal qualifications or volition of the parties, or otherwise from its nature is such, that the Court cannot enforce specific performance of its material terms;
+
+(c) a contract the terms of which the Court cannot find with reasonable certainty;
+
+(d) a contract which is in its nature revocable;
+
+(e) a contract made by trustees either in excess of their powers or in breach of their trust;
+
+(f) a contract made by or on behalf of a corporation or public company created for special purposes, or by the promoters of such company, which is in excess of its powers;
+
+(g) a contract the performance of which involves the performance of a continuous duty extending over a longer period than three years from its date;
+
+(h) a contract of which a material part of the subject-matter, supposed by both parties to exist, has, before it has been made, ceased to exist.
+
+And, save as provided by the [18][Arbitration Act, 1940[19]], no contract to refer [20][present or future differences] to arbitration shall be specifically enforced; [21]but if any person who has made such a contract [22][other than an arbitration agreement to which the provisions of the said Act apply] and has refused to perform it sues in respect of any subject which he has contracted to refer, the existence of such contract shall bar the suit.
+
+Has this design feature been consciously adopted or is it an accident of history?
+
+It’s an accident; and the reason why ‘damages’ and not ‘specific performance’ is the default remedy for breach of contracts in the English legal system. It is purely the outcome of certain accidents of English history, which are neither natural nor the result of conscious choice.
+
+When the Norman dynasty first conquered England, they had little to no interest in dispensing inexpensive and expeditious justice to ordinary subjects. Like any other imperial power, their concern was primarily with ensuring ‘law and order’, especially amongst the landowning classes. The business of giving ‘injunctions’, final or interim, is a rather expensive one. It requires a court which assesses evidence deeply so that it can craft a fair and effective set of directions; and, above all, it requires a well-funded governance apparatus which penetrates deeply into the fabric of society and ensures that the injunctions of courts are being enforced on a daily basis and not simply ignored or blatantly defined. The grant of damages on the other hand is a judicial remedy which is much cheaper to enforce. At the end of the trial, the court can ask one party to pay money to the other side, there and then. It is probably because of this convenience that the ‘common law’ court, i.e. the courts set up in England by the Norman kings confined themselves to the granting of damages. Injunctions were simply not available under the common law system in the medieval era.
+
+Because no society can flourish without speedy injunctions for contract enforcement, and because the state’s justice system was reluctant to provide this, there cropped up in medieval England a system of courts running parallel to the common law courts called the courts of ‘Equity’. This was a set of essentially ecclesiastical courts, staffed and managed by the representatives of the Christian Church, which evolved a more common-sense based legal system. Historical evidence suggests that over the course of centuries, it was these courts which became the main provider of ‘justice’ in English society. Also, there was a lot of cross-pollination of ideas between the courts of equity and the courts of the common law; however, for many centuries they remained parallel streams of governance. It was the courts of equity which would grant ‘injunctions’ of all kinds, including stay orders.
+
+Finally, through the Judicature Acts 1873-75, the courts of common law and equity were merged in England. To mirror this development, in colonial India, the Specific Relief Act, 1877 was brought in which continues to remain in force in Pakistan and is still perhaps the single-most important statutory plank of our contract enforcement apparatus. This law makes it absolutely clear stay orders are not available to aggrieved investors, except if they are real estate investors. To conclude this discussion, we may reiterate that the differential treatment accorded to various kinds of investor grievances – a treatment which tilts in favour of real estate investors – is not a quirk; it is a design feature. However, this design feature is not the outcome of any serious thinking about the best method of contract enforcement. It is the result of accidents in medieval English history.
+
+How do most countries in the world deal with enforcement of contract? Do real estate investors get speedier remedies everywhere?
+
+It is important to mention, by way of contrast, that the situation is the very opposite to that of ours in most countries of the modern world. This is because the legal system of almost every country other than former English colonies is based on ‘civil law’ and not ‘common law’. Civil law is a modified version of Roman Law which was codified in France in the form of Le Code Civil des Français, also known as Napoleonic Code.[5] In the 19 th century, faced with the challenges of modernity, pretty much every non-Western country which had a choice in the matter – Ottoman Empire, Chinese Empire, Iran, Japan and Thailand – opted to model its law on the civil law instead of English common law. Within civil law, the specific performance of contract ( exécution en nature ) is the general rule – not damages. Since specific performance is the general rule, the issue of giving stay orders to real estate investors and not others, simply does not arise. According to some scholars, specific performance of contracts was also the default rule in medieval Islamic law.[6]
+
+How does the time-value of money feature in this calculus?
+
+I want to encourage political economists to dwell upon one more facet of judicial delay which has serious repercussions. Time does not affect the value of all kinds of assets equally. Whie they wait for the case to ultimately be decided, claimants who are trying to recover appreciating and non-liquid assets are not hurt as badly. Disputed land, even when it is locked up in litigation, continues to appreciate. If you get it back after a delay of 25 years, the battle is still worth it. The case of liquid assets such as stakes in a business is entirely different. The value of such stakes varies greatly and generally depreciates rather quickly.
+
+On the other hand, let’s take the example of a venture capital investor who bought 49% stakes in an IT company and wants his money back whilst the company is still booming and the rupee is still worth something. If he has to wait 25 years, it wouldn’t be worth it. Even where the court grants ‘interest’ on the disputed money at the end of a decade-long litigation, the interest rate is considerably less than the appreciation rate for land. This, again, creates a more favorable legal environment for investors in real estate than in other forms of business.
+
+How is the business community responding to this situation?
+
+In a system where the contract enforcement mechanism is simply not effective in protecting investors in business (other than real estate), how are people structuring their transactions? If and when Pakistani investors invest is something other than real estate, they generally demand ‘post-dated cheques’ from the businessperson. In other words, the businessperson has to essentially treat their investment as a debt. He agrees to a certain debt retirement period and an ‘interest rate’. Post-dated cheques are then given equivalent to the total instalments payable each month. In case the businessperson fails to honour the post-dated cheques, criminal proceedings can be swiftly initiated by the investor under Section 489-F of the Penal Code, 1860, a serious, non-bailable crime. Precisely because it has become the de-facto contract enforcement system in the country, this provision has been repeatedly amended by the government in the recent decade and made more and more strict. The risk of such proceedings puts the businessperson under considerable pressure to honour his or her contract with the investor or at least negotiate with the investor.
+
+Whilst effective, this ‘solution’ can never be an adequate alternative to a well-functioning civil contract enforcement system. It only works for low-risk and relatively secure businesses where the chances of return are also low. It puts the businessman in a ‘do-or-die’ situation where he or she often has to either return the investment or re-structure it under the threat of arrest and prosecution. It is a transaction structure which reduces the scope for investor-entrepreneur negotiation and creativity.
+
+Who are the winners and losers of a justice system where investment contracts are largely unenforceable ?
+
+I think there is a high likelihood that our system, where contracts other than real estate contract are not quickly enforceable, benefits those who possess personal or family capital and do not need to raise it from markets. It harms those whose primary assets are entrepreneurship and labour and who could have made profits if there existed a reliable system for investment dispute resolution. This is because in a system where investment disputes – other than real estate – are delayed and not swifly resolved, investors are reluctant to give capital to entrepreneurs. Also, those who are selling labour to the owners of capital in return for money are badly affected by a system where recovery of money is slow and painful, in the event that their wages are not paid. It gives employers an upper hand.
+
+Conclusion
+
+Overall, a system which is swift in protecting land-owners but slow in protecting those with entrepreneurship or labour, is detrimental to economic productivity. And that is exactly what we are seeing in Pakistan. Lack of productivity and innovation are considered to be the single-most important reasons behind Pakistan’s lack of export competitiveness. My point in this paper is to explore the highly probable causal link between the problem and our contract enforcement laws. Therefore, if nothing else, this paper represents an open call to economists to carefully and scientifically study the political economy of our judicial system so that better and more accurate prescriptions for growth may be arrived at than the ones currently in vogue.
+
+The author is an advocate of the Supreme Court of Pakistan.
+
+[1] https://tribune.com.pk/story/1919111/prompt-justice-right-every-individual-jawwad-khawaja
+
+[2] https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=PK
+
+[3] Joubert,Clement Jean Edouard; Kanth,Priyanka. Life Cycle Savings in a High-Informality Setting—Evidence from Pakistan (English). Policy Research working paper; no. WPS 10121 Washington, D.C. : World Bank Group. http://documents.worldbank.org/curated/en/099335107072219949/IDU0bb79ceea0247c040340b67c085a6df6f5df5
+
+[4] http://punjablaws.gov.pk/laws/8a.html
+
+[5] See Gerard De Vries, Right to Specific Performance: Is There a Divergence Between Civil- and Common-Law Systems and, If So, How Has it Been Bridged in the DCFR? 17 Eur. Rev. Private L. 581 (2009); RonaldJ. Scalise Jr., Why No “Efficient Breach” in the Civil Law?: A Comparative Assessment of the Doctrine of Efficient Breach of Contract, 55 Am.J. Comp. L. 721, 726-33 (2007); Henrik Lando & Caspar Rose, On the Enforcement of Specific Performance in Civil Law Countries, 24 Int’l Rev. L. & Econ. 473 (2004); John P. Dawson, Specific Performance in France and Germany, 57 Mich. L. Rev. 495, 496 (1958). However, the differences between civil- and common-law systems are not always as clear-cut as might at first appear.
+
+[6] Almalki, Yasir, “Tort and Contract Remedies in Islamic law: A Comparative Study with Anglo-American Law” (2021). School of Law Dissertations . 72. https://openscholarship.wustl.edu/law_etds/72

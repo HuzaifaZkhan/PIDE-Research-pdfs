@@ -1,0 +1,79 @@
+The idea of a level playing field has become a familiar refrain in Pakistan’s economic and policy discourse. Regulators invoke it, governments promise it, and businesses demand it—often with very different meanings in mind. Yet despite its frequent use, the concept remains poorly understood and, more importantly, inconsistently applied. This confusion has serious implications for how we design economic policy, regulate markets, and interpret competition.
+
+At its simplest, a level playing field refers to a situation in which firms can compete without facing discrimination imposed by the state. Dictionaries describe it as a condition in which no participant enjoys special advantages. While intuitively appealing, this definition conceals a deeper conceptual problem: equal chances and fair competition are not the same thing. In real economies, firms differ in size, resources, skills, risk appetite, and history. Expecting equal outcomes—or even equal opportunities—is neither realistic nor desirable.
+
+The policy challenge, therefore, is not to equalize opportunities, but to ensure equality before the law.
+
+Equal Opportunity Is a Myth—Equal Rules Are Not
+
+Economic discourse often conflates a level playing field with equal opportunity. This is a fundamental mistake. Opportunities are inherently unequal. Entrepreneurs differ in education, wealth, networks, and risk tolerance. Firms enter markets at different times, innovate at different speeds, and face different cost structures. These differences are natural and form the very essence of competition.
+
+From a policy perspective, attempting to equalize such opportunities through subsidies, quotas, or preferential treatment can do more harm than good. It distorts incentives, entrenches inefficiencies, and often rewards lobbying over innovation.
+
+A level playing field, properly understood, does not mean that every firm has the same chance of success. It means that the state does not legally discriminate among firms operating in the same market. In this narrow but crucial sense, a level playing field exists when laws, regulations, taxes, and enforcement mechanisms apply uniformly—regardless of ownership, size, or origin[1].
+
+The Firm and the State: Where Distortions Begin
+
+Markets rest on two key pillars: firms and the state. Firms compete, innovate, and respond to consumer demand. The state sets the rules of the game. A level playing field exists only when the state refrains from tilting those rules in favor of some firms over others.
+
+Yet the state itself is not a neutral actor. Legislators respond to political incentives; bureaucracies seek to preserve authority and relevance. As public choice theory reminds us, rules are shaped by interests and power dynamics. Even laws that appear neutral on paper can produce unequal outcomes in practice.
+
+Large firms, for example, can absorb compliance costs more easily than small ones. They hire lawyers, consultants, and lobbyists to navigate complex regulatory regimes. A procurement tender with high financial thresholds may be formally open to all, yet effectively excludes smaller firms. The law may be equal, but its impact is not.
+
+This reality, however, does not invalidate the concept of a level playing field. It merely underscores the importance of simplicity, clarity, and restraint in regulation.
+
+Pakistan’s Economy: Five Sources of an Unlevel Playing Field
+
+When we examine Pakistan’s economic structure through this lens, it becomes evident that the country faces multiple, persistent distortions. These distortions do not arise from markets themselves, but from policy choices. Five manifestations stand out.
+
+First, discriminatory laws and exemptions.
+
+Special economic zones, tax holidays, and sector‑specific incentives create uneven cost structures across firms. While often justified in the name of industrial policy or foreign investment, such exemptions penalize firms outside the favored categories. In an economy already burdened by complex taxation and weak enforcement, selective exemptions amplify distortions rather than correcting them.
+
+Second, public procurement practices.
+
+Government procurement frequently embeds conditions that exclude entire classes of potential bidders. Financial capacity requirements, prior experience clauses, or abrupt tender cancellations can legally—but unfairly—discriminate against local or smaller firms. These practices undermine competition and inflate costs for taxpayers.
+
+Third, illicit trade and informal competition.
+
+Smuggling, counterfeiting, and tax evasion create a deeply unlevel playing field. Firms that evade taxes or regulatory standards operate with artificially low costs, capturing market share from compliant businesses. The result is not healthy competition, but a race to the bottom—one that rewards illegality over efficiency.
+
+Fourth, state‑owned enterprises in commercial markets.
+
+When the government itself competes with private firms, neutrality becomes impossible. State‑owned enterprises enjoy implicit guarantees, preferential access to finance, and regulatory influence. Private firms cannot compete with entities that can absorb losses indefinitely through public bailouts. Even profitable SOEs distort markets simply by virtue of their ownership.
+
+Fifth, trade and tariff policy.
+
+Decades of protectionism have insulated domestic firms from competition, limiting consumer choice and discouraging innovation. High tariffs and non‑tariff barriers create artificial monopolies and deny efficient firms the discipline of global markets. Recent steps toward tariff rationalization are encouraging, but the legacy of import substitution remains deeply entrenched.
+
+Any market in which one or more of these conditions exists cannot be said to offer a level playing field.
+
+Rethinking the Role of the Competition Commission
+
+The Competition Commission of Pakistan (Competition Commission of Pakistan)[2] declares its mission as “Creating a Level Playing Field.” This is an admirable objective—but one that requires conceptual clarity.
+
+Competition law should focus on removing legal and institutional distortions created by the state, not on policing every successful business strategy. Provisions related to abuse of dominance, price discrimination, or tie‑in arrangements risk overreach when applied without a dynamic understanding of markets. Many practices deemed anti‑competitive may, in fact, reflect innovation, risk‑taking, or legitimate responses to market conditions.
+
+The danger lies in treating market outcomes as evidence of wrongdoing, rather than asking whether the rules themselves have biased those outcomes. A private monopoly created through innovation is fundamentally different from a monopoly sustained by regulation or state patronage. The former is typically temporary; the latter is persistent and harmful.
+
+A competition authority that ignores this distinction risks suppressing entrepreneurship while leaving the real sources of distortion untouched.
+
+Toward Equal Rules, Not Engineered Outcomes
+
+The policy implications of this perspective are clear.
+
+Pakistan does not need more discretionary interventions, exemptions, or selective enforcement. It needs fewer rules, applied uniformly. It needs a state that fosters commercial activity, simplifies taxation, liberalizes trade, and enforces laws predictably. It needs regulators who understand markets as evolving processes rather than static structures.
+
+Most importantly, it needs to abandon the illusion that policy can or should equalize opportunity. What policy can do is ensure that success or failure is determined by consumer choice and entrepreneurial judgment—not by political access or regulatory privilege.
+
+A truly level playing field is not one where everyone wins. It is one where everyone plays by the same rules.
+
+Ali Salman is the Chief Executive Officer of the Policy Research Institute of Market Economy (PRIME).
+
+[1] Appelman, Marja & Gorter, Joeri & Lijesen, Mark & Onderstal, Sander & Venniker, Richard. (2003). Equal rules or equal opportunities? Demystifying level playing field.
+
+https://www.researchgate.net/publication/4833784_Equal_rules_or_equal_opportunities_Demystifying_level_playing_field
+
+[2] Competition Act 2010
+
+https://cc.gov.pk/assets/images/Downloads/competitionn_act_2010.pdf

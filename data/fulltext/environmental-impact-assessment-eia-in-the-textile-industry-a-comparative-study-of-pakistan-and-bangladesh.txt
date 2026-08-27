@@ -1,0 +1,105 @@
+The world is witnessing an unprecedented and multifaceted environmental crisis which will impact the lives of everyone on this planet. World temperatures are rising, droughts are occurring with greater frequently and lasting longer. Tropical storms are becoming more severe, glaciers are melting faster, and even the permafrost is melting. Sea levels are rising and threatening estuarine ecosystems and coastal communities. Industrialization without any environmental impact assessment is one of the primary causes of this change in climate. As a result, amongst many other initiatives taken by various national and international organizations, the Quality Management System (ISO 9000), issued by International Organization for Standardization (ISO) in 1987, compelled manufacturers to consider the environment by reducing the use of carbon based raw materials, rationalizing the use of energy in processes or seeking out clean energy sources, and using non-harmful packaging materials that are bio-degradable.
+
+Environmental Impact Assessment (EIA) is another tool for planning and guaranteeing sustainable development. EIA is used to ensure that the environment and natural resources are protected and conserved during the development of industrial and infrastructure projects. Therefore, the end goal is to promote cleaner manufacturing practices and long-term sustainability as remedies to emerging environmental issues.
+
+Textile and garment industries play a key role in developing countries’ economies such as that of Pakistan and Bangladesh. This sector was amongst the first few sectors to go through the industrialization process, and today it is one of Pakistan’s and Bangladesh’s most important economic sectors. In April 2022 alone, Bangladesh’s textile export reached $3.93 billion. Pakistan, on the other hand, experienced the highest-ever monthly textile exports of $1.739 billion in April 2022.
+
+However, pursuing such exports with time has increased waste generation leading to harmful environmental impacts. The major environmental effects include the discharge of copious amounts of chemical loads because of the high consumption of water and harmful chemicals used in this industry, as well as the associated water pollution, high energy consumption in manufacturing processes and related air emissions, packaging and solid waste production issues, and the formation of unpleasant odors caused by bleaching, dyeing, and printing processes. To summarize, textile manufacturing consumes a significant amount of water and chemicals. The garment industry worldwide uses an estimated 79 billion cubic meters of fresh water per year across its whole value chain.
+
+Table 1: Textile Wastewater Pollution Causes and Characteristics
+
+Source: Patagonia, Inc.
+EIA of Textile Sector in Bangladesh
+
+In Bangladesh, the sector’s environmental repercussions are becoming increasingly costly. In the delta-based country, water pollution is extremely acute. The Bangladeshi government has classified three rivers biologically “dead” due to untreated wastewater entering them in the capital, Dhaka. Other rivers are categorized as polluted and devoid of dissolved oxygen (IamRenew News 2020). Garment industries are the second-largest source of pollution in the Dhaka watershed, accounting for over 60% of pollutants (NRDC 2012).
+
+Bangladesh established EIA guidelines in 1992 and passed EIA legislation in 1995 and 1997. The Environmental Conservation Act of 1995 and the Environmental Conservation Rules provide the legal framework for EIA in Bangladesh (1997). EIA assumes that businesses will build waste/pollution treatment plants, follow environmental regulations, report occurrences, and have plans in place for corrective action if necessary. However, a critical weakness in environmental management is the lack of monitoring methods and procedures for their implementation, which is linked to the country’s severe environmental degradation (Bahauddin 2013).
+
+The efficiency of Bangladesh’s EIA system has been examined through an independent study and the results reflected that although the bulk of the statements were determined to be satisfactory (65%), most were rated as “just satisfactory,” and 35%
+
+were rated as low to extremely poor, according to the independent evaluation of the quality of 40 EISs. Other investigations of the quality and effectiveness of EIA processes in Asia and Africa have shown similar outcomes (Kabir and Momtaz 2013). Quality, on the other hand, varied depending on the industry. Infrastructure (roads, bridges, and urban projects); energy (electricity, gas, and mineral resources); water resource management; and industrial (cement factory, textile, and leather industries) were all included in the study.
+
+The overall lower level of Environmental Impact Statements (EIS) quality in the industrial sector was attributed to three factors:
+
+A lack of major donor participation and capacity building for sectoral agencies in the planning and conduct of EIA.
+
+The level of institutional support, capacity (especially within respective government agencies), and EIA experience (gathered from donor-funded projects): EIA quality was good in the water resource sector, for example. In the industrial sector, government agencies have less experience and capacity to support the EIA process.
+
+The attitude of proponents of industrial initiatives: Industrial projects are local and privately owned (rather than publicly traded), with minimal in-house environmental knowledge, capability, or skills. Even though the proponents of industrial projects tend to spend less than appropriate money on the compilation of the EIA report, approval is frequently given due to the proponents’ political power and connections (Kabir and Momtaz 2013).
+
+EIA of Textile Sector in Pakistan
+
+Since Pakistan has significant, vertically integrated garment industry, the full textile and garment manufacturing process can be sourced internally (Angeulov, 2016). Table 2 depicts Pakistan’s rankings in the global Environmental Performance Index (EPI) in 2016 by the Yale Centre for Environmental Law and Policy. The EPI grades countries based on how well they perform on two high-priority environmental issues: protecting human health from environmental harm and protecting ecosystems. EPI scores for wastewater treatment are also reported in Table 2. The indicator weights the proportion of treated wastewater from households, municipalities, and industry by the population served by the sewage system.
+
+Table 2: EPI Scores of Different Countries
+
+Source: Hsu et al (2016) Environmental Performance Index
+When it comes to regulating water use and wastewater treatment in Pakistan, the textile industry is frequently overlooked. However, considering an acute water crisis for sectors and mounting pressure from regulatory authorities and worldwide clients, large textile players have begun to focus on increasing water efficiency and developing wastewater treatment and reuse technologies. However, this is not the case for the Small and Medium-Sized Enterprises (SMEs). These SME’s have been confronting various issues that are causing them to adhere to the local environmental laws and regulations only partially. Lack of management engagement, financial resources, technology constraints, lack of employee involvement, lack of government incentives, uncertainty about environmental regulation changes, and lack of capacity of industry owners and staff are some of the significant problems. Furthermore, the current scarcity demands for water conservation at each step of textile manufacturing such as reusing wash water, opting for concurrent washing methods and more. However, the SMEs in the sector are unable to afford such techniques thereby increasing the environmental impacts in negative connotations.
+
+Table 3: Status of Environmental Compliance in Textile Industries of Pakistan
+
+Source: World Wide Fund for Nature (WWF) Asia
+Only 15% of Pakistan’s municipal and industrial wastewater is treated before being disposed off (Murtaza et al., 2012). Most wet textile manufacturers treat only a small portion (at best) of their effluent before dumping it into the Arabian Sea.
+
+The effluent treatment plant installation problems are connected to building costs and space requirements. As they require expensive capital, complicated technology, specialized operators, mechanical replacement parts, high energy, and a sludge disposal location, Effluent Treatment Plants (ETPs) can be costly to build and maintain. However, as the quantity/quality of waste produced increases, so does the capital cost, operational cost, land area, and complexity of effluent treatment technology. The other major factor is that both the public and commercial sectors have failed to realize the necessity of wastewater treatment and the availability of safe drinking water.
+
+Moreover, one of the key causes for the inadequate implementation of current environmental legislation is that Pakistan did not spend resources on strengthening the ability of environmental managers, lawyers, specialists, and experts to administer and implement these laws and regulations. Budgetary allocations for trainings were ignored, and no Environmental Laboratories with advanced technology to monitor and analyze data were established.
+
+Figure 1: Comparison of the Number of Conviction Cases in Environmental Tribunals in Textile with Other Industries
+
+Figure 1: Comparison of the Number of Conviction
+
+Source: Punjab Environmental Tribunal, Lahore
+Another crucial point is that environmental restrictions are not the driving force behind industrial wastewater treatment programmes in Pakistan; rather, foreign clients such as IKEA, Walmart, H&M, Levis, and others are pressuring companies to invest in cleaner manufacturing processes and wastewater treatment. International consumers have imposed stringent requirements on textile exporters in Pakistan and around the world, including zero discharge of hazardous chemicals (ZDHC) in discharged effluent and a focus on water conservation and reuse following thorough treatment. Furthermore, considering the impending acute water shortage and high water costs are additional driving factors to emphasize the necessity of industrial wastewater recovery and reuse, especially textile (UNEP, 2013; Yukseler et al., 2017).
+
+Conclusion
+
+To improve the effectiveness of the legal and institutional arrangements, a credible monitoring and enforcement system should be put in place, as well as state-of-the-art technologies and modern approaches. Around 80% of industrial units are medium and small-sized businesses with limited understanding of environmental difficulties and other factors, as well as technical ability and financial means to address these challenges. To address these concerns, it is necessary to offer textile industries with ongoing technical assistance for self-monitoring of pollution levels, which they can then report to regulatory agencies such as EPAs for a climate resilient, sustainable Pakistan.
+
+Recommendations for Industrialists
+
+The proper adoption of water and wastewater recovery and reuse, in-time water-related maintenance, and doable process modification for water conservation which is to be ensured by optimizing water-use efficiency with the development of a water management system that includes continuous water consumption patterns of each process.
+
+Regular monitoring of the wastewater quality produced by processes, as well as a check on chemical inventories, could lead to the detection of add-ons that have a negative impact.
+
+To maintain and stabilize the whole operation, standard operating procedures should be devised based on several situations and variations of received influent.
+
+Chemical ionic/TDS load reduction during processing: optimal use of salts, dyes, and alkali.
+
+The availability and technical skills of specialists and Knowledge-Intensive Business Services (KIBS) to conduct EIAs and analyze and approve project environmental impacts.
+
+Baseline data availability and quality, particularly for ecological systems: the physical and chemical qualities of the soil, air, and water, as well as social and demographic data on local communities, should be included in this baseline data to enable for an assessment of the impact on the local people and potential vulnerabilities.
+
+Recommendations for the Government
+
+The continuity of the textile export to the West in the future is subject to Pakistan meeting all environmental protection criteria otherwise it will steadily lose market share as more sourcing companies insist on compliances and import regulations are tightened regarding environment and social compliance.
+
+To ensure environmental compliances, the government should offer finance to the SME’s so that they can arrange the necessary technological equipment such as the wastewater treatment plants.
+
+The policy tool of stick and carrot should be used to ensure environmental compliances to promote transparency and sustainability.
+
+Carbon credits should be introduced to the textile sector in Pakistan. They are a way to cut down on greenhouse gas emissions by providing enterprises with a monetary incentive to reduce their carbon emissions. The SMEs should be especially targeted for this.
+
+To wrap up, environmental compliance must be ensured through an amalgam of cooperation of both the industrialists and the government. The cooperation is just not something that needs to be done for the sake of it but rather something that ‘has’ to be done in true letter and spirit since contemporary trade scenarios and business culture for the lower-middle income countries like Pakistan revolves around incentive structures for sustainable development through duty free access such as those covered under Pakistan’s Generalized Scheme of Preferences (GSP+). Compliance of environmental rules and regulations is quite esoteric in nature and hence curated policy measures need to be taken by both the textile industrialists and the government to ensure a forward progression of the country’s economy and environmental protection for the greater good.
+
+References
+
+Abbas, S., & Halog, A. (2022). Analysis of Pakistani Textile Industry: Recommendations Towards Circular and Sustainable Production. Retrieved 28 May 2022
+
+Gadhi, T.A., Mahar, R.B., and Bukhari, S.A. (2019). Wastewater treatment and reuse to approach zero water discharge in Al-Rahim textile industries: Substantial increase in water use efficiency in textile processing. U.S.-Pakistan Center for Advanced Studies in Water (USPCAS-W), MUET, Jamshoro, Pakistan
+
+International Labour Organization (ILO). (2017). Environmental Scoping Study: Decent Work in the Garment Sector Supply Chains in Asia. Retrieved from https://www.ilo.org/ bangkok/documents/
+
+International Labour Organization (ILO). (2021). Effective regulations? Environmental impact assessment in the textile and garment sector in Bangladesh, Cambodia, Indonesia, and Viet Nam. Retrieved from https://www.ilo.org/ bangkok/documents/
+
+Naqvi, S., Arshad, D., & Nadeem, F. (2018). Water Footprint of Cotton Textile Processing Industries; a Case Study of Punjab, Pakistan. Retrieved 30 May 2022, from https://wwfint.awsassets.panda.org/downloads/wf_textile_in_pakistan_2018.pdf
+
+Toprak, T., & Anis, P. (2017). Textile Industry’s Environmental Effects and Approaching Cleaner Production and Sustainability: An Overview. Journal Of Textile Engineering &Amp; Fashion Technology, 2(4). doi: 10.15406/jteft.2017.02.00066
+
+Water efficiency in textile processes. (2022). Retrieved 30 May 2022, from https://www.fibre2fashion.com/ processe
+
+World Wide Fund for Nature (WWF). (2018). Review of Existing Environmental Laws and Regulations in Pakistan. Retrieved from https://wwfasia.awsassets.panda.org/ laws.pdf
+
+Executive Director, APTMA
+
+Research Analyst, APTMA

@@ -1,0 +1,121 @@
+Every year, as September approaches, television screens, newspapers, and social media feeds in Pakistan fill with public awareness messages warning against rice crop residue burning. These campaigns have shaped the perception that farmers alone are responsible for the smog blanketing Punjab — as if the smoke from their fields were the only cause of the country’s growing air pollution crisis.
+
+However, this view represents only one side of a complex picture. Nearly two-thirds of Pakistan’s population lives in Punjab, and its three most populous cities — Lahore, Faisalabad, and Gujranwala — are all suffocating under heavy smog. While crop residue burning does play a role, the main drivers of air pollution in these urban centers are rapid industrialization, uncontrolled urban sprawl, an ever-growing number of vehicles running on low-quality fuel, brick kilns, and widespread deforestation.
+
+A 2018 study by the Food and Agriculture Organization (FAO) on smog and air pollution in Punjab found that transportation contributes 43 percent of PM2.5 emissions, industries 25 percent, and crop residue burning around 20 percent. Despite this, much of the public debate continues to center on agriculture, unfairly placing the burden of blame on farmers.
+
+Instead of merely condemning farmers, it is essential to understand the economic and logistical pressures driving this practice. Pakistan’s population is growing at around 2 percent annually, now exceeding 220 million, which has placed enormous strain on its agricultural sector to produce more food. To meet rising demand, farming intensity has increased across Punjab — particularly in the rice-producing districts of Lahore, Faisalabad, Narowal, Sheikhupura, Nankana Sahib, and Hafizabad. Together, these six districts cover about 14,700 square kilometers and are home to roughly 22 million people.
+
+The smog-affected belt of Punjab is renowned for producing non-basmati rice varieties that generate large volumes of residue. Farmers face extremely tight planting schedules and limited access to affordable, alternative residue management technologies. In the absence of government support, burning remains the quickest and cheapest option to prepare fields for the next crop.
+
+The financial burden of manual removal or mechanical incorporation of crop residues is significant. Studies have shown that avoiding burning can raise production costs by as much as 35 percent. For smallholders operating on razor-thin margins, the added expense of hiring labor or renting machinery is simply not viable. Time constraints also compound the problem: many farmers have barely one or two weeks between harvesting rice and sowing wheat — a window too narrow to allow labor-intensive field clearing.
+
+Moreover, burning is perceived by many farmers as beneficial. It helps remove weeds and pests, either by destroying them directly or altering their habitats. The ash left behind is believed to enrich the soil with potassium, supporting the growth of the next crop.
+
+Over the years, the extent of residue burning in Punjab has fluctuated significantly. The following data illustrate the total area under fire from 2011 to 2021.
+
+Table 1: Trend of Crop Residue Burning in Punjab
+
+Year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+
+Total Area under fire (km 2 )
+72.87
+75.16
+42.72
+50.63
+46.68
+62.50
+46.68
+110.96
+36.39
+87.82
+207.29
+
+Source: (Goheer et al., 2024) “Assessing smog trends and sources of air pollutants across northeastern districts of Punjab, Pakistan using geospatial techniques”. International Journal of Environmental Science and Technology , 1–18.
+
+The area affected by burning more than doubled between 2020 and 2021 — from 87.82 km² to 207.29 km² — marking the highest recorded value in the dataset. This steep rise underscores the persistence of burning practices and the absence of effective interventions.
+
+Figure 1: Comparison of Fire Events (2011-2020) in Punjab
+
+Figure Adopted from: “Assessing smog trends and sources of air pollutants across northeastern districts of Punjab, Pakistan using geospatial techniques”. International Journal of Environmental Science and Technology , 1–18.
+
+Smog is hardly unique to Pakistan or even to agricultural economies. History offers many examples where industrialized nations grappled with severe air pollution long before the issue of crop residue burning arose.
+
+In 1952, London was engulfed by the Great Smog, a catastrophic event that killed over 4,000 people within days (later studies suggest the toll may have reached 12,000). The disaster shocked the world and prompted the British government to enact the Clean Air Act of 1956, a landmark law that redefined environmental policy.
+
+The Act introduced several key reforms:
+
+Relocation of polluters: Major industries and power plants were moved outside the city center.
+
+Smoke-free zones: Specific areas were designated where burning certain fuels was banned.
+
+Industrial regulation: Coal burning in factories within city limits was prohibited, and chimneys were required to be at least 200 meters tall.
+
+Penalties for non-compliance: Strict punishments, including potential relocation of factories, were imposed for violations.
+
+Residential reforms: The government helped households transition from coal to gas or electric heating, promoting cleaner domestic energy use.
+
+Figure 2: Pollutants Levels Trends in London’s Air
+
+Figure Adopted from: “Causes and treatment of air pollution in modern Greater London”. Eco Cities, 3(1), 1–11.
+
+The Clean Air Act was later strengthened in 1968, mandating tall chimneys for industries to disperse pollutants higher into the atmosphere. By 1974, new rules limited sulfur content in industrial fuels. These reforms collectively transformed London’s air quality, proving that sustained regulatory effort can yield dramatic results.
+
+China’s Integrated Approach
+
+More recently, China has demonstrated that even in rapidly industrializing nations, decisive policy action can reverse air pollution trends. A study by the University of Chicago found that between 2013 and 2021, air pollution in China fell by 42 percent, in stark contrast to South Asia, where it continued to rise. The global average decline in pollution during this period was largely attributed to China’s efforts.
+
+Figure 3: Global Decline in Pollution Due to China
+
+Figure Adopted from: (The Global Decline in Pollution in Recent Years Is No Longer Entirely Due to China | EPIC, 2024)
+
+This progress is projected to add 2.2 years to the average life expectancy in China. However, pollution rose again in 2023 after a five-year decline, with PM2.5 concentrations increasing by 6.3 percent nationwide and 14 percent in Beijing. In response, China unveiled a new air quality plan in December 2023, setting ambitious targets:
+
+Reduce PM2.5 levels by 10 percent (compared to 2020) by 2025.
+
+Limit severely polluted days to less than 1 percent of the year.
+
+Cut coal use by 10 percent in the Beijing–Hebei–Tianjin region and 5 percent in the Yangtze River Delta.
+
+Phase out small coal-powered generators and boilers.
+
+Increase renewable energy share to 20 percent by 2025.
+
+Promote electric vehicles and ensure 80 percent of major highway stops have fast-charging stations.
+
+Shift freight transport toward rail and waterways.
+
+Ensure 90 percent of long-distance coal transport in northern regions moves by train.
+
+China’s strategy is comprehensive, targeting industry, transportation, and energy sectors simultaneously — an approach Pakistan can learn much from.
+
+Pakistan’s Partial Efforts
+
+The Punjab government has taken some steps in the right direction. Initiatives such as the Metro Bus, Speedo Bus, and Orange Line Train aim to reduce vehicular emissions. Tree plantation drives under the Clean Green Pakistan Movement and bans on stubble burning are also notable. However, these isolated efforts have not produced measurable improvements in air quality.
+
+A major obstacle remains the lack of coordination between federal and provincial governments. Since smog predominantly affects Lahore — the provincial capital — the federal government often treats it as a local issue. The slow implementation of the National Climate Change Policy (2012) highlights this indifference.
+
+Pakistan needs a nationally coordinated approach spanning transportation, industry, agriculture, and urban planning. The FAO’s analysis indicates that transportation is the leading source of pollution in Punjab, suggesting that reducing vehicular emissions must be the top priority. A phased transition of government fleets to zero-emission vehicles, or at least a reduction in their numbers could serve both symbolic and practical purposes.
+
+Industries and brick kilns, the second-largest contributors to pollution, require stringent regulation. The government could adopt a digital monitoring system similar to Bangladesh’s to track high-emission sources. Relocating polluting industries beyond city limits and establishing smog-free zones could replicate the success of London and New York’s clean air policies.
+
+To address the agricultural dimension, Pakistan should move from punitive measures toward supportive incentives. Providing subsidies, low-interest loans, or shared machinery programs could help farmers adopt cleaner technologies. Crop residues, especially from rice, can also be repurposed for bioethanol, biogas, and biofuel production, generating rural income while cutting pollution. Encouraging the development of value-added industries that use crop residues would further motivate farmers to abandon burning.
+
+The Environment Protection Department (EPD) in Punjab issues daily air quality reports, but these often understate pollution risks and lack comprehensive pollutant data. Inconsistencies in reporting — such as changing pollutant categories between years — and limited monitoring sites undermine evidence-based policymaking. Strengthening monitoring systems, standardizing data, and improving transparency are essential for long-term air quality management.
+
+Smog is not just an environmental issue; it is a public health emergency, an economic burden, and a governance challenge. History shows that countries that successfully tackled smog — from London to Beijing — did so through decisive legislation, enforcement, and coordination.
+
+Pakistan must now move beyond seasonal blame games and punitive crackdowns on farmers. What is needed is a comprehensive Clean Air Act, robust institutional collaboration, and sustained political will. Only then can the country ensure cleaner air, healthier citizens, and a more sustainable agricultural future.
+
+Ms. Ayesha Sultana is a researcher with a keen focus of her work on Agriculture. She is currently working as the Assistant Research officer in the Planning & Evaluation Cell of the Agriculture Department, Government of Punjab.

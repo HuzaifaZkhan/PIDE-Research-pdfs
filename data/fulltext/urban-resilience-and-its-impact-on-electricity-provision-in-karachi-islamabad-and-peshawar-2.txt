@@ -1,0 +1,39 @@
+INTRODUCTION
+
+Pakistan has one of the highest population and urbanisation growth rates in the world. Globally, it is the sixth most populous country. In the last three decades, the urban population has increased three folds, while the number of urban areas has increased from 468 in 1998 to 624 in 2017 (Hussnain, et al. 2020).
+
+Rapid urbanisation places pressure on existing infrastructure facilities and the carrying capacity of cities. Urbanisation is a complex socio-economic process that transforms the built environment, converting formerly rural areas into urban settlements, while also shifting the spatial distribution of a population from rural to urban areas.
+
+According to the World Bank, urbanisation in Pakistan, in general, is messy and hidden as cities are expanding beyond administrative boundaries to include ruralopilises—densely populated rural areas and outskirts not officially designated as cities. Similar findings are shared by an urban scholar, Reza Ali. According to him, 70 percent of Pakistan’s population is non-rural, that is, living in concentrated areas in or around some urban centers (cited from Abdul and Hai, 2020).
+
+Urban resilience is the capacity of cities to act efficiently so that their businesses, institutions, residents, communities, and workforce, especially the vulnerable people endure the stresses or shocks they encounter in their everyday lives because of climate change, urbanisation, or globalisation. The word resilience means “the persistence of relationships within a system” and “the ability of these systems to absorb the changes of state variables, driving variables, and parameters” (Abdul and Yu, 2020).
+
+Sustainable Development Goal (SDG) 11 says “M ake cities and human settlements inclusive, safe, resilient and sustainable.” That is, we need to build modern, sustainable cities. For all of us to survive and prosper, we need a new, intelligent urban planning that creates safe, affordable, and resilient cities with green and culturally inspiring living conditions for all. In other words, to increase the resilience of cities to absorb shocks and unforeseen events.
+
+The 5.7 per cent of land under forest cover is much below the recommended benchmark of 25 per cent, often leads to urban flooding in cities like Karachi, Lahore, Peshawar, and many other cities in the country, disrupting human lives, property, and existing infrastructure. This demands effective strategies to build resilience to deal with such a situation (Shahid, 2020).[1]
+
+In Pakistan, rapid urbanisation is not accompanied by equivalent investment in new and existing urban spaces. This puts an extra burden on existing city systems, creating social/ ethnic tensions, undermining their resilience, and creating concerns for their sustainability (Mahendra and Seto, 2019). For instance, Karachi, among the world’s top ten largest cities, often faces power challenges, water shortages, transport problems, rising informal settlements, environmental issues, urban flooding, and poor waste management issues. The situation in other cities is not different.
+
+The resilience of cities may be contextualised in the performance of its public service delivery such as the provision of energy services as they are critical to liveability in urban spaces. It is perhaps due to a lack of urban resilience that despite sizable reforms in the country’s energy sector, the delivery of reliable electricity services still remains a challenge. Even none of the current proposals for reforming urban electricity markets has a deeper analysis on their back resulting in little faith in their workability. This necessitates that the performance of electric utilities, for quality electric service delivery may be understood in the context of overall city governance. This can be achieved in two ways: either by comparing utilities of different nature (e.g., electric, water, and gas) with the same city governance context or by comparing similar utilities in different city governance contexts. This study chooses the latter option.
+
+The first objective of the study is to compare urban resilience across three major cities, Karachi, Islamabad, and Peshawar. How does it impact the provision of electricity services in these three cities? The study examines the linkage between various operational (transmission and distribution losses, safety systems, outages etc.) and commercial (recovery rates) performance of a utility and urban resilience of the city. The second objective is to draw lessons from IESCO, PESCO and K-Electric regarding safety hazards related to electricity utility for each other and for other distribution companies. Safety hazards that arise because of urbanisation or its consequences, e.g., urban sprawl. The study highlights possible policy actions to enhance resilience in Pakistani cities and a resilient electricity system to cope with urban challenges.
+
+Research Questions :
+
+What is the state of urban resilience in Pakistani cities? How is it affecting the quality of electricity services?
+
+Is Karachi less resilient than Islamabad and Peshawar?
+
+How are IESCO (in Islamabad), PESCO (in Peshawar) and K-Electric (in Karachi) dealing with urban sprawl issues in particular, safety hazards?
+
+Hypothesis:
+
+(1) H 0 : Pakistani cities are resilient to absorb the impact of rapid urbanisation, thus, there is no issue of service delivery, safety in electricity systems and in the collection of payments by electricity distribution companies.
+
+H 1 : Rapid urbanisation leads to the expansion of slums/ informal settlements in Pakistani cities creating issues of service delivery. Illegal extensions /encroachments create safety hazards and hinders in reducing losses and in collection of payments by electricity distribution companies.
+
+(2) H 0 : Karachi urban dynamics is like Islamabad and Peshawar.
+
+H 1 : Karachi urban dynamics is different from Islamabad and Peshawar due to relatively greater economic vibrancy and relatively more troubled spots because of various socio economic, governance and political reasons.
+
+The study is organised into five sections. Preamble is followed by conceptual framework and methodology. Section 3 will discuss city profiles and will estimate and compare urban resilience across three cities using various indicators. Section 4 will relate urban resilience with utilities performance and discuss their coping strategies. Section 5 is the conclusion.

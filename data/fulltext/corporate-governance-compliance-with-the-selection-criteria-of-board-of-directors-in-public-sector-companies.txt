@@ -1,0 +1,171 @@
+Introduction
+
+Safeguarding the interests of shareholders and stakeholders from managerial misconduct and fraud is one of the core domains of corporate governance. Corporate governance activities can be classified into five broad areas: Board Effectiveness, Audit and Risk/External Accountability, Remuneration and Reward, Shareholder Relations and Stakeholder Relations. Adhering to the Code of Corporate Governance (CCG) can facilitate the success of the company by achieving effective and prudent management.
+
+Box 1: What is Corporate Governance
+Corporate governance is the system of rules, practices, and resolutions put in place to direct and manage a company. The term encompasses the internal and external factors that affect the interests of a company’s all stakeholders, including shareholders, customers, suppliers, government regulators and management. This postulates a structure to set the objectives of the company and provides means to attain these objectives.
+Source: From web
+
+The first corporate law in Pakistan was the Companies Ordinance 1984. The Security and Exchange Commission of Pakistan (SECP) has revised this ordinance to issue Regulations CCG, 2017 for listed companies, which has further been revised as CCG, 2019. The key change is the shift from a ‘ compliance based’ to a ‘ comply or explain’ approach as per regulations, whereby companies are required to comply with compulsory provisions or to provide appropriate explanations of their non-compliance.
+
+Extant research has investigated corporate governance in Pakistan in terms of profitability and companies growth (Yasser et al., 2011), non-compliance to CCG (Shamsi et al., 2014), undue government interference (Arthur M. Mitchell & Clare Wee, 2004), ownership concentration (Javid & Iqbal, 2010), non-compliance to international standards like accountability and transparency (Aziz et al., 2019) etc. Likewise, the control exercised by the interplay of ownership structure and the composition of boards in companies has also been studied (Haque & Hussain, 2021). In the line with extant literature, this article investigates if the current practices in board composition are in compliance with the regulations CCG.
+
+Board of Directors: An instrument to ensure better Corporate Governance
+
+Shareholders own the business and the management runs the company. Shareholders interfere in a company’s affairs through their representative Board of Directors (BODs), making a Principal-Agent dyad. A BODs of a company is the primary regulatory body to foster good corporate governance to monitor the company’s operations and its ultimate profitability. A BODs is principally a panel of people, elected by the shareholders to represent shareholders. Thus BODs acts as a fiduciary for shareholders. The integral roles played by effective BODs to secure a good organizational reputation, attract capital investment and engage a skilled workforce have been acknowledged globally. The roles played by BODs can broadly be classified into oversight, advisory and directional functions. BODs draws its power to exercise from the company constitutions like Articles and Memorandum of Association, Companies Act Law and resolutions approved by shareholders and from industry practices.
+
+Selection Criteria of Board of Directors as per Code of Corporate Governance, 2019
+
+The members of BODs are elected at either an Annual General Meeting (AGM) or an extraordinary shareholders’ meeting convened for that purpose. The shareholders or groups of shareholders holding more than 10% of ordinary shares can nominate candidates for the BODs. The appointing authorities
+
+Table 1: Selection Criteria of BODs as mandated in CCG, 2019
+Number of Directorship: A person can hold office as a director of a maximum seven listed companies simultaneously (Section 155 of the Act), excluding their subsidiaries.
+Diversity in the Board: BODs must have an appropriate mix of members to ensure diversity (skills mix) in terms of core competencies, skills, experiences, technical expertise, and knowledge.
+Balance of Composition of Board: Board must have the right composition of directors and gender to ensure a balance of representation and power exercised by directors, including executive, non-executive, female and independent directors.
+Executive Directors (EDs): The number of EDs including the CEO must not be more than one-third of the Board.
+Independent Directors: There must be at least two or one-third of members on the Board, whichever is higher, as INEDs.
+Female Director: Board must have at least one female director for gender representation & balance.
+Chairperson and CEO: The offices of the Chairperson and the CEO cannot be held by one person. The Chairperson shall be elected by the BODs or by the Government (Section 192 of the Act).
+Directors’ Training Program (DTP): It is compulsory for the listed companies to provide DTP to their directors to familiarize them with the regulations of CCG, 2019 for effective compliance and to upgrade their skills, when needed. CCG 2019 encourages DTP to the extent that by June 30, 2020 at least half of the directors on the Board, by June 30, 2021 at least 75% of the directors and by June 30, 2022 all the directors on their Board must have acquired the prescribed certification under any director training program offered by institutions, local or foreign. However, the directors having a minimum of 14 years of education and 15 years of experience on the Board are exempted. At least one female executive and at least one head of department every year shall also be appointed for DTP.
+Source: SECP Law 2019
+https://www.psx.com.pk
+
+(shareholders or the Government) should nominate the candidates for election as Board members as per fit and proper criteria given in CCG, 2019. Generally, a deadline for submitting nominations is set. The shareholders can vote in person or even designate someone else to vote. More the shares a shareholder has, the more votes he/she can cast. After selection, the directors are appointed for some specific term. On the expiry of the tenure, the directors can be re-elected and re-selected on the BODs
+
+The CCG 2019 has certain regulations that public sector limited companies must comply with for the selection of BODs. In Table 1, some criteria have been mentioned briefly.
+
+Current Situation of Companies’ Compliance with the CCG, 2019
+
+The regulations CCG, 2019 are to accentuate the significance of a balanced, independent and diverse BODs for companies’ profitability and growth. These regulations entrust the BODs with the responsibility to protect the interests of all stakeholders and shareholders. Corporations/companies serve as the foundations for the sustainable economic growth of a country. A vigilant and strong corporate governance system prevailing in a company reflects the higher degree of transparency, thus attracting more investment (Cueto, 2007).
+
+To know the extent the companies in Pakistan comply with the regulations of CCG, the Pakistan Institute of Corporate Governance (PICG) has conducted two surveys, one in 2016 and the other in 2019. The results of the surveys can serve the purpose to know the degree of compliance of companies to CCG, 2019.
+
+Comparison between PICG Report 2016 and PICG Report 2019
+
+A comparison of the PICG reports (2016 and 2019) coupled with IERU[1] reports for FY-2019 reflects the extent the current board composition is in compliance with regulations. Though an upward trend in some areas has been observed, still in some spheres complete compliance is missing.
+
+Box 2: Brief Introduction of PICG
+PICG is an institute established in 2004, under Section 42 of the Ordinance, 1984 to promote good corporate governance practices in Pakistan. PICG has since been involved in corporate governance training and education, policy advocacy, advisory services, research and evaluations, conducting surveys as well as publishing guidelines and other research material. The founding members of PICG include the SECP, State Bank of Pakistan, Pakistan Stock Exchange, Non-Bank Financial Institutions, Institute of Chartered Accountants Pakistan and Institute of Cost and Management Accountants of Pakistan. PICG has conducted two surveys to generate reports on corporate governance practices of listed and unlisted companies in Pakistan. One is Report on the Survey on Board Practices of Public Sector Companies in Pakistan, 2016. The other is Corporate Governance Practices in Pakistan, 2019.
+Source: PICG website
+
+The findings from the PICG survey (2019) provide a snapshot of the corporate governance practices in terms of board composition, practices and remuneration of BODs in over 130 respondent companies in Pakistan. Though data sample comprises two-thirds of the listed and one-third unlisted companies, however, the plus point is that 22% of the respondents are from Public Sector Companies (PSCs). This percentage is double than respondents percentage (10%) in PSCs in the PICG survey 2016. The
+
+Source: PICG Report 2019
+
+respondents have designations such as secretaries, Board members, senior executives, Chairperson and CEO from various industries and sectors. Only Hospitality Industry has not participated in both surveys. Here are the main findings of the survey 2019.
+
+Board Size
+
+The average board size is approximately 8 directors in 2019, ranging from 2 to 15 as compared to 7 in 2016 survey. PSCs have the largest average board size. Some 12.39% companies have added four new directors in the last election. Major factors triggering any change in the board composition of these sample companies are resignation (31%), orderly planned succession (15%), desire for greater diversity (21%), need for specialized knowledge (17%), no change (22%) and others (20%) including retirement, having female directors etc.
+
+Source: SOEs Annual Report 2019
+
+______________________________
+[1] The Implementation & Economic Reforms Unit (IERU) of Finance Division has published two reports with the technical support from World Bank. Reports provide key findings about financial and non-financial information about the SOEs and non-commercial SOEs portfolio for FY 2019.
+
+Gender Classification on BODs
+
+The number of boards with female directors has gone up from one third in 2016 to two thirds in 2019, but female directors constitute only 10.4% of the total directors ( Figure 1). Despite the fact that the number of companies with female representation on their boards has increased from only 34% of the companies in 2016 to 64% in 2019. Still, one-fourth of the listed companies still have no female directors on their boards regardless of the requirement of the regulations CCG, 2019. The low percentage in female selection has been depicted in the findings that at the last election, almost 74.76% of companies have not come up with any change in the number of female directors, while 22.33% of companies have increased this number. In the same stream, the Ministry of Finance, Islamabad has published two reports. Findings of State-Owned Enterprises (SOEs) from seven sectors in these reports show the gender
+
+diversity on board ( Figure 2). The numbers of female directors in the capacity of Executive Directors (EDs), Non-Executive Directors (NEDS) and Independent Non-Executive Directors (INEDs) are 7, 16 and 15 respectively. The number of male INEDs and NEDs is adequate, which is in line with CCG, 2019. An overall comparison of board composition of SOEs and non-commercial SOEs is represented in Figure 3.
+
+Age of Directors
+
+Of the total directors in the sample, 62% of companies (unlike 66% in 2016) have 56% directors with age between 40 to 60 years ( Figure 4). It shows that 62% companies have no director aged below 40 years and above the age of 70 years. Only 9% directors are above 70 years and 7% directors are less than 40 years.
+
+Source: PICG Report 2019
+
+INEDs on Boar d
+
+The number of INEDs on board has been increasing significantly. Almost 22% of the listed companies have a mandated number of INEDs. While some 25% of listed companies do not have the recommended number of INEDs as mandated by the CCG, 2019. The clause of inclusion of Independent Directors on the board is to protect the interests of all shareholders, notably those of minority shareholders. But, there is no parameter to measure how independent an INED actually is (Haque & Hussain, 2021). Companies use various methods to find appropriate INEDs registered on databanks[2] (Section 166) for their boards. INEDs can be nominated by the government in case of PSCs. Other methods include special regulations, mutual agreement between majority shareholders and industry leaders, head hunting by a sponsoring group, BODs nomination and utilizing contacts, etc.
+
+In term of the category of directors, Figure 5 shows a mix of executive, non-executives and independent directors. This also indicates that very few females are elected as EDs, while 33% of the listed companies do have independent female directors on their boards, whereas 28% of all companies have shown the presence of independent female representation on their boards. A tendency on the part of non-executive directors to serve for three consecutive terms on the same board has also been observed. Some 45.63% NEDs have served for more than three terms (PICG Survey, 2019). There are certain parameters to gauge the degree of BODs’ effectiveness. Presence of Independent Chairman and separate CEO show positive impact. Similarly higher percentage of NEDs and female directors, higher percentage of board meeting attendance, higher number of board meetings held and higher age range of BODs indicate compliance with the regulations. Whilst, the higher percentage of directors on board more than nine years and having less than seven directors signify deviation from the CCG, 2019.
+
+Separate Offices to be held by CEO and Chairperson
+
+In compliance with the regulations of CCG, 2019, the position of CEO and Chairperson must be held by different persons. It is noted that over 93% of the companies have reported that the role of the Chairman and the CEO are being performed by different individuals. In almost 67.96% of companies, the Chairperson is an NED and in 23.30% of companies the chairperson is the INED. While, 8.74% of Chairperson are executive as well ( Figure 6 ).
+
+_____________________________
+[2] Data Bank: SECP has authorized Independent Directors Databank maintained by the PICG, which has been operational since 2016. SECP has also authorized Overseas Pakistani Foundation (OPF) to create and maintain databank of INEDs and post such data on its website for appointment of directors. SECP has notified Companies Regulations (SRO.1570 (I)/2018 dated December 26, 2018), specifying procedure of selection of INEDs from such databank.
+
+Skill Sets of BODs and Directors Training Program
+
+The PICG survey 2019 depicts that BODs generally possess the required knowledge in finance, marketing and general management with legal knowhow ( Figure 7 ). Other skills possessed by directors are audit, risk management, human resource, treasury, credit, investment banking, education and research. Some directors have more than one skillset. A skill gap analysis of directors can help identify the areas to get improved and upgraded by Directors Training Program[3] for efficient BODs.
+
+For professional development of their directors, most companies maintain a budget to conduct director orientation sessions (76.5%) and SECP approved DTP (82%). Consequently, by 2019 almost 50% of the total directors have been certified under approved DTP.
+
+Frequency of Board Meetings
+
+Annually 4 to 6 Board meetings are held to evaluate companies’ performance and to discuss strategic matters in PSCs. Board members are supplied with background materials some week ago. The form of information is concise covering all major issues and is provided in hard or/and electronic form.
+
+Antecedents of Poor CG Practices
+
+Compliance to regulations is more than a box-ticking exercise. For good corporate governance, certain measures need to be implemented. Ownership should be separated from the executives for effective oversight and good governance (Salman & Siddiqui, 2013). Though the statistics have shown some improvement in corporate governance in companies in Pakistan, still there are areas that need reforms responsible for substandard performance. Admittedly, poor corporate governance practices in companies are attributed towards mismanaged board composition. The family controlled orientation in majority of Pakistani businesses hampers the development of an equity culture. This orientation shallows the market (Hamid and Kozhich, 2007). Network analysis show that members for BODs are selected from a small club (Haque and Hussain, 2021), which explains the reasons of ineffectiveness of INEDS in Pakistani companies (Ameer, 2013). In short, some factors are listed below briefly:
+
+Retention of the same directors over many terms.
+
+Inefficient use of databank for directors’ selection.
+
+Retarded growth of corporate governance.
+
+Compromise on independence of INEDs and fear of NAB/Agencies.
+
+The Government unmeritorious nomination.
+
+No or insufficient compensation to Directors.
+
+Resistance to ‘Outsiders’. Companies are not open to new ideas and change.
+
+Inefficient Board practices.
+
+No regular remuneration but only meeting fee is paid to INEDs
+
+_______________________
+[3] PICG offers DTPs, consultancy, corporate governance research and needs analysis services to the organizations in Pakistan. To date, there are over 1500 PICG certified directors. PICG has conducted more than 170 boards’ evaluation.
+
+Performance Evaluation
+
+To improve the composition and structure of the Board, there is a need to evaluate board performance. The common prevalent evaluation mechanism is to conduct an in-house evaluation, followed by an external evaluator. Some companies have a mixed mechanism to conduct the evaluation of board members. The evaluation results are then discussed at the board meetings. Similarly, some companies do not review CEO’s performance, while most companies review CEO’s succession plan only when required. Some companies review succession plans every 2-3 years as well.
+
+To have a balance board composition with an adequate number of INEDs is crucial to enhance board effectiveness. Companies with engaged board members knowing the key business drivers and risks show better performance than with passive board members, who generally leave matters at the discretion of the CEO and management. To attract competent INEDs on board, the remuneration policy should be revised to increase the board fee structure. About 78% of companies have a formal remuneration policy. In 50.5% of companies, this policy is reviewed once in three years using in-house market analysis (74%) or through external consultants (6%) to make the remuneration market competitive.
+
+Conclusion and Recommendations
+
+In compliance with CCG, 2019, many companies have shown significant improvement in terms of gender diversity, increase in INEDs number, separation of the role of Chairperson and CEO, more training of directors etc. However, many public sector companies have not met the minimum compliance requirements, especially with respect to board composition, the required number of INEDs and female directors on boards. The other area that needs improvement is the evaluation mechanism of BODs and CEO. BODs must be informed in advance of the evaluation criteria and the findings of evaluations should be utilized to improve board effectiveness. BODs should be informed of all necessary matters, so that they can deliver their fiduciary responsibilities effectively.
+
+Following are some recommendations to improve the corporate governance mechanism in Pakistan.
+
+The recommended number of female directors and INEDs on boards is missing in many companies. The Independent Directors Databank can facilitate companies, on-demand, to select suitable INEDs and female directors. It is time to select qualified INEDs through formal authorized channels like ID databanks than from a narrow pool of social contacts .
+
+Likewise, nomination committees must be in place to formalize the selection process of INEDS and other members on Board.
+
+By advertising, the opportunity for the appointment of board members would improve the objectivity of the process.
+
+The remuneration policy should be revised to ensure active engagement of the INEDs.
+
+The rule of one shareholder (not one share), one vote would dilute the monopoly of dominant shareholders while selecting INEDs.
+
+The criterion of the range of skills required for Board positions should also be considered to have a perfect skill mix on Board.
+
+The nomination of Chairperson through political intervention should be minimized. This authority should be vested in BODs.
+
+Evaluation mechanism of performance of BODs and CEO should be made impersonal and impartial.
+
+References
+
+Ameer, B. (2013). Corporate governance-issues and challenges in Pakistan. International Journal of Academic Research in Business and Social Sciences, 3(4), 79.
+Aziz, M., Gondal, Z. H. and Ali, S. (2019). Problem Relating to Corporate Governance in Pakistan. Research Advances in Social Sciences Journal , 6 (6), 353-358.
+Cueto, D. C. (2008). Corporate governance and ownership structure in emerging markets: evidence from Latin America.
+Hamid, H. H., & Kozhich, V. (2007). Corporate governance in an emerging market: A perspective on Pakistan. J. Legal Tech. Risk Mgmt. , 1 , 22.
+Haque, N. and Hussain, A. (2021). A Small Club: Distribution, Power and Networks in Financial Markets of Pakistan. (PIDE Working Paper 2021:3).
+Javid, A. Y., & Iqbal, R. (2010). Corporate governance in Pakistan: Corporate valuation, ownership and financing. (Working Papers & Research Reports, 2010).
+PICG (2016). Report on the Survey on Board Practices of Public Sector Companies in Pakistan .
+PICG (2019). Corporate Governance Practices in Pakistan. Survey Report on Board Composition, Practices and Remuneration.
+Salman, F., & Siddiqui, K. (2013). Corporate governance in Pakistan: From the perspective of Pakistan institute of corporate governance. The IUP Journal of Corporate Governance, 12(4), 17–21.
+Shamsi, A. F., Panhwar, I. A., & Bashir, R. (2014). Corporate governance in Pakistan and need of corporate performance measurement: An empirical study. Corporate Governance, 6(37).
+State Owned Entities (SOEs) Annual Report 2019 – Vol-I
+
+https://www.finance.gov.pk/FY19_Vol_II
+
+The Code of Corporate Governance 2019, SECP Pakistan
+Yasser, Q. R., Entebang, H. A., & Mansor, S. A. (2011). Corporate governance and firm performance in Pakistan: The case of Karachi Stock Exchange (KSE)-30. Journal of Economics and International Finance, 3(8), 482–491.

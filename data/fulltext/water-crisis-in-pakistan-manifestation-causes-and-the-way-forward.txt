@@ -1,0 +1,267 @@
+Water Crisis in Pakistan: Manifestation, Causes and the Way Forward
+
+Nazam Maqbool , Pakistan Institute of Development Economics, Islamabad.
+
+“Anyone who can solve the problems of water will be worthy of two noble prizes – one for peace and one for science”
+
+John F Kennedy[1]
+
+INTRODUCTION
+
+Water scarcity is a frightening situation that is already happening in Pakistan. The country ranks 14 among the 17 ‘extremely high water risk’ countries of the world, a list that includes hot and dry countries like Saudi Arabia.[2] Over 80 percent of the total population in the country faces ‘severe water scarcity’ for at least one month of the year.[3] In addition to surface water, Pakistan’s groundwater resources—the last resort of water supply—are severely overdrawn, mainly to supply water for irrigation. If the situation remains unchanged, the whole country may face ‘water scarcity’ by 2025. The situation is strategically more complicated, as Pakistan is the lower riparian country to India and 78 percent of its water inflows from therein.[4] Moreover, only two-thirds of available water is being utilised while one-third of the water is either lost or discharged into the sea.[5]
+
+THE MANIFESTATION OF THE WATER CRISIS IN PAKISTAN
+
+The water crisis is a reality in Pakistan as is evident from the following facts.
+
+2.1. Water Availability
+
+Over the last few decades, Pakistan has drastically changed from being a water abundant country to a water-stressed country (Figures 1 and 2). With 2.8 percent of the global population, Pakistan accounts for 0.5 percent of global renewable water resources.[6] Worldwide, the country ranks 36 th in total renewable water resources compared to India’s rank at 8th and Bangladesh’s at 12th (2017).[7]
+
+__________________
+
+[1] Biswas et al. 2018.
+
+[2] WRI 2021.
+
+[3] Mekonnan and Hoekstra 2016.
+
+[4] FAO 2021.
+
+[5] GOP 2019.
+
+[6] FAO 2021.
+
+[7] Ibid.
+
+2.2. Water Withdrawals
+
+Pakistan ranks 160 th in the ratio of water withdrawals to water resources (in 2017), performing better than 18 countries only (Figure 3). Agriculture is the largest water consumer, accounting for 94 percent of annual water withdrawals followed by households (5.3 percent) and industry (including power generation) (0.8 percent).[8]
+
+2.3. Dependence on Single River System
+
+The country’s dependence on a single river system is extremely risky: the Indus river system accounts for 95.8 percent of the total renewable water resources of Pakistan.[9] Moreover, the water originating from outside of Pakistan accounts for over three-fourths (78 percent) of total water resources of the country, making it vulnerable.[10]
+
+____________________
+
+[8] Ibid.
+
+[9] Young et al. 2019.
+
+[10] FAO 2021.
+
+2.4. Low Water Productivity
+
+In 2017, Pakistan ranked 8th lowest in the world, generating US$1.4 per cubic meter of water withdrawn. Malaysia ranked 35th (US$55.0/m 3 ), Republic of Korea 37th (US$52.4/m 3 ), China 71st (US$ 21/m 3 ) and Turkey 87th (US$13.6/m 3 ).[11]
+
+2.5. Overuse of Groundwater
+
+The Indus Basin aquifer has been ranked as the 2nd most over-stressed underground water reserve in the world.[12] The strain on groundwater is very disturbing. Over 60 percent of irrigation, 70 percent of drinking water and 100 percent of the industry in the country depend on it.[13]
+
+2.6. Drinking Water
+
+Country’s cities are already facing problems of erratic supply of piped water and unsafe and declining levels of groundwater. Only 36 percent of the population has access to safe drinking water (Figure 4).
+
+2.7. Wastewater Treatment
+
+Over 63 percent of globally produced wastewater is collected, 52 percent is treated (48 percent is released untreated) while 11 percent is reused.[14] With a mere 1 percent treatment of collected wastewater, Pakistan ranks among the countries with the lowest water treatment rate.[15] “Pakistan is wasting its water resources due to inefficient consumption patterns and negligible recycling” , says Dr Tariq Banuri.[16]
+
+WHAT ARE THE ROOT CAUSES OF PAKISTAN’S WATER CRISIS?
+
+Pakistan’s water crisis is explained mainly by rapid population growth followed by climate change (floods and droughts), poor agricultural sector water management, inefficient infrastructure and water pollution. This in a result is also aggravating internal tensions between provinces.
+
+3.1. Rapid Population Growth and Unplanned Urbanisation
+
+The biggest challenge to deteriorating water resources and decreasing per capita water availability in Pakistan is population growth and urbanisation. Between 1972 and 2020, Pakistan’s population increased by 2.6 times, moving it in rank from 9 th to 5 th . Bangladesh’s population increased by 1.5 times (from 66.6 million to 164.7 million) during this time. Total water use in Pakistan increased by about 0.7 percent per year between 1977 and 2017[17]; while total water resources remained static at 246.8 billion cubic meters (BCM), resulting in a decrease in per capita water resources from 3,478 to 1,117 cubic meters per year (table 1). This has resulted in an increase in pressure on water resources, reflected by the ratio of water withdrawals to renewable water resources going up from 62 percent to 82 percent between 1977 and 2017.[18]
+
+Pakistan’s population is projected to increase by over one-half (53 percent), reaching 338 million by 2050. The share of the population living in cities is also projected to increase from 37.2 percent in 2020 to 52.2 percent in 2050.[19] If water efficiency remains the same, the water withdrawal to water resources ratio may exceed 100 percent in coming decades.
+
+_____________________
+
+[11] Ibid.
+
+[12] NASA Global Climate Change 2015.
+
+[13] Ashraf 2018.
+
+[14] Jones et al. 2021.
+
+[15] Wendling et al. 2020.
+
+[16] Abubakar 2019.
+
+[17] FAO 2021 and World Bank 2021.
+
+[18] FAO 2021.
+
+[19] UN 2021b.
+
+3.2. Climate Change
+
+Pakistan is among the list of 10 most vulnerable countries of the world to climate change (Figure 5). The country is already facing climate-related threats to water resources as is evident from the change in monsoon patterns, receding glaciers, rising temperatures and recurrence of floods and droughts. Pakistan has witnessed a number of floods in the past several years and long spells of drought. For example, the 2010 floods caused direct losses of more than US$10 billion and 1,600 deaths and affected 38,600 square kilometers.[20] Similarly, Quetta and most parts of Balochistan experienced eight years of a drought-like situation from 1997 to 2005.[21]
+
+Climate change may decline aggregate water flows in the future. In future, most projections show a declining trend and increased variability of the flows (50 to 75 years).[22] The Indus River Basin, Pakistan’s chief water source, being dependent on glacial and snowmelt and precipitation, is highly sensitive to climate change. It has already shrunk into a canal in the Sindh Province where a large number of farmers have migrated to urban areas due to a shortage of water. Given the fact that snow and ice melt runoff currently generates between 50 percent and 80 percent of average water flows in the Indus River basin,[23] this will result in landslides, heavy flooding, dam bursts and soil erosion initially and drought and famine in the long-run.[24]
+
+________________________
+
+[20] Ali 2013.
+
+[21] Shah 2016.
+
+[22] Khan 2017.
+
+[23] Yu et al. 2013.
+
+[24] Bhutto 2020.
+
+3.3. Poor Water Management
+
+Over 80 percent of the country’s water resources are used by four major crops (rice, wheat, sugarcane and cotton) which contribute only 5 percent to GDP.[25] The productivity of these crops is low in Pakistan compared to other major agricultural economies of the world (Figure 6). Canal water is immensely underpriced, recovering only one-fifth [20 percent in the form of abiana (canal water charges)] of annual operating and maintenance costs, while the collection is 60 percent of total receivables.[26] Though the farm sector accounts for one-fifth of GDP and almost half of the country’s employment, it contributes less than 0.1 percent to total tax revenues, providing little finance for the maintenance of the irrigation system.[27]
+
+The crumbling of water infrastructure contributes to extensive water wastage. The country’s irrigation is one of the most inefficient in the world with an overall efficiency of 39 percent, reflecting aging and poor maintenance of the irrigation system. This means, out of 143 BCM of water available at the canal headworks, only 55 BCM is being used for the farm sector. The rest (61 percent or 87 BCM) of water is lost during conveyance through canals, distributaries, minors and watercourses and during application in the field.[28] Moreover, Pakistan can save only 9 percent of the available water in the Indus River System throughout the year, compared to the global average of 40 percent.[29]
+
+3.4. Water Pollution
+
+Every year about half of the two million produced wet tons of human excreta go on to pollute water in Pakistan.[30] According to a study, in Pakistan 60 million people are at risk of exposure to high concentrations of arsenic in groundwater on the Indus Plain.[31]
+
+Water-borne diseases are a leading cause of death and suffering in Pakistan. Overall, about 60 percent of people in Pakistan are suffering from one or more of the main diseases associated with inadequate provision of drinking water and improved sanitation.[32] They fill about one-third of hospital beds and account for about 40 percent of all premature deaths in the country.[33] In 2017, 60 thousand people in Pakistan died prematurely due to inadequate water and sanitation facilities: half of them were children under-five.[34] Recently, Pakistan has also seen the emergence and resurgence of diseases like polio, dengue fever, and hepatitis A and E. Diarrhoea alone accounts for 54,000 deaths among children under-five, which means every hour more than five children die as a result of diarrhoea.[35] The economic costs to Pakistan of poor water and sanitation, floods and droughts are estimated to be 4.0 percent of the GDP or about US$ 12 billion per year.[36]
+
+______________________
+
+[25] Young et al. 2019.
+
+[26] Young et al. 2019.
+
+[27] IMF 2015.
+
+[28] Ashraf 2018.
+
+[29] UNDP, Pakistan 2016.
+
+[30] GOP 2016.
+
+[31] Podgorski et al. 2017.
+
+[32] GOP 2009.
+
+[33] Haydar et al. 2009.
+
+[34] IHME 2018.
+
+[35] Sahi 2013.
+
+[36] Young et al. 2019.
+
+3.4. Water Policies
+
+In 2018, Pakistan formulated its first-ever National Water Policy. It acknowledges for the first time that water is a finite resource and that Pakistan has to at least recover the costs of the irrigation system. The policy also looks at future impacts of climate change on water, talks about water pricing and mentions the need for regional cooperation challenges. Some provincial-level initiatives also exist such as the Punjab Water Act 2019, the Balochistan Integrated Water Resources Management (IWRM) Policy 2006, Sindh’s Agriculture Policy 2018 and KP’s Drinking Water Policy 2015 and Climate Change Policy 2016. However, there are several shortcomings in these documents such as the absence of a scientific basis, the neglect of water quality issues, the absence of targets, and lack of clear reference to SDGs and gender inclusion. Such gaps need to be addressed during the implementation phase. Also, there is a need for clear timelines, capacity, political will and provision of financial resources.
+
+3.5. Water Distribution Issue within Provinces
+
+A growing scarcity of water resources in the country is increasingly becoming a source of conflict among provinces over the distribution of available water. Canal water is distributed among provinces under the 1991 Water Accord: a baseline volume of 144.8 BCF water is divided among the provinces, with about 48 percent going to Punjab, about 42 percent to Sindh, 7 percent to Khyber Pakhtunkhwa and about 3 percent to Balochistan.[37] A mechanism has been defined for the excess supply of water. However, the accord does not introduce any apportionment for shortages. Lesser quantities of water in various months have caused water conflicts between the upstream province of Punjab and the downstream province of Sindh and between Sindh and Balochistan over the years. Sindh alleges Punjab of water theft while Baluchistan accuses Sindh of not giving its share from Guddu and Sukhar Barrages.
+
+SOLUTION AND THE WAY FORWARD
+
+Pakistan needs to take a series of measures to address its water crisis.
+
+4.1. Political Ownership of the Challenge
+
+The entire political leadership and relevant stakeholders need to take ownership of the challenge of Pakistan’s water crisis and declare their intention to address it. “First of all, Pakistan’s leaders and stakeholders need to take ownership of this challenge and declare their intention to tackle it. Simply blaming previous governments, or blaming India, for the crisis won’t solve anything” [38], says Michael Kugelman.
+
+4.2. Policy, Reforms and Governance
+
+There is a need to fill the vacuum between policies, reforms and their implementation by devising a detailed implementation plan. “We do not have a water crisis; we have a failure of governance with regard to water issues,” says Dr Ishrat Hussain.[39] The government needs to institute a major paradigm shift that promotes the more judicious use of water. This will include water infrastructure maintenance, water conservation technologies and awareness-raising.
+
+__________________________
+
+[37] Siddiqui 2021.
+
+[38] Baloch 2018.
+
+[39] Husain 2017.
+
+4.3. Recycling of Wastewater
+
+The policy-makers need to rethink water policy by urging recycling of wastewater as is done in Israel and Singapore based on the principle of private sector participation and optimal pricing of water.
+
+Israel, which was water-deficient with 70 percent desert, has achieved water security by treating and reusing around 90 percent of its wastewater, primarily for irrigation, meeting around one-quarter of the country’s demand for water. Similarly, Singapore – another water-scarce country – is meeting 40 percent of its water demand from recycled wastewater which is expected to reach 55 percent by 2060.[40]
+
+_________________
+
+[40] The Korea Times 2021.
+
+4.4. Increase Agricultural Efficiency
+
+It is key to leverage technology for efficient water utilisation, however, it is also crucial to choose the right innovation so it delivers the desired solution that is needed. Farmers can use precision watering rather than flooding their fields. One of the biggest advances in modern agriculture is drip irrigation. Similarly, water-intensive crops as sugar cane and rice may be replaced with lower water demanding crops.
+
+4.5. Water Metering/Pricing
+
+Another solution is making the metering of water compulsory for all users from domestic, agriculture or industrial units. Once the amount of utilisation is known, it enables better planning and management of the precious resource. The current pricing regime offers little incentive to consumers to conserve water. Pricing may be linked with income levels along with several other dimensions. Increasing the cost of water consumption will not only push consumers to use water more judicially but also generate sufficient revenues for the maintenance of infrastructure and water-conserving technologies.
+
+REFERENCES
+
+Abubakar, S. M. 2019. “How Pakistan Wastes its Water.” Dawn , 12 March.
+
+Ali, A. 2013. Indus Basin Floods: Mechanisms, Impacts, and Management . The Philippines: Asian Development Bank.
+
+Ashraf, M. 2018. “Water Scarcity in Pakistan: Issues and Options.” http://pcrwr.gov.pk/wp-content/uploads/2021/07/Water-Scarcity-in-Pakistan-Issues-and-Options-May-18.pdf.
+
+Baloch, S.M. 2018. “Water Crisis: Why is Pakistan Running Dry?” DW.COM , 7 June.
+
+Bhutto, F. 2020. “Pakistan’s Most Terrifying Adversary is Climate Change.” The New York Times , 29 September.
+
+Biswas, A.K., C. Tortajada and P. Rohner. 2018. Assessing Global Water Megatrends . Singapore: Springer Nature Pte Ltd.
+
+Eckstein, D., V. Kunzel and L. Schafer. 2021. Global Climate Risk Index 2021 . Bonn: Germanwatch.
+
+FAO (Food and Agriculture Organisation of the United Nations). 2021. AQUASTAT. https://www.fao.org/aquastat.
+
+GOP (Government of Pakistan). 2009. Poverty Reduction Strategy Paper (PRSP)-II . Islamabad: Ministry of Finance.
+
+———–. 2016. Economic Survey of Pakistan 2015-16 . Islamabad: Ministry of Finance.
+
+———–. 2019. Capacity Audit of WAPDA, IRSA, PCRWR & Reorganisation and Strengthening of Ministry of Water Resources .
+
+Islamabad: Management Services Wing, Establishment Division, Government of Pakistan.
+
+Haydar, S., M. Arshad and J.A. Aziz. 2009. “Evaluation of Drinking Water Quality in Urban Areas of Pakistan: A Case Study of Southern Lahore.” Pakistan Journal of Engineering and Applied Science 5: 16-23.
+
+Husain, B. 2017. “Water Crisis Attributed to Failure of Governance.” Express Tribune , 22 November.
+
+IHME (Institute for Health Metrics and Evaluation). 2018. Global Burden of Disease Study 2017 . Seattle, United States: IHME.
+
+IMF (International Monetary Fund). 2015. Issues in Managing Water Challenges and Policy Instruments: Regional Perspectives and Case Studies . Washington, DC: IMF.
+
+Jones, E.R., M.T.H. van Vliet, M. Qadir and M.F.P. Bierkens. 2021. “Country-level and Gridded Estimates of Wastewater Production, Collection, Treatment and Reuse.” Earth Syst. Sci. Data 13 (2): 237-54.
+
+Khan, S. 2017. “How Climate Change is Exacerbating Pakistan’s Water Crisis.” DW.COM , 9 November.
+
+Mekonnan, M., and A. Hoekstra. 2016. “Four Billion People Facing Water Scarcity”. Science Advances 2 (2).
+
+NASA Global Climate Change. 2015. “Study: Third of Big Groundwater Basins in Distress.” https://www.nasa.gov/jpl/grace/study-third-of-big-groundwater-basins-in-distress.
+
+Podgorski, J.E., S.A.M.A.S. Eqani, T. Khanam, R. Ullah, H. Shen and M. Berg. 2017. “Extensive Arsenic Contamination in High-pH Unconfined Aquifers in the Indus Valley.” Science Advances 3 (8).
+
+Sahi, A. 2013. “Environment: A Dirty Job.” The News , 27 October.
+
+Shah, S. A. 2016. “Water Crisis: Going Dry”. Dawn , 6 March.
+
+Siddiqui, T. 2021. Sindh Rejects Plan to Revisit 1991 Water Accord. Dawn , 12 October.
+
+The Korea Times . 2021. “Resource-Starved Singapore Turns Sewage into Ultra-Clean Water.” 13 August.
+
+UN (United Nations). 2021a. “SDG Indicators Database.” https://unstats.un.org/sdgs/unsdg.
+
+———–. 2021b. “World Urbanisation Prospects 2018.” https://population.un.org.
+
+UNDP (United Nations Development Programme), Pakistan. 2016. Development Advocate Pakistan: Water Security in Pakistan: Issues and Challenges 3 (4): 22-25. Islamabad: UNDP, Pakistan.
+
+Wendling, Z.A., J.W. Emerson, D.C. Esty, M.A. Levy and A. de Sherbinin. 2020. 2020 Environmental Performance Index . New Haven, CT: Yale Center for Environmental Law & Policy.
+
+World Bank. 2021. WDI Online Database. databank.worldbank.org.
+
+WRI (World Resource Institute). 2021. “Aqueduct Water Risk Atlas.” https://www.wri.org/data .
+
+Young, W. J., A. Anwar, T. Bhatti, E. Borgomeo, S. Davies, W. R. Garthwaite III, E. M. Gilmont, C. Leb, L. Lytton, I. Makin, and B. Saeed. 2019. Pakistan: Getting More from Water . Washington, D.C.: World Bank.
+
+Yu, W., Y. C. Yang, A. Savitsky, D. Alford, C. Brown, J. Wescoat and D. Debowicz. 2013. The Indus Basin of Pakistan: The Impacts of Climate Risks on Water and Agriculture. Washington, D.C.: World Bank.

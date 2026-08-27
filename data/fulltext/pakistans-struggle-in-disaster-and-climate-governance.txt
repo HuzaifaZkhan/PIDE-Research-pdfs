@@ -1,0 +1,122 @@
+Introduction
+
+The Floods 2025, which caused damage of Rs. 822 billion, are not an isolated event but reflect a flaw in how Pakistan plans, builds, and governs. The torrents may have receded, but what remains is a reminder that the country continues to manage disasters rather than prevent them. Each monsoon brings the same cycle of emergency relief, flood camps, donor pledges, and reconstruction drives. While all this is commendable, it cannot replace the need for meaningful investment in preparedness and resilience. Thus, it is essential to analyse the role of both federal and provincial governments in resource allocation and government performance.
+
+1. Government Response and Institutional Performance
+
+Over the years, Pakistan has set up a series of commissions and plans in the wake of every major flood. However, most of these documents have remained reactive rather than reformative. The National Flood Protection Plan-IV (NFPP-IV), prepared in 2017 with a projected cost of Rs 332 billion, was meant to address these calamities. The document aimed to modernize flood forecasting, strengthen embankments, and improve provincial coordination. However, even now, less than 1/3rd of the plan has been implemented, and the progress updates have not been published since 2021.
+
+The National Disaster Risk Management Plan 2022-2030, along with its updated framework under NDMA’s Resilience Roadmap, is also meant to integrate early warning systems and community preparedness. However, the feasibility of both can be reflected by the fact that the most flood hit areas were not provided by the early warnings before the floods and communities were left stranded amid the floods. This reflects the financial gaps, weak adoption of the plans by provinces and limited federal monitoring.
+
+1.1 Review of Annual Budget allocations for Disaster Management
+
+In fiscal terms, while the federal budget 2025-26 have seen an increase in climate adaptation and mitigation budget, it does not reflect the urgency to address the recurring floods. The principal body for flood protection and management, Water Resources Division saw a sudden decline from Rs. 184.6 billion in FY2024-25 to Rs. 133.4 billion in FY2025-26, a 27% cut. Meanwhile, the combined budget for NDMA and the Cabinet Division for disaster response and rehabilitation stands at less than Rs. 20 billion in the current budget. Despite facing one of the worst economic disasters in form of 2022, which cost our economy $30 billion, three years later we still stand at a place with no dedicated flood recovery fund or transparent mechanism for tracking post flood reconstruction spending.
+
+The following budget allocations are made for respective areas closely related to flood management.
+
+Table 1: FY2025-26 Federal Budget Allocation for Key Disaster Management Authorities PKR. Million
+
+Area
+FY2024-25
+FY2025-26
+% Change in FY2024-25 and FY2025-26
+
+National Disaster Risk Management Fund
+2000
+1,100
+-45%
+
+Climate Change Division
+5,257
+2,784
+-47.05%
+
+National Food Security & Research Division
+23,928
+4,254
+-82.2%
+
+Source: Federal Budget FY2025-26
+
+The above presented numbers paint a worrisome picture of de-prioritization of institutions that are central to flood preparedness and management. The 45% reduction in NDRMF moves the fiscal system away from the goal of anticipatory financing. The sharp reduction in its budget undermines the institute’s ability to pre-finance flood protection works and crowd in donor funds, directly weakening the country’s disaster preparedness capacity.
+
+A similar contraction is similarly visible in the Climate Change Division’s development budget, which fell by 47% compared to the previous year. Even though the division’s mandate extends beyond climate adaptation to include coordination of flood risk governance, hydrometeorological upgrades and environmental regulation, it remains chronically underfunded. This trimming weakens the federal government’s “coordination spine”, the technical and institutional linkage between NDMA and Pakistan Meteorological Department (PMD) and the provinces.
+
+The most alarming cut is in National Food Security and Research Division, whose development budget collapsed by 82%. This reduction directly affects Pakistan’s capacity to recover from agricultural losses following floods. Research programs under the division such as development of flood tolerant crop varieties, saline soil management and post flood fodder rehabilitation are essential to restoring productivity in flood affected areas. The Post Disaster Needs Assessment 2022 suggests that agricultural losses accounted for nearly 40% of total flood related damages. Thus, cutting research funding in this area not only delays recovery but also increases future fiscal burden through higher import dependence for food and feed.
+
+Taken together, these reductions reveal a bias in Pakistan’s fiscal structure, where post disaster relief, in terms of emergency and relief camps, are more favoured than pre disaster protection. Majority of the disaster funds are spent reactively after events, rather than allocating predictable resources beforehand. This year’s budget reinforces this pattern. Instead of strengthening prevention through NDRMF, enhancing coordination via Climate Change Division, or supporting agricultural resilience through NFS&R, the government has chosen to scale them back.
+
+2. Federal-Provincial Disconnect in Disaster Management
+
+Pakistan’s fiscal response and preparedness for the disaster remains fragmented and reactive. Flood management is a provincial responsibility under the 18th amendment. However, the provincial coordination and fiscal commitment across the provinces continues to vary sharply on the matter. Similarly, while provincial development budget collectively exceeds the federal one, their projects rarely align with the country’s Nationally Determined Contributions (NDCs) or climate resilience priorities. In practice, provincial development remains fragmented and short term.
+
+Pakistan’s climate policy entered its third cycle of global commitments to Climate Change, where Pakistan submitted its third NDC to UNFCC. NDC 3.0 pledges $565.7 billion in climate finance requirements through 2040. The document also reiterates long standing goals such as strengthening flood protection, improving water governance, advancing climate resilient agriculture and enhancing early warning systems. Yet the track record of NDC 1(2016) and NDC 2(2021) highlights the limits of top-down climate policymaking. Both were federal exercises designed for devolved subjects, disconnected from fiscal and institutional capacity of provincial governments that must ultimately deliver these objectives. Similarly, in terms of solely addressing floods and water management authorities, federal flood commission works under the federal government. However, the lack of the commission’s coordination with provinces and using outdated data in designing National Flood Protection Plan (NFPP) and National Water Policy is evident from the lack of preparedness of provinces in the recent floods. The floodplain maps in the NFPP are designed in 2016, using satellite data, however, only Punjab and Khyber Pakhtunkhwa have updated the maps marginally, while Sindh, one the most hit provinces every year by floods, still relies on almost a decade old map for the flood planning.
+
+3. Climate Financing and Fiscal Priorities
+
+The analysis of floods cannot be separated from the investment in climate. Drawing the analysis by comparing the numbers for federal budget FY2025-26 with FY2024-25, the numbers highlight that overall investment in areas of climate adaptation, mitigation and supporting areas has been increased.
+
+Table 2: FY2025-26 Federal Budget Allocation for Climate PKR. Million
+
+Area
+FY2024-25
+FY2025-26
+
+% Change in FY2024-25 and FY2025-26
+
+Adaptation
+46,625
+85,435
+83.3 %
+
+Mitigation
+212,861
+603,000
+183.3 %
+
+Supporting Areas
+18,887
+28,331
+49.9 %
+
+Source: Federal Budget FY2025-26
+
+The above table suggests that the focus of the budgetary allocation is inclined heavily towards climate mitigation instead of climate adaptation. However, it is a phenomenon that needs to be understood that Pakistan’s current climate challenge needs attention in adaptation more than mitigation. For a country contributing less than one percent to global emissions yet ranked among the top ten most climate-vulnerable nations (Germanwatch, Global Climate Risk Index 2024), a mitigation-heavy strategy risks misallocating scarce fiscal resources.
+
+The following table presents a similar picture, where the budget under the disaster preparedness, while overall dominating the budget, has decreased by 30% this year. The overall trend reflects a reactive rather than proactive disaster management approach. While funds for response are rising, the decline in preparedness implies reduced emphasis on resilience-building. A more balanced allocation, strengthening preparedness and recovery, would enhance long-term disaster resilience.
+
+Table 3: FY2025-26 Federal Budget Allocation for Disaster PKR. Million
+
+Disaster
+FY2024-25
+FY2025-26
+% Change
+
+Preparedness
+47434
+33163
+-30.08
+
+Response
+12999
+15876
+22.13
+
+Recovery & Rehabilitation
+444
+1142
+157.20
+
+Source: Federal Budget FY2025-26
+
+While mitigation efforts remain important for aligning with global commitments, adaptation is where Pakistan’s survival and fiscal stability lie. A balanced approach, where carbon pricing revenues are earmarked for local resilience programs and provincial adaptation funds, is essential. Unless the country recalibrates its climate financing architecture toward protecting lives and assets from recurring climate shocks, mitigation will remain a distant aspiration overshadowed by the cost of unmitigated disasters.
+
+Conclusion and Recommendations:
+
+The 2025 floods reaffirm that Pakistan’s vulnerability to climate related disasters remain rooted in fiscal misalignment and governance weakness, as much as it does in intensifying climate crisis. Pakistan’s fiscal priorities must reflect its lived climate reality. The focus of climate spending should shift, or at least balance more decisively toward adaptation. Investments in early warning systems, irrigation modernization, coastal protection, and resilient housing yield immediate social and economic returns, while also reducing the long-term cost of disasters.
+
+The reforms are needed both at fiscal and institutional front. Climate Adaptation must be embedded across all development sectors and not treated as a separate agenda. Similarly, the government should require a defined share of PSDP and ADP funds to be directed to climate resilient infrastructure which has ability to withstand the floods. Provincial governments’ development spending exceeds the federal development spending; thus, provincial governments should be incentivized to participate in Climate Action through fiscal transfers. The National Finance Commission should incorporate a climate resilient performance Grant to reward provinces that meet measurable land use and flood mitigation targets.
+
+Encroachments along rivers and floodplains have magnified the flood damage. Provinces must strictly enforce zoning under their Environmental Protection Acts to prohibit new riverside developments and penalize unauthorized construction. Disaster Management and Climate Resilience remain share responsibilities. Provinces must be formally integrated into federal policy formulation through joint planning. Similarly, provinces should also be required to submit their NDCs based on their challenges and risk assessment of that province and those NDCs should be integrated into federal NDC which is submitted to UNFCC every five years. Just like the provincial and federal coordination, Interdepartmental coordination is essential. Flood resilience demands integrated action between irrigation, agriculture, energy and infrastructure departments.
+
+Ms. Zartasha Inayat is currently working as a Research Economist at Policy Research Institute of Market Economy (PRIME), Islamabad.

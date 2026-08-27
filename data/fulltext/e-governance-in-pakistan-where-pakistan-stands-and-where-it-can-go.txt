@@ -1,0 +1,133 @@
+Executive Summary
+
+In Pakistan, E-Government Development has been a signiﬁcant challenge for decades. Since the establishment of ﬁrst electronic government directorate in 2002, pakistan’s progress in implementing e-governance has been poor compare to other countries. Through an extensive review of latest literature including journal articles, UN, ADB, and World Bank reports and data, this study reveals that, despite various e-governmnet initiatives, Pakistan’s performance in e-government development remains very poor both globally and regionally. In E-Government Development ranking, Pakistan ranks 136th out of 193 UN member countries. In South Asia, it ranks second last, performing only better than Afganistan , which reﬂects low level of implementation and adoption. By addressing the issues such as low level of digital adoption and literacy, lack of research and data driven policies, absence of action plan and KPIs of digital transformation policies, and limited digital infrastructure, Pakistan can improve its e-governance.
+
+What is E-governance and Why it is Important?
+
+E-governance is deﬁned as “the public sector’s use of Information and Communication Technologies with the aim of improving information and service delivery, encouraging citizen participation in the decision-making process and making government more accountable, transparent and eﬀective (UNESCO, 2011). Integration of ICTs such as internet, digital platforms, data systems and mobile networks in governance systems bring eﬃciency, transparency, improves service quality and convenience, enhances communication between government and citizens and improves accountability (Atique, et al., 2024; Ahmad, et al., 2013). Countries such as Singapore, South Korea and Denmark have signiﬁcantly enhanced government eﬃciency through e-governance by reducing the bureaucratic delays, dependency on paper work, streamlining public services and improving accountability and transparency.
+
+E-Government Development Performance of Pakistan from 2003 to 2024
+
+In an era of digitalization, e-government has become one of the important priorities of governments worldwide. However, many developing countries like Pakistan are still struggling to integrate ICTs into their governance system. Although Pakistan has taken many e-government countries, this low ranking is a reﬂection of Pakistan’s poor performance in e-government development.1 However, Pakistan has shown a notable improvement in recent EGDI ranking improving its recent global ranking from 150 in 2022 to 136 in 2024.(Table 1).
+
+Table 1: Pakistan E-government Development Index and Ranking (2003-2024)
+
+Source: Author’s compilation based on data taken from United Nation’s E-Government Knowledgebase.
+
+Despite the recent improved ranking, Pakistan is still lagging behind. Within South Asia, Pakistan’s EGDI performance is only better than Afghanistan, while all the other countries have comparatively better indices and possess higher ranking in the list (UN E-Government Knowledgebase, 2024).
+
+Figure 1: EGDI Scores: South Asian Countries and Singapore vs. Regional and Global Averages.
+
+Source: Author’s compilation based on data taken from UN E-Government Knowledgebase (2024).
+
+Although internet and mobile penetrations in Pakistan are lower compared to most of the South Asian countries, an increase in mobile connections of 1 million from 2024-25 and a year-on-year growth in users of internet (+1.7 million) (Table 2) shows a positive sign of increased access to technology and a potential of provision of services via mobile phones (ADB, 2025)
+
+Table 2: Mobile connections and Internet use in Pakistan in 2025.
+
+Source: Author’s compilation based on data taken from DATAREPORTAL, 2025.
+
+Pakistan’s ranking in EGDI sub-indices scores have seen no signiﬁcant improvement either. Table 3 indicates that except for the OSI and EPI, Pakistan’s ranking in other EGDI sub-indices namely TII and HCI is worse in the region. This indicates an urgent need for improvements and investment in IT infrastructure and human capital development. However, the OSI’s and EPI’s relatively higher scores reﬂect progress in provision of online public services, which is a positive sign towards e-government implementation.
+
+Table 3: Comparison of sub-indices’ scores of EGDI, 2024.
+
+Source:Author’s compilation based on data from UN E-Government Knowledgebase (2024).
+
+E-Government Milestones in Pakistan from 2003 – 2024.
+
+E-government in Pakistan began in 2002 with the establishment of the Electronic Government Directorate under the Ministry of Science and Technology (Ghayur, 2006). Figure 2 highlights the major e-governmnet initiatives over two decades.
+
+Figure 2: Timeline of Major E-government Initiatives in Pakistan (2003-2024).
+
+Source: Author’s compilation based on information taken from literature review and ADB Report on Pakistan’s Digital Ecosystem (2024).
+
+The most recently e-governmnet projects for Government to Citizen (G2C) services include National Jobs Portal, Pakistan Citizen Portal App, One Patient One ID, Pak-Hajj App, Beep, City Islamabad App, The Digital Economy Enhancement Project (DEEP) among others (National Information Technology Board, 2025).
+
+Institutional Framework
+
+There are various key government institutions, both federal and provincial, that make up the institutional framework within Pakistan’s digital government. The Ministry of Information Technology and Telecommunications (MoITT) formulates national e-governance and ICT policies. The Pakistan Telecommunication Authority (PTA) regulates telecommunication services and ensures cybersecurity standards.2 The National Information Technology Board (NITB) functions as primary implementing institution and responsible for developing, designing and implementing e-government projects across various ministries including the e-Oﬃce system, digitizaion of public services, and multiple MIS solutions.3
+
+NADRA is responsible for national identity management, biometric systems, smart CNICs, SIM/banking veriﬁcation, and supports initiatives like the Pakistan Single Window and Online Visa System. At the provincial level, the IT Boards of Punjab and Khyber Pakhtunkhwa (KP), and the IT Departments of Baluchistan and Sindh have the mandate to manage foundational IT infrastructure and to digitalize service delivery and enhance digital literacy.4
+
+Challenges and the Way Forward
+
+Lack of action plan and KPIs of digital transformation policies.
+
+Although there are various digital transformation policies in place to foster digitalization in the public sector of Pakistan, proper action plans and KPIs are missing. According to the Asian Development Bank’s survey (2025) no department has reported having an open-source software policy/action plan in place. This shows a low level of commitment from the government institutions to promote e-governance in the country. The report further highlighted that all the ﬁve provinces surveyed reported having a digital transformation policy, however only one province reported that it has an action plan corresponding to the policy. It is important to make proper KPIs.
+
+Resistance among public sector oﬃcials.
+
+In Pakistan’s public sector, there is a resistance to public sector digitization among public oﬃcials who enjoy a lot of discretion in the workplace and they perceive the integration of technology into government systems as a threat to their authority. Recently there has been resistance from the oﬃcials record holders to the digitalization of land records in Punjab. To mitigate this barrier, the government should incentivize the relevant public oﬃcials, enhance capacity building, and improve digital literacy among public oﬃcials.
+
+Limited digital infrastructure.
+
+Access to internet and low broadband penatration is another challenge in the way of e-government development in Pakistan. a large portion of population, especially in rural areas, is still not conntected to internet and mobile service. Through public-private partnerships, government of Pakistan can boost broadband and ﬁber optic network. It is also recommended to establish Digital Service Hubs to enhance public access to digital services.
+
+Low level of digital adoption and literacy.
+
+There is limited digital adoption and literacy within public sector institutions as well as among the citizens. Lack of digital skills and trained IT personnel in public sector hinders the progress of e-government development. The government should invest in capacity building by introducing training and courses related to digital skills for the public sector employees to improve their digital skills and adoption of modern ICT tools. To improve the adoption among citizens, it is important to spread awareness, advertisement, and build trust. The government should collaborate with research organizations to study the factors aﬀecting the adoption of e-government services so that it can be easy to formulate speciﬁc initiatives to improve adoption rate.
+
+Conclusion
+
+Pakistan is struggling in integrating ICTs into the governance system. E-governance can greatly improve the governance system, service provision, citizen empowerment and transparency. Despite facing other major socioeconomic issues, Pakistan has shown a commitment to develop e-governance through policies’ formulation, e-government projects including portals for various services public services and communication. Since 2018, major e-government projects have been initiated to improve e-governance and the recent improved ranking reﬂcects the progress. However, compare to other countries, Pakistan’s ranking in UNEGDI is very low both globally and regionally, which shows there is a lot of room for improvement. Although there are policies related to digital transformation, proper KPIs and action plans are missing, due to which implementation and evaluation of policies is becoming hard. There is a need for proper IT infrastructure, digital literacy, better adoption rate, research based policy formulation, and capacity building in the public sector employees in order to eﬀectively transform from conventional form of governance to electronic governance.
+
+1. United Nations (2024). United Nations E-Government Survey 2024: Digital government in the decade of action for sustainable development. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024
+
+2. Pakistan’s Digital Ecosystem, ADB (2025). https:/ /www.adb.org/sites/default/ﬁles/publication/1067316/pakistan-digital-ecosystem-diagnostic-report.pdf
+
+3. National Information Technology Board. https:/ /www.nitb.gov.pk/
+
+4. The World Bank. 2023. Project Information Document (PID), Pakistan: Digital Economy Enhancement Project. https://documents1.worldbank.org/curated/en/099455001172320746/pdf/P174402045311c010b4e10ea4415c52d4a.pdf
+
+References
+
+Aman, S. (2022). Transforming Public Sector Through e-Governance: A Case Study of Khyber Pakhtunkhwa. The Pakistan Development Review, 61(3), 365–398. https:/ /www.jstor.org/stable/27262055
+
+Zaidi, Z. H., & Bukhari, S. M. H. (2025). Citizen Adoption and Transparency in E-Government Services: Institutional Implementation Challenges in NADRA and FBR Perspective in Pakistan. Orient Research Journal of Social Sciences, 10(2), 23-40. https://ojs-orjss.gcwus.edu.pk/journal/article/view/65
+
+Atique, M., Htay, S. S., Mumtaz, M., Khan, N. U., & Altalbe, A. (2024). An analysis of E-governance in Pakistan from the lens of the Chinese governance model. Heliyon, 10(5). https://doi.org/10.1016/j.heliyon.2024.e27003
+
+Chohan, S. R., Hu, G., Si, W., & Pasha, A. T. (2020). Synthesizing e-government maturity model: a public value paradigm towards digital Pakistan. Transforming Government: People, Process and Policy, 14(3), 495-522. https://doi.org/10.1108/TG-11-2019-0110
+
+Ali, B., Salam, A., & Ali, W. (2023). Digital Pakistan Policy: A Document Of Words Or Plans For Implementation, A Critical Analysis. Pakistan Journal of Social Research, 5(01), 627-635. https://doi.org/10.52567/pjsr.v5i01.1386
+
+Ghayur, A. (2006). Towards Good Governance: Developing an e-Government. The Pakistan Development Review, 45(4), 1011–1025. http://www.jstor.org/stable/41260665
+
+Ovais Ahmad, M., Markkula, J., & Oivo, M. (2013). Factors aﬀecting e-government adoption in Pakistan: a citizen’s perspective. Transforming Government: People, Process and Policy, 7(2), 225-239.. https://doi.org/10.1108/17506161311325378
+
+United Nations. (2024). United Nations E-Government Survey 2024: Digital government in the decade of action for sustainable development. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024
+
+United Nations Department of Economic and Social Aﬀairs. (2025). UN E-Government Knowledgebase. United Nations. Retrieved from https://publicadministration.un.org/egovkb/en-us
+
+Uraan Pakistan. (2025). E-Pakistan. URAAN Pakistan. Retrieved August 27, 2025, from https://uraanpakistan.pk/e-pakistan/
+
+DataReportal. (2025). Digital 2025: Pakistan. DataReportal. https://datareportal.com/reports/digital-2025-pakistan
+
+12.Asian Development Bank. (2025). Digital governance. In Pakistan’s digital ecosystem: A diagnostic report (pp. 47–75). Asian Development Bank. http://dx.doi.org/10.22617/SPR250278
+
+World Bank. (2023). Project information document (PID), Pakistan: Digital economy enhancement project (P174402) (Report No. PIDA31211). World Bank. https://documents1.worldbank.org/curated/en/099455001172320746/pdf/P174402045311c010b4e10ea4415c52d4a.pdf
+
+14.Bannister, F., & Connolly, R. (2012). Deﬁning e-Governance. E-Service Journal, 8(2), 3–25. https://doi.org/10.2979/eservicej.8.2.3
+
+15.Marche, S., & McNiven, J. D. (2003). E-government and e-governance: the future isn’t what it used to be. Canadian Journal of Administrative Sciences/Revue Canadienne des Sciences de l’Administration, 20(1), 74-86. https://doi.org/10.1111/j.1936-4490.2003.tb00306.x
+
+16.Heeks, Richard, Understanding e-Governance for Development (2001). iGovernment Working Paper no. 11, Available at SSRN: https://ssrn.com/abstract=3540058 or http://dx.doi.org/10.2139 /ssrn.3540058
+
+Hassan, M. H., & Lee, J. (2015). Policymakers’ perspective towards e-Gov success: A potent technology for attaining Good Governance in Pakistan. In 2015 Fifth International Conference on Digital Information Processing and Communications (ICDIPC) (pp. 272-281). IEEE. https://doi.org/10.1109/ICDIPC.2015.7323041
+
+Butt, N., Warraich, N. F., & Tahira, M. (2019). Development level of electronic government services: An empirical study of e-government websites in Pakistan. Global knowledge, memory and communication, 68(1/2), 33-46. https://doi.org/10.1108/GKMC-05-2018-0045
+
+Zaidi, Z. H. (2016). E-government project obstacles in Pakistan. International Journal of Computer Theory and Engineering. https://doi.org/10.7763/IJCTE.2016.V8.1072
+
+Malik, B. H., Shuqin, C., Mastoi, A. G., Gul, N., & Gul, H. (2016). Evaluating citizen e-satisfaction from e-government services: A case of Pakistan. European Scientiﬁc Journal, 12(5). http://dx.doi.org/10.19044 /esj.2016.v12n5p346
+
+Arfeen, M., & Kamal, M. (2014). Future of e-government in Pakistan: a case study approach.
+
+Arfeen, M. I., Iqbal, J., & Mushtaq, M. J. (2017). Model for e-Government implementation in Pakistan. In Proceedings of the 10th International Conference on Theory and Practice of Electronic Governance (pp. 57-61). https://doi.org/10.1145/3047273.3047372
+
+Shaikh, A. Z., Shah, U. L., & Wijekuruppu, C. (2016). Public service delivery and e-governance: The case of Pakistan. International Journal for infonomics, 9(2), 1161-1170.
+
+Ullah, A., Pinglu, C., Ullah, S., Abbas, H. S. M., & Khan, S. (2021). The role of e-governance in combating COVID-19 and promoting sustainable development: a comparative study of China and Pakistan. Chinese Political Science Review, 6(1), 86-118. https://doi.org/10.1007/s41111-020-00167-w
+
+Arfeen, M. I., & Khan, N. (2009). Public Sector Innovation: Case Study of e-government Projects in Pakistan. The Pakistan Development Review, 48(4), 439–457. http://www.jstor.org/stable/41261326
+
+National Information Technology Board. (2025). Retrieved from https:/ /www.nitb.gov.pk/

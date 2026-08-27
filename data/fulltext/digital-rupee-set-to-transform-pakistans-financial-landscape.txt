@@ -1,0 +1,45 @@
+Pakistan is undergoing a profound digital transformation towards digital finance in the financial system with the pilot initiation of a Central Bank Digital Currency (CBDC) by State Bank of Pakistan (SBP). RAAST is a real-time payment system in the country and the officials of SBP have stated that since its inception in 2021, it has handled more than Rs 8 trillion worth of transactions.
+
+The CBDC is not just a channel to transfer money like RAAST – it represents the money itself, issued by the central bank. Pakistan has a mobile phone penetration rate of over 82 percent and the expected remittance inflow of an estimated 38.3 million during the fiscal year 2024-25.
+
+It stands ready to use CBDC to enhance financial inclusion by cutting transaction fees, digitalisation of welfare payments, and including millions of unbanked citizens into the formal economy.
+
+The economic consequences of embracing CBDC are the trade-offs between high short-term expenditure and efficiency, inclusion, and transparency in the long run. According to the SBP annual report of 2022-23, Pakistan spends over Rs 28 billion annually in cash-management-related activities annually in Pakistan, including storage and maintenance of cash, printing, banknotes processing, distribution, and ATM-related maintenance, despite cash accounting being approximately 62 per cent of transaction volume at the mid of 2023.
+
+These expenses may be significantly lower as the use of programmable digital rupees that can be stored on a secure mobile wallet can substantially replace physical money in the system that the central bank can issue as digital form of legal tender.
+
+The cost of using traditional payment channels of paying via ATM withdrawals, or clearing a cheque is still expensive and time consuming. As of 2022, the fees for using ATM vary between Rs 20- 23 service fee per transaction, and a cheque clearing process may require two days of business, with challenges to control over liquidity and maintaining cash flow. In addition, the latest Global Findex report published by the World Bank in 2021 revealed that the number of Pakistani adults who are not using any financial service is more than 100 million, clarifying the drawbacks of the traditional financial system of Pakistan.
+
+According to State Banks data of 2024, RAAST has facilitated transactions of over 160 million, across bank accounts and electronic wallets, which has made instant and free financial transfers. It has been doing this since its introduction in the year 2021. With that being said, experts share that RAAST is unlikely to make money even though it serves as a payment rail. Contrary to these, CBDC represents sovereign digital currency, fully supported and actually issued by the SBP, and is not dependent on the balance sheets of commercial banks.
+
+The trend follows the general pattern abroad, with such nations as China and the Bahamas developing their virtual currencies to supplement or minimize the use of the conventional banking system. According to a report published by the International Monetary Fund (IMF) in March 2022, China Digital Yuan pilot was commended, stating that CBDCs can enhance financial inclusion with access to safe, convenient digital payment instruments, many of which Citizens, who lack bank accounts, or maintain them at under-staffed or under-equipped institutions, receive limited benefit. Relatively, the Sand Dollar project has been introduced in the Bahamas back in 2020 and has helped in scaling up financial services to previously inaccessible areas in the islands.
+
+The legal foundation of CBDC in Pakistan was put in place by the Digital Currency Regulatory Framework (DCRF) act of 2024 that authorized the issuance of digital legal tender by the SBP, cyber security and data privacy requirements, and digital banking licensing.
+
+According to the 2023 report published by Bank for International Settlements, unless there is a robust regulatory framework in place, CBDCs can subject users to privacy violation and financial fraud, and therefore it is quite important that Pakistan is already making steps towards setting a regulatory framework.
+
+To complement this scenario, the government of Pakistan enacted the Act of Virtual Assets, 2025, which was a historic bill that formed the Pakistan Virtual Asset Regulatory Authority (PVARA). The mission of PVARA is to control and oversee the ecosystem of virtual assets that entail, but are not limited to crypto currencies, tokenized assets, and other digital financial products. The mission of such body of authority is to furnish an orderly legal framework that facilitates innovation without jeopardizing investors and alleviating the risk of money laundering, financing of terrorists, and fraud.
+
+The Virtual Assets Act has given the PVARA power to license the providers of services involving virtual assets, strict observance of anti-money laundering (AML), and the knowledge-your-customer (KYC) requirements, and established transparency and accountability in the digital asset market.
+
+With the formation of PVARA, Pakistan joins an increasingly long list of nations implementing serious sets of rules to handle digital assets such as Singapore Monetary Authority of Singapore and the UK Financial Conduct Authority. This is a step that is also compliant with international requirements as spelt out by the Financial Action Task Force (FATF) who requires countries to ensure that they oversee the safety of the virtual assets and the service providers.
+
+Among pilot projects it is considering are direct payment of social safety net programs like BISP and Ehsaas via CBDC wallets, programmable utility payments, and cross-border remittance corridors that could help to push the estimated $8 billion of annual informal remittance outflow in Pakistan, the World Bank reported in 2023. There are success stories like eNaira that is being launched in Nigeria, where the Central Bank of Nigeria (2023) notes that eNaira has ended up solving the government-to-person payments, and lowered leakages.
+
+The rollout of CBDC also supports Pakistan’s project URAAN, specifically its E-Pakistan pillar focused on digital governance and inclusion. By offering digital cash accessible via mobile phones, CBDC could help bridge gaps in financial access, reduce the size of the informal economy, and enhance tax transparency, as detailed in the Planning Commission of Pakistan’s 2024 documentation.
+
+Globally, United Nations Development Programme (UNDP) experts view CBDCs as tools to advance Sustainable Development Goals by promoting financial inclusion and reducing poverty. In its 2022 report, the UNDP emphasized that “digital currencies can accelerate economic development by integrating marginalized populations into the formal financial system.”
+
+To ordinary Pakistanis, living in remote locations or low-income families, CBDC wallets may be their entry point into the formal finance realm. A daily-wage earner or a small-business owner or shopkeeper who may only have a simple mobile phone could access welfare, pay utilities, start savings-all without having to open a traditional bank account.
+
+In conclusion, while Pakistan faces significant costs in developing CBDC infrastructure, including cyber security safeguards and institutional reforms, the potential benefits are transformative. These include drastically reduced cash handling costs, faster and cheaper payments, greater inclusion of unbanked populations, and improved government accountability. The CBDC is not intended to replace existing payment systems immediately but to complement platforms like RAAST. Together, these tools can form a resilient digital financial architecture essential for Pakistan’s economic modernization.
+
+(The writer is an Assistant Professor of Finance at the Pakistan Institute of Development Economics (PIDE). He can be reached at ahmad.fraz@pide.org.pk.)
+
+Copyright Business Recorder, 2025
+
+Dr. Ahmad Fraz
+
+The writer is an Assistant Professor of Finance at the Pakistan Institute of Development Economics (PIDE). He can be reached at ahmad.fraz@pide.org.pk
+
+Newpaper Link

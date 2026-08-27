@@ -1,0 +1,224 @@
+Executive Summary:
+
+Digital literacy plays a crucial role in the economic competitiveness and employment of Pakistani youth. but inequalities result from regional, gendered, and income related disparities that hinder their development of digital literacy. Although Pakistan connectivity continues to grow, low level of digital skills and lack of integration into educational systems remain obstacles to obtaining employment. The unfavorable positioning of Pakistan in global digital ranking highlights a critical disparity between technological access and the necessary capabilities. To reduce this skill gap through a measurable policy process that is linked to employment is necessary to reduce youth unemployment rates, improve human capital, and facilitate sustainable economic growth.
+
+1. Introduction
+
+The use of digital technology helps in poverty reduction, increased productivity & worker’s economic opportunities (Hjort & Tian, 2021; Aker & Blumenstock, 2015). Digital literacy is the individual’s ability to successfully use digital technologies (i.e. digital hardware/software, digital networks, digital information) allows individuals access to digital technology but does not teach individuals how to use those technologies productively or promote their participation in the digital economy and digital labor markets. Digital literate workforces in countries will likely be able to attract investment and create long-term economic growth (Bejaković & Mrnjavac). Therefore, strengthening Pakistan’s digital literacy is a critical development imperative rather than merely expanding access to technology.
+
+2. Where Pakistan Stand in Regional Digital Landscape?
+
+Pakistan has been consistently behind its regional counterparts on key global digital indicators. There are some structural weaknesses caused in terms of digital infrastructure, innovation abilities and human resource development in Pakistan which must be addressed. Countries such as India, Sri Lanka and Bangladesh have been placed higher on the measure of digital readiness. This shows the presence of huge gaps with regard to digital skills and capabilities in Pakistan as compared to other countries. Therefore, Pakistan must move beyond merely expanding digital connectivity and prioritize strengthening digital literacy through investments in education, skills development, and digital capacity building.
+
+Table 1 Major Global Indices
+
+Country
+Digital Quality of Life Ranking
+Global Innovation Index Ranking (2025)
+Global Knowledge Index
+
+(2025)
+Network Readiness index (2024)
+Digital Readiness Index (2021)
+Inclusive Internet Index
+
+2021
+
+Pakistan
+95
+99
+119
+97
+120
+79
+
+Sri Lanka
+90
+93
+91
+95
+90
+59
+
+Bangladesh
+83
+106
+122
+89
+109
+64
+
+India
+60
+38
+66
+49
+104
+50
+
+Total
+121
+139
+195
+133
+146
+120
+
+(Source: Authors’ calculations based on international indexes)
+
+As shown in Table 2, out of 120 countries, Pakistan ranks 79th in the Inclusive Internet Index (2021), indicating relatively low overall performance.
+
+Table 2 Inclusive Internet Index (2021)
+
+Country Name
+Availability
+Affordability
+Relevance
+Readiness
+Over All Ranking
+
+Pakistan
+84
+63
+80
+80
+79
+
+India
+63
+13
+29
+35
+50
+
+Bangladesh
+69
+64
+61
+63
+64
+
+Sri Lanka
+62
+51
+47
+81
+59
+
+(Source: Inclusive Internet Index (2021)
+
+3.Digital Literacy Landscape in Pakistan
+
+In comparison to other countries in South Asia, Pakistan’s literacy and digital preparedness are among the lowest. The overall national literacy rate is approximately 63%, digital literacy remains low (Pakistan Bureau of Statistics, 2025). Digital literacy is low due to a lack of general literacy, poor skills with computers, and uneven access to technology. According to UNDP (2024) reports that only 16.4% of people have proficient knowledge of computers restricting their ability to participate in online learning, access digital services, and find employment. Internet access reaches 70% of the population (PBS, 2025). The remaining 30% face either access constraints or limited digital skills. Digital access remains limited but a greater number of people utilize the internet for recreational activities than for skill development. Ongoing electricity shortages, limited skills to use technology, and limited knowledge about the economic benefits of ICT hold back Pakistan’s ability to reach its digital potential, particularly in underdeveloped and rural area (Ahsan, 2025).Many people still find it difficult to complete higher-level digital tasks (e.g., work with productivity software,
+
+conduct online banking transactions, complete transactions on government web portals, and participate in e-learning). The gap between digital access and digital literacy remains significant. Limited digital literacy restricts the effective use of available digital technologies.
+
+3.1 Digital Literacy at the Provincial Level
+
+Digital literacy in Pakistan is characterized by differences based on the infrastructure, socio economic status of people, cultural gender norms, and other issues, all of which directly affect the ability to access digital devices in each region of the country (UNDP Pakistan, 2024).
+
+The digital literacy landscape of Pakistan varies between across provinces and regions. Punjab and Sindh demonstrate comparatively higher levels of digital literacy, supported by better education opportunities, digital infrastructure and better digital access for individuals living in urban areas than other provinces. In contrast, most of the rural areas of the provinces particularly Balochistan and Khyber Pakhtunkhwa have limited and non-existent digital infrastructure and lower levels of educational attainment limiting opportunities to gain digital skills. The most digitally excluded population in all of the provinces are rural women, who experience the most significant level of structural inequality regarding the ability to access, education and opportunities to, develop digital skills (UNDP Pakistan, 2024).
+
+3.2 Provisional Gender Disparities in Digital Literacy
+
+The Table 3 illustrates the gender disparities in digital literacy in Pakistan across provinces, highlighting differences by urban rural location it captures the intersectional disparities in access to digital technologies, educational opportunities and digital skills development opportunities (UNDP Pakistan, 2024).
+
+Table 3 Gender Digital Disparities at Provincial level
+
+Province
+Urban Male
+Urban Female
+Rural Male
+Rural Female
+
+Punjab
+High
+Medium
+Medium
+Low
+
+Sindh
+High
+Medium to Low
+Medium to Low
+Low
+
+Khyber Pakhtunkhwa (KP)
+Medium
+Low
+Low
+Very Low
+
+Balochistan
+Low to Medium
+Low
+Very Low
+Extremely Low
+
+Pakistan (Overall)
+High
+Medium to Low
+Low to Medium
+Low
+
+Over all urban males have the highest digital literacy while rural women, particularly in Balochistan and KP, experience the greatest exclusion, reflecting persistent gender and regional inequalities in digital development.
+
+4.Why Digital Literacy Is Critical for Pakistan’s Youth Employment?
+
+Learning digital skills can open up economic prospects and promote social mobility for Pakistan’s youth, particularly those from marginalized backgrounds (World Bank, 2015). Digital literacy programs must be given top priority in order to prepare young people for the changing labour market and driving innovation and growth.
+
+Automation and Decline of Low-Skill Jobs : Manual tasks like data entry, inventory tracking, and textile cutting are increasingly automated, reducing demand for low-skill labor; youth without digital skills risk being excluded, while those skilled in managing or operating technology remain in demand.
+
+Rise of Remote Work and the Gig Economy : Freelancing and remote work create global earning opportunities in areas like graphic design, content writing, programming, and digital marketing, but only for digitally literate individuals.
+
+Growth in Tech-Driven Sectors: Rapid expansion in fintech, e-commerce, and online education requires basic tech competence; digital fluency gives youth a competitive edge for sustainable income and career growth
+
+4.1 Barriers Holding Youth Back
+
+Despite its importance, access to digital learning opportunities remains uneven in Pakistan
+
+Lack of Internet and Devices : Rural youth face poor connectivity and limited device access, restricting opportunities for learning and practicing digital skills
+
+Outdated Education Systems : Schools focus on theoretical learning over practical digital skills, leaving graduates unprepared for modern workforce demand.
+
+Gender and Cultural Challenges : Socio-cultural norms limit girls’ access to digital technology, education and online work opportunities, increasing the female gender gap in digital literacy and participation in the workforce.
+
+4.2 Digital Literacy, Employment and Economic Outcomes
+
+Evidence around the world indicates that digital skills greatly increase the likelihood of getting a job. Individuals with fundamental digital kills can earn more than non digital skills person.World Bank (2010) studies indicate that increasing broadband coverage by 10% can increase GDP growth by around 1.3% in developing countries
+
+There are three ways in which digital literacy impacts your ability to be hired: first, through providing access to online job markets; second, increasing productivity within companies (through training); and third, enabling you to access digital entrepreneurship and freelance opportunities. Pakistan’s information technology (IT) exports reached over $3.8 billion in 2024-2025 (State Bank of Pakistan, 2025); however, youth unemployment continues to exceed 11%. The continuing expansion of the digital sector and high levels of joblessness coexist, suggesting that a lack of basic skills creates a skills gap versus a lack of opportunities. Therefore, closing Pakistan’s digital literacy gap is not just an education issue; it is an economic one that will allow for inclusive growth and continued employment for our youth.
+
+5. Digital literacy challenges in Pakistan:
+
+As a result of multiple structural and socioeconomic constraints, the level of digital literacy in Pakistan is quite low. This lack of digital literacy is due to the combination of the below listed structural, socioeconomic, and cultural constraints that prevent a substantial part of the population from accessing and utilizing digital tools, platforms, and services meaningfully:
+
+General Literacy Constraints: Low levels of literacy in rural areas and among women means limited ability to read SMS messages, navigate mobile phone applications and follow directions provided in digital format.
+
+Lack of Digital Skills and Low Levels of Exposure to Technology : Most people in Pakistan do not possess the ability to use computers, productivity software, and online learning platforms. Older people and those living in rural areas have fear of using Digital technologies because of lack of digital skills and low confidence in using technology.
+
+Urban-Rural Digital Divide: People in rural areas frequently experience inconsistent electricity supply, unreliable Internet connectivity, and limited access to broadband services and digital facilities. People living in urban areas have much better access to these resources and services.
+
+Economic Barriers to Digital Participation: A lack of economic resources prevents many low-income households from purchasing devices, accessing data, and utilizing the Internet, which in turn limits their digital skill participation in workforce.
+
+Gender and Cultural Barriers : Women have reduced access to telephones, mobility restrictions, a high probability of experiencing harassment while on-line, and a lower priority for access to household digital devices than men.
+
+Language Barriers and the Lack of Localized Digital Content : The vast majority of digital content is provided in English. The lack of localized digital content in local languages limits theabilityof large segments of the population to access or utilize digital tools and services.
+
+Frequent Disruptions to the Internet Service: Frequent Internet service outages often limit the ability to learn or conduct work on-line and can hinder someone’s comfort or familiarity with digital tools or services.
+
+Weak Integration of ICT into Education : Most schools in Pakistan do not have trained ICT teachers, computers, or digital learning tools; graduates from these schools require retraining prior to entering the workforce
+
+From Digital Literacy to Employability:
+
+Expanding digital access alone is insufficient to improve employment outcomes. Pakistan must move beyond a general access oriented approach toward targeted digital literacy interventions with measurable employment outcomes:
+
+Expand broadband connectivity in rural areas to support digital literacy, reduce digital disparities, and promote digital participation.
+
+Introduce a secondary-school digital skills certificate targeting students annually, covering digital productivity tools, digital safety, information literacy and basic coding. Create district level digital skills and freelancing training initiatives to target all age groups and women and underserved communities with digital skills that help for employment, entrepreneurship and lifelong learnings
+
+Improve the affordability of digital devices and internet connectivity for low-income households to support digital literacy and reduce socioeconomic disparities in digital participation.
+
+To increase digital literacy and guarantee more inclusive digital participation, encourage the creation of online services and digital learning resources in national and regional languages.
+
+These measures will increase the number of people entering the workforce, reduce unemployment among young people, grow the potential for exporting information technology, and reduce region and gender differences in digital literacy. Pakistan can promote greater digital inclusion, expand employment opportunities and achieve sustainable long-term economic growth by investing in digital skills and creating an enabling environment for their effective use.

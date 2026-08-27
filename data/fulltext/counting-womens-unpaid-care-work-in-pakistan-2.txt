@@ -1,0 +1,19 @@
+INTRODUCTION
+
+In the intricate web of household dynamics in Pakistan, the often overlooked yet vital role of unpaid care work, predominantly carried by women, becomes the focal point of this study conducted in Pakistan. Everyday tasks like cooking, cleaning, and caregiving, vital for societal well-being, are frequently sidelined by traditional economic definitions. This disproportionate burden on women affects their engagement in paid employment, education, and personal leisure. While these activities are indispensable for sustainable economic growth, their non-monetised nature has led to their dismissal as ‘non-economic’ work. The time-intensive nature of these responsibilities’ further limits women’s participation in other pursuits. The division of household chores, particularly along gender lines, has broader implications for economic, social, and educational outcomes.
+
+As a signatory of the Sustainable Development Goals (SDGs), Pakistan aspires to address gender inequality, with Target 5.4 of SDG 5 focusing on recognising and valuing unpaid care and domestic work. By navigating the nuances of unpaid work in Pakistan, this policy brief aims to estimate the magnitude of unpaid work performed in the country. The study, thus, examines the distribution of housework between genders in Pakistan to shed light on the potential gender disadvantage faced by women. It also aims to provide insights into policies aimed at reducing the time women spend on housework and enhancing their economic empowerment.
+
+DATA AND METHODOLOGY
+
+National Transfer Accounts (NTA)[1] is a framework for studying the age dimension of economic activity by disaggregating national accounts by age and measuring transfers of resources from the working ages. To take into account the unpaid care work (UCW) that is not valued in the market economy, we have the National Time Transfer Accounts (NTTA) that considers women’s specialisation in UCW production which is outside of the national income. Ideally it requires time-use survey (TUS) data to estimate NTTA, however, in Pakistan the TUS was conducted in 2007/08 and too old for analysis.
+
+This policy brief utilises data from the Household Income and Expenditure Survey (HIES) 2018-19 and the Pakistan Labour Force Survey (LFS) 2018-19. The HIES offers insights into market-based consumption and income, while the LFS provides information on unpaid work. For the market economy, labour income and consumption profiles are estimated using individual-level HIES data. Labour income considers both earnings and self-employment income. Private and public consumption profiles are constructed using HIES and National Health Accounts 2018-19.
+
+The National Time Transfer Accounts (NTTA) framework is applied for the non-market economy. Unpaid production activities, including general household and care production, are derived from LFS 2018-19. The value of unpaid work is quantified using wages from similar occupations. Unpaid consumption involves assumptions for equitable distribution among household members. The total life-cycle deficit, combining unpaid and paid deficits, is calculated using the National Transfer Accounts (NTA) and NTTA methodologies.
+
+FINDINGS
+
+Unpaid Care Work: A Hidden Economic Force
+
+Using the LFS, we have calculated the average daily hours spent on market and non-market work (Figures 1 & 2). Market work primarily defines the time spent on economic activities that are remunerated, while non-market work is mainly household production activities that are unpaid. Men spend a significant time on market work, whereas women in Pakistan play a significant role in non-market activities, dedicating considerable time to household tasks across various age groups.

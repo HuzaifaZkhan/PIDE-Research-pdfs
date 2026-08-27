@@ -1,0 +1,33 @@
+“People in virtual communities do just about everything people do in real life, but we leave our bodies behind.” (Rheingold, 2000, page xvii)
+
+Can we consider online groups as ‘communities’? What criteria define a space as a ‘community’? In the ever-evolving landscape of sociological discourse, the concept of community remains a central theme, adapting to the digital age. Traditionally defined by three key elements—a collection of individuals, shared activities, and a connection to a specific geographical area (Hoffer, 1931)—communities have undergone a transformative shift. Contemporary communities are no longer restricted by physical proximity; instead, they find their foundations in communication through various forms of connection.
+
+The emergence of ‘virtual communities’, a term introduced by Rheingold, signifies the evolution of social spaces on the internet, especially in the early days of online forums, bulletin board systems (BBS), and Usenet groups (Rheingold, 2000). Rheingold draws parallels between these online spaces and physical communities, emphasising shared interests, norms, and mutual support. Despite the observations originating during the early stages of the internet, Rheingold’s insights continue to provide a fundamental understanding of how online communities form and the dynamics of social interactions within them (Rheingold, 2000). Rheingold’s concept of ‘homesteading’ further deepens our understanding of online community dynamics. Analogous to historical pioneers creating communities on unclaimed land, digital homesteading involves individuals actively shaping and caring for online spaces, contributing content, setting standards, and fostering a sense of belonging (Rheingold, 2000). This digital realm mirrors physical space, offering members both weak and strong ties. However, scholars like Fernback (2007) challenge the notion of online spaces as genuine ‘virtual communities’, contending that they often serve as personal spaces rather than fulfilling broader societal needs. This debate underscores the complexity of online interactions, where feelings of friendship, respect, and acceptance may coexist with limitations in capturing the larger cultural idea of community.
+
+In the realm of online learning communities, a paradigm shift in education is evident. Research affirms that participants in online learning communities experience a profound sense of belonging, positively impacting overall wellbeing (Rovai, 2002). Examples from studies conducted by Vázquez-Cano & Díez-Arcón (2021) and Yılmaz & Yılmaz (2023) highlight enhanced academic performance and engagement in virtual learning environments.
+
+The influence of online communities extends to major social media platforms, particularly Facebook, as demonstrated by Noveck et al. (2021). Their report on Facebook communities, based on data from 15 countries, reveals that approximately 1.8 billion people use Facebook groups monthly, with 50% participating in five or more groups. These communities, often unnoticed, create unconventional norms and can be described as ‘cross-cleavage’ communities, breaking through social divisions and uniting individuals globally (Noveck et al., 2021).
+
+To understand how people in Pakistan are engaged in online communities, a small survey was conducted that provides insights into how individuals in the region interact with online groups. The finding of the survey reveals a high level of engagement, with 72% of participants affiliating with social media groups, especially on Instagram and Facebook. Respondents sought information on diverse topics, and a notable portion expressed agreement that online groups provide solutions to their issues and problems. The survey also sheds light on participants’ experiences, revealing a positive view of involvement in online groups and a sense of belonging within these communities. Interestingly, a significant majority of respondents did not belong to physical community groups within their cities, emphasising the growing importance of virtual communities in today’s interconnected world.
+
+In conclusion, we can affirm that online communities are a reality of this modern world. Contemporary virtual communities redefine communication, enabling individuals to participate in multiple communities without being constrained by physical proximity. Operating outside traditional power structures, these online communities continually evolve, attracting members on the fringes of physical societies. Understanding human behavior in these virtual spaces is crucial for developing user-centric services that cater to the specific needs of these groups. As we explore the possibilities within this digital landscape, we witness a transformation in how people connect, collaborate, and support one another, paving the way for a more interconnected and prosperous future for all.
+
+While acknowledging the sense of belonging offered by online communities, it is crucial to address associated drawbacks, including potential misunderstandings, anonymous identities fostering distrust, and risks like cyberbullying and data breaches. As online communities continue to grow, solutions to these challenges are evolving.
+
+The author is a Senior Research Economist at the Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+References
+
+Fernback, J. (2007). Beyond the diluted community concept: a symbolic interactionist perspective on online social relations. New media & society, 9(1), 49-69.
+
+Hoffer, C. R. (1931). Understanding the community. American journal of sociology, 36(4), 616-624.
+
+Noveck, B. S., Button, J., Gambrell, D., Paulson, L., Spada, P., & Subramanian, L. (2021). The Power of Virtual Communities. The GovLab. The GovLab. https://virtual-communities. thegovlab. org/ﬁles/DTR_ report_en_EN. pdf .
+
+Rheingold, H. (2000). The virtual community, revised edition: Homesteading on the electronic frontier. MIT press.
+
+Rovai, A. P. (2002). Building sense of community at a distance. International Review of Research in Open and Distributed Learning , 3 (1), 1-16.
+
+Vázquez-Cano, E., & Díez-Arcón, P. (2021). Facebook or LMS in distance education? Why university students prefer to interact in Facebook groups. The International Review of Research in Open and Distributed Learning, 22(3), 119-141.
+
+Yılmaz, F. G. K., & Yılmaz, R. (2023). Exploring the role of sociability, sense of community and course satisfaction on students’ engagement in flipped classroom supported by facebook groups. Journal of computers in education, 10(1), 135-162.

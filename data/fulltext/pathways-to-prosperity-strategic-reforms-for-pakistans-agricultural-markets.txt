@@ -1,0 +1,119 @@
+The Agriculture Sector in Pakistan:
+
+The agriculture sector is a cornerstone of Pakistan’s economy, yet it faces challenges that hinder its productivity, profitability, sustainable growth, and contribution to food security. Despite being among the top ten global producers of several agricultural commodities, Pakistan’s per-acre yield remains significantly below international averages. Numerous initiatives and reforms have yet to align Pakistan’s agricultural output with global standards. Consequently, it is crucial to first identify the key issues, policies, and practices impeding agricultural potential in Pakistan. In the second stage, targeted reforms are needed to promote economic transformation and unlock productivity and profitability.
+
+Addressing these challenges requires a comprehensive and integrated strategy. The Pakistan Institute of Development Economics (PIDE) has taken on the task of documenting critical issues in the agricultural sector. These challenges include low productivity, poorly targeted subsidies, monopolistic market practices, excessive regulation, resource deterioration, and environmental degradation. PIDE’s evidence-based research proposes economically viable solutions to improve efficiency across agricultural markets by optimizing resource use management (e.g., land and water), enhancing input markets (e.g., seeds and fertilizers), and streamlining output markets for key crops such as wheat, fruits, and vegetables.
+
+PIDE has shared its research findings through reports, knowledge briefs, newspaper articles, blogs, and policy papers. These publications emphasize the urgent need for reforms to create more competitive input-output markets by reducing bureaucratic barriers, deregulating input markets, eliminating price-setting interventions, and addressing monopolistic practices. This document summarizes PIDE’s holistic approach to transforming Pakistan’s agriculture through liberalizing input-output markets. The current document builds on PIDE’s research over the past five years and provides recommendations to enhance efficiency and competitiveness across the agricultural sector.
+
+Agricultural Input Market
+
+Liberalizing the Seed Industry
+
+High-quality, genetically pure seeds are essential for achieving higher productivity in agriculture. However, complex regulatory procedures involving multiple government departments have stunted the growth and potential benefits of the seed sector. Private investors are reluctant to invest in seed research and development due to over-regulation because seed certification from Federal Seed Certification and Registration Department (FSC&RD) is extremely hectic and this certification has no value in the market. The private sector believes that maintaining the brand reputation by supplying high-quality seed is more valuable than seeking approval from the (FSC&RD). However, the government is spending about Rs. 800 million annually on FSC&RD while it fails to bring any revolutionary change to enhance agricultural productivity. Hence, PIDE recommends several measures to liberalize the seed sector [ 1] , [2] & [3] :
+
+Abolish the stringent process of seed certification to attract private sector investment and to create space for its growth. Currently, a poorly regulated seed market promotes low-quality seeds, affecting agricultural productivity adversely
+
+The transition from a centrally controlled approval system to a free-market mechanism allowing unrestricted entry and exit.
+
+Withdraw the public sector from seed production and price regulation.
+
+Ensure intellectual property rights (IPRs) are transparent and justified, with private sector involvement.
+
+Establish specialized courts for biosafety and IPR-related issues or seek technical expertise from relevant experts within existing courts.
+
+Abolishing Fertilizer Subsidies
+
+Fertilizer subsidies have proven ineffective in reducing retail prices for consumers. For instance, An average family of 5 persons that consumes 15 maunds of wheat, 2 maunds of rice, and 30 kg of sugar in a year will get a monetary benefit of Rs.893 per annum (Rs.74/month) in terms of low prices against the subsidy of Rs.200 billion on fertilizer (Abedullah, 2021) [4] . The subsidy does not justify its cost, and alternative measures to improve poor farmers’ affordability should be explored.
+
+Implementing Economic Water Pricing
+
+Irrigation water is heavily subsidized, yet this policy fails to promote productivity or sustainable water use. Low water prices disincentivize investment in water-saving technologies like drip and sprinkler irrigation, exacerbating Pakistan’s water crisis. Economic water pricing reforms, such as restructuring Abiana charges or introducing marginal pricing, would encourage efficient water use. Current water subsidy policies cost the government an estimated 677.56 to 899.05 billion PKR annually, or 0.81% to 1.07% of GDP (Abedullah and Ali, 2024) [5] .
+
+Formalizing and Improving Credit Markets
+
+The informal credit market, represented by “arthies,” provides essential financial support for small farmers, offering flexible repayment terms. However, arthies charge high interest rates, which can be burdensome. PIDE suggests that formal financial institutions adopt elements of the arthi model to improve access to agricultural credit with more farmer-friendly terms [6] .
+
+Promoting Agricultural Land Consolidation
+
+Pakistan’s agricultural landscape is marked by fragmented, small landholdings that hinder modernization and efficient resource management. Agricultural Land Consolidation (ALC) offers a solution by restructuring and redistributing land into larger, more logical plots. This could reduce production costs, enhance profitability, and lay a foundation for sustainable agricultural growth, ultimately boosting food security and rural development [7] &[8] .
+
+Revitalizing the Agricultural Land Market
+
+Land transactions in Pakistan are slow, corruption-prone, and governed by outdated regulations. To make the land market more dynamic and efficient, PIDE suggests [9] :
+
+Updating land transfer regulations to reflect current market needs.
+
+Revising land transfer fees, ideally eliminating the DC rate system or adjusting it to reflect actual market rates.
+
+Digitizing land records to reduce corruption and streamline transactions.
+
+Agricultural Output Markets
+
+Eliminating Support Prices and Subsidies
+
+Government support prices for crops have lowered agricultural market efficiency and placed a significant fiscal burden on the state, particularly in times of budget deficits. Additionally, places a substantial financial burden on the government, making it unsustainable in the long term, particularly given the budget deficits. PIDE is continuously advocating to end the support prices for the crops as these policies have failed to achieve their intended outcomes of offering low prices to consumers. Rather, fixing MSP has led to transfer taxpayers’ money to flour mills and the middlemen without creating any benefit to producers or consumers (Jalil et al., 2020 [10] , Abedullah 2020 [11] , Rose and Abedullah 2023 [12] & 2024 [13] , Rose and Ali 2024 [14] ). The implementation of the Minimum Support Price (MSP) has placed a significant financial burden on the government, primarily through the procurement process, which is funded via bank loans, institutional involvement, and specific budget allocations. Additionally, there is a forego loss due to reduced acreage allocation to competing crops, which are more profitable than wheat. In 2023, the procurement process alone resulted in a cost of approximately Rs. 168 billion, with institutional budgets amounting to Rs. 260 billion, and lost benefits from reduced acreage allocation under competing crops reaching around Rs. 11 billion. The cumulative burden, exacerbated by circular debt has reached to Rs. 907 billion, implying that the current MSP implementation is not sustainable. (Abedullah and Ali, 2024) [15] .
+
+Deregulating the Sugar Market
+
+Pakistan ranks as a major global sugar producer and exporter, yet the sector faces regulatory and market inefficiencies. PIDE’s analysis suggests that the government should [16] :
+
+Deregulate the sugar industry to reduce entry barriers for new mills.
+
+There is a misconception that sugarcane is replacing cotton but our empirical findings reveal that other crops, such as maize and rice, have expanded more at the expense of cotton due to higher profitability and productivity of these crops.
+
+Remove import tariffs to promote competition.
+
+End export subsidies that contribute to higher domestic sugar prices and have destabilized the market in the past.
+
+Abolishing DCO Price Controls for Fruits and Vegetables
+
+The Deputy Commissioner’s Office (DCO) sets prices for fruits, vegetables, and grains, but these prices do not account for actual costs like transportation and spoilage, making them impractical. PIDE recommends discontinuing this intervention to let the market forces work to determine the market prices, which is more sustainable and economically sound [17] .
+
+Enhancing Storage Facilities and Encouraging Private Procurement
+
+Pakistan’s storage facilities for grains and cold storage for perishable goods are inadequate, particularly in KPK and Baluchistan, with capacity falling short by three times. Poor storage conditions lead to significant post-harvest losses, costing the agriculture sector around Rs. 315.41 billion annually. PIDE recommends that the government may encourage private investment in modern, well-equipped storage infrastructure to reduce post-harvest losses and improve product quality [18] without her direct engagement.
+
+Research and Development Investment
+
+Redirecting funds from subsidies and support prices toward sustainable research and development (R&D) could significantly boost productivity. If Pakistan were to raise average production levels to match those of progressive farmers, it could add approximately Rs. 1,722 billion to the economy. A restructured seed market and targeted R&D investments along with private sector partnership are vital steps toward achieving this (Abedullah and Ali, 2024) [19] .
+
+Dr. Muhammad Faisal Ali and Dr. Abedullah are respectively Research Fellow and Chief of Research at PIDE
+
+[1] https://pide.org.pk/research/revitalising-the-seed-industry-in-pakistan
+
+[2] https://pide.org.pk/research/evaluation-of-seed-industry-way-forward/
+
+[3] https://pide.org.pk/research/rethinking-the-seed-industry-in-pakistan/
+
+[4] https://pide.org.pk/research/fertiliser-subsidy-an-ineffective-policy-tool-to-offer-low-prices-of-basic-food-commodities/
+
+[5] https://pide.org.pk/research/the-cost-of-government-interference-in-agricultural-markets/
+
+[6] https://pide.org.pk/research/the-role-of-arthi-in-agriculture-marketing-an-exploiter-or-facilitator-of-farmers/
+
+[7] https://pide.org.pk/research/agricultural-land-consolidation/
+
+[8] https://pide.org.pk/research/land-reforms-through-agricultural-land-consolidation/
+
+[9] https://pide.org.pk/research/the-neglected-tale-of-agricultural-land-markets/
+
+[10] https://pide.org.pk/research/wheat-support-price-a-note-for-policy-makers/
+
+[11]https://pide.org.pk/research/does-free-market-mechanism-offer-a-win-win-situation-to-wheat-consumers-and-the-government/
+
+[12] https://pide.org.pk/research/wheat-import-doors-not-closed-yet/
+
+[13] https://pide.org.pk/research/subsidies-vs-market-forces/
+
+[14] https://pide.org.pk/research/revitalising-agriculture-road-to-green-revolution/
+
+[15] https://pide.org.pk/research/the-cost-of-government-interference-in-agricultural-markets/
+
+[16] https://pide.org.pk/research/the-sugar-industry-of-pakistan-understanding-structural-and-regulatory-underpinnings-of-the-current-sugar-crisis-3/
+
+[17] https://www.aciar.gov.au/sites/default/files/2024-05/adp-2017-024-final-report.pdf
+
+[18] https://pide.org.pk/research/the-cost-of-government-interference-in-agricultural-markets/
+
+[19] https://pide.org.pk/research/evaluation-of-seed-industry-way-forward/

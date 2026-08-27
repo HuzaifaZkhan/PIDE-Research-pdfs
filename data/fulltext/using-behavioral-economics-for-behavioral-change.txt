@@ -1,0 +1,57 @@
+Introduction of Speaker:
+
+Dan Ariely is an Israeli-American professor and author. He serves as a James B. Duke Professorship in Psychology and Behavioral Economics at Duke University. Ariely founded The Center for Advanced Hindsight, a research organization, and co-founded many businesses that use behavioral science-based insights. Over 15 million people have watched an Ariely TED talk.
+
+Key Objectives:
+
+To understand what behavioral economics is.
+
+To understand how economic activities change our behaviors.
+
+To know the difference between instant economics and behavioral economics.
+
+How do economic activities change our behaviors?
+
+By applying economic and psychological theories, behavioral economics may remove obstacles to behavior modification. Unpredictable decision errors that affect human decision-making and may sabotage wise decisions are identified as a key contribution of the discipline. People are “predictably irrational” in that they consistently choose actions that are against their best interests and go against conventional economic theory.
+
+In our daily life, there are a lot of things we could do better. For instance, we do not sleep well, we do not eat well, and we do not manage well. Moreover, there is too much hate in the world, and we do not care about our family, society, and our planet well.
+
+We need to do different, but we do not. So there exists a big gap between we need to do things well differently and we do not do well. Or a gap between we should behave in a proper way and how we actually behave. So, the question is, where does that gap exist? Furthermore, how to reduce that gap?
+
+How can we get people to behave in a way that is slightly better or a lot better that is closer to our real potential? Let us take some examples, taking proper medication, sleeping well and on time, not texting while driving, and not spreading fake news. So, fractions exist between what we want and what we do?
+
+We have two things: Fractions and fuel, which play a pivotal role in our decision-making. Fraction is the thing that slows us down, while fuel is the thing that is good at motivating or boosting us.
+
+Let us take an example of fractions. You go to a doctor and your doctor prescribes you medication. You need to communicate for many years, so you join an online pharmacy called express scripts pharmacy. The express scripts start sending you branded medication every 90 days. But then they want to try to switch you from the branded expensive medication to cheap generic medication. For that, they start marketing tactics by sending letters, emails, or messages and saying please, please, please Switch to generic.
+
+You will save money.
+
+We will save money.
+
+The employee will save money, and the universe will be a better place.
+
+And they tell you usually, your branded medication will cost 30 dollars, and generic medication will cost 5 dollars.
+
+But the reality is very few people switch, about 3%. Then they started the allure of free marketing strategies and hoped for more people to switch, but it only increased from 30% to 10%. If 10% of the people switch now, 10% is much better than 3%, But not a lot.
+
+In reality, the problem is not free or the cost. But the problem is a fraction; people started with branded medication and could continue and do nothing with generic medication. But more than 80% of people switched when they followed T-intersection. T-intersection means they send people a letter and say if they don’t return this letter, they will be forced to stop their medication. And if you return the letter, then you can choose branded medication, whatever branded price is.
+
+Do people like generic, or the people like branded? What it really means is that people don’t like returning letters. It really means that it was not a choice between branded medication vs. generic medication. It was a question between do I act or not act.
+
+Now, there is a couple of important theoretical and ethical point. The first one is how important the default is; the defaults are incredible and powerful to make people act in a different way. But in their original design of express, people stayed with branded because of default, not because they wanted. Secondly, it also means that forcing people to reconsider choices from time to time could be a very good mechanism. On the theoretical ground of instant economics, we have this notion called reveal preferences. It means we row down what people do and what people want. Then we will have a one-to-one correspondence between what people want and what people do.
+
+The above example shows what behavioral economics shows more generally. There is a thick layer between what people want and what people do that is called a fraction. Fractions can dramatically distort the relationship between what people want and what people do.
+
+In instant economics, we ask ourselves what people want. Let us look people want to do. Contrary, in behavioral economics, we say not so fast what people do is not the function of what they want and also the function of just things like a fraction.
+
+The second part is the motivation of fuel. Motivation is more complex if we look at anything from the lens of refraction. Suppose we look at signing up for some apps. Or if we look at texting while driving or you look at your eating behavior, you can see where you could change your fraction.
+
+Motivation is more difficult because motivation is not in this system. We cannot observe the system. What do we want to change? Motivation is what is actually missing here.
+
+For example, there is a story of AMO online medical care about the motivation of patients. That AMO sets an appointment for fans or people to meet their specialists, and the meeting with the specialist is always a few months later because, you know, there is laze and What happens is a lot of people do not show up to these meetings. It takes a lot of work to manage this system. A lot of people do not show up, so they try to make people show up people on time. They send them text messages And hope people will show up on time, but even with that, about 2% or 3% of the people do not show up to their meetings. And again, they send them text messages that they have an appointment on this day with this physician. And if you cannot make it, then please click this link. But more than 20% of people do not click the link and do not show up.
+
+The only thing we can do to change the language of the text because we cannot really change the motivation, and we cannot change incentives. But we can remind people of different things so we can try differently.
+
+So AMO tried different things. To some people, they said to remember you care about your health, and to other people, they said to remember your Kids care about your health. To others, they said remember, Dr. David is looking forward to your appointment.
+
+Two interesting results first one is that everything with it worked better than they just remind it. Because the original reminder was just assuming the problem was the memory, they assume the problem was motivation, any motivation you add to make more people show up. The winner’s message, by the way, was said that there is another patient. They could use your appointment if you do not need it.

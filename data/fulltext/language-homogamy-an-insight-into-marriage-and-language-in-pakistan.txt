@@ -1,0 +1,59 @@
+Marriages between people of different ethnic backgrounds can be a major source of assimilation in a country, like Pakistan, having a broad ethnic spectrum. Inter-ethnic marriages can foster social cohesion and stability, which with time can blur tensions created due to ethnic differences. Likewise, language, which is primarily an outcome of ethnic background, has a major influence on our personal identities. These identities sometimes can be divisive and weaken cohesion in the larger identity.
+
+To capture the prevalence of ethnic exogamy, or homogamy, in Pakistan, the PIDE BASICS [1] survey asks questions in a new way to give a better insight into the issue. In most surveys, language is captured by asking the respondents about the language they speak, and the response to this question is taken as representing their ethnic background. This is misleading, and the results of the BASICS survey confirm this distortion in interpretation. The survey asks three questions to gauge the ethnic backgrounds of the respondents and the language spoken by them. The questions are:
+
+‘What is the mother tongue of your father? ‘– to determine the ethnic background of the respondent’s father.
+
+‘What is the mother tongue of your mother?’ – to determine the ethnic background of the respondent’s mother.
+
+‘What is the language you use in your everyday life?’ – to capture the language of communication used by the respondent.
+
+Language Assortative Marriages[2]
+
+By asking the above-mentioned three questions, we see that only a small proportion of cross-ethnic marriages take place in Pakistan, as both spouses have the same mother tongue. A huge 98.5% of the respondents had parents who are linguistically homogenous (Figure 1).
+
+Looking at the trends of language homogamy, and exogamy, by region, provinces, age, education and income, we see in Figure 1 that:
+
+Figure 1: Respondents with Parents Having the Same or Different Mother Tongues (%)
+
+__________________
+
+[1] See PIDE BASICS Note Number 1 for details about the survey.
+
+[2] Assortative marriage refers to the tendency for people to choose spouses who are more similar or dissimilar to themselves.
+
+__________________
+
+Only 1.5% of the marriages in Pakistan are ethnically exogamous.
+
+Ethnic exogamy is more prevalent in urban Pakistan (1.9%) than rural but only by a very small margin.
+
+Among the provinces, Balochistan shows the highest proportion of language exogamy (4.1%), and Punjab the lowest (0.9%).
+
+Looking at the three territories, we see that GB (4%) and AJK (4.1%) show more marital assimilation than ICT (0.8%).
+
+Age disaggregated trend shows no major change in language homogamy/exogamy.
+
+A slightly increasing trend for ethnic exogamy is observed with increasing education and income levels, with secondary schooling and third income quintile, respectively.
+
+Language Assortative Marriages by Gender
+
+Marriage is among the most important social institutions in the country, if not the most, with very specific gender norms and values linked to it. As we saw above, the trend for intra-ethnic marriage is very strong in Pakistan, but is it the same for people of all languages? Figure 2 suggests it is not so, even if by slight margins. The figure shows that, albeit low levels of exogamy for all languages:
+
+There are some languages for which the rates of exogamy are slightly higher, for instance, Urdu, Potohari, Brahui and Brushaski.
+
+Gender differences can be seen for some languages, as in the case of Urdu, Shina and Kashmiri.
+
+Figure 2: Ethnic Homogamy-Exogamy for Selected Languages by Sex (%)
+
+Ethnically Assortative Marriages and the Spoken Language
+
+Do individuals tend to speak the language spoken by their parents? In case of ethnic differences between spouses, do their children speak the language spoken by the mother or the father, or do they opt for a third language? The PIDE BASICS survey asked these questions, the results of which can be seen in Figure 3. The figure shows that:
+
+In the case of individuals having ethnically similar parents, 92.3% spoke the same language as their parents.
+
+Among the major provincial languages, children of homogamous Punjabi parents had the lowest rate for speaking their parents’ language (86.4%), as against Sindhi (98.4%), Pashtu (98%) and Balochi (95.5%). Among other main languages, children of homogamous Potohari (68.4%), Pahari (76%) and Hindko (82.3%) speaking parents were found to have lower rates of speaking the same language.
+
+Children of ethnically exogamous parents exhibit a mixed pattern across languages. For some languages, mother’s language seems to be having a stronger influence, like for Potohari and Pahari, while for others, father’s language is more dominant among the offspring, like Brushaski, Hindko, Balochi and Seraiki.
+
+Figure 3: Everyday Language Used by Respondents by Parents’ Language Homagamy-Exogamy Status (%)

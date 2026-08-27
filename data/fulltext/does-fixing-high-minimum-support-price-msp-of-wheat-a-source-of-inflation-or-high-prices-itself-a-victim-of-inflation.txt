@@ -1,0 +1,42 @@
+Wheat is politically sensitive crop and Government of Pakistan (GoP) heavily intervene in the wheat market by purchasing about 70% of marketable surplus at the Minimum Support Price (MSP). Without realizing that inflation, itself is a culprit of increase in wheat prices, it is argued that fixing high wheat prices as a minimum support price is contributing in surging inflation. The analysis reveal that MSP of wheat has increased less sharply than its cost of production during the last four years—leading to decline the profitability of wheat growers overtime. Hence, wheat farmers are the victims of inflation. Comparison further demonstrate that profitability of other crops (Rice, Maize and Cotton) has increased overtime—implying that inflation has benefited the growers of these crops. Because input-output prices adjust through market mechanism which automatically account for inflationary effect while it is not in case of wheat.
+
+Wheat accounts for 9.2 percent of value addition in agriculture and 1.8% of GDP (GoP, 2020-21). The cultivation area and yield of wheat have continuously declining in last three years, except in 2020-21, when yield has slightly increased.
+
+Inflation is extremely harmful to a country’s economic performance and to the welfare of its citizens. A rise in the price level means, ceteris paribus, that money can buy fewer goods i.e., declining purchasing power. The high prices of agricultural produce contribute to the inflation, and the cost of production of these commodities also vulnerable to inflation, and this increase in input prices drives output prices upward. Hence, with high inflation, it is impossible to keep the output prices stagnant while the input prices are continuously increasing.
+
+As the government purchases more than 70 percent of the marketable surplus to influence the free market mechanism, markets have a minor role in deciding the equilibrium price. In the case of agricultural commodities such as rice, maize, and cotton, where government interference is negligible, prices automatically adjust the infl­ationary effect through the market mechanism. However, in the case of politically sensitive commodities like wheat, where the government heavily controls prices, the MSP (farm gate prices) has to be announced carefully to account for the infl­ationary effect.
+
+Infl­ation has led to a sharp increase in input prices. Due to the political nature of the crop, the government has heavy control over wheat prices. As a result, wheat prices increase comparatively at a slower rate. Hence, the wheat crop is losing its profitability because the cost of production has amplified more sharply than farm gate prices in the last four years (Table 1). The cost of production increased by about 20 percent in 2019-20 compared to 2017-18, while MSP (farm gate prices) have increased by only 8 percent during the same period.
+
+The higher increase in the cost of production than farm gate prices has led to a decline in the profitability of wheat farmers by about 17 percent in just three years–demonstrating that infl­ation has worsened the wheat farmers [1] .
+
+__________________________
+[1] Cost of production includes the cost of inputs (fertilizer, pesticide, water, machinery, labor etc)
+
+The declining profitability of wheat production may discourage farmers from increasing the area under wheat cultivation (Table 2), leading to a widening gap between supply and demand. The continuous declining trend in cultivated areas could pose a serious food security threat.
+
+Policymakers realized this danger and decided to increase the MSP from Rs.1400/maund in 2019-20 to Rs.1650/maund in 2020-21. The increase in MSP narrowed the widening gap between the cost of production and farm gate prices (Table 1). Despite the increase in farm gate prices in 2020-21, profi­ts remained 4 percent less compared to the profi­t in 2017-18, implying that an increase in MSP prices was not sufficient to inflationary effect offset the inflationary effect; an increase in farm gate prices motivated farmers to increase the area under wheat crop by about 4 percent in 2020-21 compared to the previous year (GoP, 2020-21).
+
+Table 2. Profit (Rs./acre) from different crops
+
+The in­flationary effect in terms of the high cost of production was more dominant than the relief provided through the increase in MSP (Rs.1650/maund). As a result, farmers refused to sell their output to the government because the private sector offered higher prices to farmers than MSP announced by the government. The market was signaling that farm gate prices fixed by the government to procure wheat were not covering the cost of production.
+
+The government decided to revise the farm gate prices by observing the market situation, and new farm gate prices were raised to Rs.1800/maund (Rs.45/maund). However, revised farm gate prices failed to attract the additional acreage allocation because farm gate prices were revised at the harvest stage. However, this led to increasing the profitability of wheat cultivation by 31% in 2020-2021 compared to 2017-2018.
+
+Consequently, the government decided to import 3 million tons of wheat to maintain the wheat prices below Rs.50/maund. Rani et al (2020) have estimated the wheat supply elasticity (0.142) in Pakistan—implying that if the government had announced the right farm gate prices (Rs.1800/maund) at the right time (before planting of the wheat crop), then the government would have achieved 10% of the total import from the local producers through additional acreage allocation.
+
+As argued by Jalil et al. (2020) and the Ministry of Planning and Development and Special Initiatives, an increase in MSP may increase inflation, refl­ecting only one side of the picture. Instead, it is a two-way process. Inflation leads to an increase in the cost of production due to an increase in input prices. To offset the infl­ationary effect on input prices, output prices must increase. If only input prices increase, the wheat crop will lose its comparative advantage. The wheat crop area will shift to other competing crops because the prices of other crops automatically adjust the infl­ationary effect through the market mechanism and generate more attractive signals for growers. Moreover, Mohsin and Axel (2006) conclude that monetary factors have a dominant role in inflation but changes in the wheat support price in­fluence infl­ation in the short run, but not in the long run. Hence, fixing MSP at a lower level cannot be used as a tool to control infl­ation.
+
+Moving areas under wheat to other crops may widen the gap between supply and demand, letting the retail prices adjust to a higher level. The cost of food production in Pakistan increased by 8.40% in July 2021 over the same month in the previous year (Trading Economics, 2021). This suggests that farm gate prices should be increased at least 10% compared to the prices in 2020-21 (Rs.1800/maund) to offset the in­flationary effect and minimize the dependency on imports. Contrary to this, wheat prices could surge more than 20 percent in 2021-22 compared to the prices in 2020-21 due to increasing gaps between supply and demand, and this could also put pressure on foreign reserves.
+
+References
+
+GoP (2020-21). Pakistan Economic Survey. Finance Division. Economic Adviser’s Wing. Government of Pakistan. www.finance.gov.pk .
+
+Jalil A; Ahmad S.K; and Iqbal N. (2020). Minimum Support Price (MSP) of Wheat and Inflation. PIDE blog series October, 2020.
+
+Mohsin S. Khan and Axel Schimmelpfennig (2006). Inflation in Pakistan: Money or Wheat? IMF Working Paper. Middle East and Central Asia Department
+
+Rani S; Vanzetti D; Petersen E; and Qasim (2020). Estimation of Supply and Demand Elasticities for Major Crops Produced in Pakistan. The Lahore Journal of Economics, Vol. 25(1). Pp139-152.
+
+Trading Economics (2021). Trading Economics: Pakistan Food Inflation. https://tradingeconomics.com/pakistan/food-inflation

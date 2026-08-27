@@ -1,0 +1,41 @@
+Agriculture Sector in Pakistan
+
+The agriculture sector is a cornerstone of Pakistan’s economy, yet it faces several challenges that hinder its productivity, profitability, long-term sustainable growth, and contribution to food security. As a result, Pakistan’s per-acre yield remains well below the international average despite being one of the top ten global producers of several agricultural commodities. Regardless of multiple initiatives and efforts, Pakistan’s agriculture sector failed to achieve the required production to help shift major crops’ yield closer to the international averages. Therefore, at the first stage, it is crucial to document the key issues, policies, and practices that prevent us from fully realizing the potential of agriculture in Pakistan. At the second stage, there is an urgent need to address those issues by introducing reforms that can lead to economic transformation aimed at unlocking greater productivity and profitability.
+
+Addressing these challenges necessitates a comprehensive and integrated strategy. The Pakistan Institute of Development Economics (PIDE) has undertaken the task of identifying and documenting the critical issues within the agricultural sector. These challenges include low productivity, the provision of unnecessary and poorly targeted subsidies in input and output markets, the presence of monopolies in these markets, excessive regulation, the deterioration of natural resources such as water and soil, and environmental degradation. Beyond merely documenting these problems, the institute has focused on empirical, evidence-based research to propose economically viable solutions aimed at enhancing the efficiency of agricultural markets. This includes optimizing resource markets like land and water, improving input markets such as seeds and fertilizers, and streamlining output markets for key crops including wheat, fruits, and vegetables.
+
+The comprehensive findings of this evidence-based research have been shared through a series of reports, knowledge briefs, newspaper articles, blogs, and policy papers. PIDE has highlighted the urgent need for reforms across various agricultural markets. These reforms aim to create more efficient and competitive input-output markets by reducing bureaucratic barriers, deregulating the input markets (such as seeds and fertilizers) and output markets (including wheat, fruits, and vegetables), eliminating government intervention in price setting, and addressing monopolistic practices, particularly in the output sectors.
+
+This document seeks to summarize PIDE’s holistic approach to transforming Pakistan’s agricultural landscape by liberalizing input-output markets. Building on PIDE’s research during the past five years, it outlines the key recommendations designed to enhance the efficiency and competitiveness of the agricultural markets.
+
+Agricultural Input Markets
+
+Liberalize Seed Industry
+
+Genetically pure and high-quality seeds are imperative to achieve the objective of high productivity in the agriculture sector. However, the current regulatory processes involve numerous steps and engage multiple government departments, resulting in significant delays and costs. It has badly damaged the growth and potential benefits of both agriculture and the seed sector. Different stakeholders are involved in the development and marketing of seed business considering that the seed sector is over-regulated. Due to over-regulation private sector is reluctant to invest in research and development of the seed sector because the private sector believes that the reputation of a brand is more valuable than the approvals from the Federal Seed Certification and Registration Department (FSC&RD). The government is spending more than 800 million per annum on FSC&RD but its certification does not earn any value in the market. Hence, there is a pressing need to liberalize the seed sector by transitioning from a centrally managed variety approval system. The proposed way forward by Abedullah and Ali 2023[1] & 2024[2] &[3] is summarized below
+
+Abolish the stringent process of seed certification to attract private sector investment and to create space for its growth. Currently, a poorly regulated seed market promotes low-quality seeds, affecting agricultural productivity adversely
+
+A transition from a centrally controlled variety approval system to a free market mechanism is an urgent requirement, where entry and exit are free without any restriction.
+
+The role of public sector in the seed production business and price regulation needs to be abolished.
+
+Granting intellectual property rights IPRs system should be more transparent and justified, which is only possible with the engagement of the private sector.
+
+There is a need to establish specialized courts having sufficient knowledge and expertise about biosafety systems, tools, genes, and procedures used in the development of transgenic varieties to decide confrontation on IPRs or the existing courts should seek the technical expertise from the relevant experts.
+
+Abolish Fertilizer Subsidies
+
+Similarly, our research revealed that fertilizer subsidy is not an effective policy tool to offer low prices to consumers because it is observed that the contribution of fertilizer subsidy in reducing retail prices is negligible. An average family of 5 persons which consumes 15 maunds of wheat, 2 maunds of rice, and 30 kg of sugar in a year will get a monetary benefit of Rs.893 per annum (Rs.74/month) in terms of low prices against the subsidy of Rs.200 billion on fertilizer (Abedullah, 2021)[4].
+
+Economic Water Pricing for Irrigation Water
+
+Offering heavy subsidies on irrigation water is another policy failure to achieve the highest possible productivity and sustainable utilization of this valuable natural resource. In the presence of low water prices farmers have no advantage to invest in water-saving technologies (drip irrigation and sprinkling), leading the country toward serious water crises. It requires comprehensive reform to implement water pricing mechanisms to incentivize its efficient use. This may involve restructuring Abiana’s charges or implementing marginal water pricing systems to discourage excessive usage. The loss to the government due to the absence of economic water pricing or water charges is estimated to be in the range of Rs.677.56 billion and Rs.899.05 billion per annum, accounting for 0.81 percent to 1.07 percent of the country’s GDP (Ali and Abedullah, 2024).
+
+[1] https://pide.org.pk/research/revitalising-the-seed-industry-in-pakistan/
+
+[2] https://pide.org.pk/research/evaluation-of-seed-industry-way-forward/
+
+[3] https://pide.org.pk/research/rethinking-the-seed-industry-in-pakistan/
+
+[4] https://pide.org.pk/research/fertiliser-subsidy-an-ineffective-policy-tool-to-offer-low-prices-of-basic-food-commodities/

@@ -1,0 +1,39 @@
+Executive Summary
+
+Pakistan has launched its AI policy 2025 in a very timely manner. The policy revolves around six main pillars: providing an AI Innovation ecosystem, mass awareness and readiness, a secure AI ecosystem, the transformation and evolution of various sectors, establishing nationwide AI infrastructure, and promoting international collaboration and partnership in the ﬁeld of AI. If implemented in its true soul and spirit, the country can gain the most from it. Notably, it has the potential to increase GDP growth from 7% to 15% by 2030, depending on the level of adaptation. Furthermore, the policy can revolutionize various sectors such as agriculture, industry, and services, improving agriculture by $12 billion, industry by $5 billion, and services by $26 billion. However, to achieve these outcomes, existing gaps in the policy must be addressed. These include challenges in implementation, funding and infrastructure constraints, regulatory weaknesses, human capital limitations, and overly ambitious expectations. To overcome these, the policy can be strengthened by slightly increasing the R&D fund to 0.5% of GDP, utilizing already available resources like TVET, initiating pilot projects, and enacting better laws for privacy and data security.
+
+Background
+
+Artiﬁcial intelligence is no longer science ﬁction, it has turned into a stern reality. At the moment, it is shaping every aspect of life from healthcare to agriculture and ﬁnancial decisions. Countries all over the world are adopting it for a smooth transition from their conventional systems to the modern ones. That is why major economies like the US, UK, EU, China and India have formulated their AI policies. Keeping this past growing trend of AI in view, Pakistan has also formulated its own AI policy in 2025. It is a very good eﬀort at placing the AI in its national agenda for the improvement of health, agriculture, education and the overall sector of the government.
+
+The policy emphasizes the development of a competitive and knowledge-based economy while keeping ethical and inclusive growth in view. There is no doubt that this policy can prove a turning point in transforming the country’s entire scenario if it is properly implemented. However, there are several stumbling blocks that can make the implementation part a little diﬃcult. Some of these are the shortage of basic infrastructure, the lack of internet connectivity and the paucity of electricity, inclusivity and proper regulations. Pakistan can overcome these barriers by giving proper attention and allocating resources to it. Also, learning from the experiences of other countries can also do the trick.
+
+Components of Pakistan’s National AI Policy (2025)
+
+The policy consists of six key pillars, provided below:
+
+The ﬁrst pillar is about the establishment of an AI Innovation ecosystem. It will support research, AI entrepreneurs and industries, to promote AI-driven solutions with the help of National Artiﬁcial Intelligence Fund (NAIF) and AI Centres of Excellence.
+
+The second pillar of the policy is about awareness and readiness. It aims to elevate Pakistan as a world leader in AI readiness by 2035. It aims to train one million professionals and 10,000 new trainers by 2027.
+
+The third pillar talks about a secure AI Ecosystem. An AI directorate will be established to provide regulatory guidelines for the possible spread of misinformation, data breaches and privacy and establishing sandboxes.
+
+The fourth pillar is about transformation and evolution. It aims to transform various sectors like education, health governance, and record digitization, making quick decisions in ministries.
+
+The ﬁfth pillar discusses the establishing of AI infrastructure nationwide. The purpose is to improve computational power for large scale implementation for processing data and training AI models.
+
+The last pillar discusses international partnerships and collaboration in the ﬁeld of AI. It also stresses on the adaptation of international AI standards.
+
+Analysis of the Policy
+
+Pakistan AI policy 2025 is a very timely move. With a 64% young population, Pakistan can beneﬁt the most by adopting AI in diﬀerent sectors. The policy covers all the important aspects. It focuses on the transformation of important sectors of the economy. Moreover, it is youth-centric and provides potential of entrepreneurship and employment opportunities. Pakistan can beneﬁt from the upskilling of its immigrants for the global market, especially for the GULF countries. The policy cover all the aspects from individual to government level.
+
+However, there are some weaknesses in the policy that make the implementation diﬃcult at the moment. The lack of digital infrastructure in the country is the greatest issue. Similarly, internet connectivity and electricity shortage along with funding are some of the major impediments. But these weaknesses do not mean that the policy could not be implemented. Proper steps should be taken in the right direction because Rome was not built in a day. This policy can work if proper steps are taken.
+
+Below in the table some strengths and imitations of the policy are given:
+
+AI Canvas of the World
+
+Globally, the trend of AI is in upward trajectory. Big players are investing heavily in the ﬁeld of AI. According to Stanford AI index (2025), corporate AI investment has reached to $252.3 Billion in 2024, recording highest growth of 26% as compared to the previous year. Out of this investment the share of private investment climbed by 44.5%, while the merger and acquisitions witnessed 12.1% growth as compared to the previous year. Similarly, investment in generative AI raised by 18.7%, representing almost 20% of all the AI related private investment. Such huge investment in a very short span highlights the signiﬁcance of AI in the coming time.
+
+The top most investor in 2024 is the US by investing hefty sum of $109.1 billion, followed by China $9.3 billion, UK $4.5 billion and EU+Uk $25.4 billion. The survey conducted by Stanford found that large organizations have reported 78% use of AI in some ways in their business functions. Organizations also stated that AI has reduced it cost up to 5%, though it will improve with the passage of time.

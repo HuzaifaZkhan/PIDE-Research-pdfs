@@ -1,0 +1,150 @@
+Privatisation of Electricity Distribution Companies— A Way Forward?
+
+Afia Malik, Pakistan Institute of Development Economics, Islamabad.
+
+PREFACE
+
+The private sector has long been promoted as a solution to the service delivery gap and to overcome financial constraints faced by the developing countries. The general belief is that state-owned utilities have no incentive to improve (Estrin and Pelletier, 2018). Political pressures and rent-seeking activities do not allow them to operate efficiently. The recruitment of managerial staff is under political pressure rather than merit, thus compromising management efficiency in the distribution utility. Therefore, the expectation is that the private management/ownership with the profit motive will lead to efficiency gains and cost savings, besides improving service delivery (Scott and Seth, 2013).
+_______________________
+Authors’ Note: We acknowledge research assistance provided by Mr Saud Abdullah (MPhil Economics and Finance Scholar, PIDE).
+
+Box 1: Why Privatise Distribution Utilities?
+(i) To expand distribution capacity through increased investments;
+(ii) To improve operational and financial performance of distribution systems, which is operating poorly under state ownership; and above all
+(iii) To minimise public sector budgetary constraints and expand revenues by divesting state owned (distribution) companies.
+
+PRIVATISATION EXPERIENCE IN ELECTRICITY UTILITIES
+
+Privatisation of electricity utilities was one of the components of energy reforms of the 1980s and early 1990s. The origin of this reform effort can be traced back to 1937 in the ‘Wealth of Nations” by Adam Smith, then later by Milton Friedman in 1955. Yet, private sector control of electricity distribution was not common before energy sector reforms of the late 1980s and early 1990s, even in developed countries. After these reforms, many developing countries like developed countries also opened their electricity utilities to the private sector. In most cases, it was for expanding generation capacities. Privatisation of state-owned utilities was an effort towards a free-market economy.
+
+Under energy reform programmes, several countries in Latin America and the Caribbean, Europe, Asia, and Sub-Saharan Africa attracted private capital to the power distribution sector as well. The speed of private participation in electricity distribution dropped after 2000. Exceptions were Brazil, Bulgaria, India, Russia and Turkey, private transactions in these countries account for about 60 percent (Vlahinić-Dizdarević, 2011; ESMAP, 2015; Pudney, 2018 and Foster and Rana, 2019).
+
+In early reforming developing countries, the most successful (privatisation of distribution companies) were only middle-income countries with large urban centres. These countries had stable governments and political motivation to get rid of a system of subsidised tariffs at the time of the privatisation decision. Above all, successful privatisation in these countries was due to a competent regulatory framework in the electricity sector. In other countries or cases, private participation/ privatisation in distribution utilities had remained challenging. Most of the documented cancellations took place after almost five years; either through re-nationalisation by the government or by private operators—who dissatisfied with contractual conditions left willingly (Izaguirre, 1998; Victor, et al. 2015; Alkhuzam, et al. 2018 and Foster and Rana, 2019).
+
+Box 2. Privatisation Failure—Examples
+Ukraine successfully privatised its five distribution companies in 1998. However, the privatisation of six more distribution companies between 2001 and 2004 faced corruption allegations. The lack of effective regulatory frameworks and governance structures did not allow the sector to solve its critical issues. Consequently, the privatisation process ceased.
+In Sub-Saharan Africa, about 30 percent of the contracts get cancelled (i.e., reversed back to the state control).
+In absolute terms, maximum cancellations (almost half of the total cancellations) took place in Latin America. The Dominican Republic was one of the first countries to renationalise two distribution utilities in 2003. Other countries followed.
+In terms of total transactions, in Latin America, only 2 percent of regional transactions got cancelled or reversed. Whereas, in Sub-Saharan Africa, cancellation affected only 7 cases, 22 percent of transactions in the region.
+Europe and Central Asia also witnessed a few cancellations of privatised distribution utilities.
+Indian privatised distribution company in the state of Odisha also faced difficulties and was renationalised.
+
+Source: Foster and Rana (2019) & Hall, et al. (2005).
+
+PRIVATISATION CHALLENGES
+
+Preference for Large Urban Centres
+
+Evidence suggests privatisation of only selected areas and not the entire distribution sector. Even among the middle-income countries (opting for privatisation), very few privatised all their distribution companies. The private utilities provide services to large commercial centres, and the rest of the country is served by state-owned distribution utilities. For instance, the Philippines has privatised its urban distribution utilities, whereas cooperatives are providing electricity in rural areas (ESMAP, 2015). In Colombia, the strong municipal presence in the electricity sector led to a hybrid approach—where only a few urban distribution companies got privatised, while others remained under municipal control (Foster and Rana, 2019).
+
+The decision to privatise depends on the commercial feasibility of the service areas and the local political environment. The private sector preferred large cities with more commercial and industrial demand. By privatising revenue-generating urban areas rather than rural areas with more issues reflect the mendacity of governments in solving power sector issues (Etieyibo, 2011 and Srijan, 2009).[1]
+______________________
+[1]Cited from Victor, et al. 2015.
+
+Weak Legal and Institutional Environment
+
+Electricity distribution services by their nature demonstrate natural monopoly characteristics and feature significantly in the political and social discourse of governments across the globe. Privatisation of this utility is not an easy task, especially in developing countries, given their weak legal and institutional environments (Gassner, et al. 2009). Similarly, political interference, lack of transparent decisions and corruption prevalent in developing countries do not allow the power reforms to succeed. The motive behind privatisation is important (Victor, et al. 2015).
+
+In a privatised monopoly, transparency is also an issue. In a public company, it is easier to oversee the operations of a public asset via numerous regulations under which public agencies operate. After privatisation, this transparency in operations reduces (Schoenberg, 2006).
+
+Over-staffing in State-owned Utilities
+
+In developing countries overstaffing in distribution companies is prevalent. It’s easier for the privatised utility to target employees rather than improving bill collection or distribution losses. Downsizing cut costs quickly without enormous investments. Therefore, from employee’s perspective, privatisation is not a popular decision (Abbasi, 2012).
+
+Evidence also suggests that the cost of over-staffing is less than other inefficiencies in the distribution systems of the developing countries. In Sub-Saharan Africa, overstaffing costs represented only 10 percent of the hidden costs of inefficiency, compared to 40 percent due to pricing challenges, 30 percent due to transmission & distribution losses, and 20 percent due to low recovery rates. Similarly, in the Middle East and North Africa region, excess staff accounted for only 5 percent of the hidden costs of inefficiency in the sector.
+
+Weak Regulatory Environment
+
+From a consumer’s perspective, privatisation involves higher (tariffs), with hardly any improvement in service delivery (Foster and Rana, 2019). To expand the network, i.e., increase the number of consumers, and improve service delivery, is not in the interest of private operators as it involves risk. To ensure such investments generally requires reliability targets fortified by a robust regulatory framework (Foster and Rana, 2019). Otherwise, the focus of private distribution utilities will only be to reduce costs through downsizing and increasing profits through tariff hikes (Pudney, 2018 and Foster and Rana, 2019).
+
+Privatisation of the electricity distribution sector tends to make a winner or loser among the relevant stakeholders. For balance, an effective and efficient regulatory setup is compulsory. Which, in most developing countries, is missing. The post-privatisation monitoring (regulatory) mechanism has remained weak in Pakistan. The evidence from past privatisations, not only in the power sector but in general, revealed violations of sale agreements by buyers. Privatisation has worked against the public interest (Tahir, 2014).
+
+A well-informed regulatory framework is a key to improving utility’s efficiency. In particular, when the privatised operator is working in a monopoly environment. In the electricity sector, a proper regulatory framework and contract enforcement are necessary; for a company to abide by its commitments (Berthélemy, et al. 2004). In Pakistan, like most developing countries, weaknesses in the regulatory processes in the electricity sector is compromising the efficiency of both private and state-owned distribution utilities.
+
+Importance of Contract
+
+A contract is significant in any privatisation process. The contractual terms define which assets, rights, and limitations to be transferred to the buyer and under what conditions. The clauses related to the quality of service, revenue or cost-sharing, penalties if one party does not live up to these clauses; must be outlined in the contract. The possible implications and remedial measures should be a part of these contracts (Schoenberg, 2006).
+
+For electricity distribution companies, explicit contractual terms are needed to guarantee that private operators invest in the distribution infrastructure. Otherwise, their focus would be on profit enhancement through cost reduction. The objective of cost reduction does not require hefty investments compared to investments for infrastructure expansion and up-gradation for improving service reliability (Foster and Rana, 2019). The privatisation contracts require expertise, which may not exist in bureaucratic circles. Consequently, bureaucracy may end up in a wrong decision and sometimes reversal.
+
+Managerial Expertise
+
+The managerial experience of the bidder and its professional know-how of the company he is buying is significant for the transactions to be successful. In developing countries, often this factor is ignored. The highest bidder, irrespective of its managerial capacity and professional knowledge, ends up signing the contract. For instance, in Pakistan, in the engineering units privatised in the past, the buyers did not have the requisite managerial and professional experience. These engineering units were nationalised precisely for this lack of capacity. The highest bidder is not necessarily the best manager (Tahir, 2014).
+
+Privatisation for the Sake of Privatisation
+
+The lesson drawn from the privatisation experience in the last three decades is (not only in electricity utilities but in other sectors), to privatise for the sake of privatisation, without a due thought process, can lead to a disaster. The chances of failure in public and private companies are the same (Tahir, 2014). In a survey of studies, Alkhuzam, et al. (2018) find no significant evidence supporting private ownership of electricity distribution. There is evidence for an increase in profitability after privatisation, but no substantial evidence suggesting any efficiency gains, improvement in service quality, or tariff reduction.
+
+The public sector has a social responsibility, while the aim for the private operator is to maximise profit. Society at large is an ultimate loser if both performs carelessly (Tahir, 2014). Service efficiency and reduction in tariffs for consumers can be ensured, only through competition. Privatisation of a utility (monopoly) does not guarantee competition (Schoenberg, 2006).
+
+PRIVATISING ELECTRICITY DISTRIBUTION IN PAKISTAN
+
+The power sector in Pakistan traditionally was owned by two vertically integrated utilities—Water and Power Development Authority (WAPDA) and Karachi Electric Supply Corporation (KESC). The Government of Pakistan (GOP) prepared the strategic plan for restructuring the electricity sector to improve efficiency, service, and quality in 1992. The GOP unbundled WAPDA’s vertically integrated Power Wing into separate generation, transmission, and distribution companies in 1998. The result was eight separate distribution companies called DISCOs (which later increased to ten). KESC remained vertically integrated.
+
+In December 2005, the GOP privatised KESC and sold 73 percent of its shares to Hassan Associates, Saudi Al-Jomaih Group of Companies and Kuwait’s NIG; and charged a fee of US$ 264.90 million. The conglomerate guaranteed better services via professional management, new investment, technology, and employment benefits (Abbasi, 2012).
+
+The privatisation of KESC (now K-Electric) was the first in a broader privatisation programme for all distribution utilities. But the plan was later shelved because of the poor performance of K-Electric even after privatisation. In 2013, the privatisation of DISCOs again came under discussion as a solution to generate efficiency in the distribution sector. Privatisation of DISCOs was one of the main elements in the Circular Debt Mapping Plan 2015. The plan was to use the revenue generated through privatisation, for clearing circular debt. But again, the plan was shelved.
+
+Now again, the incumbent government is all set to start the process of DISCOs privatisation. New boards have been appointed. As per the information available on the website of the Privatisation Commission, all state-owned distribution companies, irrespective of their financial and commercial performance, excluding TESCO, are the potential candidates for privatisation.
+
+Privatisation of K-Electric
+
+K-Electric (KE) is a large, vertically integrated utility that serves the commercial and industrial hub of the country, that is, Karachi. For KE, it was the year FY1996 when the situation worsened considerably. Net profit margin turns negative (–2.87 percent). After that, KE started facing a net loss continually. The decision to privatise KE in 2005 was unwelcomed politically. The military government at that time bypassed routine procedures. Privatisation of K-El was viewed as illegal in political circles and got challenged in the courts (Foster and Rana, 2019).
+
+The major problems faced by KE before privatisation were its poor financial management, governance structure, and operational and commercial inefficiency. However, even after privatisation, the situation remained unsatisfactory (Malik, et al. 2009). In Karachi, unannounced load-shedding, frequent power breakdowns (with no one to register, respond or resolve the complaints) with tariff hikes; created severe discontentment among consumers.
+
+KE was re-sold in 2009. After the change in management, the situation, in terms of commercial and operational efficiency, started improving. Meanwhile, the average tariffs have increased by more than 200 percent between FY2009 and FY2021. Its staff, who tried to collect outstanding bills or check on power theft, faced violence in several Karachi neighbourhoods’ (Malik and Khawaja, 2021) apart from public protests. Even sixteen years later, the privatisation of K-Electric remains an issue under discussion.
+
+As of now, the utility has improved its performance partially in terms of service delivery. However, the utility is facing constraints in capital investments due to regulated tariffs, despite being privatised (Malik and Khawaja, 2021). From the consumer perspective, electricity tariff is high in KE areas compared to service improvement. At the same time, it is important to point out that the urban environment in which KE is working is not resilient to allow resilient electricity services to its consumers (Malik and Khawaja, 2021).
+
+In addition to contractual obligations, it is the job of the regulatory authority to set and enforce reliability targets and allow for tariff-based compensation accordingly to the privatised electricity distribution company. Perhaps, these are the missing links in the case of Karachi KE.
+
+DISCO Challenges
+
+As far as operational and commercial efficiency is concerned, KE and DISCOs are close. In fact, some of the DISCOs are more efficient commercially and operationally than KE (Malik, 2020). According to Zhang (2019), the disparity in the operational and commercial efficiency among DISCOs in Pakistan could be due to differences in their managerial capacity. DISCOs lack technical and managerial skills to operate independently. They also are not allowed to do so. The structure of these companies based on corporate governance principles has not been established in a true sense. Decisions about finance, employment and pricing are not without government (political) intervention (Malik, 2021).
+
+The challenges faced by DISCOs are enormous, which their privatisation may not resolve. But unfortunately, policy-makers at the behest of donor organisations are all for the privatisation of DISCOs without realising ground realities and their repercussions. PIDE’s research on urban resilience and its impact on electricity services have highlighted the importance of the urban environment under which electricity utility (private or public owned) operates. Socio-economic dynamics of the city, city governance and politics, and environment, all play a role in the (private or public) utility’s efficient performance (Malik and Khawaja, 2021). Single solution cannot be applied across the board.
+
+City dynamics could be one of the reasons that better corporate governance in KE[2] has not translated into its improved performance. Some of the DISCOs, e.g., those operating in Islamabad, Faisalabad, and Gujranwala, are performing better than KE. If corporate governance in these DISCOs improve, they would be far better than any privatised utility.
+
+CONCLUSION
+
+The experience across countries suggests that it’s not the ownership that matter but better management and good corporate governance. Meanwhile, the management performs best in the presence of an effective regulatory framework with incentives/ penalties, and supportive city dynamics and governance systems.
+
+For improving the electricity distribution sector in Pakistan, the focus now should shift from the question of ownership—private or public. Privatisation may have some benefits, like better corporate governance leading to improved financial performance. But there are costs too. The privatised utility chooses the easy path of downsizing its employees to minimise costs; instead of investing in infrastructure to improve operational efficiency and better service delivery. Above all, successful privatisation demands the technical and financial capacity to make a privatisation contract. Past privatisation experience in Pakistan suggests the incapacity of our bureaucracy in making a business agreement and its implementation.
+
+Tahir (2014) explored an overall privatisation experience from 1988 to 2014. He finds mixed results on privatisation decisions in the study period. Quite of few privatisation contracts were challenged in courts. Lack of transparency in these decisions also raised questions. Besides, the author noted that contrary to what was expected, public resources from loss-making SOEs privatised did not lead to an increase in development expenditure in the social sector. Nor there was any reduction in public debt. “In addition to economic and social costs, there are important political costs associated with the privatisation programmes. The mantra of the autonomy of the state from the elites was a mirage. Effectively, it meant relative autonomy from the interests of workers and ordinary consumers. Economic policy-making continued to be a matter of rent-seeking between contending interests. In this context, privatisation was privatisation of state assets for the private parties by the private parties” (Tahir, 2014, p. 20).
+
+It’s the competition that leads to efficiency. Privatisation of a monopoly does not necessarily promote efficiency and competition. Therefore, the myopic focus on privatisation of DISCOs as the ultimate solution to distribution ills should give way to improving its management by appointing independent boards and professional managers. Focus on strengthening the corporate governance—managerial practices of state-owned distribution companies, targeting financial discipline (Malik, 2021). As Tahir (2014) has cited Stiglitz “the theoretical case for privatisation is at best weak or non-existent.”
+
+The future strategy for each state-owned company needs to be thoroughly grounded in the political, economic, social, environmental, and urban governance realities of its service area . The same strategy cannot be applied to every distribution company, as each is working in a different environment. Secondly, for better administration of these companies, it is better to divide them into smaller units. Private sector participation in distribution can be considered only when enabling conditions are met, and after a debate policy debate with all the stakeholders for political acceptance of the decision.
+
+Not only in the backdrop of privatisation failures but a technological advancement in industrialised countries is leading to a change in policy direction. Returning energy infrastructure assets into public ownership back is part of a movement of consumer empowerment in electricity services in developed countries. For instance, in Germany between 2007 and 2015, 234 municipalities withdrew concessions of electricity and gas networks from their previously private operators.[3] In Pakistan, we are still finding solutions in privatisations of public assets.
+_____________________
+[2] Bacon (2019) finds better corporate governance in K-Electric as compared to other distribution companies.
+[3] https://www.renewableenergyworld.com/baseload/the-failure-of-privatisation-in-the-energy-sector-and-why-todays-consumers-are-reclaiming-power/#gref
+
+REFERENCES
+
+Abbasi, A. H. (2012). Pakistan power sector outlook: Appraisal of KESC in post privatisation period . Sustainable Development Policy Institute (SDPI), Pakistan.
+Alkhuzam, A. F., Arlet, J., & Rocha, S. L. (2018). Private versus public electricity distribution utilities: Are outcome different for end-users? Retrieved from https://blogs.worldbank.org/developmenttalk/private-versus-public-electricity-distribution-utilities-are-outcomes-different-end-users
+ESMAP (2015). Private sector participation in electricity transmission and distribution: Experiences from Brazil, Peru, the Philippines, and Turkey. Energy Sector Management Assistance Program, The World Bank, Washington DC. (ESMAP Knowledge Series 023/15).
+Estrin, S. & Pelletier, A. (2018). Privatisation in developing countries: What are the lessons of recent experience? Research Observer , 33 (1), 65–102.
+Foster, V. & Rana, A. (2019). Rethinking power sector reform in the developing world. The World Bank, Washington DC. (Sustainable Infrastructure Series).
+Gassner, K., Popov, A., & Pushak, N. (2009). Does private sector participation improve performance in electricity and water distribution? Public-Private Infrastructure Advisory Facility, The World Bank, Washington DC. (Trends and Policy Options No. 6).
+Gómez-Ibáñez, J. (2007). Alternatives to infrastructure privatisation revisited: Public enterprise reform from the 1960s to the 1980s. The World Bank, Washington DC. (Policy Research Working Paper No. 4391).
+Gunay, G. Y. (2016). The test of corporate governance system in electricity utilities industry. Journal of Management and Sustainability , 6 (1), 132–140.
+Irwin, T. & Yamamoto, C. (2004). Some options for improving the governance of state-owned electricity utilities. The World Bank, Washington DC. (Energy and Mining Sector Board Discussion Paper Series No. 11).
+Izaguirre, A. K. (1998). Private participation in the electricity sector—Recent trends. The World Bank Group for Finance, Private Sector and the Infrastructure Network, The World Bank, Washington DC. (Public Policy for the Private Sector, Note No. 154).
+Malik, A. & Khawaja, I. (2021). Urban resilience and its impact on electricity provision in Karachi, Islamabad and Peshawar. Pakistan Institute of Development Economics (PIDE), Islamabad. (PIDE Urban Monograph Series).
+Malik, A. (2020). Circular debt: An unfortunate misnomer. Pakistan Institute of Development Economics, Islamabad. (PIDE Working Paper Series 2020:20).
+Malik, A. (2021). Corporate governance in the state-owned electricity distribution companies. Pakistan Institute of Development Economics, Islamabad. (PIDE Knowledge Brief, 2021:40).
+Malik, A., Mahmood, M. A., & Ahmad, A. (2009). Power sector reforms in Pakistan: A critical review. Middle East Business and Economic Review , 21 (2), 1–29.
+Pardina, M. R. & Schiro, J. (2018). Taking stock of economic regulation of power utilities in developing countries: A literature review. The World Bank, Washington DC. (Policy Research Working Paper 8461).
+Pudney, D. (2018). Benefits of privatising the electricity distribution sector. Retrieved from https://www.ee.co.za/article/privatisation-of-electricity-utilities-can-improve-financial-viability-customer-service.html
+Schoenberg, J. M. (2006). Government privatisation: History, examples, and issues. Available at https://cgfa.ilga.gov/Upload/2006Gov_Privatization_Rprt.pdf
+Scott, A. & Seth, P. (2013). The political economy of electricity distribution in developing countries: A review of the literature. Retrieved from https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/8332.pdf
+Tahir, P. (2014). Economic and social consequences of privatisation in Pakistan. Economy of tomorrow, Friedrich Ebert Stiftung.
+Victor, O. E., Aziz, N. A., & Jaffar, A. R. (2015). Privatisation of electricity service delivery in developing nations: Issues and challenges. International Journal of Built, Environment and Sustainability , 2 (3), 202–210.
+Vlahinić-Dizdarević, N. (2011). The effects of privatisation in electricity sector: The case of southeast european countries. Retrieved from https://www.researchgate.net/publication/236121975_The_Effects_of_ Privatization_in_Electricity_Sector_The_Case_of_Southeast_European_Countries
+Zhang, F. (2019). In the Dark: How much Power Sector Distortion Costs South Asia? Washington, DC.: South Asia Development Forum, International Bank for Reconstruction and Development, The World Bank.

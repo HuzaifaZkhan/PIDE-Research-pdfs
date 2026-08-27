@@ -1,0 +1,119 @@
+The devastation caused by the recent floods in Pakistan is the result of poor management. Despite several warnings of an unusually high rainfall during the months of July and August, a lack of preparedness resulted in a huge catastrophe. The knowledge brief provides a snapshot of the extent of rainfall and subsequent floods, losses that occurred after the disaster and how the issue can be tackled in case of any such disaster in future. The major threats from the recent floods include the spectre of food insecurity of an already deprived population; loss of education and health; and an increase in social unrest due to more criminal activity. To tackle the issue in the future both structural and non-structural measures should be adopted. Structural measures are long-term development interventions while non-structural measures are based on short-term response to build community resilience. We are compelled to live with floods due to Pakistan’s topographic situation. Better management and adaptation strategies can help to minimise the losses in case of next floods.
+
+WHAT CAUSED THE FLOODS?
+
+The already fragile economy fighting inflation and political instability plunged in confronting the worst flood of its history, which testifies that climate change has become a menace for Pakistan. The year 2022 is quite an unusual for Pakistan as rainfall in most areas remained quite abnormal (Figure 1; ICIMOD, 2022)[1].
+
+During sizzling months of the heatwave people hoped for relief in terms of rain; the monsoon rains, when they did
+
+come, dumped almost 243 per cent more than the average, making it the wettest August since 1961. the rainfall in
+
+August was 37 per cent higher than average seasonal monsoon rainfall. Even at one point, it rained continuously for 72 hours[2]. Table 1 highlights the extent of rainfall received during August in different provinces of Pakistan and compares it with average rainfall figures.
+
+___________
+
+[1] ICIMOD, 2022, The 2022 Pakistan Floods: Assessment of crop Losses in Sindh Province using Satellite Data, https://lib.icimod.org/record/35984
+
+[2] https://news.climate.columbia.edu/2022/09/12/the-flood-seen-from-space-pakistans-apocalyptic-crisis/
+
+[3] PMD, 2022, Pakistan Metrological Department, Monthly weather report of August 2022
+
+___________
+
+Sindh and Baluchistan received the highest level of precipitation since 2020, with 590 and 726 percent extra rains, respectively. However, in the South Asian region, above-average rainfall was predicted from June to September 2022. This incessant rainfall in August resulted in Pakistan’s biggest riverine floods(Figure 2, ICIMOD, 2022)[4].
+
+___________
+
+[4] ICIMOD, The 2022 Pakistan Floods, Assessment of Crop Losses in Sindh Province using Satellite Data
+
+[5] Pakistan Meteorological Department, Pakistan’s monthly climate summary, August,2022
+
+___________
+
+The impact of climate change and resultant natural disasters is different across regions. In developed regions, its effect is less because of heavy investment in infrastructure. In developing regions generally, and specifically in the less developed countries near the equator, the impact is severe for two reasons; firstly, soil compaction, due to which water takes a long time to seep into the land, and this is what happened in the recent floods. Pakistan faced a long dry spell that took all the moisture from the soil, causing compaction, which is why flood water still stands in the lower parts of Sindh and Punjab. Secondly, communities are not much resilient to cope with the damages. Further measuring the damages of floods is another fundamental challenge for a developing country like Pakistan because rehabilitation costs are exponentially higher than the actual damages.
+
+The primary challenges that we face in short term are centered on relief and rescue: health, disease outbreak, accommodation for the millions displaced, drainage of water, and infrastructure, immediate housing demand, loss of education and loss of standing crops. Without immediate responses, the drag on economic productivity in subsequent years will put Sindh and Balochistan’s aected regions in severe poverty. The estimates indicate that 33 million people are affected. According to the National Disaster Management Authority (NDMA), 664,000 people are dislocated. They are compelled to reside in flood relief camps, while 87 percent are only in Sindh Province, indicating that the intensity of flood affects in Sindh Province is alarming. Figure 3 also confirms this fact most of the affected population belongs to the Sindh province (USAID, 2022)[6] .
+
+However, the severely flood-hit communities are more likely to fall into the small farmer categories, but they belong to the districts where the poverty indicators were already very high. Although it is claimed that most of these are subsistence farmers with little contribution to the overall economic activity, it’s multidimensional affects in terms of health, education and economic loss in the near future are hard to quantify. Infrastructure and connectivity loss are still the biggest hindrances in providing healthcare facilities to affected people. It is very alarming that almost 650,000 girls and pregnant women were among the flood victims, out of which 11 percent were due to deliver in September (UNFPA, 2022).
+
+POSTFLOOD ISSUES AND CHALLENGES
+
+Along with the immediate damages as a direct result of a disaster, the migration in search of safe living leads to urban sprawl (Boustan et al., 2012) because it is less likely that migrated population will return to their previous residences. Although people relocate to safer places, economic activity slows down, as it takes time to settle down and get economically active. The problem of increased congestion twins with a surge in criminal activity noticed after the floods of 2010 when cases of murder & homicide increased by 3.3 percent (World Bank, 2021)[7] higher than the usual pattern of crimes and the same is expected to happen after the floods of 2022.
+
+According to the Ministry of Foreign Affairs (MOFA), 2 million acre of cropland have been damaged, which has badly affected the supply chain of agriculture commodities, particularly for tomatoes and onions. This has increased the prices of these commodities exponentiall, and thus flood is considered one of the signicant source of food inflation. About 20 percent of wheat production comes from Sindh. Similarly, the province contributes 30% to Pakistan’s total cotton production, which has been badly affected due to flood—threatening the future export of textile from Pakistan. It is anticipated that if proper agronomic measures are not adopted, the land in Sindh will not be used for crop production within the next few months.
+
+Pakistan will need to import more food, which could raise costs and worsen the country’s balance of payments crisis. Before the floods, food inflation was at 26 percent; recently, some commodity prices have surged by as much as 500 percent. These high costs will be felt heavily in cities home to largely poor and working-class populations. They could exacerbate a public health challenge in the longer term stunting in children attributed to poor nutrition. According to an estimate by Food and Agriculture Organization, almost 40 percent of the flood-affected population in Baluchistan cannot access medicines and health care. Besides the supply chain, the cold chain is also severely disrupted, leading to low immunisation and disease outbreaks in the long run.
+
+After any disease outbreak and natural calamity, the number of the school dropouts and the number of out of school children increases. Childhood marriages, specially among girls from far-flung rural areas, also rise because once
+
+they are out of school, it becomes less likely that the family will send them back to school. According to provisional data from provincial Education Departments on children, dropout rates are the highest in Sindh (19,750) followed by Baluchistan (2,859), Punjab (2,158), and Khyber Pakhtunkhwa (420). In addition, at least 7,062 schools are being used as temporary shelters for people who have been displaced.
+
+_____________
+
+[6] USAID , 2022, United States Agency for International Development. Fact Sheet No. 1, Pakistan Floods. [https://reliefweb.int/report/pakistan/pakistan-floods-fact-sheet-1-fiscal-year-fy-2022]
+
+[7] https://www.macrotrends.net/countries/PAK/pakistan/murder-homicide-rate
+
+_____________
+
+WHAT IS THE WAY FORWARD?
+
+There are two preparatory measures to minimize the damages of floods
+
+Keep the floodwater away from communities through structural measures
+
+Keep communities away from floodwater through nonstructural measure
+
+Finances are a pre-requisite to make the system ready for any future disaster. Although not contributing much to global CO2 emissions, Pakistan is one of the biggest victim of climate change damages. Regarding climate reparation funds approved by the UN in which, high CO2 emitting countries owe a reparation fund to the global South. Although this can be a significant source of money to work on mitigation and adaptation strategies for the future, but the lack of trust in utilising these funds is one of the major concerns by the international communities.
+
+Firstly, to avail the reparations, internal political and economic instabilities need to be settled; secondly the setting up of a national fund utilization account in the form of disbursement linked indicators, where the ministry of foreign affairs can play a central role by close liaison with the Ministry of Climate Change and other relevant provincial departments. Taking the following structural and non-structural measures can help minimise flood effects in the future.
+
+STRUCTURAL MEASURES
+
+Better early warning systems are frequently claimed to reduce losses; however, inadequate backup equipment combined with a lack of proper hydrological network coverage at river basins limits forecast accuracy in developing countries. In the post-2010 food scenario, UNESCO developed the capacity of the Flood Forecasting Division of the Pakistan Meteorological Department (PMD) through technological improvement. The purpose of these early warning systems is to enhance the response time of communities and institutions to stimulate flood protective measures. Even if we consider that early warning systems have been installed with full utilization of the latest technology and they are working excellently, the reluctance at the community level is the biggest issue to tackle. No early warning system functions well without an effective flood response strategy, which history shows we do not possess. Therefore, it is essential to understand Pakistan’s climate scenario and establish more rainfall monitoring networks at district and tehsil levels to cover more communities. The current 100 stations of PMD are insufficient to cover the 540 tehsils of Pakistan, where rainfall patterns vary to a greater extent. Media campaigns must be launched with area-specific evacuation plans to communicate expected losses in case people refuse to relocate (this happens in most cases, as people are less likely to leave their residences). In flood-hit areas, early warning responses at the community level can be taught in school curriculums to minimise the losses in the event of the next hazard like this. Duplication of information provided by different departments also leads to mistrust at the community level. Therefore, the warning system must be highly centralized, and the responsible institute should play an active role to evacuating and shifting the people to safe places in the future. For this to happen, a district level online portal can be generated where existing players e.g. District, Provincial and National Disaster Management Authorities Non-Government Organisations and other civil society organisations can register themselves so that a central coordination mechanism can be developed to intervene more effectively.
+
+The water storage structures are required according to the topography of the area. For example, in Baluchistan, groundwater recharge techniques such as water banking should be adopted, as surface water storage cannot be utilised on long-term basis due to the province’s harsh and dry weather conditions. If the recent floodwater was flowing from Baluchistan to Sindh, it means that minimising the flow of water through the check/gabion structure could have been made earlier that would have led to increased groundwater absorption (seepage) by turning a curse into a blessing. Keeping it as a lesson in our policy making can lead to exploiting the potential of hill torrents in the future.
+
+The Public Sector Development Plan (PSDP) of 2021 reveals that even after 12 years, some development schemes are still being initiated to recover from the damage caused by the flood of 2010. Along with these recovery schemes, given the hydrology of Baluchistan province, a number of federally funded small dam projects were launched in the province[8]. There is a need to undertake satellite-based assessment of such schemes with respect to floodwater preservation and drought protection. Likewise, to improve water use efficiency in agriculture, there are similar projects in Sindh, Baluchistan and Punjab such as the Punjab Irrigated Agriculture Productivity Improvement Project (PIPIP), Sindh Irrigated Agriculture Productivity Enhancement Project (SIPEP), and Baluchistan Integrated Water Resource Management project. The evaluation of these projects is the need of the hour. Bangladesh is a success story in managing the risk of floods [9], as similar projects were launched in Bangladesh, such as Water Management Improvement Project and the Weather and Climate Services Regional Project.
+
+The Federal Flood Commission (FFC) has invested considerably in effective floodplain management plans. Still, such strategies never materialised due to a lack of ownership by provincial and local governments. The FFC prepares activated floodplain and flood inundation maps that are shared with provincial and local governments. Unfortunately, due to poor enforcement, such plans are rarely consulted while permitting new housing societies for urban expansion. The lack of compliance is also visible in recent events of urban flooding in major cities in Pakistan. A robust local government structure with better support from provincial and national governments is required.
+
+Pakistan is at nature’s disposal in terms of the impact of climate change and resultant floods. Instead of using schools as immediate shelters, special flood shelter homes must be constructed to avoid losses to the education sector. In this regard, Bangladesh has shelter homes specifically designed for disaster victims that serve as a benchmark to minimise the impacts of floods in terms of education for an already poor chunk of the population.
+
+___________
+
+[8] https://100dams.org/
+
+[9] https://www.economist.com/the-economist-explains/2022/06/23/how-does-bangladesh-cope-with-extreme-floods?
+
+___________
+
+NONSTRUCTURAL MEASURES
+
+A unified management of water resources is required. More than 15 institutes are dealing directly or indirectly with the floods, such as the National Disaster Management Authority (NDMA), Ministry of Climate Change, Federal Flood Commission, and Pakistan Commission for Indus Waters, along with Provincial Irrigation Departments, the Pakistan Army, and many relief and social protection departments, as well as several non-government and local organizations that provide relief after the floods. The inclusion of too many institutes also creates problems in decision-making. Any development activity to avoid floods and even relief activities after the flood also becomes slow due to the increased footprint of the institutions lacking coordination. Furthermore, it also leads to the duplication of activities and wastage of resources. Therefore, it is required to streamline the efforts under one umbrella at the local level using local knowledge and local experts with vertical integration in disaster governance. Historically civil society organisations have been proven to penetrate deeply into disaster-hit areas. Disaster management should be abottom-up approach with more organised local government structures with multi-sector collaborations at the federal level. But, this collaboration should be long-lasting and not be limited to immediate disaster relief.
+
+The affected businesses must receive grants and loans to revive Pakistan’s economy. Without financial support, these businesses are less likely to regain their existence as they bear significant income losses and damage to the local infrastructure. Although financial aid of Rs. 25,000 under the Flood Relief Cash Assistance through the Benazir Income Support Programme (BISP) is being provided to every flood-affected family in the flood-hit areas using the BISP database. Using this database will lead to the wastage of resources as the scope and eligibility of the cash transfer recipients have not been clearly defined. For this purpose, a targeted approach, scope and eligibility must be defined during the ex-ante studies related to flood risk management, and funds must be conditional cash transfers to revive the local businesses.
+
+In the short term, proper management and planning can turn the situation the other way around. Most of the rain fell on agricultural land across the country. Due to excessive rainfall in the preceding months, soils will hold enough moisture, permitting timely sowing and assuring healthy crop production[10]. However, educating farmers on the proper use of weedicides must avoid potential weed threats due to moisture availability. Proper tillage practices must be carried out (e.g., deep ploughing and Suhaaga) to retain moisture.
+
+CONCLUSION
+
+The floods of 2022 cannot be compared with the floods of 2010, as the primary reason for this flood was the unusual rainfall in non-catchment areas that is the result of prolonged dry periods before the floods as temperature and rainfall patterns are changing as a result of climate change. Quite interestingly, the recent floods have not raised the water level in our biggest water reservoirs, i.e., Tarbela and Mangla[11]. In addition to this, quite ironically, there will be a water shortage in the upcoming Rabi crop season, which makes it clear that despite continuous hazards in the past, we were not well prepared. Even the Disaster Response and Coordination Center was established belatedly on August 30th, 2022 (Bhutta et al., 2022)[12] .
+
+It was believed that Pakistan’s climate was ideally suited for agriculture due to four distinct seasons. However, the situation is not same now; the four seasons, once believed to be a blessing are now proving detrimental. Without proper adaptation strategies and to avail the reparations from the global north we need to improve our environmental governance. Short-run measures can be adopted to recover from the recent flooding, such as measuring actual flood damages as a first step, conditional cash transfers to the targeted populations to rehabilitate the most affected people and releasing soft credit to support the local small businesses. These measures can help to bring economic activities back to normal.
+
+In the long run, better early warning systems should be implemented with community engagement plans to avoid
+
+such damages. Early warning systems should be centralised to increase the general public’s trust.
+
+Local populations should be trained to conserve water in natural ways to utilise this water during dry spells. Disaster-resilient structures, such as checks in the way of hill torrents, should be constructed, and area-specific water conservation techniques should be adopted to address the future threat of water scarcity. The investment to improve the adaptation ability in communities and better departmental coordination will help minimise flood losses in the future.
+
+_____________
+
+[10] Pakistan Meteorological Department, Seasonal Outlook for November 2022-January, 2023.
+
+[11] https://d.pmd.gov.pk/maf-forecast
+
+[12] Bhutta, Z. A., Bhutta, S. Z., Raza, S., & Sheikh, A. T. (2022). Addressing the human costs and consequences of the Pakistan ood disaster. The Lancet, 400(10360), 1287-1289.
+
+_____________

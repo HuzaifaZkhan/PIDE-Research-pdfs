@@ -1,0 +1,149 @@
+In the realm of politics, manifestos serve as more than just documents; they embody a party’s vision, principles, and the commitments they make to the electorate. These comprehensive texts provide a roadmap, detailing the party’s vision, proposed solutions, and pledges to the people they aim to represent. They encompass core values, specific policy proposals, and promises to address crucial issues, from the economy to healthcare, foreign policy to social welfare. Manifestos also serve as a platform for critiquing the policies of rival parties, positioning themselves as viable alternatives (Britannica, 2023).
+
+In the ever-evolving landscape of Pakistani politics, manifestos hold paramount importance. They enable voters to assess whether a party’s proposed policies align with their values and interests. During elections, manifestos influence voting decisions, rallying the party’s base and attracting swing voters.
+
+At the Pakistan Institute of Development Economics (PIDE), we believe that manifestos in Pakistan should not merely be seen as political documents but as instruments of integrity and accountability (Moosvi, 2021). These documents transcend mere rhetoric; they represent a party’s vision for the nation’s future. A manifesto represents a binding commitment to specific courses of action upon election. Thus, they become a benchmark for evaluating the performance of the elected party, holding them accountable for their promises.
+
+This commitment to manifestos as instruments of accountability underscores the paramount importance of effective political communication in the post-election landscape. landscape (Koc-Michalska and Lilleker, 2017). For government parties, clear and persuasive communication articulates their policy agenda, explains decisions, and garners public support, intricately linked to manifesto promises. Opposition parties use adept communication to hold the government accountable, scrutinize its actions, and propose alternative solutions, aligning with their own manifestos.
+
+In this context, with its ability to reach a wide range of social groups, social media has revolutionized political communication in Pakistan (Iqbal et al., 2020). Social media has become a space for political debates, information sharing, and agenda-setting. Internet usage and social media usage have exponentially grown in Pakistan in the past few years. Particularly, Twitter[1], with its instantaneous communication capabilities, has become a favored platform by political figures, parties, and media outlets, for political discussions in Pakistan, allowing politicians to engage directly with constituents and share their views on various issues.Top of Form
+
+In this context, the intersection of manifestos and social media, particularly Twitter, presents a unique opportunity to examine whether political parties uphold their manifesto commitments in the digital age. It allows us to explore whether manifestos, which are essentially promises made before elections, hold meaning beyond securing votes or whether parties genuinely commit to these guiding documents for governance or, in the opposition’s case, for holding the government accountable for flawed policy priorities and socioeconomic issues concerning the welfare and progress of Pakistan. Thus, our analysis provides a deeper understanding of how political parties communicate their policy priorities and whether they use social media as a tool to engage with the electorate on substantive issues or primarily for political posturing.
+
+___________
+
+[1] The social media platform, X was previously known as Twitter, and will be referred as such throughout the document.
+
+___________
+
+Manifestos of Mainstream Pakistani Parties
+
+Before scrutinizing the alignment between election manifestos and the online discourse of the three mainstream political parties, it’s essential to lay the groundwork by examining the policy positions articulated in their 2018 manifestos. The table below shows a condensed elucidation of the policy positions as espoused in manifestos of the PML-N, PPP and PTI, which were the top 3 best performers in the 2018 parliamentary elections in Pakistan.
+
+Manifestos of Mainstream Parties in Pakistan
+
+Position
+PML-N
+PPP
+PTI
+
+Economic Policy
+Emphasis on economic growth via investment in infrastructure and business-friendly policies; promises to reduce taxes and regulations
+Emphasis on Progressive taxation and redistribution of wealth; increase government spending on social programs
+Emphasis on privatization and deregulation; job creation and investment in infrastructure
+
+Foreign Policy
+Supports strong ties with China and other regional powers; emphasizes national sovereignty
+Emphasis on regional stability and human rights; peaceful resolution of conflicts with India and Afghanistan
+Focus on regional stability and cooperation; skepticism toward India and the US
+
+Social Welfare
+Promises to increase funding for social welfare programs
+Pledges to increase funding for social welfare programs
+Promises to increase social safety net programs
+
+Education
+Prioritizes education reform, especially funding and training of teachers
+Emphasizes education reform, including increased funding and teacher training
+Prioritizes education reform, including increased funding and teacher training
+
+Healthcare
+Emphasis on improving healthcare infrastructure and increasing access to medical facilities
+Promises to increase funding for healthcare and expand access to medical facilities
+Emphasis on preventive care and public health initiatives
+
+Governance & Corruption
+Promises to minimize bureaucratic hurdles and increase government transparency; strengthen anti-corruption measures
+Promises to improve government transparency and accountability; strengthen anti-corruption measures
+Emphasis on government transparency and anti-corruption measures; strengthen local government institutions
+
+Security & Defence
+Emphasis on national security and defence; raise military spending
+Emphasis on peaceful resolution of conflicts and regional stability; reduce military spending
+Promises to prioritize national security and counterterrorism; increase military spending
+
+Environment and Energy
+Investment in energy infrastructure; address environmental degradation
+Promises to address climate change and promote renewable energy; protect natural resources
+Emphasis on renewable energy and environmental protection; address air and water pollution
+
+Human Rights & Social Justice
+Pledges to protect civil liberties, minority rights, and gender equality; promote social justice
+Pledges to protect civil liberties, minority rights, and gender equality; promote social justice
+Pledges to protect civil liberties and minority rights; promote gender equality and social justice
+
+Manifesto Emphasis vs Twitter Discourse
+
+In recent years, social media platforms, especially Twitter, have gained substantial influence in news dissemination, surpassing traditional mainstream media. These platforms facilitate the free exchange of thoughts and experiences, bridging individuals with the global community. This shift is particularly noticeable in politics, where politicians now employ social media as essential communication tools to engage with constituents.
+
+For politicians in developing nations, the pressure to contribute to their countries’ progress is immense. Analysing their political tweets on platforms like Twitter provides valuable insights into their community involvement, concerns for the future, support for reforms, and policy formulation. (Enjolras, 2014).
+
+This trend raises questions about whether political discourse on Twitter aligns with the policy positions outlined in party manifestos. Do political parties use Twitter to discuss and promote the policy priorities they articulated in their manifestos, or does Twitter serve primarily as a platform for political manoeuvring and criticism of opponents?
+
+In this context, our analysis focuses on the three most prominent political parties in Pakistan in 2018. Among them, the Pakistan Tehreek-e-Insaf (PTI) held the reins of government, while the Pakistan Muslim League-Nawaz (PML-N) and the Pakistan People’s Party (PPP) were part of the opposition from 2018 to 2022. To delve deeper, we scrutinized the online communication of key figures within these parties, specifically, the Twitter accounts of Maryam Nawaz, Bilawal Bhutto-Zardari, and Prime Minister Imran Khan. Employing the LDA topic modelling method, we aim to uncover prevalent themes within each politician’s tweets and assess the alignment between their Twitter discourse against their manifesto commitments.
+
+Maryam Nawaz, PML-N (Pakistan Muslim League – Nawaz):
+
+Manifesto Emphasis: PML-N’s manifesto prior to the 2018 elections emphasized several key policy issues, including economic growth, greater investment, higher infrastructure development, and business-friendly reforms. However, when analysing their Twitter discourse from 2018 to 2022, the focus seems to shift significantly.
+
+Twitter discourse: During her time in opposition, Maryam Nawaz’s online discourse prominently mentions her father and family, using terms like “Mian Nawaz Sharif”, “Sharif” and “Mian Sahib” to underscore her family’s, specifically her father’s political legacy. Furthermore, there are frequent references to “Jail” and “Health” which indicate a preoccupation with her father’s health and both her and her father’s legal troubles during this period, including brief periods of imprisonment. References to “Allah,” “God,” “prayers,” and “Ameen” indicate reliance on religious sentiments, for the resolution of her family’s woes.
+
+Besides, Maryam tends to use a positive tone in her messages by frequently using words like “Thank”, “Bless”, and “Love”, to connect with her supporters. Lastly, the usage of terms such as “incompetent”, “fake”, and “government”, also denoted her focus on critiquing the government. While there are references to “people”, “country”, and “Pakistan” indicating some focus on the general concerns of the population, it just seems to be very superficial.
+
+Therefore, the analysis indicates a disconnect between PML-N’s online discourse and their pre-election manifesto promises. While the manifesto is focused on key policy issues such as business-friendly reforms, lower taxation, deregulation, national security, and other pressing issues for Pakistan, the online discourse is predominantly centred on personal and family matters. Rather than holding the government accountable for differences over substantial policy concerns and offering policy solutions to ailments of Pakistan, even the criticism of the ruling party was driven by ulterior motives and complaining about political victimization.
+
+Bilawal Bhutto-Zardari, PPP (Pakistan People’s Party):
+
+Manifesto Emphasis: The PPP’s manifesto prior to the 2018 elections outlined policy priorities related to improving economic equity, expansive social welfare programs, and enhancing regional stability. When assessing their Twitter discourse from 2018 to 2022, we can identify certain trends, which paint a largely disappointing picture.
+
+Twitter discourse: There are frequent mentions of “Pakistan” and “PPP” in Bilawal Bhutto-Zardari’s online discourse, referring to his role as a political leader whereas the frequent mention of “Sindh” highlights his regional focus, as the PPP has a strong presence there.
+
+Bilawal’s usage of terms like “Awami March”, “Political”, “workers”, and “opposition”, does indicate an emphasis on the political mobilization against the government. His discourse has a considerable focus on terms like “PM”, “PTI”, “government”, “selected” and “Imran,” suggesting a significant emphasis on criticism and opposition politics.
+
+Furthermore, recurrent mentions of “Benazir”, “Bhutto”, and “Zardari”, indicate his preoccupation with his family specifically his mother’s and grandfather’s political legacy.
+
+Mentions of “Democracy” and “Free”, show Bilawal’s concerns regarding governance and the preservation of democratic freedoms. Similarly, terms like “People,” “women” and “Rights” in Bilawal’s discourse, do align with PPP policy statements as envisaged in their manifesto related to human rights but lack discussion of concrete policies to safeguard them.
+
+Although comparatively better than Maryam Nawaz’s online discourse, Bilawal’s usage of Twitter is also considerably lacking in concrete policy discussion pertinent to socio-economic issues mentioned in PPP’s manifesto. There is little to no mention of peace, regional stability, social welfare, and economic equity which are fundamental features of the PPP’s platform. While alignment with a few policy priorities is evident, a substantial portion is dedicated either to hollow criticism and political point scoring or talking about his own political lineage plausibly to gain political mileage.
+
+Imran Khan, PTI (Pakistan Tehreek-e-Insaf):
+
+Manifesto Emphasis: PTI’s manifesto prior to the 2018 elections emphasized economic policies to spur job creation and privatization of state-owned companies, along with the strengthening of local governance, and fortifying national security. Examining their Twitter discourse from 2018 to 2022, we see a concerning trend emerge.
+
+Twitter discourse: Imran Khan’s online discourse primarily focuses on Pakistan, and its foreign policy, particularly vis-à-vis India. This can be contextualized by the fact that India led by the government of Prime Minister Modi’s government, revoked the autonomous status of Jammu and Kashmir in August 2019, ignoring its disputed status, as Pakistan legitimately sees Kashmir as an integral part of its territory.
+
+Thus, while the mention of “Kashmir”, “Kashmiris”, “India”, “Indian”, “state” and “Modi”, seems well warranted and also aligns with PTI’s manifesto, this isn’t accompanied by the explication of any concrete and efficacious policy response to India’s aggression. “International” and “world” are also largely used in relation to bringing the world’s attention to the Kashmir conflict.
+
+Frequent mentions of “Pakistan” and “people”, “nation”, and “government” demonstrate a degree of concern for the governance of Pakistan along with the well-being of the people.
+
+When there was mention of domestic issues affecting Pakistan, it was in the context of “family” and “families”, “Billion”, “country”, basically referring to the past regimes in Pakistan which had been led by the Sharif and Bhutto families and linking them with the economic malaise in Pakistan.
+
+This indicates a relatively poor alignment between Imran Khan’s online discourse and PTI’s pre-election manifesto promises. The excessive focus on bilateral foreign policy with India seems to overshadow discourse on other pertinent matters to Pakistan. Furthermore, fixation on the previous ruling families denotes a tendency to blame Pakistan’s problems on past leaders instead of deliberating over strategies to solve them. The online discourse thus mostly neglects discussion of the key policies such as job creation, empowering of local governments, and infrastructure investment as espoused in PTI’s manifesto.
+
+Conclusion
+
+In conclusion, the analysis of discourse by Pakistan’s major political parties from 2018 to 2022 reveals a disheartening trend of limited engagement with substantive issues outlined in their manifestos. Therefore, to varying degrees, all three do a poor job of reiterating and propagating most of their policy positions envisaged in their manifestos.
+
+Imran Khan’s discourse, focusing primarily on India and Kashmir, often overshadows other vital policy areas from his party’s manifesto. Bilawal Bhutto-Zardari’s discourse, representing the PPP’s priorities, touches upon Sindh and democratic freedoms but sidelines broader policy commitments. The PPP frequently delves into criticism of Imran Khan’s government and discussions about its political lineage. Maryam Nawaz, representing PML-N, predominantly centres her discourse around her father, Mian Nawaz Sharif, and personal critiques of Imran Khan’s government, leaving little room for comprehensive discussions of PML-N’s policy proposals.
+
+This trend underscores a missed opportunity for political leaders to address pressing issues facing Pakistan. Instead of delving into policy matters crucial for the nation’s development, opposition politicians often gravitated toward personal grievances, familial legacies, and superficial critiques of the government. Even when parties touch upon pertinent policy topics, such as PTI’s engagement with India over Kashmir or PPP’s discourse on democracy and the people, they fall short of providing concrete policy strategies, reforms, or potential solutions.
+
+Pakistan, like many developing nations, faces multifaceted challenges ranging from economic disparities to inadequate infrastructure to abysmal investment, tepid economic growth, poor taxation, high unemployment, and a broken education system along with a host of other problems. Consequently, the dearth of substantial discussion on policy matters in the online discourse of Pakistan’s major political parties reflects the warped priorities of our leaders and has the potential to exacerbate Pakistan’s socio-economic woes and turn Pakistan into a completely failed state.
+
+Therefore, the path to Pakistan’s progress and prosperity is contingent on political leaders prioritizing discussions of robust policy strategies and actionable plans that align with the pre-election promises made in their manifestoes. The time has come for political parties to rise above the noise of rhetoric and engage in substantive discussions that can lead Pakistan toward a brighter future.
+
+References
+
+Britannica. (2023). Manifesto | Definition, Examples, & Facts . https://www.britannica.com/topic/manifesto.
+
+Enjolras, B. (2014). How politicians use Twitter and does it matter? The case of Norwegian national politicians. Institute for Social research, Oslo . https://www. academia. edu/6202759/How_politicians_use_Twitter_and_does_it_matter_The_case_of_Norwegian_national_politicians.
+
+Iqbal, A., Perveen, K., & Waheed, S. (2020). Usage of Social Media by Leading Political Parties in General Election 2018 of Pakistan. Global Political Review, V (III), 32-43.
+
+Koc-Michalska, K. and Lilleker, D. (2017). Digital Politics: Mobilization, Engagement, and Participation. Political Communication, 34 (1), 1-5.
+
+Reform and Transform Education in Pakistan. (2023). Political Manifestos General Elections 2018 Pakistan . https://rtepakistan.org/political-manifestos-general-elections-2018-pakistan/[2].
+
+StatCounter. (2022). Social media stats Pakistan . https://gs.statcounter.com/social-media-stats/all/pakistan.
+
+Moosvi, A. (2021). Electoral Politics in Pakistan: Law, Parties, and the Need for Innovation . PIDE Knowledge Brief No. 45. https://pide.org.pk/research/electoral-politics-in-pakistan-law-parties-and-the-need-for-innovation/

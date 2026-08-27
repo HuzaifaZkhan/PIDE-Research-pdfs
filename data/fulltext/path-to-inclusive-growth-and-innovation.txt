@@ -1,0 +1,39 @@
+In a rapidly digitizing world, Information and Communication Technology (ICT) has emerged as transformative force, behind regional and global progress by fostering innovation, connectivity, and efficiency across various sectors.
+
+The growing importance of digital technologies and the emergence of the digital economy in the advancement of societies and economies has been broadly acknowledged. From the industrial revolution to the digital age, technology has consistently propelled social change (Nawaz, H., 2023).
+
+The United Nations’ Sustainable Development Goals emphasize the role of (ICT) in realizing universal identification, promoting efficient governance and enhancing financial inclusion, Likewise, a body of literature supports the idea that digital adoption influences economic growth (Arendt, 2015; Eberhard et al., 2015), efficiency (Bygstad & Hanseth, 2019), and job creation (Chege et al., 2020), healthcare opportunities (Haluza, D., & Jungwirth, D., 2015), social inclusion (UN, 2012), and enhances individuals’ capacity, mobility, accessibility, and affordability (Yang, Y., et al., 2013). In fact, advancements in digital adoption have influenced all facets of human life (Mitrovic, Z., et al., 2013).
+
+For developing nations, such as Pakistan, digital adoption, literacy, transformation and integration are indispensable for bridging the socioeconomic disparities, creating job opportunities for youth, and enhancing inclusive growth and development. With its transformative potential, ICT remains a key pillar in building a more connected, knowledgeable, and progressive Pakistan.
+
+However, despite its vast potential, in Pakistan, ICT adoption remains uneven across different segments of society. Our upcoming paper for the 38th AGM and Conference of PSDE, revels that in Pakistan, digital literacy remains alarmingly low at just 4.2%, digital usage is comparatively better at 20.1%, but not satisfactory and a majority 93% of individuals have not experienced ICT transformation.
+
+Additionally, the findings reveal gender divides in digital adoption, with male outperforming female in all matrices; with 27% of men use digital tools compared to 14% of women. Men also lead in digital literacy (4.3% vs. 2.3%) and transformation (10.1% vs. 3.4%). Region-wise, marginalized areas like Baluchistan and underprivileged communities experiencing lower ICT adoption rates
+
+Consequently, ICT Development Index (ITC 2017) ranked Pakistan at 148 out of 175 countries in the – the lowest among South Asian Association for Regional Cooperation (SAARC) countries.
+
+On the Digital Evolution Index, Pakistan was ranked 56th out of 60 countries. Furthermore, the state of internet accessibility in Pakistan is well below international standards and considerably lower than other regional countries. Pakistan has been ranked 90th out of 120 countries on the inclusive internet index.
+
+Our study reveals that in Pakistan’s ICT adaptation, literacy and transformation is shaped by demographic characteristics, socio-economic factors, and infrastructural access. Education is the key determinant, with higher educational level increasing the probability of ICT usage and literacy and literacy.
+
+Gender divide persist, as males are more likely to adopt ICT. Age is another important factor, with younger individual exhibiting greater ICT adoption compared to older age groups.
+
+On the socio-economic front, higher household earnings enhance ICT usage and literacy by enabling access to technology, although remittances do not show a significant effect on digital skill development. Access to ICT and internet at home significantly boosts all three aspects of ICT adoption, creating conducive environments for skill-building and digital engagement.
+
+Moreover, individuals living in urban areas and big cities benefit from better infrastructure, connectivity, and competitive environments, which collectively promote ICT transformation. On the supply side, ICT infrastructure at the stratum level plays a significant role in driving ICT adoption.
+
+Given the poor performance in ICT adaptation, literacy, and transformation, and the growing youth population, there is significant potential for positive change, and the good news is that the government is committed to harnessing the digital change, through the 5 Es framework, with a focus on the second pillar—E-Pakistan.
+
+The objective is to drive Pakistan into the digital era by ensuring universal access to affordable, reliable, and high-quality ICT services. The focus this initiative is on: Digital Infrastructure, which seeks to provide high-speed internet nationwide, especially in rural and underserved areas; Digital Skills, through initiatives like the DigiSkills programme to boost digital literacy and enhance employment opportunities; Digital Governance, aiming to streamline government services via e-governance platforms; Digital Innovation, fostering a culture of innovation to support startups and research and development; and Digital Inclusion, ensuring that marginalized groups, including women and people with disabilities, are not left behind in the digital revolution. These efforts demonstrate the government’s seriousness in addressing ICT barriers and creating new opportunities for all citizens, especially the youth, by unlocking the vast potential of the digital economy.
+
+Additionally, Pakistan Institute of Development Economics (PIDE) is leading the national conversation in this regard. Its upcoming 38thAnnual General Meeting (AGM) and Conference on “URAAN Pakistan” is bringing together policymakers, researchers, and development experts to explore solutions to pressing challenges, with a particular focus on economic growth and the integration of technology in various sectors of Pakistan.
+
+To sum up, digital adaptation is no longer a choice but it is a necessity for Pakistan’s future. If we are to create an inclusive, resilient, and competitive Pakistan, we must treat digital access as a fundamental right.
+
+The path forward lies in synergizing research insights, grassroots realities, and policy ambition. The Five-Es initiative is a bold start. Now is the time to operationalize it with urgency, equity, and evidence-based planning.
+
+Ajmal Kakar
+
+The writer is a Research Associate at the Pakistan Institute of Development Economics (PIDE). He can be reached via Email: ajmal.kakar@pide.org.pk
+
+Newpaper Link

@@ -1,0 +1,29 @@
+ABSTRACT
+
+This research work quantifies the changes in effective protection rates in Pakistan during the last decade, 2011-20, using various inputs and outputs. Based on its results, it supports a more flexible trade policy in Pakistan. Furthermore, it identifies the sectors with strong and weak long-run productive capacities and highlights the role of trade barriers in these industries. A key concern is the decreasing productive capacity of the textile and leather sectors, where the textile industry has the largest share in total exports from Pakistan. Hence, there is a dire need to invest more in research and development activities in such industries. Finally, the country needs to increase its range of export items and export destinations with more favourable terms of trade.
+
+1. INTRODUCTION *
+
+Free trade is a fundamental principle that allows businesses to sell their products internationally without being hindered by tariffs or other barriers to entry. However, import duties in Pakistan are used to generate income rather than as a trade policy tool. Since these tariffs can be implemented easier than direct taxes, the tax department relies heavily on import tariffs. The Ministry of Commerce & Textile (2019) states that the share of import tariffs in the total tax revenues is around 48 percent in Pakistan in contrast with exportdriven countries such as China (3.9 percent), Indonesia (2.6 percent), India (12.8 percent), Malaysia (1.6 percent), South Korea (3.2 percent), Turkey (2.4 percent) and Thailand (3.9 percent).
+
+High protection rates create an export bias by increasing domestic prices of sectoral value added relative to world prices (Shapiro, 2021). Producers gain mainly because their profit margins increase, however, at the expense of higher production costs and reduced export competitiveness in the international market. On the other hand, it adversely affects the real incomes of end users of expensive domestic products because high import tariffs translate into more inflation; Figure 1 shows a clear pattern between import tariffs and the inflation rate in Pakistan. The end consumers face welfare losses because of the purchase of expensive household goods and limited access to cheaper imports.
+
+The last decade indicates a slightly flexible trade policy in Pakistan. The applied simple mean tariff on all products in Pakistan decreased from 14.4 percent in 2011 to 11.7 percent in 2020, which is an 18 percent reduction in a decade (WDI). [1] This effort is consistent with the country’s National Tariff Policy (NTP), which emphasises the gradual elimination of tariffs on imported raw materials and intermediate products to provide small and medium enterprises (SMEs) economic access to primary raw materials. However, the simple mean tariff rates are ineffective in deriving a sound economic policy; sector-specific import tariffs can be more effective.
+
+Traditionally, governments levied a Nominal Protection Rate (NRP) on imported products. A higher NRP adversely affects the real income of final consumers, whereas producers gain positively since their profit margins rise, however, at the expense of the higher cost of production. This cost rises due to higher nominal tariff rates on different inputs, and the NRP cannot address this issue. Therefore, the Effective Rates of Protection (ERP) become more relevant. The ERP measures the level of protection granted to domestic producers against competing import commodities. This tool is widely employed by governments and various international organisations, including the World Bank (WB), the World Trade Organisation (WTO), and the Organisation for Economic Co-operation and Development (OECD). Governments employ this tool to regulate the level of protection for key domestic industries, whereas international organisations use this tool in trade negotiations (Elbehri and McDougal, 1998).
+
+Previously, Ul Haque and Siddiqui (2007) have worked on the ERP in Pakistan and emphasised the impact of the ERP on different industrial features, including labour intensity, revealing comparative and export orientation. However, the present study has a policy focus on other aspects, such as the role of flexible trade policy with major trading partners, how long-run productive capacity affects trade potential, and highlighting new export-oriented sectors.
+
+Hence, this study quantifies the changes in ERP in Pakistan during the last decade. To achieve its research objectives, it uses consistent Input-Output Tables (IOTs) developed by the Asian Development Bank (ADB, 2022). Besides, it employs the Global Trade Analysis Project (GTAP) research centre’s most recent multi-regional input-output tables for empirical analysis. The author of this study is the sole contributor of the Pakistan inputoutput tables to the GTAP research centre, Purdue University, USA. [2]
+
+The rest of the study is as follows: methodology and data are provided in the next Section 2, whereas Section 3 discusses Pakistan’s trade with its major trading partners. Section 4 elaborates on the model results, and Section 5 concludes this study and introduces a discussion.
+
+_________
+
+[1] https://data.worldbank.org/indicator/TM.TAX.MRCH.SM.AR.ZS?locations=PK
+
+[2] https://www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=5957
+
+_________
+
+For Full Text Download PDF

@@ -1,0 +1,33 @@
+INTRODUCTION
+
+In electric power systems, the financial health of the distribution sector is critical. A financially weak distribution company can weaken the flow of funds in the entire supply chain, and their operational limitations can lead to the wastage of energy resources. There is a shortfall between cash inflows and outflows in the power supply chain of Pakistan_ circular debt. In FY2020, more than 50 per cent of arrears were due to low bill recoveries and the difference between the allowed and actual distribution losses by NEPRA (Malik, 2020).
+
+Apart from sectoral policy issues, the power distribution sector challenges, that is, institutional weaknesses, centralised control (under the Ministry of Energy-Power Division) and weak corporate governance, are mainly responsible for the circular debt.
+
+STRUCTURE OF ELECTRICITY DISTRIBUTION SECTOR
+
+After the formal bifurcation of WAPDA in November 2007, eight separate
+
+distribution companies (DISCOs) (which later increased to ten) were established. KESC
+
+(now K-Electric (K-El)) remained vertically integrated; in December 2005, it was
+
+privatised_ the Government sold 73 per cent of its shares to a private conglomerate. These
+
+companies are distributing electricity to the end-consumers in their respective geographical
+
+areas as a monopoly.
+
+Issues in the Distribution Sector
+
+(a) Operational Efficiency
+
+In FY2021 almost a fifth of the electricity generated in the country was lost in the transmission and distribution (T&D) network (including K-Electric losses). There is an enormous variation in performance across state-owned distribution companies (Chart 1).
+
+On the other side, when a certain percentage of these losses are not accounted for in tariffs, it adds to the circular debt as it is not compensated by tariff differential subsidy. NEPRA is using this T&D target as a tool to improve the operational performance of distribution companies. However, this strategy is not working for most of the DISCOs. There is no penalty associated with utility mismanagement which leads to operational inefficiency.
+
+(b) Commercial Efficiency
+
+The revenue collection rates in distribution companies range from 40 percent in QESCO to 117 percent in IESCO in FY2021 (Chart 2). On average recovery percentage of all DISCOs was around 97 percent in FY 2021, despite more than 100 percent collection in IESCO, PESCO and GEPCO. With the same collection rate for other DISCOs, the average may not remain the same in the next year. For instance, bill recovery of 117 percent in IESCO is due to a one-time deposit of AJK arrears by the Government of Pakistan. Otherwise, the actual recovery in IESCO in FY2021 was roughly 89 percent.
+
+Generally, the distribution companies with high system losses also suffer from low recoveries of the billed amount. In other words, in geographical areas where there are more leakages via fraud (meter tampering), stealing (illegal connections), and billing irregularities; there is also less willingness to pay for the power consumed.

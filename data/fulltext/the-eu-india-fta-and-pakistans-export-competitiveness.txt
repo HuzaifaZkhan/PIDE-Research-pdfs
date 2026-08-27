@@ -1,0 +1,65 @@
+1. Introduction
+
+European market remains one of the top export destinations for South Asian economies. Countries like Pakistan benefit from preferential market access under the EU’s Generalized Scheme of Preferences Plus (GSP+). It helps to expand exports in labor-intensive sectors like textiles and apparel. However, the recent EU–India Free Trade Agreement (FTA) signed on 27 January 2026 represents a major shift in the competitive dynamic, with potential implications for Pakistan’s standing in the EU market (Ahmad, 2026).
+
+The deal was termed as the “Mother of All Agreements”. After ratification, it will eliminate tariffs on about 99.5 percent of Indian exports to the EU market. This will effectively reduce the 9 to12 percent tariff advantage which Pakistan was previously enjoying under the GSP+ scheme (Ahmed & Islam, 2026; Ahmad, 2026). The scheme allows duty-free access for approximately 66% of tariff lines, crucial for its textile sector (Ratna, 2026).
+
+The deal shows a shift from unilateral trade preferences toward competitive bilateral trade arrangements. Therefore, its economic effects are likely to emerge gradually through phased tariff reductions and increased regulatory certainty (Linscott, 2026). Similarly, it is anticipated that the short-term effects may appear modest; nevertheless, the implications could be significant in the long term. According to a recent PIDE study, India could potentially gain between US$ 16.7 to 26.5 billion in additional exports. As a result, Pakistan may face export losses due to trade diversion effects (Qadir & Masood, 2026).
+
+This brief discusses the potential implications of the EU–India FTA for Pakistan’s export competitiveness. Firstly, it compares the trade profiles of India and Pakistan in the EU market. Secondly, sectoral competitiveness is evaluated using trade indicators like RCA and TCI. Thirdly, it assessed the trade facilitation performance and logistics efficiency in India and Pakistan. Finally, the brief shows the broader structural constraints on competitiveness that are likely to affect export outcomes under the new trade regime.
+
+2. Pakistan vs India: Trade Footprint in the EU Market
+
+2.1. Trade Profile in the EU Market
+
+India’s and Pakistan’s export trajectories have diverged considerably in the EU market over the past two decades. India’s exports to the EU have increased from US$8.1 billion in 2001 to approximately $79 billion in 2024 (See Figure 1). The rise of $71 billion during this time period highlights India’s export and market diversification.
+
+Like India, Pakistan’s exports to the EU also increased 8 times. Its exports increased from US$1.9 billion to US$8.9 billion. Pakistan’s exports grew primarily after the introduction of GSP+ in 2014, which improved market access for its labor intensive exports.
+
+Figure 1 : EU Trade Profile: Pakistan vs India (2001–2024)
+
+Source: IMF, International Trade in Goods by Partner Country dataset
+
+Despite maintaining a trade surplus with the EU, Pakistan’s exports are largely concentrated in textiles and apparel. On the other hand, India’s exports are very diverse, including pharmaceuticals, chemicals, machinery and engineering products.
+
+2.1. Export Structure in the EU market
+
+In the market structure, India holds a strong presence across several textile segments of South Asian exports to Europe. Figure 2 compares Pakistan and India export shares in key product categories in the EU market.
+
+India holds approximately 8.5 percent of the EU market for cotton products, compared with Pakistan’s 14.0 percent. Similarly, in made-up textile articles, India’s share is about 5.2 percent of EU imports, while Pakistan’s share remains around 10.9 percent.
+
+With the implementation of the EU–India Free Trade Agreement (FTA), tariffs on most Indian exports to the EU will be eliminated. India’s competitive position in these sectors is expected to strengthen further and their exporters may expand their market share further ( Trembeczki & Harb, 2026 ) .
+
+Figure 2 : Export Share of Pakistan and India in the EU Market Source : Author’s calculations from ITC Trade Map data.
+
+The textile and apparel sector contributes 60 percent of Pakistan’s exports. The losses of GSP+ advantage (relative to India) will intensify competitive pressure on Pakistan, as the country’s exports to the EU are heavily concentrated in textiles and apparel, which India also exports. This highlights the importance of improving export diversification and value addition within the textile sector (shift from low-value to design, branding, and higher-value products) to sustain Pakistan’s position in the EU market.
+
+Figure 3 highlights that India’s export destinations are more diversified across the major global markets. Its export destinations include the United States, the United Arab Emirates, China and the European Union. This diversified market structure highlights a deeper integration into global trade networks.
+
+Figure 3 : Top Export Destinations (2024) of India vs Pakistan
+
+Source: IMF International Trade in Goods by Partner Country dataset
+
+On the other hand, Pakistan’s export destinations are very concentrated. The country relies on the US and the EU markets for its exports. Such reliance and concentration have increased its vulnerability to changes in EU trade policy. It reinforces the importance of improving diversification.
+
+Figure 4 : EU Imports from Pakistan and India
+
+Source: World Trade Organization
+
+Figure 4 shows that Pakistan maintains a strong presence in clothing and textile exports. However, India demonstrate greater diversification across various product categories . This diversification suggests their stronger integration into global manufacturing supply chains.
+
+Figure 5 : Pakistan and India’s Dependence on the EU by Product
+
+Source: Author’s calculations from ITC Trade Map data.
+
+The product-level export dependence on the European market shows huge structural differences between Pakistan and India ( Figure 5 ). Dependence indicates how much a country’s exports rely on a specific market, measured as a share of total exports. Pakistan depends on the European Union for its labor-intensive sectors like textiles and apparel. Below are some statistics for Pakistan’s dependence:
+
+Non-knitted apparel (HS 62): 49.3%
+
+Made-up textile articles (HS 63): 42.5%
+
+Knitted apparel (HS 61): 40.5%
+
+Similarly, Pakistan shows stronger EU dependence as compared to India in sectors like footwear (56.7 percent vs. 44.5 percent), beverages (32.4 percent vs. 6.3 percent), plastics (30.6 percent vs. 13.9 percent) and man-made staple fibers (38.8% vs. 11.8%), highlighting the EU’s importance as an export destination for Pakistan.
+
+India’s low dependence on the EU reflects a more diversified export market. There are certain sectors where India’s dependence on the EU is higher than Pakistan’s. It includes leather articles, furniture and optical and medical instruments. The above discussion indicates that the EU–India FTA could intensify competitive pressures on Pakistan’s top exports.

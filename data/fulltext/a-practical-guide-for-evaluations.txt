@@ -1,0 +1,157 @@
+Raja Rafi Ullah [1] , Research Fellow PIDE
+
+1. Introduction – Why Evaluate?
+
+Periodic evaluations of programs are central to helping managers and policymakers make evidence-based policy decisions. This is true irrespective of the sector that these managers might be operating within.
+
+Development programs are specifically designed to achieve any set number of public policy outcomes i.e. increasing incomes, increasing health wellbeing, increasing women’s participation in the workforce, etc.[2] It is of critical importance to evaluate these development programs particularly since they are mostly funded through public money.
+
+2. Defining The Concept of Evaluation
+
+“Evaluations are periodic, objective assessments of a planned, ongoing, or completed project, program, or policy.”[3]
+
+It is important to distinguish between monitoring and evaluation . While these two terms are often used together both are conceptually distinct in terms of their scope and objectives.
+
+Monitoring – This is a continuous process and helps track the project/program throughout the implementation process. This includes tracking inputs, activities, and outputs with a keen eye on their costs and their immediate benefits.
+
+Evaluation – These are undertaken at discrete points before, during, or at the end of a project/program. They can rely on data collected during monitoring in addition to a new collection of data and track progress made against project/program objectives. Most often these are undertaken by third parties who are experts on the subject matter related to the project/program. Their “design, method, and cost vary substantially depending on the type of question the evaluation is trying to answer.”[4]
+
+Box 1: Evaluation vs. Monitoring
+
+While these two terms are often used together both are conceptually distinct in terms of their scope and objectives.
+
+Evaluations – These are periodic, objective assessments of a planned, ongoing, or completed project, program, or policy.
+
+Monitoring – This is a continuous process and helps track project/program throughout the implementation process.
+
+_________
+
+[1] The author would like to express their gratitude to Dr. Nadeem Ul Haque for his guidance, advice and suggestions that led to this publication.
+
+[2] Gertler et al., Impact Evaluation in Practice, The World Bank pg. 3
+
+[3] Ibid. Pg. 7
+
+[4] Ibid.
+
+_________
+
+3. Types of Evaluations[5]
+
+There are several types of evaluation with each serving its own distinctive purpose given the evaluation needs and structure of the project/program. The main types of evaluation are summarized in the section below.
+
+________
+
+[5] Types of Evaluation, Center for Disease Control & Prevention
+
+________
+
+Formative Evaluation/Need Assessment – This type of evaluation (often called assessment) is undertaken at the start of a project, program, or policy intervention to gauge the “feasibility, appropriateness, and acceptability”.[6] It can also be undertaken when a project/program is being radically changed to incorporate new objectives and goals.
+
+Process Evaluation – This type of evaluation is undertaken during the life cycle of the project/program to establish whether the project/program activities are being carried out per the needs and objectives defined at the start. This often involves tracking any set of outputs that have materialized through the processes and activities that have taken place. All properly defined projects/programs have set protocols defined at the start, and it is through process evaluation, that one tracks whether these processes have been followed.
+
+Outcome Evaluation – This type of evaluation is typically carried out either at the end of the project/program or when enough time has lapsed for the intervention to affect the target population in addition to tangible outputs. The goal of outcome evaluations is to identify key indicators that are indicative of the effect of the project/program for each of the objectives that were defined at the start. (See Box 2)
+
+Box 2: Objective-Output-Outcome Cycle
+
+Project Objective: Improve healthcare service delivery through setting up Primary Healthcare Units (PHUs) in a District.
+
+Project Output: A set number of PHUs set up in the District.
+
+Project Outcome: Improved healthcare service delivery in the District.
+
+Impact Evaluation – This type of evaluation is typically undertaken after a project, program, or policy intervention has ended and enough time has lapsed for it to make a difference in key observable indicators for each of the project/program objectives. What distinguishes an impact evaluation from other forms of evaluation is that it attempts to establish cause and effect relationships[7]. Impact evaluations that rely on randomized control trials (RCTs) involve dividing beneficiaries at random into control and treatment groups, which is often only possible at the start of the program. In cases where this experimental design is not accounted for from the start, various quasi-experimental econometric methods can be applied to estimate causal relationships (hence project/program effectiveness), with these methods varying based on the natural and contextual constraints of the interventions.
+
+________
+
+[6] Ibid.
+
+[7] Impact Evaluation, Better Evaluation
+
+[8] Types of Evaluation, Center for Disease Control & Prevention
+
+________
+
+4. A Through Yet Flexible Approach to Evaluation
+
+Impact evaluations using experimental and/or quasi-experimental methods are often touted as the best means to perform evaluations that have clearly defined interventions. However, due to a myriad of reasons these ideal experimental techniques cannot be applied in most cases. Often it is both costly and time-consuming to perform randomized controlled experiments. Furthermore, in many real-world settings, the natural and administrative settings of interventions are as such that are not conducive to randomized controlled experiments.
+
+Furthermore, impact evaluations are also restrictive in the sense that they can usually only be carried out once an intervention completed its implementation cycle – this might not be an issue for researchers and academics but is an alarming fact often of central importance to managers and other stakeholders such as government and/or funding agencies.
+
+In such settings, researchers and evaluators need to be creative and perform evaluations through ingenuity and by following a logical process of evaluation. The following sections give a step-by-step description of how to go about evaluating given the aforementioned constraints.
+
+4.1 A Step-By-Step Evaluation Process
+
+Use Program Objectives to Establish Key Indicators
+
+Establish Synthetic Baselines for Key Indicators
+
+Establish Target Levels of Output Indicators
+
+Establish Target Levels of Key Outcome Indicators
+
+Establish a Sampling Framework
+
+Decide on and Administer the Most Appropriate Data Collection Methods
+
+Clean, Organize and Synthesize the Data
+
+Perform Analysis to Find Differences for Key Indicators (Pre-Post, Across Interventions Groups, or whatever is most appropriate and feasible)
+
+4.2 Results-Based Management (RBM)
+
+The above evaluation strategy is guided by the holistic process of Results Based Management. (See Box 3)[9]
+
+Box 3: Results Based Management
+
+RBM is a management strategy by which all actors, contributing directly or indirectly to
+
+achieving a set of results, ensure that their processes, products and services contribute to
+
+the achievement of desired results (outputs, outcomes and higher level goals or impact).
+
+______
+
+[9] Results Based Management Handbook (2011), United Nations Development Group
+
+______
+
+4.3 Evaluation Using Results Based Management (RBM) – The Logical Framework Approach
+
+Redefining Evaluation – “An evaluation is an assessment, as systematic and impartial as possible, of an activity, project, program, strategy, policy, topic, theme, sector, operational area, institutional performance, etc. It focuses on expected and achieved accomplishments, examining the results chain, processes, and contextual factors of causality, in order to understand achievements or the lack thereof.” [10]
+
+The Logical Framework Approach (LFA Matrix) – The most commonly used method for evaluating through RBM is called the Logical Framework Approach (LFA). It divides the process of evaluating into categories that follow a logical chain of events. This chain is described below. (See Figure 3)[11]
+
+LFA Matrix – A Logical Framework matrix is a useful tool that helps organize the process of evaluation through a clearly defined chain of events. Good LFA Matrices can incorporate the entirety of the ‘Inputs, Activities, Outputs, Outcomes and Impact’ results chain along with stating both output and outcomes indicators and their respective sources and data collection methods. A sample LFA Matrix is given in Appendix A.
+
+______
+
+[10] Standards for Evaluation in the UN System (2005), The United Nations Evaluation Group
+
+[11] Outputs, Outcomes, and Impact, INTRAC
+
+______
+
+References
+
+Gertler, P.J. et al. ‘Impact Evaluation in Practice’. The World Bank. Available at:
+
+https://openknowledge.worldbank.org/
+
+Impact evaluation (2015) BetterEvaluation . Available at: https://www.betterevaluation.org/
+
+Outputs, Outcomes, and Impact , INTRAC. Available at:
+
+https://www.intrac.org/
+
+Results Based Management Handbook (2011), United Nations Development Group. Available at:
+
+https://unsdg.un.org/
+
+Standards for Evaluation in the UN System (2005), The United Nations Evaluation Group
+
+http://www.unevaluation.org/
+
+Types of Evaluation , Center for Disease Control. Available at:
+
+https://www.cdc.gov/

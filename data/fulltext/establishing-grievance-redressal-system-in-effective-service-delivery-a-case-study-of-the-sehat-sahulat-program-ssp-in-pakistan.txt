@@ -1,0 +1,43 @@
+ABSTRACT
+
+A robust Grievance Redressal System (GRS) improves citizens’ trust and confidence in health service deliveries and promotes equitable health services. Mostly, supply-driven health insurance programs face a GRS as clients belong to the low-income segments. The current study has examined the existing Grievance Redressal (GR)/complaint system of the Sehat Sahulat Program (SSP) using qualitative and quantitative approaches.
+
+The analysis reveals that the program offers multiple choices for complaint registration, including a web portal, call centre and postal letters, with the call centre the primary source of complaint registration and information provision. The SSP call centre requires a massive upgradation including automation, the taxonomy of complaints and integration with field teams. Each complaint requires defining a complete loop along with a stipulated resolution time. A dashboard can further help in monitoring the grievance redressal system.
+
+Currently, the program lacks field offices to interact with the public, awarenessraising and a register of complaints. Overall, beneficiaries have limited knowledge about the complaint mechanisms. In addition, the program requires an integrated complaint management system where registered complaints through various sources can be pooled, analysed and concluded.
+
+1. INTRODUCTION
+
+Developing countries face numerous challenges in their health systems, including accessibility and affordability issues. Primarily low-income groups utilise public health facilities which are often compromised due to a host of challenges, including the quality and attitude of the staff (Bredenkamp, Mendola, & Gragnolati, 2011). There are complaint mechanisms for improving the patients’ engagement in health services and upgradation of quality of services (Piette et al., 2016; Reader, Gillespie, & Roberts, 2014), but they often become the victim of red-tapism and bureaucratic hurdles (Mirzoev & Kane, 2018). As a result, accountability and public satisfaction are essentially conceded (Al-Abri & AlBalushi, 2014).
+
+An effective patient complaint management system is one of the crucial components to improving the functionality of health systems (Mirzoev & Kane, 2018). Information from patient complaints and feedback is widely used to raise patients’ satisfaction (Piette et al., 2016). Regular feedback helps in improving the quality of health services (Bouwman, Bomhoff, Robben, & Friele, 2016), behavioural change in the attitude of the staff (Barragry et al., 2016; Ivers et al., 2012), strengthening monitoring and accountability (Schedler, Diamond, & Plattner, 1999), reduced abuse and ensuring assured compliance with standards (Dubosh et al., 2020). It also helps improve GR or the complaint management system and ultimately promotes equitable health services where a country’s citizens trust services (Conway, et al. 2014).
+
+Grievance is defined as a complaint that shows dissatisfaction with the services regardless. It is worth mentioning that every complaint may not be genuine; however, the GR system must be capable of responding to every complaint (Bawaskar, 2014; Lancet, 2014). There could be multiple ways to register a complaint, including postal letters, dedicated offices and online mechanisms (Mirzoev & Kane, 2018; Reader & Gillespie, 2013). An efficient GR system must have a complaint coding taxonomy (Mirzoev & Kane, 2018) and multiple ways to register a complaint (Chakraborty, Ahmad, & Seth, 2017). All complaints must be pooled in one place, which may be called an integrated complaint management system. The GR system must be user-friendly, having a complete loop for each complaint (Chakraborty et al., 2017; Rana, Dwivedi, Williams, & Weerakkody, 2016). To ensure GR system accountability, nodal persons must be identified at each level responsible for addressing the complaints.
+
+The principal element of an efficient GR system is its structure, with the following aspects (Priyadarshi & Kumar, 2020; Putturaj, et al. 2021):
+
+(i) The system is reachable to all citizens for registering a complaint in a userfriendly manner through multiple ways.
+
+_____________
+
+Acknowledgements: We acknowledge the support of the Health Services Academy (HSA), the World Health Organisation (WHO) and the Federal Sehat Sahulat Programme (SSP) for their overall strategic guidance and facilitation for field support and secondary data provision
+
+_____________
+
+(ii) The system can handle every complaint where the taxonomy of complaints is clearly defined.
+
+(iii) A capable system must have certain modern features, e.g., automation, clear roles and responsibilities of concerned stakeholders, a loop of each complaint, an escalation process, a tracking facility, an accountability mechanism and feedback to the complainant.
+
+(iv) Sufficient human resources and resources are available for improving the system.
+
+(v) GR system is dynamic, having the flexibility and capability for upgradation over time.
+
+Mostly the demand-driven health insurance programmes perform proficiently due to their ‘customer’s nature’ where both the health insurance companies and clients know the terms and conditions of a health plan (Hines, 2014). In contrast, the supply-driven health insurance programmes for low-income groups often face a host of risks as mostly the beneficiaries don’t have a financial contribution and health premium is generally paid by the government. Such programmes are commonly run under social protection schemes and face both the demand and supply side risks that may result in lower utilisation of health services. On the demand side, the targeted population often lacks sufficient awareness about the programme due to poverty, illiteracy, remoteness and cultural norms etc. (Setswe, Muyanga, Witthuhn, & Nyasulu, 2015; Thakur, 2016).
+
+In addition, public behaviours and political factors also matter (Thabrany, 2008). On the supply side, the services are often compromised due to various factors, including issues of empanelled hospitals (i.e., limited in number, denial of services, lack of requisite health services), the politicisation of schemes, insufficient package amounts, coordination challenges among stakeholders and manual complaint management system etc. (Fusheini, 2016; Sakyi, Atinga, & Adzei, 2012).
+
+Another critical challenge that public health insurance programmes often face is the lack of a robust GR system where each possible complaint is not adequately defined in the system. As a result, the targeted population often faces constraints in enrolment and service delivery (Okoroh et al., 2018). They sometimes have to pay partial payments from their pockets or bribes to avail of health facilities (Akweongo, Aikins, Wyss, Salari, & Tediosi, 2021).
+
+Another key challenge that public health insurance programmes often face is the lack of a robust GR system against each category of a possible complaint. As a result, often the targeted population face constraints in enrolment and service delivery. Sometimes they have to make partial payments from own pocket or bribe to avail health facilities Sometimes they have to make partial payments from own pocket or bribe to avail health facilitie.
+
+For Full Text Download PDF

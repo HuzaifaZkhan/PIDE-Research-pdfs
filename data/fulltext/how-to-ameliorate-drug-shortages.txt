@@ -1,0 +1,51 @@
+The Issue
+
+Pakistan has been facing persistent drug shortages since the beginning of its creation, when there was no pharmaceutical industry and all the drugs had to be imported. In other words, drug shortages is not a new or recent phenomenon.[1] However, even now, when the pharmaceutical industry consists of 750 (or near about) firms, including two dozen MNCs, shortages of life-saving medicines are still a regularly occurring phenomenon. Recently, the shortage of Insulin and other life-saving drugs has been highlighted in the news.
+
+Put simply, these shortages put lives at risk. This has been demonstrated/reported ample number of times. Besides the threat to lives, the shortages have a huge monetary and economic cost. Last year, in a first, an M.Phil thesis at PIDE calculated the monetary losses due to shortages to be at least Rs. 80 million (approximately).[2] As stated, this has economy-wide repercussions too. For example, the current head of the World Bank, Kristalina Georgieva, calculated that a healthy workforce increases the GDP annually by 1.5 percent per year, implying that a healthy labor force brings its own positive economic spillovers.[3] A healthy labor force, in turn, cannot be had in absence of availability of quality drugs and Medicare. Conversely, Remes et.al calculated that poor health around the globe causes significant reduction in potential GDP growth.[4]
+
+In essence, not only do drug shortages put lives at risk, but they also have significant economic repercussions.
+
+Government’s failure at addressing the issue
+
+Traditionally, the public sector has exercised a substantial regulatory role in drug manufacturing and related issues. The raison d’etre for government’s regulatory actions is to ensure availability and affordability of drugs, especially the life-saving drugs! Efforts are, however, mostly concentrated on the latter aspect, i.e., affordability. For this very purpose, drug pricing has traditionally been heavily regulated, a policy that continues till this day. The pricing has been addressed in every Drug Policy, whether it’s the 1976, 2015 or the 2018 Drug Policy.
+
+However, it is argued that these policies have been highly counter-intuitive, illogical and completely ineffective. If these policies were effective, there would not have been persistent drug shortages and this issue would have been ameliorated long ago. Instead, we see the application of this policy again and again without much impact (if any). Between 2001 and 2013, the most stringent form of administered pricing, the ‘price freeze’ policy was applied. But the Out-of-Pocket (OOP) expenditures on drugs and percentage of expenses on drugs (as percent of total expense on health) kept increasing during that time, clearly reflecting the failure of the policy. This contention is amply supported by Government’s own statistics in the form of various National Health Surveys (NHS).[5] In 2004, the percentage of expenses on drugs was 25 percent of total health expense; by 2014, when prices started to be relaxed, this figure had reached 53 percent!
+
+Two new Drug Policies, 2015 and 2018 (the latter implemented after Supreme Court’s intervention), were aimed at relaxation of drug prices based on certain criterion like inflation and reference pricing. However, government failed to follow on the SOPs of both the policies. Especially vexing was (and still is) the issue of pricing drugs. Drug pricing, in essence, has been treated as a political issue rather than technical one. The long chain of approval of drug pricing starts from DRAP and goes all the way to the Cabinet, making it a political issue. Getting approval of price increases from the cabinet takes a long time, with some price increase cases pending for years. Since price increases are a politically sensitive matter, therefore the Cabinet almost always dithers in deciding, leading to shortages and expansion of black market activities. By the time the decision to increase prices is awarded, the damage is already done.
+
+So what is the way forward? The following lines propose several solutions, based on the author’s understanding of the issue and complementing research.
+
+Towards decentralized pricing and differentiated products
+
+The third goal under the UN Sustainable Development Goals (SDGs) mentions the provision of “access to safe, effective, quality and affordable essential medicines and vaccines for all”. This goal cannot be achieved with price controls, as Pakistan’s experience clearly suggests (and as discussed above). It has done tremendous damage not only to industry’s cause, but also to probable FDI inflows in the sector, all the while inducing drug shortages and making life miserable for patients. Also, in lieu of Universal Health Insurance (UHI) coverage being extended to all of the country, which would take care of a considerable portion of expenses on health, there remains little rationale for strictly controlling prices.
+
+Following the above, the recommendations for ameliorating drug shortages and getting the pricing policies right are as follows-
+
+Government’s regulatory role should be concentrated upon quality assurance, discouraging hoarding and checking unethical practices (false branding/misbranding, marketing same formulation drugs at higher prices by changing the brand name, etc.). The practice of fix drug prices, especially the process of Cabinet’s approval for price increases, should be done away with completely. The pricing issue should not go beyond the regulator, DRAP, to whom firms already submit details like costs of production, and which can negotiate pricing based on agreed upon criterion like reference pricing or costs of energy, which directly feed into overall costs of production
+
+There should be continuity of policies once they are approved, without any injunction for SROs or court orders. Once a policy is approved in consultation with the industry (including both PPMA and PB), the Cabinet should have no role to play in it
+
+In case of any dispute arising in terms of pricing, there should be an Appellate Panel consisting of eminent specialists in the field, who would adjudge the dispute within a month. Otherwise, disputes remain stuck in courts for years without any resolution
+
+Extension of UHI to cover portion of drug expenses, as in Medicaid and Medicare in the US. The ratio of coverage could differ by income categories. For example, the coverage for the poor segment of the population should ideally be higher (given relatively higher ratio of OOP expenses) compared to relatively affluent classes. The data on poor households can be obtained from National Socio Economic Registry (NSER) under BISP. That way, payment burden of drugs are likely to be shared between insurance providers and patients
+
+As an incentive to produce cheaper versions of innovator brands at home, the insurance coverage for drugs should cover only generics and branded generics produced within the country
+
+As an additional incentive to produce drugs locally, turn the Central Research Fund (CRF) levy, equivalent to 1 percent of gross sales of the pharmaceutical industry, into a subsidy for domestic production, especially in terms of the raw materials/APIs. As things stand, 95 percent of the raw materials for manufacturing drugs has to be imported, which frequently gives rise to disputes between government and the industry due to exchange rate variation (mainly depreciation for the rupee), that makes raw materials expensive. Incentivizing domestic production should ameliorate a large part of this issue
+
+Move towards differentiated product markets! Pharmaceutical manufacturers should be able to sell a portion of their products based on high quality APIs and originator brands without any pricing restrictions. This would not only cater to the demands of higher income quartiles, but would also help recoup the firms in their total operating costs and add more variety to the available drugs, which are largely based on low quality APIs (mainly imported from China) that in turn affect the efficacy of drugs
+
+There should be no bar upon domestic firms entering into agreements with foreign companies in terms of production of drugs, either for export purposes or for domestic sales. If a foreign company of repute is satisfied with the production facilities of a domestic company and agrees joint production/outsourcing production of a drug, the domestic company should not require any NOC from DRAP for production of that drug
+
+The above stated suggestions constitute proposals of a general nature, which can be further debated in order to arrive at a unified point of view. Gist of the argument is that strict price controls need to be done away with since they have proven to be counterintuitive, injurious and has significant negative spillovers.
+
+[1] Mehmood, Shahid (2022) ‘Ameliorating Drug Shortages in Pakistan’, PIDE Policy Viewpoint No. 37:2022
+
+[2] Yousaf, Kainat (2023) ‘Welfare impact of generic drug shortages in Pakistan’, PIDE M.Phil. thesis
+
+[3] Georgieva, Kristalina (2019) ‘Healthy people drive strong economies’
+
+[4] Remes et.al (2020) ‘Poor health reduces GDP growth by 15 percent’, Harvard Business Review
+
+[5] Mehmood, Shahid (2022) ‘Analysis of Drug Regulatory Authority of Pakistan’, PIDE

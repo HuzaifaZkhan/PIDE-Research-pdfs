@@ -1,0 +1,65 @@
+Introduction
+
+One crucial initiative currently in the limelight across the globe is the Trends in International Mathematics and Science Study (TIMSS), which ranks countries in terms of students’ scores in math and science globally. Indeed, individual countries have always relied on their indigenous tests to assess their educational excellence, but not in comparison to other countries. Hence, the TIMSS assessments, since the spread of the globalised competition, has become a way to title education supremacy.
+
+We selected Finland as a case study as it has attracted the world’s attention with its remarkable performance on TIMMS since 2000. Pakistan participated in Trends in International Mathematics and Science Study (TIMSS) 2019 in fourth grade mathematics and science study for the first time. Performance-wise, it stood second from the bottom (please see figure A1 Appendix A).
+
+Given Pakistan’s low performance on TIMSS, we tried to dissect the salient features of Finland’s education system. Such understanding of the innovations in the education system of a high-ranked country is essential, as it may help strengthen Pakistan’s education system, which is currently in a learning crisis.
+
+Lessons Learned
+
+The main lessons learned for Pakistan’s education system are given below.
+
+A. Pakistan should focus on Phenomenon-based Learning
+
+First, Finland’s National Curriculum Framework (NCF-2016) stresses a multi-disciplinary approach to education and launches the “phenomenon-based” teaching model. Students are taught how to apply a diversity of skills and knowledge in a single class. This approach resembles a real-life problem-solving approach (WEF, 2020).
+
+Their approach enables people to develop into effective thinkers and problem solvers in their fields. In a nutshell, we can say that the education provision in Finland is fully integrated and corresponds to the top tier of Bloom’s Taxonomy, which nurtures creativity in Finnish students, a provision missing in the education system of Pakistan
+
+This approach comprises of evaluating the problem that needs to be solved, bearing in mind what actions are working and others do not; people who have a greater understanding of the problem are empowered to propose solutions, then a solution is prescribed, and work is done undertaken to resolve it.
+
+English (2018) visited different schools in Finland to have a real sense of the Finnish approach. In the fifth-grade science class, students were busy building plastic chairs, and in the woodshop class, students of ages nine to ten were building wooden paper towel holders without any instruction from the teacher. The students were drilling and hammering nails with much enthusiasm. They also got a 15-minute break to play outside in the snow.
+
+Students in third grade were painting pictures without instructions from the teacher on making brown paint. Teachers refrained from giving directions or steps to follow in all classes while solving a problem.
+
+The students know what paper towel holders look like, so the goal was to figure out how to design and develop them. The teachers give the students the problems and then step back and help only when needed. This approach was applied in the science classes, in the art class, in the secondary schools, and even in the universities.
+
+Bloom’s Taxonomy
+
+B. Pakistan should decentralise its public education delivery
+
+In Finland, the teachers independently decide how to educate students. Principals are authorised to decide about teachers, municipalities decide how to support schools, and the national board decides how to support the entire education system). In contrast, the education system in Pakistan uses a top-down approach to problem-solving where the decisions about learning and teaching are made by those who themselves are not the teachers or have not worked directly with the students.
+
+The Core Curriculum in Finland is an objective but not a standard. Teachers are free to set learning targets to optimise learning for each child. For instance, if the target is to grasp the idea of an ecosystem, then there could be multiple ways to learn about it (English 2018). The objective is to nurture more creativity in teachers to adjust to individual learning needs. This framework is very different from what we have in Pakistan in that every child has to read the same topic and answer the same questions on it to assess how many questions they have answered correctly.
+
+Besides, the education reform has been seriously driven since the 1970s in Finland. It has relied on the ensuring competency and professionalism of teachers, giving more importance to early childhood education, it relied on decentralised administration to give local schools the full authority to address local needs.
+
+· In contrast to Finland, Pakistan is using a top-down approach to problem solving in education. · In Pakistan every child has to read the same topic and answer the same questions to assess how many questions they have answered correctly.
+
+Conclusion
+
+First, Pakistan must decentralise and declare complete autonomy of its schools. This reform will enhance competition among schools in the neighbourhood and inter-province competition among schools. Schools in each neighbourhood must be judged and ranked on selected performance parameters (e.g. student scores etc. conducted by an accreditation agency of international repute (Not BISEs). The schools that outperform others must be incentivised with extra benefits such as performance bonuses and promotions. Bear in mind that this reform must be started at a smaller scale, perhaps in schools in the ICT Islamabad, and gradually scale up to other regions and provinces.
+
+Secondly, we must map our curriculum with Bloom’s Taxonomy. Currently, Pakistan’s curriculum only touches the lower tiers of Bloom’s, so there is little scope to nurture the students’ creative skills at the grass-root level. With no concern for creative skills in our curriculum, we have failed in multiple indicators on the global front. Out of the 132 economies, Pakistan ranked 99th in the Global Innovation; Finland ranks 7th among the 132 economies featured (2021). Therefore, it’s the education system that speaks louder, nothing else.
+
+References
+
+Ahonen, S. (2002). From an industrial to a post-industrial society: Changing conceptions of equality in education. Educational Review, 54(2), 173-181.
+
+Bastos, R. M. B. (2017). The surprising success of the Finnish educational system in a global scenario of commodified education. Revista Brasileira de Educação, 22(70), 802-825.
+
+English, J (2018). How to Encourage Creative Problem-Solving: The Finnish Model. https://blogs.edweek.org/
+
+EDUFI (2020). Finnish National Agency for Education. https://www.oph.fi/
+
+Goodill, Caroline Ann, (2017) “An Analysis of the Educational Systems in Finland and the United States: A Case Study” (2017). Honors Theses. 118. https://ecommons.udayton.edu/uhp_theses/118
+
+Jaatinen, R., & Saarivirta, T. (2014). The evolution of English language teaching during societal transition in Finland: A mutual relationship or a distinctive process? Australian Journal of Teacher Education, 39(11), 29-37.
+
+WEF, (2020). 10 reasons why Finland’s education system is the best in the world. https://www.weforum.org/
+
+Sahlberg, P. (2011). Finnish lessons: What can the world learn from educational change in Finland? New York, NY: Teachers College Press.
+
+Sahlberg, P. (2015). Finnish lessons 2.0 : What can the world learn from educational change in Finland? New York: Teachers College.
+
+Appendix A: Figure A1

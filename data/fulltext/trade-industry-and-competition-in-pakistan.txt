@@ -1,0 +1,39 @@
+Abstract
+
+We believe that high tariff rates have increased the overall cost of production in Pakistan, and the domestic prices of many products have become much higher than the international market prices. Reducing import tariffs will reduce not only the domestic prices but will also increase the export competitiveness of the country because many imported products are complementary intermediate inputs in various exporting industries. Further, it will allow the country to take advantage of the augmented technology in the new imported products, which will be helpful to add new products to its export portfolio. Hence, we eliminate the import tariffs of the 10 major import items of Pakistan such as cooking oil from Indonesia; textiles, chemicals, basic metals, machinery and electrical equipment from China; mining, coke and petroleum from the United Arab Emirates; and mining and chemicals from the Kingdom of Saudi Arabia. Our simulation results show that eliminating the import tariff reduces domestic production in most of these sectors. Among them, however, the mining, textile, and chemical industries still grow moderately. On the other hand, domestic production of all other sectors increases moderately indicating that access to more economic intermediate inputs allows these industries to contribute to economic growth, and the overall GDP increases by around 0.5% in the country.
+
+________
+
+[1] Also muh.zeshan@gmail.com
+
+________
+
+Introduction
+
+Depleting foreign exchange reserves, rising trade deficit, and protection to the domestic industry through import tariffs restrict imports in Pakistan. Najib (2022) argues that an import ban in the country is highly insigni­ficant, and does not make a real impact on the import bill rather it leads towards smuggling and loss of customs duties, impeding the overall economic growth. Trade restrictions through import tariffs create export distortions because domestic prices of similar products increase in a country compared to the world market, adversely affecting the trade balance of the country (Shapiro, 2021).
+
+Stagnant export products also add to the trade deficit (Nasir, 2020). Textile is the key exporting industry in Pakistan, which has around 51% share in total exports, and the key export destinations are Germany (GER), the United States (USA), Great Britain (GBR), and China (CHN) (Zeshan, 2022c). In a similar case, copper used to account for nearly half of the total exports in Chile, but the country managed a successful diversification of its exports, and gained new comparative advantages. However, export product diversification was not easy for Chile rather it was the result of its persistent commitment to the trade liberalization policy during 1973-90, and the country reaped the fruit later in the 1990s and onwards (Lebdioui, 2019).
+
+It is believed that diversifying export products can significantly add to the trade surplus (Akbas and Sancar, 2021). New imported inputs provide easy access to new technologies, and a suitable combination of domestic and imported intermediate inputs makes a way toward new export products (Castellani, 2019). In today’s competitive environment, many firms introduce new items to their export portfolio, and reduce the scale of existing items simultaneously (Cirera et al . 2015).
+
+New imported inputs allow firms to take advantage of the embodied technology in the imported capital goods as well as cheaper and better intermediate inputs (Carrasco and Tovar-Garcia, 2021). The government of China launched various policies to promote imports, and also reduced the average import tariff rate to 7.5% in 2018 (Tian and Yu, 2019). As a result, Chinese firms invested more in research and development activities to adjust to the more liberalized and competitive international trade environment.
+
+However, trade is heavily regulated in Pakistan, and the average import tariff rate is around 12% in the country.[2] High import tariff rates reallocate factors of production such as labor and capital from the competitive export sectors to the less competitive domestic manufacturing industry (Asif et al. 2022). This reduces the incentive to innovate in domestic firms, and the long-run economic growth is adversely affected. The protection of the domestic industry through high import tariff rates does not encourage firms to increase research and development activities in Pakistan. Hence, the overall expenditure on research and development has decreased from 0.33% of GDP in 2011 to 0.20% of GDP in 2019.[3]
+
+International trade can play a key role to bridge the gap of large productivity differences between different countries (Dayna et al. 2018). Endogenous-growth models emphasize that imports can lead to long-run economic prosperity through a higher level of productivity in firms through diversified intermediate inputs (Ethier, 1982). Imperfect substitution between different
+
+intermediate products preserves a complementarity relation between imported and domestic intermediate inputs, which adds to productive externalities (Krugman, 1979).
+
+Hence, this research work argues that trade liberalization in Pakistan through reduced import tariff rates can provide the country with economical intermediate inputs, final products, and capital goods. It will increase the productive capacity of domestic firms, the welfare level of households will rise through rising income levels due to lower international prices, and export product diversification can be gained through new imported products. By applying real-world data, this study examines the impact of a liberalized trade policy on domestic production in various sectors, market prices, trade activities, and overall economic growth and welfare level. More precisely, it eliminates the import tariffs of the 10 major import items of Pakistan such as cooking oil from Indonesia; textiles, chemicals, basic metals, machinery and electrical equipment from China; mining, coke and petroleum from the United Arab Emirates; and mining and chemicals from the Kingdom of Saudi Arabia.
+
+The rest of the study is as follows. The next section discusses the structure and sources of imports in Pakistan whereas Section 3 describes the modeling framework. Simulation design and database are provided in Section 4 while the simulation results are discussed in Section 5. Finally, the conclusion and discussion are elaborated in Section 6.
+
+___________
+
+[2] https://data.worldbank.org/indicator/TM.TAX.MRCH.SM.AR.ZS?locations=PK
+
+[3] https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS?locations=PK
+
+___________
+
+For Full Text Download PDF

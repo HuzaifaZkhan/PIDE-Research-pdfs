@@ -1,0 +1,139 @@
+FBR’s POS Integration: Digitalisation of Business Transactions and Associated Challenges
+
+GHULAM NABI, Pakistan Institute of Development Economics, Islamabad.
+
+1. INTRODUCTION
+
+Tax revenue to GDP share varies across the globe depending on the capacity of the revenue authority of a government, with the world’s developed economies having a substantially higher capacity to collect a higher share of tax revenue (Besley and Person, 2014).
+
+Fiscal experts observe low compliance of taxes, where many people and businesses easily escape from the tax net in developing countries. Consequently, people do not voluntarily participate (evade taxes), or if they do, they reduce their taxable liabilities (tax avoidance). As they are operating in an undocumented sector, thanks to the lack of book-keeping or any other sources for internal or external audit by the revenue authorities. This reflects both hard-to-tax sectors; this includes a subset of economic activities where the tax compliance is problematic and needs to be increased and enhancing the revenue collecting authorities’ capacity to develop a more buoyant method of collecting desired revenues.
+
+The biggest challenge for the tax authority is to streamline undocumented transactions, authority only holds the tip of these activities (Bahl, 2004). This results in an unfair distribution of the tax burden on those who pay their tax obligations and eventually erases confidence in the system. Developing countries face a similar rather extended problem in the tax system and tax complexities. Figure–1 shows the ease of paying tax scores for some Asian countries where Bhutan has the highest paying tax score, i.e., 89.2 out of 100 (global rank 15/190). This shows the minimum level of complexities in the system. Nepal and Pakistan have the lowest level followed ease of paying tax score that is 47.1/100 and 52.9/100 respectively while their global ranks are 175 and 161 economies around the world. This indicates the problem in the system that the government constantly faces, and it needs to be addressed via strategic goals such as exploring the potential of the digital economy.
+
+______________________
+Author Note: I would like to thank to Dr. Mehmood Khalid (Senior Research Economist, PIDE) for his valuable insights.
+
+Tax enforcement remained the challenge for developing economies where many transactions go untraceable due to the limited technical capacity (Besley, et al. 2013). Many other factors 1 influence the decision of an individual or business to evade tax obligations, with fiscal planners across the world trying to establish various instruments to monitor taxable business transactions. Many studies have stressed the need for information sharing on taxable transactions via third parties, verifiable transactions, or whistleblowers for the enforcement of tax (Pomeranz, 2015; Kopczuk and Slemrod 2006; Kleven et al. 2009; Kumler, Verhoogen, and Frías 2013). To overcome this behaviour, advanced economies use third-party reporting as an instrument to collect tax efficiently so that reported transactions/incomes are not evaded. Evidence shows that third-party reporting mechanisms via traceable invoices or e-transactions improve compliance and revenue.
+
+This brief provides a holistic view of international best practices, where revenue authorities effectively monitor the retail sector via tracking taxable transactions through purchase invoices (a case is Brazil’s Nota Fiscal Paulista Program) and third-party reporting to enhance the effectiveness of the system. The main concern is the catch taxable transactions under the government observation. Studies have shown that the flow of information enhances the observation of taxable transactions in the economy; hence, the third party and purchase invoice are strong enough to reduce tax evasion.
+
+In Pakistan, a considerable number of taxable transactions are ‘under the table’, without any tax deduction, where the retail sector stood at the third-largest sector 2 , and the second-largest employer in Pakistan. The brief sheds light on reasons for a weak Point of Sales (POS) integration process and challenges for the Federal Board of Revenue (FBR).
+
+2. BEST PRACTICES FOR BUSINESS TRANSACTION TRAILS
+
+There is a shred of the minimal evidence available for transaction trails for tax revenue to examine the effectiveness of transaction trails via paper invoices for Value Added Tax (VAT) revenue. Two case studies have been reviewed: first, the “No Taxation without information” in Chile, and the second, “Customer as Tax Auditor” in the State of São Paulo, Brazil. Whereas the POS system is based on the same model where a customer is free to ask for a verified transaction receipt 3
+
+(i) Chile: Deterrence and Self-Enforcement in the Value Added Tax
+
+The role of third-party reporting via paper trails is highlighted for VAT enforcement. The study tested 445,000 firms in Chile via two randomised field experiments for testing self-enforcing properties in the VAT.
+
+Chile has a fully developed VAT structure; the first experiment was a dispatch letter message experiment across the country to visualise the effect of the VAT paper trail. It is suggested that the audit probability for randomly chosen firms increases in response to lower tax compliance; paper trial is an effective tool to deterrence effect on tax evasion; hence it limits tax evasion, and facilitates authorities to detect tax evasion, and enforce tax by generating the paper trail on the transaction between firms.
+
+“The multiplier effects indicate that globally the VAT paper trail acts as a complement to the audit probability” – Dina Pomeranz (2013)
+
+The overall findings show that the VAT paper trail in Chile seems to be highly effective in a fully developed system, with the interaction of information for tax enforcement. It suggests several implications in developing countries for tax policy. First, the verifiable paper invoices act as a powerful tool that makes it more challenging to misappropriate tax obligations; secondly, it suggested the choice of tax instruments to generate a flow of information for the Chilean Tax Authority. The Chilean Tax Authority also adopted digital mechanisms to get information such as online billing, electronic receipts, etc. (recently introduced by Brazil and efficiently recording tax transactions. Most importantly, the study suggested that it works very well and effectively where corruption in the system is very high.
+
+(ii) Brazil: Customer as Tax Auditor
+
+The NFP program was created to reduce tax evasions and increase the culture of tax compliance in 2007 by the state of São Paulo, Brazil. The program aimed to introduce consumers as “tax auditors” via attractive incentives to ensure that businesses report final sales. The consumers are incentivised to ask for an invoice for their purchases and ensure that retailers correctly report their purchase value.
+
+Naritomi (2019) studied the anti-tax evasion program in São Paulo in Brazil – Nota Fiscal Paulista (NFP), which ‘created monetary rewards for consumers to ensure that firms report final sales transactions’. NFP establishes a channel between the tax authority and consumers; It provides attractive rewards to the customers, including tax rebates and monthly lottery prizes for those customers who verified their purchase invoices with the tax authority through the digital system. They can also act as whistleblowers by filing complaints about not compliance.
+
+_____________________________
+1 This include psychological and culture factors.
+2 A report on the retail sector estimated sales was $42 billion in 2012.
+3 FRB POS Receipt has a FBR logo, QR and BAR Code.
+
+Box 1. Brazil
+“The firms reported sales increased by at least 21 percent over 4 years. The results are consistent with fixed costs of concealing
+collusion, increased detection probability from whistle blower threats, and behavioural biases associated with lotteries amplifying
+the enforcement value of the program. Although firms increased reported expenses, tax revenue net of rewards increased by 9.3
+percent”
+
+The program facilitated the tax authority on identifying the possibility of the taxpayer, referred to by social security number equivalents on each receipt. The program created a tax rebate system, and monthly lotteries for the final consumers have incentives to request receipts with their social security number. 4
+
+3. PAKISTAN RETAIL SECTOR AN UNTAPPED SECTOR
+
+Pakistan’s services sector contributes 53 percent of the total GDP in the economy. An essential feature of the service sector is that a significant chunk of the share, comprising wholesalers and retailers, is that the overall contribution to GDP is around 19 percent and 33.4 percent of total services. The significance of the retail sector cannot be neglected. A report on the retail market noted estimated sales by the end of 2012 at $42 billion. The figure shows the retail market products on the left side and contributed around Rs.8.4 Trillion (18.8 percent) to GDP by 2021 State Bank of Pakistan (SBP).
+
+Box – 2: Point of Sale (POS)
+An online real-time system for documentation of sales that connects the computerised sales system of Tier-1 retailers to FBR’s system through the internet. Retailers do not need to purchase any new machines to get linked with this system. They can get linked by simply downloading an application in their existing machines. A barcode or QR code automatically gets printed on the invoice generated through a sale by the retailer. Customers can verify the sales tax payment through the Tax Asaan App. The system helps retailers in the automatic preparation of sales tax returns and thereby reducing their expenditure.
+Source: FRB Website
+
+Fig. 2. Retail Market
+
+According to Chairman FBR 5 , the retail sector born a total of Rs.22 trillion of transactions but FRB only captures Rs.4-4.5 /Trillion sales for taxation while Rs.17-17.5 trillion yet to be visible; this could make a big difference if bridged up via efficient initiatives and proper documentation. The FBR has introduced a POS system to digitalise the transactions of the retail sector. (i) Point of Sales (POS)—Pakistan:
+
+_________________________
+4 “Since the process of reporting receipts to the tax authority is done by firms, and the consumer’s SSN is attached to it, consumers do not need to send their receipts to the tax authority to get the rewards, which markedly reduces consumer participation costs. Consumers have to create an online account at the tax authority’s website, which allows them to collect rewards and cross-check the receipts issued with their SSNs. The online system also allows consumers to file complaints about specific firms, which introduces a threat that consumers may act as whistle-blowers” Naritomi (2019) Rs – Trillions
+5 Source: Dawn News – link: https://www.dawn.com/news/1669734
+
+POS is a computerised system attached to the FBR via the internet, for recording sales transactions and managing inventories. The FBR is integrating businesses via the POS to monitor actual sales under Tier –1 Retailer (explained in Box – 2). The retailers must install POS applications for real-time sales reporting on computers. To operationalise the law via incentivising both; customers with Rs.53 million of prize money and POS registered retailers with their adjustable tax for the period would be reduced by 15 percent according to the finance act, 2021.
+
+Box 2. Tier -1 Retailer
+Through Finance Act, 2017, Tier – 1 Retailer is defined in section 2(43A) of the Sales Tax Act, 1990, to be a person who falls in any of the following categories:
+a) retailer operating as a unit of a national or international chain of stores;
+b) a retailer operating in an air-conditioned shopping mall, plaza, or center, excluding kiosks;
+c) a retailer whose cumulative electricity bill during the immediately preceding twelve consecutive months exceeds Rupees [twelve] hundred thousand;
+d) a wholesaler-cum-retailer, engaged in bulk import and supply of consumer goods on a wholesale basis to the retailers as well as on retail basis to the general body of the consumers”;
+e) any other person or class of persons as prescribed by the Board.
+f) retailer operating as a unit of a national or international chain of stores;
+g) a retailer operating in an air-conditioned shopping mall, plaza, or center, excluding kiosks;
+h) a retailer whose cumulative electricity bill during the immediately preceding twelve consecutive months exceeds Rupees [twelve] hundred thousand;
+i) a wholesaler-cum-retailer, engaged in bulk import and supply of consumer goods on a wholesale basis to the retailers as well as on retail basis to the general body of the consumers”;
+j) any other person or class of persons as prescribed by the Board.
+Source: FBR Website
+
+The integration of POS is the exercise to fiscalise the purchase invoices and generate a unique fiscal number and QR code for each purchase invoice by the Tier – 1 Retailer (T-1R) through POS. POS also helps broaden the tax base and transparency and accountability by identifying the movement of goods and incentivising the customer to collect receipts to improve compliance against tax evasion. The total worth of Rs.53 million prizes is distributed monthly among 1007 winning customers who verified their electronically generated invoice via the ‘Tax Asaan App’ or by sending invoice numbers via SMS to 9966. Customers are incentivised to achieve maximum transparency and reduce evasion via real-time tracking of sales receipts. However, the winners of the prizes would not take all the money as they have to pay withholding tax on the prize money 6 .
+
+__________________________
+6 FBR has proposed a 40 percent tax rate for non-filers customers while 20 percent for filers on the prize money.
+
+FBR is strictly monitoring the progress of POS integration. For the current fiscal year, FBR has planned to integrate 50,000-60,000 new POS and has set the goal to register 500,000 POS over the next fewyears 7 .
+
+The overall integration process has been prolonged since the FBR POS scheme was started. Figure-4 shows the number of POS 7 installed in each province. Punjab’s T-1R has the highest number of POS installed to facilitate the consumers via verified receipts, with a shared 61 percent of total POS installed in Pakistan. Punjab is followed by Sindh with 17 percent of changes, while Islamabad has the highest share of installed POS in terms of population, with a 15.2 percent share of total POS. Khyber Pakhtunkhwa and Baluchistan have the lowest share of installed POS systems 8 .
+
+We further analysed POS-installed city-level data via a real-time tracking app where cities are raked via the size of the 8 population, with the top 30 most populated cities of Pakistan selected via population census, 2017 (See Table – 1). The recorded POS installed data was reviewed twice.
+
+First, it was collected in earlier January, and secondly, in February 2022 to calculate the growth rate of POS installation across the cities. The highest growth number was recorded for Mardan and Larkana, with 10 and 8.3 percent, respectively. In contrast, the highest number of POS installed for Islamabad is 54, Islamabad is followed by Karachi and Faisalabad with 31 and 28 respectively. This analysis aims to show the speed of the integration process. Overall the integration process is very slow, with the growth rate of POS installation is less than 1 percent.
+
+Source: Author Compiled, February 2022.
+(Margin of Error: 5 percent).
+
+_____________________________
+7 Reference: https://www.thenews.com.pk/print/889463-collection-of-rs50bln-tax-through-pos-hangs-in-balance
+8 These calculations are based on top 30 populated cities of Pakistan (based on census, 2017). (not total installed POS in the country).
+
+Table 1
+
+Furthermore, the population share of 1 POS machine is also very low. For example, with an urban population size of 15 million, Karachi has only 1171 POS installed outlets in the whole Karachi. Similarly, only 1 POS-connected outlet facilitates around 6514 heads in Lahore. The treemap shows the share of cities connected with POS.
+
+Fig. 5. Treemap of POS Connected Retailers (City wise)
+
+The FBR is making every effort to get closer to achieving PKR 6 Trillion revenue by the end of the fiscal year 2022. In this regard, FRB has issued 7 Sales Tax General Orders (STGO) for T-1R to be integrated with FBR’s POS system (see Figure 4). The STGOs 9 identify the list of retailers who fall under the category of T-1R but are not yet integrated into the system and operationalise the provision of law. The first STGO was issued in August (2021) and identifies 6763 retailers to be integrated into the system. FBR has decided to disallow 60 percent of input adjustment for non-integrated retailers.
+
+4. CONCLUSION
+
+The expansion of the tax base in Pakistan is recognised as an essential policy goal to increase domestic sources to reduce foreign aid dependence. The integration of businesses with POS is a big challenge for both the FBR and businesses alike for multiple reasons. First is the complexity of legal provisions for POS integration. Second, tax evasion is also the reason for not integrating into the POS. Many retailers fear that their sales tax returns will jump up via reporting real-time sales because of underreporting or not filing the tax returns 10 . Slow operations issuing invoices are considered time-consuming for verification from the FBR server. Further, the confusion regards sales tax, and clarification is sought given that sales tax should be applied on discounted total value.
+
+______________________
+9 A list of identified Tier-1 non-integrated retailers has been placed at the FBR’s web portal
+10 Pro Pakistani: https://bit.ly/37cL3H7
+
+Overall, the integration process is very weak, and speeding up the process will increase the tax net and help achieve the maximum revenue from the retail sector. As mentioned above, Punjab has the highest number of POS systems installed, while KP and Baluchistan have the lowest number of POS connections.
+
+City-wise, Lahore has a large number of integrated POS retailers, a total of 1708, followed by Islamabad with 1390. From a policy perspective, the exercise to fiscalisation of purchase invoices issued by the T-1Rs integrated with the FBR’s POS system. In a bid to broaden the tax base, the submission of traceable invoices ensures transparency and promotes accountability by identifying the movement of goods. Secondly, the exercise will help the authority narrow down the untapped revenue gap of Rs.1717.5 Trillion. Thirdly, POS’s prize money will also encourage citizens and the transparency process via invoice verification to effectively monitor retailer activities.
+
+REFERENCES
+
+Bahl, R. (2004). Reaching the hardest to tax: Consequences and possibilities. Contributions to economic analysis, 268, 337-354.
+Besley, Timothy, and Torsten Persson. 2013. “Taxation and Development.” In Handbook of Public
+Economics, Vol. 5, edited by Alan J. Auberach, Raj Chetty, Martin Feldstein, and Emmanuel Saez,
+51–110. Amsterdam: Elsevier B. V
+Gasani, M. (2018).Taxpayers’s perception on electronic billing machines.
+Kleven, Henrik Jacobson, Claus Thustrup Kreiner, and Emmanuel Saez. 2009. “Why Can Modern Governments Tax So Much? An Agency Model of Firms As Fiscal Intermediaries.” National Bureau of Economic Research Working Paper 15218
+Kopczuk, Wojciech, and Joel Slemrod. 2006. “Putting Firms into Optimal Tax Theory.” American Economic Review 96 (2): 130–34
+Kumler, Todd, Eric Verhoogen, and Judith Frías. 2013. “Enlisting Employees in Improving Payroll-Tax
+Compliance: Evidence from Mexico.” National Bureau of Economic Research Working Paper 19385
+Naritomi, J. (2019). Consumers as tax auditors. American Economic Review, 109(9), 3031-72.
+Pomeranz, D. (2015). No taxation without information: Deterrence and self-enforcement in the value-added tax. American Economic Review, 105(8), 2539-69.

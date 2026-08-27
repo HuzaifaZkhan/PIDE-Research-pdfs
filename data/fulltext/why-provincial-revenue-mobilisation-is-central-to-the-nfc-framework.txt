@@ -1,0 +1,135 @@
+Pakistan’s National Finance Commission (NFC) Award determines how federal tax revenues are shared between the federation and provinces. Under the 7th NFC Award (2010), the provincial share of divisible pool taxes rose sharply from 47.5% to 57.5% giving provinces greater fiscal space but also higher expenditure responsibilities, particularly in devolved subjects like health, education, and infrastructure [1] .
+
+The limited growth in tax revenues has contributed to major gaps in public service delivery: over 20 million people lack access to clean wate close to their homesr [2] , nearly one in three lack adequate sanitation [3] , and around 40% of children [4] under five suffer from stunted growth compared to South Asian average of 31 [5] .
+
+While designed to promote equity, the NFC has created structural fiscal dependence and weakened incentives to develop provincial tax bases. In recent years, around 80% of provincial revenues in Punjab for example came from federal transfers, with own-source revenue (OSR) contributing just 15-20% on average [6] .
+
+A new NFC framework is now under discussion. While still in negotiation, the new framework is expected to link transfers more clearly to provincial revenue efforts [7] , possibly through performance benchmarks or a smaller divisible pool share, to create both pressure and opportunity for provinces to strengthen OSR. This shift is driven by fiscal stress at the federal level, rising provincial expenditure commitments (including pensions), and the need for more accountable, responsive service delivery, best achieved when revenue is raised and spent locally.
+
+Where does provincial revenue stand today
+
+Despite slight improvement over the past decade, provincial OSR remains low. In fact, total provincial revenue collection remains less than one percent of GDP [8] . Provinces cover only about 16% of their expenditures with their own revenue collection [9] despite the potential for provincial taxation to reach 2-3% of GDP [10] (currently at less than 1%) [11] . This creates fiscal vulnerability for provinces which face immediate shortfalls whenever federal revenue declines. This also leads to restricted ability of provinces to respond to local needs and priorities.
+
+Underperforming taxes include Sales Tax on Services (STS) at just 7% of total provincial revenues in 2023 and property tax, at less than 2%, despite being progressive, efficient, and suitable for local government. Despite having a population of over 100 million, entire Punjab collects less urban property tax than India’s city of Chennai, which has a population of just around 10 million [12] .
+
+Other OSR sources (stamp duties, motor vehicle tax, agricultural income tax) remain small and often under-collected. With services now contributing close to 60% of GDP, STS has high growth potential [13] . Urban property markets have also seen double-digit annual value increases in most major cities, yet valuation rolls are outdated and undervalued. In a fast-urbanising context with rising local demands, this underperformance represents a significant untapped opportunity.
+
+Evidence-based pathways for provincial revenue mobilisation
+
+Experience from Pakistan and other countries shows that a mix of behavioural insights, digitisation, and governance reforms can significantly increase provincial revenues at relatively low cost.
+
+Behavioural insights can improve tax compliance
+
+Behavioural interventions, grounded in understanding tax payer and tax collector behaviour, have shown strong potential to boost provincial tax collections in Pakistan. In Punjab, introducing a performance-based posting system for property tax staff – linking future postings to past revenue performance – raised collections by 30-41% in just one year [14] .
+
+Creating incentives
+
+Non-monetary incentives can work. In Punjab, introducing a performance-based posting system for property tax staff – linking future postings to past revenue performance – raised collections by 30-41% in just one year [15] .
+
+Public recognition of top taxpayers can be effective in improving compliance rates by creating social prestige and public accountability. A recent study found that both publishing taxpayers’ income tax payments and publicly recognizing the top 100 taxpayers in Pakistan significantly increased tax compliance suggesting that social disclosure and recognition can shift norms and boost revenue mobilization [16] .
+
+Receipt lotteries for targeted enforcement: In Khyber Pakhtunkhwa’s (KP’s) hospitality sector, the tax authority piloted a scheme that offered monthly consumer lotteries for submitting receipts via WhatsApp, combined with targeted enforcement against non-compliant businesses [17] . While full results from the pilot are pending, similar receipt-lottery models in Brazil increased reported sales by 21% over four years and generated higher net tax revenue even after prize payouts [18] .
+
+Creating awareness via Informational nudges can improve compliance by explaining how taxes are calculated, outlining penalties for non-payment, and showing how revenues are used. However, a 2022 survey of 604 property taxpayers in Lahore found that over 90% were unaware of the valuation basis for their tax, underscoring the need for public education [19] .
+
+Creating evidence to support policy uptake: KP has institutionalised behavioural experimentation through MindLab, the first sub-national behavioural insights unit in a developing country [20] . Established in 2021, it has run trials to improve compliance, drawing on approaches from Bangladesh, India, and Sri Lanka, including SMS reminders (which had limited impact due to reliance on tax consultants) and is now testing reward and enforcement schemes, receipt submission systems, and consumer surveys. It runs randomised trials to improve tax compliance.
+
+Technology and digitisation can drive accuracy, accountability, and transparency
+
+Digitising tax information can significantly enhance accuracy and accountability in revenue administration while building datasets that can be used for research and policy design. Digital systems streamline tax processes, improve documentation, and make transactions traceable, thereby increasing transparency. Technologies such as electronic fiscal devices, digital payment systems, and e-filing platforms reduce direct interaction between taxpayers and tax collectors.
+
+Improving access to tax data: Digitisation can also democratise access to tax data, enabling civil society and citizens to monitor performance. Evidence from an experiment in Ghana demonstrates that technology can expand the effective tax base and improve compliance [21] . However, the same study found that digitisation can have unintended effects: increasing the bargaining power of tax collectors in ways that allow them to extract more bribes from poorer households [22] .
+
+Expanding the tax net: In Punjab, the electronic invoice monitoring system has improved documentation and increased reported liabilities. Expanding POS systems and electronic payments has brought more businesses into the tax net [23] . A notable reform was reducing the restaurant sales tax rate from 16% to 5% for card payments, which increased transparency, curbed under-reporting, and boosted documented sales [24] .
+
+Enhancing accuracy of tax assessments:
+
+In property taxation, Punjab has used high-resolution satellite imagery and GIS mapping to uncover thousands of unrecorded properties [25] . In Sindh, the Board of Revenue completed a province-wide digital cadastre, geo-referencing all 5,979 Dehs [26] and integrating 2,933 at the survey-number level into the Land Records Management Information System (LARMIS), improving valuation transparency and reducing discretion [27] .
+
+In Sindh, the Board of Revenue completed a province-wide digital cadastre about a decade ago, digitising and geo-referencing all 5,979 Dehs, and integrating 2,933 of them to the survey-number level into the Land Records Management Information System (LARMIS). This integration has improved valuation transparency, reduced discretion in tax assessment, and strengthened oversight.
+
+Improving compliance: For the sales tax on services, POS technology is improving compliance. Nationally, the Federal Board of Revenue (FBR) reported a 40% jump in POS-mediated sales tax collection in FY 2025 (PKR 414 billion versus PKR 295 billion the previous year) [28] . In KP, restaurants and salons have begun adopting POS systems integrated with KPRA’s platform, issuing QR/barcoded invoices that customers can verify through the KPRA app [29] .
+
+Reforms in tax governance and administration essential
+
+Provincial tax administration in Pakistan is as much about governance and institutional relationships as it is about technical capacity. For example, although property tax in Pakistan is legally a local government levy, its collection is managed by provincial governments, causing disputes over ownership, responsibility, and control. Lower-tier collectors often hold detailed local knowledge of the tax base and can use this discretion in ways that undermine compliance.
+
+Technology for oversight and standardisation: Technology can help rebalance information flows by giving higher tiers real-time visibility into the tax base, enabling standardised assessments and better oversight. For instance, machine learning pilots in KP using third-party data have improved property valuations, but require accompanying reforms such as standardised valuation methods, transparent record-keeping, and clear accountability mechanisms [30] .
+
+Aligning roles with capacity: Governance reform also means aligning responsibilities with capacity. If local governments are to play a bigger role in tax administration, they need trained staff, stable funding, and reliable data access. Provincial governments should provide oversight and policy guidance without micromanaging operations.
+
+Strengthening the fiscal contract: A stronger fiscal contract, linking taxes paid to visible local services, can also raise voluntary compliance. Utilising tax funds in the localities in which those funds are earned is crucial for revenue mobilisation. However, currently, Pakistani local authorities lack capacity to manage large-scale development funding effectively and therefore citizens do not clearly see the link between tax allocation and spending. An IGC-funded experiment found that allocating 35% of tax revenues to locally chosen development projects increased compliance [31] . Ring-fencing revenues to the municipality where they are collected can reinforce this link, but requires empowering local governments to both collect and administer taxes.
+
+Addressing fragmented revenue collection: Currently, in KP, multiple authorities (e.g., KP Culture Tourism Authority, KP Revenue Authority, Galiyat Development Authority) collect taxes without direct municipal accountability limiting citizen trust [32] . Empowering elected local governments with both revenue authority and accountability mechanisms is key to building a sustainable tax base.
+
+Institutional coherence: Finally, governance reform requires institutional coherence. Unified revenue authorities, such as the Sindh Revenue Board and the Punjab and KP Revenue Authorities, have demonstrated that integrating tax functions under one institution can streamline operations and improve oversight. Pairing such institutional reforms with digital tools and transparent processes creates a system where discretion is limited, responsibilities are clear, and compliance is both easier for taxpayers and harder to evade.
+
+To conclude: combine quick wins with long-term reform
+
+Pakistan’s provinces do not need to choose between immediate results and long term structural/systemic change. Behavioural nudges can deliver quick gains, while digitisation and governance reforms create the structural capacity for sustained growth in mobilisation revenue. With the new NFC framework likely to tie transfers more closely to provincial revenue performance, scaling tested interventions is urgent. By combining behavioural insights, technological innovation, and governance reform, provinces could double or even triple their OSR within a decade, reducing dependence on federal transfers and strengthening fiscal autonomy. In the next NFC settlement, the provinces that move first will be best positioned to secure both resources and authority.
+
+Ms. Hina Shaikh is currently serving as the Senior Country Economist at the International Growth Center, Pakistan Office.
+
+[1] https://finance.gos.pk/ResourceDistribution/NFC
+
+[2] https://www.wateraid.org/where-we-work/pakistan
+
+[3] https://www.wateraid.org/where-we-work/pakistan
+
+[4] https://www.nature.com/articles/s41598-022-24063-2
+
+[5] https://blogs.worldbank.org/en/endpovertyinsouthasia/addressing-pakistans-high-level-stunting-now
+
+[6] https://finance.punjab.gov.pk/system/files/WP24-25.pdf
+
+[7] https://www.dawn.com/news/1929983
+
+[8] https://thedocs.worldbank.org/en/doc/7b6ba1ef456f3bc07c84f3af0aa8f4f3-0310062023/original/Pakistan-Reforms-For-A-Brighter-Future-Policy-Note-6-Strengthening-Government-Revenues.pdf
+
+[9] https://www.finance.gov.pk/survey/chapters_23/04_Fiscal%20Development.pdf
+
+[10] https://tribune.com.pk/story/2440273/agri-property-taxes-top-priority
+
+[11] https://stats.oecd.org/Index.aspx?DataSetCode=REVPAK
+
+[12] https://www.theigc.org/publications/urban-property-taxes-pakistans-punjab
+
+[13] Economic survey 2024-25
+
+[14] https://www.povertyactionlab.org/evaluation/incentivizing-property-tax-inspectors-through-performance-based-postings-pakistan
+
+[15] https://www.povertyactionlab.org/evaluation/incentivizing-property-tax-inspectors-through-performance-based-postings-pakistan
+
+[16] https://www.nber.org/system/files/working_papers/w25623/w25623.pdf
+
+[17] https://www.brecorder.com/news/40294117
+
+[18] https://www.aeaweb.org/content/file?id=9694
+
+[19] https://www.theigc.org/sites/default/files/2023-03/Abbas%20et%20al%20Policy%20brief%20December%202022.pdf
+
+[20] https://seed-pk.com/mindlab/
+
+[21] https://www.theigc.org/blogs/promise-and-pitfall-technology-evidence-tax-collection-ghana
+
+[22] https://www.theigc.org/blogs/promise-and-pitfall-technology-evidence-tax-collection-ghana
+
+[23] https://www.theigc.org/blogs/taxing-effectively/electronic-invoice-monitoring-systems-improve-tax-compliance-evidence
+
+[24] https://taxbeing.com/punjab-government-reduces-sales-tax-to-zero-percent/
+
+[25] https://tribune.com.pk/story/2276126/punjab-to-use-satellite-imagery-to-trace-tax-evaders
+
+[26] “Deh” refers to a unit of land, essentially a village or a specific area, for which a separate record of rights or land revenue assessment exists
+
+[27] https://www.dawn.com/news/1117976
+
+[28] https://profit.pakistantoday.com.pk/2025/07/02/fbr-reports-40-surge-in-sales-tax-collection-through-pos-system-in-fy25
+
+[29] https://kpra.gov.pk/officials-of-kpra-visited-restaurants-in-peshawar-to-integrate-to-their-pos-system-with-rims-of-kpra/
+
+[30] https://www.theigc.org/collections/cross-verification-revenue-data-using-third-party-data
+
+[31] https://www.theigc.org/collections/rebuilding-social-compact-urban-service-delivery-and-property-taxes-pakistan-0
+
+[32] https://cdpr.org.pk/creating-fiscal-space-for-sustainable-tourism-in-kpk/

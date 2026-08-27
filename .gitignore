@@ -1,0 +1,13 @@
+# The PDF corpus is ~6 GB - far past GitHub's limits, and 7 files exceed the
+# 100 MB hard cap. Run tools/download_pdfs.py to rebuild it from the index.
+pdfs/
+2022/
+pdfs.zip
+
+# Chrome profile used to get past Cloudflare; recreated on demand
+.chrome-profile/
+
+node_modules/
+*.part
+data/*.log
+.DS_Store

@@ -1,0 +1,31 @@
+The fundamental premise upon which the foundations of modern-day economics stands is that resources are finite and therefore must be allocated to their most productive use. However, our policymakers’ erroneous pursuit of political mileage over economic growth has guided resources towards low productivity uses. Electricity is one such resource.
+
+As in most of the world, electricity tariffs in Pakistan are based on their end-use with separate tariff-categories for residential, commercial, industrial and agricultural consumers. Our prices, however, are not set to achieve the optimal allocation of resources. Industrial users—whose productivity is highest in terms of value added per KWh consumed—have historically been charged substantially higher tariffs compared to relatively less productive residential and agricultural users. In advanced economies and developing regional competitors like India and Bangladesh, industrial sectors are provided with competitive rates for electricity.
+
+Energy is where structural reform must begin.
+
+Pakistan’s total external debt stands at approximately USD 127 billion, and annual debt servicing costs are upwards of USD 18 billion.[1] In FY23, we imported around USD 60 billion worth of goods and services, down from USD 80 billion in FY22 due to import restrictions. To pay for this, we exported only USD 35 billion worth of goods and services and received about USD 30 billion in remittances.[2] The difference was borrowed.
+
+The only way out of this chronic cycle of external balance crises is to build a strong and sustainable export base. But standard models of international trade tell us that this is practically impossible without providing industry with competitive energy tariffs.
+
+A firm’s decision to export is based on a cost function which comprises costs of fixed capital, raw material, wages, and factory overheads including electricity to power production equipment. It decides to export only if its total cost of production is less than the international price of the goods it produces. If the cost of an input increases beyond a certain threshold that pushes the total cost above international prices, it is unable to compete in the international market and exits the export sector. When multiple firms face the same dynamics, the export sector is crowded out, with a subsequent reduction in exports and further implications for the aggregate economy.
+
+Figure 1. High power tariffs will crowd out the export sector.
+
+Figure 1 illustrates how Pakistan’s textile sector is being similarly crowded out. In 2020, the government provided export firms with a regionally competitive energy tariff (RCET) of 9 cents/KWh under which exports increased from USD 27.9 billion in 2020 to USD 39.4 billion in 2022. In October 2022, RCET was converted to a rupee-based fixed rate of Rs. 19.9/KWh and subsequently withdrawn in March 2023. With electricity costs accounting for 30-40% of conversion costs, this caused over 30% of Punjab’s textile industry to cease production and another 25% is expected to shut down by August if business as usual continues, increasing the number of laid-off textile workers from 4.3 million to over 7.8 million—approximately 10% of Pakistan’s total workforce.
+
+If we are to take the economy out of this vicious cycle of crisis after crisis, a sizable and sustainable increase in exports is immediately needed. This requires a continuous commitment to support exporters through all possible means.
+
+The prevalent argument against government support is that exporters should no longer benefit from government subsidies, and that such subsidies are not compliant with the current IMF Stand-by Agreement (SBA). This is simply not true. First, the provision of competitive energy tariffs is not a subsidy because it involves no transfer or discount from the government to the industry on the actual cost of service, which includes power generation, transmission and other applicable costs. What the cost-of-service tariff does exclude is economic inefficiencies like stranded costs, cross-subsidies to lifeline consumers and distribution losses—all of which are penalties on the government and power-sector’s own inefficiencies, both past and present, that consumers are now having to pay for. Second, even if this were an actual subsidy, the IMF program only prohibits untargeted and unbudgeted subsidies. Since cost-of-service tariffs would only be provided to exporters, they are indeed targeted. To make them fully compliant, the government must spread the resulting revenue differential of Rs. 100 billion over other consumer categories. This represents an upper bound increase of Rs. 2/KWh that should be loaded towards high-end residential, commercial and non-exporting industrial users.
+
+Compared to the Rs. 7.5/KWh increase already recommended by NEPRA, the short-term costs of an additional Rs. 2 hike are heavily outweighed by medium- and long-term benefits. First, it will enable the resumption and expansion of export industries. This will bring in much-needed foreign exchange and secure the economy’s external position, build resilience against exchange rate shocks and pass-through inflation, provide productive employment, and attract investment. It will also serve as an incentive to divert investment away from less productive non-export sectors towards export-oriented sectors—further reinforcing the first-order effects discussed above.
+
+Rationalisation of power tariffs with an export-oriented outlook is one of those “difficult decisions” that the government has repeatedly asserted it is willing to take for the betterment of the economy. It is now time to walk the walk.
+
+Table 1. Cost-of-Service Tariffs for B-3 and B-4 Industrial Consumers.
+
+The authors are affiliated with the All Pakistan Textile Mills Association (APTMA).
+
+[1] IMF Staff Report, 2023
+
+[2] State Bank of Pakistan

@@ -1,0 +1,123 @@
+Introduction: The Two Pillars, One Trap
+
+Pakistan’s macroeconomic policy rests on two pillars: an increasingly independent monetary framework and a persistently constrained fiscal framework. Over the past two decades, the SBP has steadily acquired legal and operational autonomy, enabling it to steer monetary policy with greater institutional discipline.
+
+Fiscal policy, by contrast, remains shackled by entrenched political bargains, rigid structural arrangements, and an ever-expanding government footprint. The fiscal state is now approaching the upper limits of what can be extracted from the economy—both in terms of predatory taxation and public debt—without inflicting further harm on businesses productive activity and households’ disposable income.
+
+At the heart of this fiscal bind lies a growing dependence on regressive taxation and heavy borrowing to finance the federal deficit. Successive governments, constrained by weak external credit ratings and recurring balance-of-payments crises, have had limited access to international capital markets. Domestic borrowing has thus become the primary fiscal lifeline. But with local banks already saturated with government securities, the room for additional borrowing has also narrowed sharply.
+
+The outcome is a cycle of perpetual fiscal consolidation : year after year, budgets are tightened; profitability of businesses in the formal sector is squeezed; household disposable incomes decline; and aggregate demand weakens, stifling both private investment and the prospect of growth recovery. The FY26 federal budget—crafted under the latest IMF-supported Extended Fund Facility (EFF)—is a textbook example of how deeply entrenched this pattern has become.
+
+Has the National Fiscal Pact Locked the Federal Budget?
+
+The IMF’s 37-month, $7 billion Extended Fund Facility (EFF), approved in September 2024, placed fiscal solvency at the heart of its program design. To navigate the politically sensitive terrain of the NFC Award—often portrayed as the fiscal glue binding the federation—the program relied on two instruments: sustained consolidated primary surpluses and a newly signed National Fiscal Pact (NFP) between the federal and provincial governments.
+
+The FY26 federal budget data illustrate the pact’s underlying dynamics. Debt servicing alone accounts for 50% of total expenditure, with domestic debt servicing consuming 44%. These ratios are virtually unchanged from the revised FY25 budget. Meanwhile, provinces are projected to generate a combined surplus of Rs. 1.5 trillion, yet this figure does not appear as a revenue item in the federal accounts. Instead, provincial surpluses are retained by provincial governments and invested in eligible securities.
+
+As a result, the federal government still plans to borrow Rs. 6.4 trillion in FY26—an amount equal to half its total expenditure (or 5% of GDP)—despite the consolidated budget targeting a primary surplus of Rs. 3.2 trillion (2.4% of GDP). In other words, the NFP achieves its surplus target on paper, but the federal financing gap remains structurally large.
+
+This arrangement creates a policy treadmill. Under the 7th NFC Award, 57.5% of Federal Board of Revenue (FBR) collections are transferred to the provinces each year. The provinces are then tasked with running surpluses, while the federation shoulders rising debt-servicing costs and the fiscal imperative to raise yet more revenue—often through regressive taxation—to fund its own obligations. The result is a fiscal architecture that stabilizes little beyond the optics.
+
+III. Can an Interim NFC Award End ‘Forever’ Fiscal Consolidation?
+
+The IMF’s first review of the EFF projects that real GDP growth will inch up from 3.6% in FY26 to 4.1% in FY27, stabilizing near 4.5% through FY30. That is, projected growth remains constrained by the persistent need to avert balance-of-payments crises.[1]
+
+The fragility of the fiscal strategy is evident in the baseline projections. Tax revenues are expected to grow at around 11% per year in FY29 and FY30, equivalent to roughly 12% of GDP. Primary expenditure (excluding debt servicing) is projected to grow at the same pace, about 14% of GDP. Debt servicing obligations are forecast to decline from 8% of GDP in FY25 to 5% by FY30, allowing consolidated government and guaranteed debt to fall from 78% of GDP in FY25 to 64% by FY30—similar to the recent average for lower middle-income countries.
+
+Yet the debt stock remains daunting. Between 2021 and 2024, public debt-to-budgetary revenue ratios in both Pakistan and Egypt (excluding Sri Lanka) exceeded 500%. In practice, this means that, hypothetically, it would take more than five years of allocating all annual tax revenue solely to debt repayment to clear the existing stock. For FY27–FY30, Pakistan’s public debt-to-federal-tax-revenue ratio is projected to fall only from 538% to 462%. That is, compared to peer countries, the “forever” fiscal consolidation still doesn’t resolve the institutionalized drivers of unsustainable debt accumulation—keeping the economy locked in what can only be described as “forever” fiscal consolidation.
+
+This raises three unavoidable policy questions:
+
+Duration – How long can fiscal consolidation continue without a defined endpoint?
+
+Political sustainability – How long before the cumulative adjustment costs become politically untenable?
+
+Alternatives – Could a restructured, interim and time-bound NFC arrangement deliver fiscal solvency without indefinite austerity?
+
+Answering these questions requires testing counterfactuals against the IMF’s own baseline to see whether an interim redesign of the NFC could provide a credible exit from the perpetual consolidation loop.
+
+The Counterfactual: An Interim NFC Award and Fiscal Solvency
+
+Two counterfactual budget simulations were run to anchor debate around proposed interim arrangement:
+
+Simulation 1: Interim NFC Award recalibrating the divisible pool split from 42.5:57.5 to 60:40 in favour of the federation, while treating debt servicing and defence as first charges on consolidated revenue. Result: federal deficits fall sharply to below 1% of GDP by FY30—about four percentage points better than the IMF baseline.
+
+Simulation 2: Building on Simulation 1, domestic debt servicing is cut by 30% annually through restructuring. Result: the federal budget turns into surplus (1.5% of GDP by FY30), though this requires politically difficult and technically complex domestic debt restructuring.
+
+The logic is straightforward. By increasing the federal share, Islamabad could reduce its dependence on new borrowing, lower debt-servicing pressures, and finance essential functions without pursuing “forever” fiscal consolidation. The IMF’s own framework allows for such adjustments, provided they are grounded in a credible political agreement and supported by measures to protect provincial fiscal space for delivering essential services.
+
+However, political feasibility is far from guaranteed. The provinces, particularly those with smaller tax bases, are likely to resist any reduction in their share, citing constitutional guarantees under the NFC. Building consensus would require framing the interim award not as a permanent rollback, but as a stability pact —a shared sacrifice to restore macroeconomic health, after which the original distribution would be reinstated.
+
+Testing the Interim Award: Debt and Deficit Dynamics
+
+To gauge the fiscal impact of an interim NFC, we apply the IMF’s own baseline as the control and run the counterfactual for FY27–FY30. The results are striking.
+
+With the interim award, the federal fiscal balance improves over the projection period. This improvement translates directly into reduced borrowing needs—shrinking the average annual fiscal deficit from 5% of GDP under the baseline to a surplus of 1.4% in the counterfactual scenario. In cumulative terms, it reduces the FY27–FY30 gross baseline federal deficit financing requirement from Rs 32.6 trillion to a surplus of Rs 9.3 trillion. Under this interim setup, the federal government’s debt accumulation could rapidly slow enough to bring the public debt-to-tax revenue ratio closer to the upper middle-income country average—without the damaging side effects of deeper austerity.
+
+There are two next steps to extend the counterfactual: (i) trace the impact of interim NFC on provincial solvency and their ability to deliver social services, and (ii) examine the extent of second-order impact on private investments and growth recovery. Lower GoP borrowing needs will likely reduce crowding out of private sector borrowing and thereby assist in growth recovery.
+
+Political Economy of an Interim NFC Pact
+
+While the fiscal arithmetic is compelling, the political economy is more complex. NFC negotiations are not about macroeconomic efficiency alone—they are deeply entangled with questions of political power, inter-provincial trust, and the historical memory of perceived fiscal injustices.
+
+The 7th NFC Award, agreed in 2010, was celebrated as a milestone in decentralization, granting provinces an unprecedented share of federal revenues. Any proposal to alter that balance, even temporarily, risks being framed as a rollback of constitutional gains. This framing can quickly harden political positions, particularly in smaller provinces that fear being overshadowed by Punjab’s economic dominance.
+
+For an interim award to gain traction, the federal government must adopt a consensus-building approach that emphasizes shared risks and shared rewards. The pitch should be framed not as an erosion of provincial rights but as a joint stabilization pact —a coordinated response to an extraordinary fiscal moment. Clear commitments would be essential:
+
+Time-bound adjustment with automatic reversion to the reformed 7th Award formula after FY30.
+
+Transparency mechanisms to ensure that additional federal revenues are directed toward debt reduction and building fiscal buffers, not recurrent patronage spending.
+
+Safeguards for provincial development budgets to prevent disproportionate cuts in local service delivery.
+
+History offers a cautionary note: fiscal compacts in Pakistan have a mixed track record of durability, often unravelling when political coalitions shift. The credibility of any interim arrangement would hinge on institutionalizing it through a federal–provincial agreement ratified by the Council of Common Interests (CCI) and backed by constitutional guarantees.
+
+VII. Beyond NFC: Structural Fixes for Fiscal Sustainability
+
+An interim NFC adjustment can provide breathing room, but it is no substitute for tackling the deeper structural causes of Pakistan’s fiscal fragility. Without addressing these, any short-term relief will eventually dissolve into the same cycle of deficits, debt accumulation, and IMF dependence.
+
+The counterfactuals point to the need for deeper restructuring beyond NFC tweaks. Sustainable fiscal reforms demand targeted reductions in politically sensitive but non-productive spending areas: non-operational defence outlays, overly ambitious PSDPs, unfunded pension obligations, and poorly targeted subsidies. Without tackling these, fiscal space for countercyclical policy will remain illusory.
+
+Forward Pathways
+
+Recalibrate the NFC Award
+
+Negotiate an interim NFC for FY27–FY30 that increases the federal share of revenues, prioritizes debt servicing, and enables debt restructuring without further burdening taxpayers.
+
+Leverage Banks’ Strong Capital Adequacy to Restructure Domestic Debt
+
+To ease debt servicing pressure, capitalizing on the strong capital adequacy of domestic banks. Use savings to retire high-cost debt and reallocate resources to building fiscal buffers.
+
+Protect Core Security Spending
+
+Ring-fence operational defence and pension spendings while reducing non-operational allocations within a fixed timetable.
+
+Reduce Government’s Economic Footprint and Legislate Fiscal Discipline
+
+Enforce hard borrowing limits tied to debt-to-revenue ratios, mandate broader tax compliance, and restrict borrowing to income-generating infrastructure. Codify “odious debt” provisions. Require parliamentary vetting of all borrowing agreements.
+
+Public Debt Management
+
+Reliance on short-term domestic borrowing leaves the fiscal framework exposed to rollover risks and volatile interest costs. Moving toward longer-maturity instruments, broadening the investor base, and deepening domestic capital markets can reduce these vulnerabilities over time.
+
+Modernize Budget Governance
+
+Adopt zero-based budgeting, rolling three-year fiscal frameworks, and accrual accounting. Integrate real-time audit systems to tighten control over execution and enhance transparency.
+
+These reforms are politically difficult because they disrupt entrenched interests, but they are also the only pathway to genuine fiscal sovereignty. Without them, Pakistan will remain locked in a permanent adjustment mode , where every budget is less a vision for growth and more a compliance document for external lenders.
+
+VIII. Conclusion: A Pact for Stability and Growth
+
+Pakistan’s fiscal story is often framed as a tug-of-war between austerity and populism, but the deeper truth is that both extremes avoid confronting the structural imbalances at the heart of the problem. The IMF’s baseline projections show that, even with gradual improvement, debt burden will remain heavy, deficits persistent, and fiscal space minimal by FY30.
+
+Macroeconomic stability will remain elusive unless Pakistan breaks the structural trap of “forever” fiscal consolidation. Without debt restructuring, the fiscal burden will continue to crowd out investment, suppress growth, and erode living standards. The current consensus—accepting permanent consolidation as inevitable—imposes unsustainable costs on the economy.
+
+A truly liberated fiscal policy, aligned with an independent monetary stance, is essential for countercyclical flexibility. By redesigning fiscal federalism, restructuring debt, and legislating discipline, Pakistan can replace austerity’s slow suffocation with a credible path to growth and resilience.
+
+An interim NFC adjustment should aim to rebalance the vertical fiscal equation to give the federation enough space to reduce borrowing, slow debt growth, and restore its countercyclical function. If framed as a time-bound national stability pact , and anchored in the Council of Common Interests, the interim NFC could become more than a stopgap—it could serve as a bridge from permanent adjustment to sustainable recovery and growth. The alternative is to drift along the baseline path: slow consolidation, heavy debt, and a budget process perpetually beholden to external lenders.
+
+The choice is less about technical feasibility than about political will. Pakistan’s fiscal future hinges on whether its federation can, for once, act as a united entity in pursuit of a shared goal: stability today, growth tomorrow.
+
+[1] IMF – Pakistan: First Review under the EFF; Report No. 25/109; dated May 2025. It is important to note that the IMF’s baseline macroeconomic projections are not necessarily based on accurate realism of underlying assumptions. But, more importantly, baseline projections meet the requirements of macroeconomic consistency tests. That is, the baseline projections are internally balanced across all sectors of the economy, observe the various economic identities, and therefore are considered plausible and serve as a benchmark baseline projection.
+
+Dr. Ahmed Zubair is currently a Research Fellow at PRIME Islamabad and serving as the Chief Executive at MAZ Economic Consultancy, Islamabad. Previously he has also served as the Chief Economist at the Planning Commission of Pakistan, and as the Regional Lead Economist at Islamic Development Bank in Jeddah.

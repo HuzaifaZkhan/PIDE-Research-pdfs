@@ -1,0 +1,121 @@
+Introduction
+
+This policy viewpoint analyzes the main reasons for low productivity in Pakistan, along with proposing a set of actionable policy recommendations to address them. In Pakistan, economic growth has generally been driven by input accumulation rather than by improving productivity growth. Pakistan’s TFP and GDP growth move together, and whenever TFP growth has increased, the GDP growth has also increased, and vice versa. As a result, Pakistan’s export-oriented manufacturing has struggled to compete globally. With a growing labor force, which has reached over 83 million according to the latest Labour Force Survey (LFS 2024-25), the need to shift from growth based on input accumulation to skill-based productivity has increased manifold. Pakistan’s productivity experience shows that episodes of economic liberalization and reform have generally been associated with stronger TFP growth. On the other hand, periods characterized by restrictive policies, such as import restrictions and exchange rate control, have coincided with weaker productivity performance (Siddique, 2022a; Siddique, 2022b). This makes a strong case for reducing misallocation of resources, which has resulted from a long history of incentive-based and protectionist policy regimes, and improving the competitive environment by removing distortionary policies to increase productivity growth. Improving productivity growth will help in making Pakistan’s industrial sector dynamic, which will ultimately improve export competitiveness. Such a scenario will put the economy on the path of sustainable growth and development.
+
+Background
+
+Research on Pakistan’s productivity and GDP growth shows that both fell in the 1970s, which was the period of strict government controls through large-scale nationalization of industries that were ready to take off. On the other hand, both TFP and GDP growth increased in the subsequent periods, especially in the mid to late 80s, which were characterized by regulatory reforms, market liberalization, market-oriented reforms, financial liberalization, macroeconomic and political stability, and a conducive external environment (Siddique, 2022a; Zaidi, 2015; Din, 2007; López-Cálix, J.R. et al., 2012). The liberalization policies were followed by market-oriented reforms in the 90s, including trade liberalization and capital account opening, sustaining the gains made in the mid to late 1980s. There are several examples of various developing countries that managed to achieve impressive growth on the back of liberalization policies and governance reforms. Examples include India (Mirtra, 2016; Bandara & Karunaratne, 2013), China (El Nur, 2021), and Viet Nam (Ali et al., 2024; IMF Staff, 2001), among others.
+
+Currently, productivity growth in Pakistan is low, both absolutely (i.e., it is on the decline) and relatively (i.e., relative to earlier periods and also relative to other economies, such as India, China, and Korea) (APO, 2023). Interestingly, firm-level evidence (Faraz, Siddique, & Saeed, 2023) shows that the services-oriented sectors show higher TFP growth, outperforming manufacturing and agriculture sectors. The reasons for low productivity are several (Isaksson, 2007; Kim & Loayza, 2019), but in the context of Pakistan, the main factors include:
+
+Government Footprint: A large government footprint and regulatory sludge, as poor-performing SOEs, government control on prices and excessive regulatory burden (registrations, licenses, certificates, and other permits – RLCOs) hamper productivity, both at the macro and firm levels (PIDE, 2021; PIDE, 2022).
+
+Misallocation of Resources: Diagnostics studies by the World Bank (2002) and IMF (2024) point out misallocation of resources as the reason for subpar productivity growth performance. They argue that structural reforms can reap meaningful gains for the economy of Pakistan.
+
+Reforms and Infrastructure Quality: OECD’s 2025 Productivity Compendium (OECD, 2025) also shows that many economies are grappling with weak TFP growth, which highlights the need for capability‑oriented reforms. Similarly, UNIDO (2024) highlights that improving the quality of infrastructure can improve manufacturing for export through productivity improvement.
+
+Low Productivity Growth in Pakistan: Problems and Issues
+
+Anti‑export bias and policy inconsistency: Pakistan’s trade policy is focused on tariffs and para‑tariffs, import restrictions that reduce industrial competitiveness. Similarly, Pakistan’s energy policy is complex, notwithstanding other issues hurting Pakistan’s energy sector, which raise energy prices. These factors not only raise firms’ costs but also create uncertainty for manufacturers (World Bank, 2022).
+
+Regulatory sludge and large government footprint: Irrational and burdensome RLCOs and inefficiencies in the SOEs, especially in energy and logistics, erode firm competitiveness and crowd out private investment (PIDE, 2022; PIDE, 2021; World Bank, 2022)
+
+Firm capabilities: In Pakistan, firms suffer from weak management practices (APO, 2023), standardized quality systems, and supplier inefficiencies constrain Pakistani firms’ ability to tap into high‑value export products and markets (World Bank, 2024; UNIDO, 2024).
+
+Finance and productivity: Pakistani banks prefer investing in government funds, securities for sovereign guarantees and secure returns, which limits private lending, thereby hurting their ability to upgrade and invest in new capital and technologies (PIDE, 2021; ADB, 2020).
+
+Human capital mismatch: While Pakistan is a labour-abundant country, there is a significant disconnect between the available workforce and the specialised skills required for high-productivity manufacturing. Current labor force statistics highlight a bulge in low-skilled workers, which limits the ability of firms to move into complex, high-value-added sectors (SBP, 2019; British Council/EU TVET IV, 2024; PIDE, 2023).
+
+The digital divide: Pakistan’s industrial sector lacks technological depth, as many firms operate outdated technology or manual systems with minimal digital integration, which makes it very difficult to implement lean management or standardized quality systems. Without a digital foundation, it is difficult to identify and rectify real-time process inefficiencies (World Bank, 2023).
+
+Policy Recommendations
+
+Remove Anti‑Export Bias and Consistent Tariff Policy: The tariff policy should be consistent and predictable so that manufacturing firms can plan for investment in capital and technology to raise their competitiveness. In this regard, a long-term rule-based tariff policy should be adopted. The tariff policy should aim for the removal of anti-export bias, import restrictions, and the reduction of effective protection rates for tradable goods.
+
+Global Integration: Global value chain evidence shows that removing protection through tariffs increases pressure on firms to find ways to stay competitive. World Bank (2022) emphasizes allocative efficiency and firm spillovers, while ADB (2020) supports tariff rationalization through its Trade & Competitiveness Program.
+
+Enhancing the Manufacturing Sector’s Capability: The manufacturing sector’s capabilities can be enhanced by promoting lean management practices, standardization through certification, such as ISO, HACCP, CE, etc., digital adoption through, for example, Manufacturing Execution System (MES) and Enterprise Resource Planning (ERP);[1] and supply chain improvement for export‑oriented clusters and integration into the GVC. The sectors that can benefit from these are textiles, apparel, engineering goods, and agro‑processing, among others.
+
+In this regard, UNIDO’s quality infrastructure programmes, such as the Global Quality and Standard Programme (GQSP), the International Trade Centre (ITC) and the World Economic Forum’s (WEF) collaborative initiatives for suppliers’ development initiatives can improve firms’ capability, increase productivity, help in getting global standardization certifications, and integration into GVCs.
+
+Energy Issues: While prepaid metering has been initiated in Pakistan, its adoption should be made widespread. Moreover, Pakistan’s energy sector is plagued by huge line losses and other losses, which must be reduced to reduce energy costs for firms and increase energy efficiency. Moreover, the private sector must participate in the energy sector to reduce energy costs and introduce competition in the sector. Moreover, wheeling and bilateral contracts should be allowed for large users to buy energy at competitive tariffs, with targeted cash transfers for vulnerable households. The World Bank (2022) advocates energy distribution reforms and market access to reduce outages and improve service quality.
+
+Regulatory Audits: Mapping of registration, licensing, certification, and other permissions is essential so that low‑value RLCOs can be eliminated, while the required RLCOs must be digitized for ease of doing business.
+
+Finance for Productivity: Financial innovation can be used to improve productivity by introducing productivity‑linked credit guarantees and performance‑based interest rebates. Tying these schemes with performance improvement, such as standardization (ISO, HACCP, etc.) and export targets, will incentivize firms to improve productivity to compete for incentives. ADB’s programmatic support for tariffs, Pakistan Single Window (PSW and Export Import Bank of Pakistan (EXIMBP) and OECD guidance on SME modernization highlight financial innovations that improve capability investments rather than ad hoc measures.
+
+Industry-Led Vocational Training: There is a need to shift from supply-driven to demand-driven technical training. For this end, establishing sector-specific “Skill Councils” (e.g., for Textiles or Engineering) can ensure that the labor force is trained in the exact technical competencies required by modern export-oriented clusters.
+
+Management Modernization: Since firm-level evidence shows management practices are a bottleneck, the government should subsidize “Management Upgrade” programs that pair local firms with international consultants to improve shop-floor efficiency.
+
+Expected Outcomes
+
+Short-Term: In the short term, the suggested policy recommendation can be instrumental in lowering compliance times and costs, improving energy reliability for manufacturers and other firms, and urging firms to acquire quality certifications and process upgrades.
+
+Medium‑Term: In the medium term, such steps may result in higher firm productivity, export stability and increase, and the development and introduction of new products and management practices. It will also reduce anti‑export bias. Moreover, it will divert private credit, which is very low currently, to competitive firms.
+
+Long-Term: Eventually, these policy recommendations will help in increasing productivity growth, with tangible gains in the manufacturing sector’s competitiveness and export performance. IMF’s projections (IMF, 2024) suggest that a comprehensive structural reform package can increase growth by 2% over five years.
+
+Conclusion
+
+It is important to keep in mind that Pakistan’s economy, especially its manufacturing sector and export-oriented firms, will not become competitive by relying on stopgap measures and ad hoc controls. Improving productivity to give Pakistani manufacturers a competitive edge to improve export performance requires energy efficiency and removing regulatory burden, among other things. Pakistan’s economy has suffered long enough from haphazard policy actions in the shape of boom-bust cycles and lost opportunities. Acting now will result in an efficient economy with competitive manufacturers to promote economic growth, development, and overall welfare.
+
+References
+
+ADB. (2020). Trade and competitiveness program (subprogram 2): Report and recommendation of the president . Asian Development Bank.
+
+Ahmed, W. (2023). Firm productivity in Pakistan: Challenges and way forward . Pakistan Institute of Development Economics.
+
+Ali, B., et al. (2024). Impact of trade liberalization on economic growth in developing countries. Bulletin of Business and Economics, 13 (2), 1128–1133.
+
+APO. (2023). Productivity in Pakistan: Estimates, bottlenecks, and the way forward . Asian Productivity Organization.
+
+Bandara, Y. M. W. Y., & Karunaratne, N. D. (2013). Globalization, policy reforms and productivity growth in developing countries: Evidence from Sri Lanka. Global Business Review, 14 (3), 429–451.
+
+British Council Pakistan. (2024). Skill gap & market need analysis report – EU TVET IV .
+
+El Nur, A. B. P. (2021). The prospects and challenges of economic liberalization in reducing poverty and inequality in Indonesia. Journal of Social Development Studies, 2 (2), 1–14.
+
+Faraz, N., Siddique, O., & Saeed, A. (2023). Sectoral total factor productivity in Pakistan (PIDE Research Report 2023:1). Pakistan Institute of Development Economics.
+
+IMF Staff. (2001). Global trade liberalization and the developing countries (IMF Issues Briefs No. 01/08). International Monetary Fund.
+
+IMF. (2024). Pakistan: Selected issues—measuring the gains from structural reforms (IMF Country Report No. 24/311). International Monetary Fund.
+
+Isaksson, A. (2007). Determinants of total factor productivity: A literature review (Staff Working Paper 02/2007). United Nations Industrial Development Organization.
+
+Kim, Y. E., & Loayza, N. V. (2019). Productivity growth: Patterns and determinants across the world (Policy Research Working Paper No. 8852). World Bank Group.
+
+López-Cálix, J.R. et al. (2012). What do we know about growth patterns in Pakistan? (World Bank Policy Paper Series on Pakistan No. PK 05/12). The World Bank.
+
+Mitra, D. (2016). Trade liberalization and poverty reduction (IZA World of Labor 2016: 272). IZA World of Labor.
+
+Muslehuddin (2007). An analysis of Pakistan’s growth performance. (Asian Development Bank Pakistan Resident Mission Pakistan Poverty Assessment Update Background Paper Series).
+
+OECD. (2025). Compendium of productivity indicators 2025 . Organisation for Economic Co-operation and Development.
+
+PIDE. (2021). The PIDE reform agenda for accelerated and sustained growth . Pakistan Institute of Development Economics.
+
+PIDE. (2022). PIDE sludge series (Vol. 1). Pakistan Institute of Development Economics.
+
+Siddique, O. (2022a). The determinants of total factor productivity growth in Pakistan: An exploration (PIDE Working Paper 2022:4). Pakistan Institute of Development Economics.
+
+Siddique, O. (2022b). Total factor productivity and economic growth in Pakistan: A five-decade overview. Pakistan Development Review, 61 (4), 583–601.
+
+State Bank of Pakistan. (2019). The importance of human capital in the context of CPEC . In the SBP annual report (Special Section). State Bank of Pakistan.
+
+State Bank of Pakistan. (2025). Pakistan’s low competitiveness: A case for investing in productivity . State Bank of Pakistan.
+
+UNIDO. (2024). Global quality and standards programme—independent terminal evaluation (2017–2023) . United Nations Industrial Development Organization.
+
+World Bank Enterprise Surveys. (2022). Pakistan country profile . World Bank Group.
+
+World Bank. (2020). Modernizing trade in Pakistan: A policy roadmap . World Bank Group.
+
+World Bank. (2022). Country economic memorandum: From swimming in sand to high and sustainable growth . World Bank Group.
+
+World Bank. (2022). Pakistan country economic memorandum: From poverty to equity . World Bank Group.
+
+World Bank. (2023). Digital progress and trends report 2023 . World Bank Group.
+
+Zaid, S. A. (2015). Issues in Pakistan’s economy: A political economy perspective . Oxford University Press.

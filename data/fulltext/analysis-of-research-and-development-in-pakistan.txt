@@ -1,0 +1,213 @@
+Background
+
+The existing literature establishes that innovation leads to sustainable economic growth and prosperity which brings about an uplift in the living standards of the people. Due to its association with economic growth, innovation performance has long been a topic of interest in contemporary business fields (e.g., Dekoulou and Trivellas, 2017; Jian et al., 2021; Wang and Tan, 2021; PIDE, 2002. To assess innovation performance, the World Intellectual Property Organization (WIPO) calculates the Global Innovation Index (GII) for global economies based on 81 distinct indicators grouped under seven pillars that define innovation performance. The index comprises two primary dimensions: i) innovation inputs, and ii) innovation outputs. These two dimensions additionally include seven pillars. Similarly, Innovation Input encompasses the political environment, human capital and research, infrastructure, market sophistication, and business sophistication, whereas Innovation Output pertains to the knowledge creation of each economy. GII evaluates the innovation ecosystem of countries annually, emphasizing their strengths and weaknesses in innovation, as well as specific gaps in innovation metrics. In short, GII allows global economies to assess their standings and evaluate their policies to improve innovation performance. The Global Innovation Index for 2023 (GII-2023) identifies Switzerland, Sweden, the USA, and the UK as the top economies in the innovation ranking (Khan et al., 2017).
+
+GII-2023 for South Asia: A Comparison among Pakistan, India, and Bangladesh
+
+The three major economies in South Asia are Pakistan, India, and Bangladesh. An analysis of these factors will enhance understanding of which economy is excelling in GII-2023, as the innovation capability also assesses the capacity of countries to leverage new technologies that facilitate inclusive and sustainable economic growth. The comparison between India and Pakistan is essential, as both nations are regarded as rivals across various domains.
+
+The GII-2023 report indicates that Pakistan’s economy ranks (88 th ) out of 132 countries, showing an improvement compared to the years 2019-21. Although there has been an improvement in the GII compared to previous years, the global ranking remains unsatisfactory. When comparing the GII ranking of the country with India, Pakistan appears to be significantly behind, although it holds a somewhat more favourable position relative to Bangladesh (table 1).
+
+Table 1: Ranking on Global Innovation Index (GII)
+
+Years
+Pakistan
+India
+Bangladesh
+
+2023
+88 th
+40 th
+105 th
+
+2021
+99 th
+46 th
+116 th
+
+2020
+107 th
+48 th
+116 th
+
+2019
+105 th
+52 th
+116 th
+
+Source: WIPO GII Report (2023)
+
+The segregation of the GII into seven sub-indices reveals that Pakistan’s performance across most innovation pillars is relatively low—market sophistication (97 th ), human capital and research (117 th ), infrastructure (120 th ), business sophistication (72 nd ), and knowledge and technology inputs (69 th ). Pakistan is demonstrating underperformance, particularly in the areas of market sophistication and human capital and research (table 2). In contrast to the previously mentioned points, India’s performance across all major seven pillars of the innovation index is notably strong, particularly in market sophistication (20 th ), knowledge and technology inputs (22 nd ), and business sophistication (57 th ). Additionally, India ranks (48 th ) in human capital and research indices. However, Bangladesh is positioned lower in the rankings compared to Pakistan. India’s high ranking on the Global Innovation Index reflects the effectiveness of its policies aimed at enhancing innovation. In contrast, Pakistan lacks robust and effective policies to improve its position on the global innovation index (PIDE, 2011; PIDE, 2016).
+
+Table 2: Ranking on Seven Pillars of Global Innovation Index in 2023
+
+Pakistan
+India
+Bangladesh
+
+Knowledge and Technology Inputs
+69
+22
+89
+
+Creative Outputs
+70
+49
+82
+
+Business Sophistication
+72
+57
+126
+
+Institutions
+113
+56
+108
+
+Infrastructure
+120
+84
+93
+
+Human Capital and Research
+117
+48
+125
+
+Market Sophistication
+97
+20
+100
+
+Source: WIPO GII Report (2023)
+
+The previously mentioned seven dimensions are further supported by sub-indices, which illustrate the broader aspects of the innovation index. Human Capital and Research encompasses three indicators: education, tertiary education, and research & development. India holds a superior ranking in education at (88 th ), whereas Pakistan is positioned at (121 st ). This clearly indicates that India’s performance is comparatively stronger than that of both Pakistan and Bangladesh. The education metrics encompass expenditure on education as a percentage of GDP, school life expectancy, PISA scales in reading, mathematics, and science, as well as the teacher-pupil ratio, which serve as sub-indicators for education. This indicates that Pakistan is not performing as well in these indicators compared to India (PIDE, 2020; PIDE, 2023)
+
+Table 3: Innovation Performance by Sub-Indicators in 2023
+
+Seven Pillars of Global Innovation Index
+Pakistan
+India
+Bangladesh
+
+Human Capital and Research
+
+Education
+121
+88
+128
+
+Tertiary Education
+119
+65
+111
+
+Research and Development
+62
+32
+76
+
+Business Sophistication
+
+Knowledge workers
+101
+81
+119
+
+Innovation Linkages
+54
+59
+100
+
+Knowledge Absorption
+57
+41
+120
+
+Knowledge and Technology Outputs
+
+Knowledge Creation
+57
+44
+95
+
+Knowledge Impact
+63
+9
+62
+
+Knowledge Diffusion
+79
+29
+106
+
+Infrastructure
+
+Information and Communication technology (ICT)
+107
+82
+90
+
+General Infrastructure
+132
+46
+93
+
+Ecological Sustainability
+113
+128
+96
+
+Institutions
+
+Political Environment
+105
+69
+109
+
+Regulatory Environment
+116
+68
+122
+
+Business Environment
+98
+47
+76
+
+Market Sophistication
+
+Credit
+103
+56
+86
+
+Investment
+81
+17
+92
+
+Trade, Diversification, and Market Scale
+75
+9
+96
+
+Creative Outputs
+
+Intangible assets
+52
+38
+73
+
+Creative Goods and services
+117
+56
+108
+
+Online Creativity
+65
+66
+87
+
+Source: WIPO GII Report (2023)

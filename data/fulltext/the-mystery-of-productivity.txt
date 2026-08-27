@@ -1,0 +1,47 @@
+The level of productivity is the foundational factor in determining the standard of living. Increasing productivity could allow people to get more in a short time efficiently. The supply arises with the productivity resulting in decreased real prices, lower unemployment, and increasing real wages. However, productivity needs a technological push to get into its form while this technological push needs lower consumption and higher savings and investments that could help in increasing productivity. The Pakistan Institute of Development Economics (PIDE) invited Professor Diane Coyle, from the University of Cambridge. Professor Diane is one of the prolific economic thinkers in the world. She wrote many books, in which ‘Cogs and Monsters’ and ‘GDP and Affectionate history’ are on the forefront. In the presentation, she provided major insights on the following questions.
+
+How has the Total Factor Productivity (TFP) declined since the 20 th century from what it was before?
+
+How does technology play a vital role in gaining productivity?
+
+Why productivity is important to growth?
+
+Why GDP is difficult to measure now?
+
+Takeaways from the webinar:
+
+To understand why productivity is mysterious, Professor Diane analyzed UK’s productivity from the 19 th century to date and has assumed to be the same for other OECD countries.
+
+Output per worker has a close relation to peoples’ earnings. The analysis showed that real earnings increased with an increase in output per worker since the 1970s. While some setbacks have also been analyzed under three shocks: the 1970s oil shock, de-industrialization in the UK, and the 2008 financial crisis. However, the increasing trend of real earnings and output per worker started declining in 2000s.
+
+The 21 st century faced more decline compared to the 20 th century in TFP.
+
+The GDP though considered the best measure to measure economic growth despite rejection by many theorists. But, for productivity, it is not enough to talk about growth.
+
+The declining TFP has resulted in mass inequality. The gap between TFP and growth has increased.
+
+The reasons which account for the flatlining of TFP in the 21 st century could be result of following possibilities:
+
+Macroeconomic environment – In times of financial crisis the fiscal austerity measures by governments, slowed the recovery of aggregate demand to the extent that firms couldn’t adopt the technology to process output efficiently and thus, increase productivity.
+
+Present technology innovations like TikTok or video gaming aren’t that much productive for society rather produce zero output. Therefore, important to say there are fewer technological advancements and investments in terms of productivity than those were in the 20 th Another “innovation slowdown story” is the lack of research on the need for innovation in technology for higher productivity.
+
+A comparison of manufacturing and business firms showed how the top 5pc firms survived and increased in productivity even in times of crisis while the other 95pc lagged in doing so. Technology up-gradation and business strategies can be major reasons for such a gap between the productivity of the top 5pc and other 95pc firms.
+
+Delays: The injection of investment for newer technology for high productivity never seems an easy and quick way to do so. The time required for such investment in tech, human capital (to train those who are going to work on new technology), new buildings where the work is going to be done, and the benefits ripped by such innovation is usually time-consuming. Therefore, TFP remained the flat line in the 2000s.
+
+Government Structure highlights the importance of policymaking and institutional framework. A centralized country and weak institutions fail to respond to local issues and cope with crises well, resulting in such decline and flattening of TFP.
+
+Infrastructure Development – investment in physical as well as human capital is equally important for the firms to remain operative. Firms need such infrastructure to outperform in terms of output. The lack of such investment remains a key reason for lower TFP.
+
+Measurement Challenge – GDP measurement was quite easy to measure in the early 20 th century when US GDP accounted for agriculture, mining, manufacturing, and transportation only. These sectors made up 50 pc of GDP but now have decreased to 30 pc.
+
+Measurement of prices and intangibles used in the production process is another problem. Different services and goods were categorized under prices observed and prices not observed. While three-fourths of the goods and services remain under the unobserved category while only one-fourth are under the observed category. It means hard to measure the part of the economy is three quarters.
+
+Since the 1990s the quantity of material input has decreased to great extent. Alternatively, intangibles like software are being used as inputs in production processes. Accounting for such intangibles is quite a difficult thing to even think of it.
+
+Still, a lot to know about the measurement of GDP. Free digital goods used by people during the pandemic such as open sources for studies used by students have added to productivity but are not considered in GDP measurement. Therefore, measuring GDP is now far more difficult probably because intangibles are not accountable.
+
+Propositions put forward in answer to questions by the speake r
+
+To structure digitization in countries like Pakistan, special focus must be given to government and institutional frameworks through technology innovation. It is a difficult task, yet can be achieved to solve the mystery of productivity. The easy availability of big data can solve the problem of GDP and price measurement.

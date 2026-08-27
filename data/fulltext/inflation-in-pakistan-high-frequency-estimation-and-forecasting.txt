@@ -1,0 +1,33 @@
+ABSTRACT
+
+I begin by motivating the utility of high-frequency inflation estimation and reviewing recent work done at the State Bank of Pakistan for inflation forecasting and now-casting GDP using machine learning (ML) tools. I also present stylised facts about the structure of historical and especially recent inflation trends in Pakistan.
+
+However, since the available data and already used methods cannot achieve high frequency forecasting, I discuss three novel techniques from recent literature, including web scrapping, scanner data and synthetic data. Due to a lack of access to Pakistan’s scanner and web-scrapped data, I generate synthetic data using generative ML models (Gaussian Copula and PAR models) and numerical analysis (cubic spline interpolation) methods. I use cubic splines to estimate the monthly inflation rate from quarterly data and unknown high frequency, weekly inflation rate from actual monthly data. Meanwhile, I use a probabilistic autoregressive ML model to forecast future short-run inflation for Pakistan from 2020 to 2023.
+
+I evaluate the accuracy of ML forecasts by comparing them with forecast error variances and predictions from conventional reduced form vector autoregressive models (VAR)1
+
+__________
+
+1 The replication code for this paper (Python, R and Julia) and the original LaTeX version is available on my github page: https://github.com/ .
+
+__________
+
+MOTIVATION
+
+Accurate inflation forecasting is a concern for market players, central banks, and governments. The market participants want to update their inflation expectations in line with new information revelations to optimise their investment strategies. Meanwhile, central banks typically have mandates for price stability, (see Cukierman, et al. 1992), and they routinely collect data on inflation expectations and forecast inflation. Hyperinflation episodes dramatically hurt hand-to-mouth households. This extreme economic turmoil has political consequences for governments, especially when the election period is a few quarters away (see Binder, 2021).
+
+Governments are incentivised to prioritise inflation control and interfere with central bank independence in these election periods. There is well-known classic literature on Nordhaus’s so-called political business cycle (1975). For instance, Abrams and Butkiewicz (2012) revealed evidence from the Nixon tapes that President Nixon manipulated Arthur Burns 1 and the Federal Reserve into creating a political business cycle which helped ensure his reelection victory in 1972.
+
+While Nixon understood the risks his monetary policy imposed, he chose to trade longer-term economic costs to the economy for his short-term political profits. At the most fundamental level, hyperinflation episodes are humanitarian and social crises which can be addressed to some extent if we develop better inflation forecasting methods and independent central banks with mandates for price stability.
+
+While central banks collect data on consumer price indices, the collection frequency does not allow accounting for sudden swings in inflation and inflation expectations. Some standard measures include the HICP (Harmonized Consumer Price Index) data used in the Euro area and the CPI (consumer price index) data from the USA. Such data typically tends to be quarterly or monthly in worst cases or best cases, but results are revealed in the next month after collection.
+
+However, for instance, in a few days and weeks, news about the Ukraine crisis changed the inflation landscape for many products; conventional price indices had little forecasting potential for the next inflation crisis. Similarly, inflation shocks can result from sudden change of central bank’s governors or government change, terrorism episodes or political turmoil, especially in developing economies, where inflation tends to more volatile and central banks are less independent (see Vuletin and Zhu, 2011).
+
+________
+
+1 Former Head of the Federal Reserve Bank in USA.
+
+________
+
+For Full Text Download PDF

@@ -1,0 +1,159 @@
+Tariff policies and non-tariff barriers (NTBs) are imperative for shaping economic frameworks, balancing trade dynamics, and maintaining market efficiency, which are essential for economic growth and stability. Ideally, effective tariffs and minimal NTBs should protect domestic industries, ensure affordable imports, and drive socioeconomic progress.
+
+In stark contrast, in Pakistan, the excessive imposition of tariffs and pervasive NTBs impose significant economic burdens. The primary purpose of these measures is often overshadowed by their adverse effects, such as distorting market dynamics, raising costs for industrial importers and consumers alike, and stifling competitiveness. Consequently, economic progress is critically undermined by the prioritization of protectionism over trade facilitation. This situation stalls national development, leaving critical issues unaddressed and perpetuating economic inefficiencies and public disillusionment with the country’s economic system.
+
+Total Imports (2022) : US $70.8 billion ~ PKR 14.48 trillion[1]
+
+Duty-Free (MFN Applied)[2] Imports: PKR 4.50 trillion -> 31.1% of of all imported product categories are exempted from tariffs.
+
+Total Tariffed Imports: 9.98 trillion -> 68.9% of total imported product categories have tariffs levied on them.
+
+Trade Weighted Average Duties (MFN Applied): Duties ∼ 8.7[3] -> Levied on 58.6% of all tariffed import categories
+
+High Duties (MFN Applied): Duties > 15%[4] -> Levied on 39.1% of all tariffed import categories.
+
+Extreme Duties (MFN Applied): Duties > 3 *AVG[5] -> Levied on 2.3% of all tariffed import categories.
+
+Source: World Tariff Profiles 2023
+
+Table 1: Total Cost of Tariff Barriers
+
+Metric
+Calculation
+Value (in billion PKR)[6]
+
+Imports
+Given
+14,478
+
+Duty-free Imports
+Total Imports × Duty-Free (%) -> 31.1% * 14,478.22
+4,499
+
+Total Tariffed Imports
+Total Tariffed Imports: Total Imports − Duty-Free Imports -> 14,478 – 4,499
+9,979
+
+Average Base Cost (A)
+Total Tariffed Imports × Average Duties -> 9,978 × 8.7%
+869
+
+High Tariff Adjustment (Duties > 15%)[7]
+
+(B)
+Value of High Duty Imports: Total Tariffed Imports × High Duty Imports -> 39.1% × 9,979
+3,902
+
+Additional High Duties Cost: Value of High Duty Imports × [Average High Duty Rate – Average Duties] -> 3,902 × (20% -8.7%)
+442
+
+Extreme Tariff Adjustment Duties > 3*AVG[8]
+
+(C)
+Value of Extreme Duty Imports: Total Tariffed Imports × Extreme Duty Imports -> 2.3% × 9,979
+230
+
+Additional Extreme Duties Cost : Value of Extreme Duty Imports × [Average Extreme Duty Rate – Average Duties] -> 230 × (30% – 8.7%)
+49
+
+Total Tariff Cost (
+
+D -> A + B + C)
+869 + 442 + 49
+1,360
+
+Source: Author’s calculations using WTO data.
+
+Table 2: Cost of Non-Tariff Barriers
+
+Metric
+Calculation Details
+Value (% or Billion PKR)
+
+Coverage Ratio (%)[9]
+Given
+33.1
+
+Frequency Ratio (%)[10]
+Given
+15.2
+
+Adjusted Impact Factor (%)
+Base Impact Factor × [1+(Frequency Ratio/2​)] -> 0.08[11] × (1+ 0.152/2​)
+8.608
+
+NTB Cost (E)
+Trade Value × Coverage Ratio × Adjusted Impact Factor -> 14,478 × 0.331 × 0.08608
+412
+
+Source: Author’s calculations using WITS data.
+
+Table 3: Cumulative Cost of Protectionism
+
+Metric
+Calculation Details
+Value (in Billion PKR)
+
+Cumulative Cost of Protectionism (D + E)
+1,360 + 412
+1,772
+
+Source: Author’s calculations
+
+Cost of Average Duty Imports = 869 billion PKR
+
+Cost of High Duty Imports = 442 billion
+
+Cost of Extreme Duty Imports = 49 billion
+
+Total Cost of Tariff Barriers = PKR 1.36 trillion
+
+Total Cost of Non-Tarriff Barriers = PKR 412 billion
+
+Cumulative Cost of Protectionism: PKR 1,772 billion or 1.77 trillion
+
+Cost of Protectionism as % of Trade Volume: 8.52% (significant impact on total trade volume)
+
+Total Trade Volume: PKR 20.80 trillion
+
+Per capita cost of Protectionism: PKR 7,516 per person
+
+Population of 235.8 million
+
+Cost of Protectionism as % of GDP: 0.60%
+
+Total GDP: PKR 294.81 trillion
+
+Source: Author’s calculations based on WDI Data
+
+The monetary burden imposed by inroducing tariff and non-tariff measures to protect local industries, leads to basic goods being out of the reach of the average Pakistani consumers and businesses.
+
+Recommendations
+
+Adjust Tariff Rates: Given the cost incurred due to excessive tariffs, performing a thorough appraisal of the current tariff rates, particularly high and extreme tariffs could be pivotal in augmenting trade volumes, lower consumer prices and boost economic growth.
+
+Boost Duty-Free Imports: Furthermore, the range of product categories eligible for duty-free imports should be expanded to boost market access and reduce costs faced by local businesses and consumers.
+
+Minimize Non-Tariff Barriers : Adopt targeted policies to streamline customs procedures to minimize hidden costs associated with compliance.
+
+[1] Using the 2022 USD-PKR average exchange rate: 204.5162 for US $1
+
+[2] Share of duty-free HS six-digit subheadings in the total number of subheadings in the product group under the Most Favoured Nation (MFN) Applied status.
+
+[3] HS six-digit MFN tariff averages weighted with HS six-digit import flows.
+
+[4] Share of HS six-digit subheadings subject to MFN Applied ad valorem duties or AVEs greater than 15 per cent.
+
+[5] Share of HS six-digit subheadings subject to MFN Applied ad valorem duties or AVEs greater than three times the national average.
+
+[6] All figures have been rounded to the nearest billion PKR for clarity, except for totals and larger aggregates which are presented in trillions PKR. Percentages have not been rounded to ensure precision.
+
+[7] Calculated assuming an average high duty rate of 20%.
+
+[8] Calculated assuming an average extreme duty rate of 30%.
+
+[9] Quantifies the value of imports affected by NTMs as a percentage of total imports within a commodity group.
+
+[10] Accounts for the presence or absence of an NTB and indicates the percentage of traded products to which one or more NTMs are applied.
+
+[11] Assuming a base impact factor of 8%, an aggregation of the 4-12% impact, as provided in Kinzius et al.’s work (2019).

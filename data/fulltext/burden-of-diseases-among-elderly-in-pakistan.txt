@@ -1,0 +1,65 @@
+Burden of Diseases among Elderly in Pakistan
+
+Saima Bashir and Saman Nazir, Pakistan Institute of Development Economics, Islamabad.
+
+INTRODUCTION
+
+The world is aging, and so is Pakistan. Almost every country in the world is experiencing growth in the elderly population (aged 60 or above). It results from declining fertility and mortality, resultantly increasing life expectancy, known as the demographic transition. Pakistan’s older population is growing in both absolute and relative terms. The number of Pakistani aged 60 and older is estimated to nearly double from 7 percent (14 million) in 2019 to14 percent by 2050 (Zaidi, et al. 2019). Due to improvements in hygiene, the introduction of vaccinations, and the application of newer diagnostic and treatment technologies, the world has experienced a significant increase in life expectancy. However, this demographic phenomenon, i.e., the increase in the share of older people in the total population, has increased pressure on healthcare systems due to complicated health problems and disabilities among the elderly population across the world.
+
+Fig. 1. Percentage Share of Different Age Groups in Population
+
+Source: UN World Population Prospects 2019 (medium variant).
+
+How is disease burden measured?
+Disease burden is measured using the summary metric iod disability-adjusted life years (DALY). One DALY is one year of healthy life lost to disease and injury. DALY has two components. DALY caused by living in poor health (non-fatal burden) are known as “years lived with disability” (YLD). DALY caused by premature death (fatal burden) are known as “years of life lost” (YLL) and are measured against an ideal life expectancy (Austrailian Institute of Health and Weldare, 2021).
+
+Over the years, infant and maternal mortality rates have decreased in Pakistan but remain unacceptably high compared to the rest of the developing world. In addition, Pakistan continues to bear a significant share of the regional burden of various infectious diseases, including hepatitis B and C, tuberculosis, dengue, HIV/AIDS, and COVID-19. Subsequently, the policy focus at the federal and provincial levels remains on improving mother and child health and combating communicable diseases (Thaver, & Khalid, 2019). However, ongoing changes in the country’s age structure and epidemiology require parallel attention in focus to address the healthcare and medical needs of the elderly population. Non-communicable diseases (NCDs), which account for a large share of the country’s disease burden and more prevalent among older people, have gotten little attention in healthcare policies and programs.
+
+A shift in disease patterns has been observed in Pakistan, where non-communicable diseases (NCD) are rising due to changing demographics and lifestyles. It is estimated that NCD accounts for 58 percent of the total deaths in Pakistan. The risk factors include but are not limited to physical inactivity, sodium intake, tobacco use, raised blood pressure, diabetes, obesity, ambient air pollution, and household air pollution (WHO, 2021). The elderly population is more likely to have non-communicable diseases. Among the elderly population, non-communicable illnesses account for a major share of the disease burden in the country. The health needs of the elderly population have been largely ignored in more comprehensive public health and healthcare domains. Due to the insufficient safety nets overall, and particularly in terms of health affordability and accessibility, the elderly population is the most vulnerable group that could be affected by the NCDs in the country. The state can play a major role in creating an age-friendly and enabling environment for old aged population by ensuring that health services are aligned with the health needs (Zaidi, et al. 2019). The current brief examines the pattern of diseases among the NCDs for the elderly population in Pakistan.
+
+PREMATURE DEATHS (FATAL BURDEN) ACCOUNTS FOR 80% OF THE BURDEN AMONG ELDERLY
+
+There is a slight shift from fatal to non-fatal disease burden (80 percent vs. 77 percent) between 2000 and 2019; however, fatal disease burden remains the biggest contributor to total burden among the elderly population. Fatal disease burden caused total disease burden than living with illness or injury (non-fatal burden).
+
+NON-COMMUNICABLE DISEASE CAUSE MOST OF THE BURDEN
+
+Our estimates show that NCD accounts for around 85 percent of the total disease burden in 2019 followed by communicable diseases (12 percent) and injuries (3 percent). Studies suggest that due to a lack of information and health-care access across different socioeconomic groups, many people remain undiagnosed for NCDs (Arokiasamy, 2018; Di Cesare, et al. 2013).
+
+Data
+We analysed results from the Global Burden of Diseases, Injuries, and Risk Factors Study
+(GBD) 2019, with a focus on the outcome of YLD and YLL among elderly population (aged 55 and above) in Pakistan to inform policy makers about the health needs of elderly men and women. The GBD, which is coordinated by Institute of Health Metrics and Evaluation (IHME) at the University of Washington, is produced by a global network of more than 5000 researchers in 152.
+
+Among different disease groups in NCD, leading groups causing most of the fatal burden are cardiovascular diseases, cancer, chronic respiratory diseases, diabetes and kidney diseases, and digestive diseases contributed most to the total burden among NCD. Chronic or long lasting health conditions are part of these disease groups. Overall, these five disease groups accounted for 80 percent of the total NCD burden. Cardiovascular diseases accounted for more than one third of the total NCD burden.
+
+FATAL NCD BURDEN IS HIGHER FOR MALES
+
+Elderly men experience more fatal NCD burden than women. In Pakistan, both men and women suffered from cardiovascular diseases, however, the proportion of fatal burden is higher for men. Chronic respiratory diseases are more common among elderly men than women. The proportion of fatal burden due to cancer is almost equal across gender.
+
+KEY POINTS
+
+Changing demographics and lifestyles call for parallel attention to the health needs of the elderly in Pakistan.
+
+Among the elderly population, non-communicable diseases account for 85 percent of the total burden of diseases
+
+Cardiovascular diseases account for more than 37 percent of deaths.
+
+Cancer is the second most leading cause of death among the elderly
+
+The prevalence of cancer is almost the same for both men and women.
+
+Cardiovascular diseases and chronic respiratory diseases are higher among men than women.
+
+The primary health care must be strengthen enough to include a wide range of promotive, preventive, curative, palliative and rehabilitative interventions/ services to address the health needs of elderly population in Pakistan.
+
+It is time to plan and implement a comprehensive and cost effective health care strategy for vulnerable, marginalised and resource deficient elderly population by government and private agencies, covering their medical, physical, social, and psychological needs.
+
+REFERENCES
+
+Australian Institute of Health and Welfare (2021). Australian burden of disease study 2018: Key findings. (Austrailain Burden of Disease Study Series 24), cat. No. BOD 30. Canberra: AIHW.
+Arokiasamy, P. (2018). India’s escalating burden of non-communicable diseases. The Lancet Global Health , 6 (12), e1262–e1263.
+Di Cesare, et al. (2013). Inequalities in non-communicable diseases and effective responses. The Lancet , 381 (9866), 585–597.
+Global Health Estimates 2019: Disease burden by Cause, Age, Sex, by Country and by Region, 2000-2019. Geneva, World Health Organisation; 2020.
+Thaver, I. H. & Khalid, N. (2019). Are we ready for the paradigm shift in the health care system of Pakistan? Journal of Bahria University Medical and Dental College , 9 (4), 255–256.
+WHO (2021). Non-communicable diseases country profiles 2018. https://apps.who.int/iris/handle/10665/274512
+United Nations, Department of Economic and Social Affairs, Population Division (2019). World population prospects 2019.
+Zaidi, et al. (2019). Promoting and protecting the rights of older persons in Pakistan. Bitish Council. https://www. britishcouncil.pk/about/research-reports/moving-margins-promoting-and-protecting-rights-older-persons-pakistan

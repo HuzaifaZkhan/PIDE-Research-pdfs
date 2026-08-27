@@ -1,0 +1,59 @@
+“Give me one authentic source of information?” I asked a group of students studying media studies at a university in Balochistan.
+
+“Chat GPT,” was the reply.
+
+“What’s wrong with AI-generated photos?” asked a few students in two different universities in two different provinces. One of them was an MPhil student.
+
+If identifying authentic sources of information and news is hard for young people enrolled in higher education institutions who comprise a fraction of the population, imagine the scale of the problem.
+
+For four months, I went to public universities across Pakistan trying to understand news consumption habits and teach information, digital and media literacy. The first question I would ask – sometimes to over a hundred graduate and undergraduate students – is where do you get your news? In 2024, it should be obvious that a vast majority got their news from social media, mostly YouTube, Facebook, X (Formerly Twitter) and to some extent Instagram. A couple of students still read newspapers, and a handful watched television. Most did not distinguish between mainstream news channels and individual journalists or news influencers.
+
+This experience goes to the heart of the crisis of journalism, globally and in Pakistan. Information is abundant, information is currency, and information drives public opinion, but journalism and the news media are no longer the arbiters of the accuracy of that information.
+
+The cynical amongst us would snigger. Mainstream news media is not wholly credible or independent, given how it is hostage to state, commercial and political patronage. But consider the replacement. Social media platforms profit off of misinformation and disinformation. As do news influencers and newstubers, who are not bound by regulation or the old-school codes of authentication. The line between opinion and fact has become so blurred that the result is often information chaos.
+
+Two years ago, BBC presenter and editor Ros Atkins issued a sort of clarion call for how journalism needs to evolve in a speech[1] to the Society of Editors in the UK. “News is not a given in people’s lives,” he said. “It can’t be assumed people will seek to learn about our world via journalism.” He’s not the only one who has raised this concern.
+
+Every year, the Reuters Institute of Journalism at the Oxford University publishes a digital news report based on surveys with news managers across the world. Every year[2], news leaders have to find creative ways to tackle news fatigue, falling revenue, and rapidly changing methods of distribution. As Atkins described it, “It can’t be assumed that the way we tell stories is the way people want to hear them. Our place in people’s lives is not a guarantee.”
+
+Pakistan is amongst 40 democracies with scheduled elections this year. For the news media, elections are akin to the wedding season for clothes designers – viewership and readership spikes for TV and digital outputs, political advertisements and ratings contribute to revenue, and journalists at media organisations work over-time to feed the appetite for 24/7 election news. A few major media organisations hire and train a network of interns to assist with the vast amounts of work needed to gather and process news.
+
+The 2024 election was no different. Like the 2018 election, new news channels looking to make a mark and make some money were launched prior to the elections. There are already 30 news channels in Pakistan, according to PEMRA’s 2019-2020 annual report[3], a few of which invest in reporting, news product development for different types of audiences or diverse programming. The only way to claim attention with so many channels is to hire expensive and recognisable anchors with a brand following and political influence. In other words, more of the same. Several TV channels have also changed ownership in the last couple of years, with new owners looking to peddle influence rather than out of a commitment to credible and creative journalism.
+
+The election 2024 experience has yielded new promising trends, however, compared to 2018. For instance, digital advertising is now at par with or exceeding TV and print advertising (although it is unclear what proportion of ads are through private rather than government or political funding; for years, the news media has been dependent on government or politically influenced advertising for financing). As a result, TV output has adapted to new information delivery methods, by using reels on Instagram and YouTube for current affairs news shows. Major news websites have also ramped up social media lives, using TikTok to deliver news, or curate news through live pages or blogs with multimedia content.
+
+Meanwhile, digital news and current affairs content as an alternative to traditional TV is on the rise. Reporters are increasingly finding acceptance and viewership on digital-first news and commentary shows. Of course, viewership for sensationalist peddlers of misleading or false information is still higher – the difference is often millions of views versus thousands – but at least there is some competition in the marketplace of information.
+
+Serious podcasts hosts who provide depth and diversity have also come into their own in the three years leading up to the election. This is why politicians such as Bilawal Bhutto Zardari, Shahbaz Sharif or Imran Khan prior to his incarceration – ever savvy to where their constituents are watching them – chose to be interviewed by podcasters to pitch their election campaigns or propaganda. These podcasters may have a niche audience, but it is clearly an influential audience.
+
+Clearly, the Pakistani news media landscape is adapting to changing audience preferences and digital-led revenue streams. But there are resource constraints. I asked one news editor how many people run their live blogs. She looked almost embarrassed when she replied, “It’s just the two of us.” Bad faith actors exploit the audience’s emotional vulnerability and the media’s ability to respond. So where there is hope, there is also chaos.
+
+With audiences getting their information first on social media or unregulated digital spaces, it is easy to create confusion and doubt. In his book Outrage Machine , Tobias Rose-Stockwell writes, “The enemy of democracy is not necessarily an ambitious loud man. The enemy is actually confusion. As Steve Bannon said, referring to his political strategy, ‘The real opposition is the media. And the way to deal with them is to flood the zone with shit.’”
+
+For example, when the Pakistan Tehreek-e-Insaf chose to upload thousands of pages of election forms to its website or on social media to provide evidence of election rigging, not a single media organisation had the capacity to parse and verify their authenticity en masse. The system just couldn’t cope.
+
+Meanwhile, the state does not seem interested in election integrity or the consequences of controlling information. The Election Commission of Pakistan missed its deadline to compile and announce results the day after the election. It also missed another deadline to upload election forms within fourteen days of the elections. Continued censorship of various kinds only adds to the confusion. By suspending mobile phone services on election day or shutting down Twitter (X), the state doesn’t just violate the rights of citizens to freely access information, it is an assault on independent journalism.
+
+How can media organisations and journalists try to recapture space lost to state interventions, and attention economics?
+
+Digital first newsrooms . Pakistani news organisations need to invest more in full-scale and planned multimedia convergence. Convergence should not just be approached as a cost-cutting measure forced by external circumstances, but a profit-making strategy that privileges new ways of telling stories, and reaches less news literate or news-engaged audience groups.
+
+Independent bodies. Media mangers, unions, associations and development organisations should collaborate to resolve digital-age ethical dilemmas such as who is a journalist, should journalists be licensed, etc. and develop media bias ratings and independence certifications.
+
+AI does not need to be a bogeyman that causes job loss. It is already being used by newsrooms to generate human-assisted content, accelerate distribution, gather news and develop news products. Pakistani news management interested in good journalism should recognise this as an opportunity to use technology to cut costs so that resources can be diverted to original and investigative journalism. In addition, media organisations should invest in research and product development to reach audiences with weaker ties to traditional sources of information and boost the reach of public interest journalism.
+
+Transparency . Journalism requires a certain set of skills such as investigative capabilities or communication abilities, in addition to an adherence to core journalism ethics and values. Media organisations should be open to showing their journalism process, to enhance trust and the value of journalism.
+
+It may seem like a lot of work to restore journalism’s place as an arbiter of accurate information. But the consequences of doing nothing are far greater than the effort it would take to try.
+
+The author is the Director of the Centre of Excellence in Journalism at the IBA University, a professional development centre which combines industry experience with academic rigour to try and raise journalism standards.
+
+[1] Ros Atkins, X.
+
+1/45 (yes, 45…). Last week, I gave a speech at the
+Society of Editors. There's been some interest in it so, if you'll indulge me, I thought I'd post it here. I was asked to talk on ‘future of news’. Once I’d cleared up that I definitely don’t know that, I launched in…
+— Ros Atkins (@BBCRosAtkins) May 16, 2022
+
+[2] Journalism, media, and technology trends and predictions 2024. Reuters Institute. https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2024#header–7
+
+[3] Annual Report, 2019-2020. PEMRA. https://pemra.gov.pk/uploads/pub-rep/pemra_annual_report_19-20.pdf

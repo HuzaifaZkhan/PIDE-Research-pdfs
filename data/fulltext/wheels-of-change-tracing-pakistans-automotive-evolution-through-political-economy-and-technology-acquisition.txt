@@ -1,0 +1,143 @@
+ABSTRACT
+
+This book examines Pakistan’s success in technological and organizational capability development for enhancing competitiveness in its industrial sector, focusing on the automotive industry as a case study, under several policy regimes. Pakistan has had to face many adverse conditions since it gained independence and as a result its growth has been sporadic, with periods of growth spurts followed by periods of slow growth. Successful interventions supporting capability development have happened in other developing countries without ‘good governance’ and with rent-seeking so a deeper analysis of the institutional failures in Pakistan is required. The book locates Pakistan’s institutional choices and performance in the context of changes in its political settlement to explain why performance was weak at key points in the automotive industry’s history. The analysis focuses on the contests over potentially growth-enhancing rents in the context of the distribution of power between the groups and organizations affected by these policies. Policy had to be implemented in the context of extensive political clientelism that was increasing in its fragmentation with low levels of political stability and frequent changes in government. The proliferation of clientelist groups resulted in the state compromising on long term economic growth in an effort to ensure its short-term political sustainability. Production in the automotive industry has also become increasingly globalized in recent years and Pakistan has found it hard to break into global value chains on account of the weak technological capabilities that it could develop. Two case studies of relatively more successful instances of technology acquisition within the automotive industry of Pakistan show that even in this adverse policy environment, intervention can still assist some capability enhancement. The policy challenge is to develop instruments that can enable capability development on a broader level in the context of the clientelist processes that characterize the political settlement.
+
+Table of Contents
+
+Technology Acquisition, Catching up and Competitiveness in the Automotive Industry
+
+Introduction
+
+Theoretical Considerations
+
+Pakistan’s Economy at the Crossroads
+
+Framework of Analysis
+
+Conclusion
+
+Political Settlements and Rent-Seeking In Pakistan’s Development: Ayub’s Growth Takeoff And Post-Zia Democracy Periods
+
+Introduction
+
+Evolution of Political Settlements
+
+Conclusion
+
+Technology Acquisition, Catching Up Industrialization And Rents
+
+Introduction
+
+Technology Acquisition
+
+Market Failures In Technology Acquisition
+
+Political Settlements
+
+Price Mark Up Model
+
+Conclusion
+
+Technology Acquisition, Catching Up Industrialization And Rents
+
+Introduction
+
+Key Developments In The Global Automobile Industry
+
+Trends In The Automobile Industry
+
+Automobile Industry Development Policies
+
+Conclusion
+
+Pakistan’s Automobile Industry: A Case Of Stalled Development
+
+Introduction
+
+Structure Of The Domestic Industry
+
+Key Characteristics Of The Domestic Automotive Market
+
+History Of The Domestic Automotive Industry
+
+Institutional Framework
+
+Policy Framework
+
+Trends In The Automotive Industry
+
+State Of Automotive Parts Manufacturers In Pakistan
+
+Technological Capabilities Development Of Automotive Parts Manufacturers
+
+Financing Of Technology Acquisition
+
+Conclusion
+
+Technological Progress And Maturity With Growth – The Case Of Millat Tractors
+
+Introduction
+
+Firm Level Technological Development And Learning
+
+Growth Trends And Current Status
+
+Constraints Faced
+
+Firm Competitiveness
+
+Conclusion
+
+Atlas Honda Motorcycles: Organization Development Through Self Development
+
+Introduction
+
+Firm Level Technological Capabilities Development
+
+Trends In The Motorcycle Industry
+
+Constraints Faced
+
+Firm Competitiveness
+
+Conclusion
+
+Conclusion
+
+Introduction
+
+Main Findings
+
+Policy Implications
+
+Areas For Future Research
+
+1. TECHNOLOGY ACQUISITION, CATCHING UP AND COMPETITIVENESS IN THE AUTOMOTIVE INDUSTRY
+
+1.1. INTRODUCTION
+
+Whereas developed countries have exhibited strong and fairly consistent growth performance historically, developing countries (including those in the South Asian region) have had a more chequered past. The crucial issue that confronts the international community is how to encourage growth and development in developing countries across the globe, to bring them at par with developed countries. The Commission on Growth and Development (2008) highlighted five areas where policy has historically been important for achieving sustained high growth[1] in economies. One vital area is in innovation promotion and imitation and accelerated or sustained catching up policies, while other areas include macroeconomic stabilization, supporting high levels of accumulation, effective allocation of factors of production (land, labour and capital), and social inclusion in developmental goals. It is generally agreed that positive progress is required on all the five policy fronts highlighted above, for there to be sustained growth over long time horizons.
+
+Against this backdrop, a key concern for developing countries that merits further research in the context of learning by doing and innovation promotion is: what has been the country’s performance with regard to technology acquisition for purposes of enhancing productivity? Has the country been effective in its efforts to acquire the appropriate technology needed to boost productivity levels? Has the country made effective use of the technology acquired? What market failure(s), if any, are constraining the country’s ability to acquire the technology and make appropriate use of it? This research will address these questions in the light of the experience of Pakistan’s economy, focusing on the development of the automotive industry.
+
+For developing countries to converge with the developed countries in terms of their development and growth requires an increase in productivity[2]. This productivity growth is expected to result in an improvement in international competitiveness of the domestic economy and led to an increase in income levels, as well as demand for products, both imported and domestic. Johnson (1962) and Boltho (1996) found that the increase in demand is expected to lead to further increases in domestic output and trade, as supply adjusts to the increase in demand. Such was the experience of Great Britain after the Green Revolution in agriculture and the introduction of the steam engine, in the United States when there was a quantum increase in manufacturing output as a result of mass production techniques being perfected and applied and in Japan when Just-in-Time production techniques were introduced.
+
+Dahlman (2007) has very convincingly argued for the key role played by technology since the 1500 when key developments led to increasing per capita incomes despite corresponding increases in population. This role has persisted till now when production activity in virtually all industries has become dependent on technology in one form or another and in one way or another. Developing countries tend to have a weak technological base on which to build their productive activities, and technology tends to be of a dated origin where it does exist, necessitating the acquisition of new technology and techniques in an effort to raise productivity levels.
+
+In fact, Amsden (1991) has argued that late developers all managed to grow without any original indigenous technology present to serve as an asset to be monopolized. The successful experience of these late developers suggests they were able to procure technology from foreign sources, absorb it into the domestic economy and utilize it effectively. The physical technology required is one piece of the puzzle; the recipient developing country also requires workers and managers to have the knowledge and capacity to make the most effective use of this technology.
+
+Lall (1992) refers to these particular qualities as the technological and organizational capabilities that are required to increase productivity levels and also have to be built up and developed in these countries as part of the technology acquisition efforts. This is the part where developing countries tend to falter.
+
+In contrast to the promising development outlook of the high growth economies (late developers) of Southeast Asia, the experience of many South Asian economies (including Pakistan) in catching up has been remarkably unimpressive, and as such development efforts in Pakistan warrant a closer look. As one of the latter countries, the development efforts of Pakistan are warranted a closer look. Since the time of independence in 1947, Pakistan has had to face multitudes of adverse conditions that have tempered its growth, with periods of growth spurts followed by periods of slow growth. High incidence of corruption and poor governance are two issues that are widely accepted as having marred Pakistan’s development efforts over the years. However, other developing countries have successfully intervened in the economy to foster capability development in the presence of rent-seeking but without ‘good governance’ (a term first used in World Bank, 1989) so a deeper analysis of institutional failures in Pakistan is warranted.
+
+The discussion locates Pakistan’s institutional choices and performance in the context of changes in its political settlement to assess weak performance at key points in the history of the automotive industry. The focus is on the contests over rents, in particular potentially growth enhancing rents, given the distribution of power between different groups and organizations affected by policies. Policies were implemented under extensive political clientelism with increasing fragmentation signified by low levels of political stability and frequent changes in government. The research that follows will show that the increased fragmentation and multitude of clientelist groups compromised the ability of the state to direct long term economic growth in favour of ensuring its short-term political sustainability.
+
+The global automotive industry as it has evolved is currently characterized by global production networks and with the weak domestic technological capabilities that have developed, Pakistan has found it a challenge to successfully enter the industry’s global value chain. The domestic automotive industry is composed of a number of foreign OEM affiliated manufactures/assemblers supported by a component manufacturing industry that is itself struggling to enter the global automotive component market. That is not to say that domestic technological capabilities are absent; firms in two segments, motorcycles and tractors in particular have managed to successfully develop their technological and organizational capabilities. Two case studies[3] of relatively successful instances of technology acquisition and capability development within the automotive industry of Pakistan are proof that even in an adverse policy environment, intervention has borne fruit. The policy challenge now is to develop instruments that can enable and assist in capability development at a broader level in the context of the clientelist processes that characterize the prevalent political settlement. The discussion and analysis that follows will examine Pakistan’s experience with acquisition of technology and the technological as well as organizational capability development for enhancing the competitiveness of its industrial sector, focusing on a case study of the automotive industry, under different policy regimes.
+
+This chapter sets the stage for the discussion and analysis that follows and is organized as follows. Section 1.2 brings to light the issues surrounding technology acquisition, strategies of catching up and the competitiveness of firms in developing countries. The economic performance of Pakistan since independence and myriad of economic challenges that face the country are covered in Section 1.3, as is the changing political landscape in the country. Section 1.4 links the preceding discussion to the framework of analysis to be used in subsequent chapters; learning rents and their management in the context of political settlements that have emerged in Pakistan. Section 1.5 concludes this chapter.
+
+[1] A pre-requisite for poverty reduction, increased productive employment, education and health, and innovation.
+
+[2] Numerous studies, by Denison (1967); Denison & Chung (1976); Maddison (1970, 1972) to name a few, were founded on the classical belief of production functions and assumed Total Factor Productivity (TFP) as the sources of growth.
+
+[3] Millat Tractors and Honda Motorcycles

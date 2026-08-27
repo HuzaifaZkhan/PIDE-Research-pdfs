@@ -1,0 +1,109 @@
+Executive Summary
+
+Tobacco use in Pakistan continues to pose a serious challenge to public health and the national economy. While Pakistan ratified the WHO Framework Convention on Tobacco Control (FCTC) in 2004 and later launched the National Tobacco Control Strategy (2022–2030) (Ministry of National Health Services, Regulations and Coordination, 2022), the implementation of these measures has been inconsistent. This brief examines the current status of tobacco control efforts in the country, evaluates them in light of global and regional practices, and offers realistic, evidence-based policy suggestions. Findings highlight persistent issues such as weak enforcement, a complicated tax system, an unregulated smokeless tobacco market, and insufficient cessation programs. To lessen the country’s growing health and economic burden from tobacco, it is vital to streamline the tax framework, strengthen and align regulations, and adopt a harm reduction strategy built on scientific evidence.
+
+1. Introduction: The Burden of Tobacco in Pakistan
+
+Tobacco use has been a serious problem in Pakistan for a long time. Every year, it takes thousands of lives and adds more pressure to a healthcare system that’s already struggling to keep up. The World Health Organization (2023) reports that around 164,000 people in Pakistan die each year because of tobacco-related diseases. But the harm isn’t just to people’s health it’s hitting the economy hard too. Pakistan loses almost PKR 700 billion every year, roughly 1 percent of its GDP, through medical costs and lower work productivity (PIDE, 2022). Over the past decade, these losses have gone up by about 31 percent, showing how weak and inconsistent policies have failed to tackle the issue. Just imagine if even a small part of that money went toward improving schools, hospitals, or social programs it could make a huge difference in people’s lives.
+
+Although the government has tried to control tobacco use, progress has been slow. Without stronger action, Pakistan will continue to struggle in reaching its bigger goals better health, less poverty, and a stronger, more developed society.
+
+2. Tobacco Control Policy in Pakistan and the Implementation Gap
+
+Pakistan has developed a clear policy and legal framework for tobacco control. It has signed the WHO Framework Convention on Tobacco Control (FCTC) and launched the National Tobacco Control Strategy (2022–2030). However, translating these commitments into consistent action remains a major challenge. The gap lies in uneven enforcement, weak regulation of smokeless tobacco, and inefficiencies in the tax system.
+
+Uneven Enforcement: Tobacco laws are applied disparately across provinces, creating regulatory loopholes and weakening national efforts.
+
+Smokeless Tobacco (SLT) Regulation: Products such as naswar and gutka are widely consumed, particularly among men and youth, yet remain largely outside the regulatory purview, representing a critical oversight in public health policy.
+
+Taxation Inefficiencies: While recent IMF-driven tax hikes reduced cigarette sales by an estimated 20–25%, the multi-tiered excise tax system keeps budget brands affordably priced, undermining public health objectives. Furthermore, e-cigarettes and other novel products lack a specific tax framework.
+
+Illicit Trade: The implementation of a track-and-trace system has been initiated but suffers from incomplete digital integration, limiting its effectiveness in curbing smuggling and illegal sales, which account for an estimated one-third of the market.
+
+Inadequate Cessation Support: Access to quitting support remains extremely limited in Pakistan. This reflects a broader pattern across low- and middle-income countries, where few nations offer cost-covered cessation services or national quit lines. As shown in Table 1, only a small proportion of these countries provide both nicotine replacement therapy (NRT) and counseling that are publicly funded (World Health Organization, 2025).
+
+Table 1. Availability and Coverage of Tobacco Cessation Services by Country Income Level
+
+Income Group
+National quit line, both NRT and some cessation services costcovered (%)
+NRT and/or some cessation services, at least one costcovered (%)
+NRT and/or some cessation services, neither costcovered (%)
+
+None (%)
+
+Data not reported
+
+(%)
+
+Highincome
+18
+39
+4
+3
+0
+
+Middleincome
+12
+58
+18
+17
+0
+
+Low-income
+1
+5
+7
+12
+1
+
+Source: World Health Organization, Report on the Global Tobacco Epidemic, 2025.
+
+Note: The table shows the proportion of countries offering cessation services, including nicotine replacement therapy (NRT) and counseling, and whether these services are cost-covered across income groups.
+
+3. Global and Regional Models in Tobacco Regulation
+
+Global experience makes one thing clear: effective tobacco control only works when there’s steady political will, simple and practical rules, and strong follow-through. A number of countries have shown what this looks like in action and their examples hold useful lessons for Pakistan.
+
+In Sierra Leone, the Tobacco and Nicotine Control Act passed in 2022 was a major step forward. It banned smoking in indoor public spaces, required large graphic health warnings on cigarette packs, and outlawed all forms of tobacco advertising. What made this reform stand out was the groundwork behind it a national “Investment Case for Tobacco Control” that spelled out how enforcement could improve both public health and the economy. That evidence helped win political backing and pushed the law through parliament (World Health Organization, 2023).
+
+Uzbekistan’s story is one of persistence. Over nearly thirty years, the government kept tightening smoke-free laws, extending them from public offices to restaurants and public transport. In 2023, it went a step further with Law No. ZRU-844, which not only strengthened enforcement but also brought new products like e-cigarettes and snus under regulation. Steady attention to policy, combined with strong advocacy from civil society, gradually changed public attitudes and improved compliance (WHO, 2025).
+
+In the regional context, India shows how even the strongest laws can fall short if they aren’t enforced well. The country requires 85 percent pictorial warnings on cigarette packs and banned e-cigarettes under the 2019 Act. Yet tobacco use still claims over 1.35 million lives every year and drains about 1.16 percent of its GDP (WHO, 2021; GATS India, 2016). The lesson here is that good legislation is only half the battle real success depends on consistent enforcement and continued help for people who want to quit.
+
+For Pakistan, these experiences underline a simple truth: laws alone won’t solve the problem. Progress will depend on how well they are enforced, how coordinated fiscal policies are, and how much support is given to those trying to stop smoking. Experience from other countries also shows that carefully regulating safer alternatives without marketing them can help reduce the harm caused by tobacco. When policies are based on clear evidence and applied consistently, harm reduction becomes a realistic part of the solution. Learning from these examples can help Pakistan strengthen its National Tobacco Control Strategy (2022–2030) and close the persistent gap between policy and practice.
+
+Table 2: Global Models in Harm Reduction and Regulation
+
+Country
+Notable Strategy
+Outcome and Relevance for Pakistan
+
+United Kingdom
+Regulation of vaping and e-cigarettes within the national tobacco control framework
+Evidence from Public Health England and the UK Health Security Agency shows that vaping has helped adult smokers quit and is much less harmful than smoking. The key lesson for Pakistan is to explore harm reduction within a strong regulatory setup.
+
+Sweden
+Widespread use of lowrisk products such as snus
+Daily smoking rates dropped to 5.6 percent in 2022, the lowest in the European Union. This shows the benefit of allowing low-risk products under strict rules (Smokefree Sweden, 2023).
+
+New
+
+Zealand
+“Smoke-free Generation” law and a mandate to reduce nicotine content
+Adult daily smoking fell to 8 percent in 2021–22, the lowest level ever recorded. The approach shows the impact of comprehensive, equity-focused policies (New Zealand Ministry of Health, 2022).
+
+Sources: Public Health England (2021); Smokefree Sweden (2023); New Zealand Ministry of Health (2022).
+
+4. South Asia’s Tobacco Control Landscape
+
+Across South Asia, most countries have laws to control tobacco, but their enforcement and impact differ sharply. The region shows progress on paper but uneven results in practice.
+
+India has one of the toughest policy frameworks. It requires 85 percent pictorial warnings on cigarette packs and has banned e-cigarettes since 2019. Yet tobacco still kills more than 1.35 million people every year and costs the economy around 1.16 percent of GDP (WHO, 2021; GATS India, 2016). The gap between law and action remains wide, mainly due to enforcement challenges and weak cessation support.
+
+Bangladesh aims to become tobacco-free by 2040. The goal is ambitious, but the country struggles with a complicated tax system that keeps low-cost products within reach. Tobacco causes about 161,000 deaths annually, with an estimated loss of USD 3.6 billion to the economy (WHO, 2022). A simpler, higher tax structure could make a real difference.
+
+Sri Lanka has made strong moves on packaging and advertising. It enforces 80 percent pictorial warnings and bans all smokeless tobacco. Still, about 20,000 lives are lost each year, and tobacco-related diseases cost over LKR 89 billion (Amarasinghe et al., 2018; Movendi International, 2023). Enforcement remains uneven, especially against illicit trade.
+
+Nepal will require 100 percent pack warnings by 2025, a regional first. Even so, tobacco kills more than 27,000 people a year, and health costs continue to rise (WHO, 2022). Limited public resources make it hard to sustain prevention and quitting programs.
+
+Together, these cases show a clear pattern. South Asian countries have strong laws but weak follow-through. Taxes are complex, enforcement is patchy, and quitting support is limited. Pakistan fits this regional picture. Its policies are sound, but enforcement is inconsistent, low-cost cigarettes remain available, and smokeless tobacco remains outside regulation. Turning written commitments into real outcomes will require stronger coordination and investment at both national and provincial levels.

@@ -1,0 +1,51 @@
+Online Communities, Sense of Belonging and Beyond
+
+(Saman Nazir)
+
+“People in virtual communities do just about everything people do in real life, but we leave our bodies behind.” (Rheingold, 2000, page xvii)
+
+1. What is Community?
+
+In sociological discourse, understanding the concepts of community and society is incomplete without referencing Ferdinand Tönnies’ seminal work “Gemeinschaft und Gesellschaft.” The notion of “Gemeinschaft,” which can be roughly translated as community, is a natural and organic form of group existence where individuals are bound together by shared traditions, beliefs, or objectives (Heberle, 1937). Tönnies used the term “Gemeinschaft” to analyze the social fabric of rural and pre-industrial societies, characterized by mutual acquaintanceship and close-knit relationships. In contrast, “Gesellschaft” refers to an inorganic group held together for some common, conscious purpose. Tönnies applied this term to describe urban, post-industrial societies where residents may not necessarily be familiar with their neighbors and whose roles are specialized. The community grows from the natural connection between humans and their surroundings and the instinctive bonds that naturally form among individuals and groups.
+
+In contrast, society is a construct that emerges from deliberate choices and intended goals, creating purposeful and voluntary bonds (Heberle, 1937). However, the concept of community has evolved, and many sociologists contest how Tönnies conceptualized these concepts. There are three main elements that we traditionally find when defining a community.
+
+A community is a collection of individuals.
+
+Community members engage in shared activities and experiences.
+
+A community is linked to a particular geographical area (Hoffer, 1931).
+
+Contemporary communities primarily rely on communication as their foundation, established through new forms of connection. People are no longer restricted by our physical proximity, allowing us to be part of multiple communities based on elements such as religion, nationality, culture, way of life, and gender. (Delanty, 2003).
+
+2. Virtual Communities and Sense of Belonging
+
+“Virtual community,” a term introduced by Rheingold, refers to the social spaces that were emerging on the internet, especially in the early days of online forums, bulletin board systems (BBS), and Usenet groups (Rheingold, 1993). He compares these online spaces and physical communities, underscoring the shared interests, norms, and mutual support that define both. Although Rheingold wrote these ideas during the early stages of the internet, many of his observations still hold today. They offer a fundamental understanding of how online communities form and the social interactions that occur within them (Rheingold, 2000). As Wellman and Gulia (1999) also argued, virtual communities are more than just a gathering of individuals online; they are cohesive groups with shared interests, regular communication, and social connections among members. Virtual communities transcend geographical limitations, allowing members to interact and collaborate seamlessly across distances. However, some scholars contest the idea of an online space as a “virtual community”. For example, Fernback (2007) argued that although online interactions can create feelings of friendship, respect, and acceptance, they often do not fully capture the larger cultural idea of community. Online groups might mainly serve as personal spaces rather than meeting the bigger needs of society (Fernback, 2007).
+
+3. Homesteading and Weak & Strong Ties
+
+The idea of “homesteading” was introduced by Rheingold, which refers to the people or groups actively taking part and adding to the growth and nurturing of online communities or virtual spaces. This idea is compared to the historical practice of homesteading, in which pioneers created and developed their own communities on unclaimed land. In the digital world, “homesteading” means individuals actively shaping and caring for online spaces by providing content, setting standards, and fostering a feeling of belonging within a virtual community (Rheingold, 1993). Moreover, like in physical space, members in online communities can have weak or strong ties. Both types of connections are crucial. Strong ties offer emotional support and a sense of belonging, while weak ties provide diverse perspectives and opportunities for learning and networking. Balancing both enriches our social lives (Baym, 2015).
+
+3.1 Strong Ties
+
+Close relationships with deep emotional bonds and trust.
+
+Typically, family, or long-time friends.
+
+High levels of intimacy and mutual support.
+
+3.2 Weak Ties
+
+Casual or superficial relationships, like acquaintances or online contacts.
+
+Limited interaction and shared experiences.
+
+Provide diverse perspectives and access to information.
+
+4. Online Learning Communities
+
+Millions of online communities have been created for a broad spectrum of purposes. One notable type is online learning communities, which have entirely reshaped how people learn today. A growing body of research affirms that members of online learning communities feel a great sense of belonging and interact in online communities, which has a positive impact on overall well-being. In this context, the sense of belonging is when a student feels an integral part of a group. It also entails a strong connection with other students, a shared purpose, relying on one another, and having trust. A learning community involves interaction within the group to encourage connections among students, and it embodies the feelings linked to achieving significant learning goals within the community. When the group places greater importance on belonging and valuing learning, the sense of community among its members becomes stronger (Rovai, 2002). For instance, Vázquez-Cano & Díez-Arcón (2021) examine students’ satisfaction levels at Spain’s National Distance Education University (UNED) using Facebook groups for learning. The study involved 418 undergraduate and master’s degree students who were surveyed over three semesters. The study’s findings revealed that students who participated in Facebook study groups performed better academically than those who did not (Vázquez-Cano & Díez-Arcón, 2021).
+
+Similarly, Yılmaz & Yılmaz (2023) explored how students’ perception of sociability, sense of community, and satisfaction relate to their active involvement, thinking processes, and emotional investment in a Flipped Classroom (FC) environment facilitated by a virtual learning community. The study involved 219 university students from a state university in Turkey. The study’s findings suggested that students demonstrated high levels of engagement in FC applications supported by the Facebook-based virtual learning community. Specifically, students displayed notable behavioral and emotional engagement, while their cognitive engagement was rated as moderate. Additionally, factors such as perceived sociability, sense of community, and satisfaction significantly influenced students’ level of engagement (Yılmaz & Yılmaz, 2023).
+
+For Full Text Download PDF

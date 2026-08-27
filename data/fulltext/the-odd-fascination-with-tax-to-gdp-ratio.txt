@@ -1,0 +1,44 @@
+There has been persistent pressure on successive Pakistani Governments by policymakers, especially those affiliated with multilateral donor agencies, to increase the Percentage Tax-to-GDP ratio. It is true, that the fiscal deficit continues to increase. However, the assumption that it is a tax shortfall that grows the deficit needs to be challenged. Haque (2020 & 2022) and PIDE (2021) have consistently challenged this hypothesis by noting that growing government expenditures arise from its inability to control inefficiencies, losses, and staffing. In addition, the government creates a large number of new agencies often duplicating work and often without regard to funding and cost benefit considerations.
+
+The continuous call for higher revenues from the lending agencies such as the World Bank, Asian Development Bank and bilateral agencies such as the FCDO and USAID are based on the equivalence of Tax-to-GDP ratio across a groups of countries. Pakistan is told that its Tax-GDP ratio must be the same as a group of selected developing countries. Two important points need to be noted on this continuous pressure to increase our tax-GDP ratio.
+
+First, note that there are hardly any theoretical models or empirical evidence that suggests any credible relationship between higher Tax-to-GDP ratios and high sustained economic (GDP) growth. On the contrary Nizamani (2020) has shown that high Tax-GDP ratios are negatively correlated with growth.
+
+Second, we show here that tax-GDP ratios vary largely across countries depending on the needs and policies of the country. Fiscal policy choices depend on the social contract of the country. There can be no expectation that one country’s tax-GDP ratio or fiscal expenditures are similar to another.
+
+BOX 1: Making Sense of Tax-GDP Ratio’s Variability
+As the Table Above shows, there is huge variability between Tax-to-GDP ratio across the world.
+· Poorer countries typically have low Tax-to-GDP ratios,
+· Richer countries have high ratios.
+· Between rich countries there is considerable variability.
+· Those countries that are typically considered welfare states have high Tax-to-GDP ratio. Indicating that perhaps politics and the social ‘contract values’ of state-citizen reciprocation and trust are at play here than just economic variables alone.
+· Even if countries have roughly similar per capita income levels, there can be no expectation that one country’s tax-GDP ratio or fiscal expenditures are similar to another.
+
+. . . Visualizing the variability through a geospatial representation of Tax-to-GDP Ratio (%) . . .
+
+BOX 2: Tax-to-GDP Ratio and Economic Growth
+There is no credible link between High Tax-to-GDP Ratio (%) and High Sustained GDP Growth. A Scatter Plot of (all countries) % Average Tax-to-GDP Ratios and % Average Annual GDP Growth Rate illustrates that there is no substantive relationship. (See Figure 4)
+
+BOX 3: Policy Implications
+There is no reason to assume that Pakistan’s tax-GDP ratio to be targeted to equal some other country. Instead, it would be better if we change our policy goals to a simpler, more growth friendly tax policy and a serious zero-based expenditure review (Nasir et al., PIDE, 2020).
+The current approach is flawed. It has led to multiple taxes, huge distortions, an environment of suspicion—all of which have led to a decelerating growth, productivity, and investment.
+The government would be wise to call or a complete overhaul of tax policy with the goal of simplification and eliminating the multiple nuisance and distortive taxes. To this end PIDE is ready to do the research. IMF technical assistance will be available as well and government should avail of it too. But it must be used in combination with some of our agencies like PIDE who can dig deeper and keep the system under review later.
+This is imperative to give investors a stable tax policy and generate growth in the economy
+
+References
+
+Databank.worldbank.org. 2022. DataBank | The World Bank . [online] Available at: < https://databank.worldbank.org/ > [Accessed 15 June 2022].
+
+‘Doing Taxes Better: Simplify, Open And Grow Economy – PIDE’ (2022), 30 June. Available at: https://pide.org.pk/research/ (Accessed: 30 June 2022).
+
+Haque (last) (2022) Haque Survey on Role of Taxation in Economic Growth.
+
+Haque, N.U. (2020) Macroeconomic Research and Policy Making: Processes and Agenda.
+
+Heritage.org. 2022. Economic Data and Statistics on World Economy and Economic Freedom . [online] Available at: < https://www.heritage.org/ > [Accessed 15 June 2022].
+
+Nasir, M., Faraz, N. and Anwar, S. (2020) Doing Taxes Better: Simplify, Open and Grow Economy, The Pakistan Development Review , 59(1), pp. 129–137. Available at: https://doi.org/ .
+
+Nizamani, S. (2021) Higher Taxes Reduce Economic Growth: Overwhelming International Evidence.
+
+The PIDE Reform Agenda for Accelerated and Sustained Growth (2021).

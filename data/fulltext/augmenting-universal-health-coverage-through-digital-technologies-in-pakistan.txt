@@ -1,0 +1,91 @@
+There are around 140-countries where health is enshrined as a constitutional right. Chapter-2 on fundamental rights in Pakistan’s Constitution grants a total of 23 rights in various domains to citizens, but health is not amongst them. While the Constitution does mention ‘medical relief’ in the ‘Principles of Policy’, this section is primarily only for guidance purposes. This anomaly, however, does not absolve the state from the provision of healthcare facilities on account of its resources. In Pakistan, the government remains a major player in the health sector, owning and operating a large number of healthcare facilities across the country. This brings us to the original premise of ‘Universal Health Coverage (UHC)’.
+
+Let us first define this term. As per the World Health Organization (WHO), UHC is meant to ensure that all people have access to the full range of quality health services they need, when and where they need them, without financial hardship. On the face of it, UHC appears to be a very large undertaking for any state. It requires the mobilisation of enormous resources to meet diverse healthcare demands of different socioeconomic segments. Quantum of the healthcare footprint could be ascertained from global healthcare spending, which reached USD 9 trillion in 2020 and makes up 10.8% of world’s GDP. However, this spending remains highly skewed: with high income countries currently making up 80% of the total expenditure despite housing only 15% of the global population. On the other hand, low-income countries with 8% of the world’s population spend a meagre 0.2% of this humongous amount on healthcare. Pakistan is categorised as a low-middle income country. In quantitative terms, low-middle income countries remain the most populous segment with 43% of the world’s population, but their share in global health spending stands at under 4%.
+
+This difference in health spending is well-reflected in life expectancies among different income countries. Life expectancy in rich countries hovers above 80-years, whereas the same figure for low and low-middle income countries ranges from 65-years to below 60-years. Healthier populations in developed countries are sustaining productivity with ageing. It has enabled their governments to raise the retirement age to 66-years and more. With the prevalent income gap and government priorities, it is realistic to assume that health spending in low and middle income countries are not going to witness major jumps in the foreseeable future. In this scenario, suitability of digital technologies in bridging some of this health inequality will be probed with a nuanced approach in this short article.
+
+Our exploration journey starts with the comprehension of objective benchmarking of UHC among middle-income countries. For this purpose, comparative standings of 18-selected developing countries on UHC-Service Coverage Index is used. It will be followed by the elaboration of rising usage of digital technologies in healthcare sectors. In the end, a policy intervention roadmap on furthering the integration of digital technologies in Pakistan’s local healthcare sector will be presented.
+
+Comparative UHC Benchmarking in Developing Countries
+
+Under a global development agenda, the United Nations created and launched 17 Sustainable Development Goals (SDGs) in 2015. Its action plan denotes 169-targets under these SDGs to be attained by 2030. SDG-3 pertains to health segment with an aim of ensuring healthy lives and promoting well-being at all ages for all population segments. Among its 13-targets, Target 3.8 relates to the achievement of Universal Health Coverage (UHC) inclusive of financial risk protection for individuals obtaining quality healthcare services.
+
+WHO is the leading agency for the design and oversight related action plans as well as their implementation. From an evaluation perspective, Target 3.8 is further segregated among indicators as service coverage measured by UHC-Service Coverage Index and out-of-pocket health spending as a percentage of household income. Under Target 3.8, UN and WHO are working on enhancing UHC footprint and reducing the burden of household health spending. In its latest UHC monitoring report, WHO has described its expansion of UHC – the global average index score of which has risen from 45 in 2000 to 67 in 2019. However, the situation on the reduction of burden of out-of-pocket health spending has worsened. The percentage of population spending up to 10% household income on health expenses has risen from 9.4% in 2000 to 13.2% in 2019. This reflects ineffectiveness of existing health insurance systems and rising price inflation in medicines and related services. Benefits from expanding UHC will remain sub-optimal if the population has little financial risk protection against rising out-of-pocket health spending.
+
+Here the role of the government becomes all important in reducing the financial burden of the provision of quality healthcare services to the general populace. To provide a clear picture of government UHC engagement, we have selected 18-developing countries from upper-middle and low-middle income categories. Scoring trends of these countries on the UHC-Service Coverage Index is tabulated below.
+
+It is pertinent to mention here that the maximum score achieved on this index (with a cap of 100) is 89, whereas as of the latest index report, there are no countries in the ‘Very Low’ category. Trends in the above table reflect sustained improvement in UHC across the world. Pakistan has also made decent progress from a low base in 2000, however it is lagging behind all its regional contemporaries. It is just 6 points above the ‘Low’ category and has to ascend another 15 points to move into the ‘High’ level, a tall-order indeed. To further build our case for effective government engagement in expanding UHC, health spending demographics are tabulated below:
+
+In terms of doctors’ ratio per 100,000 of the population, Pakistan is placed well among its counterparts. However, its nurses and midwives ratio is much worse in comparison, standing at just 1/4 th of the average of the list. The absence of larger pool of para-medic staff on ground means a high cost of sustaining UHC access. An interesting anomaly resides in the government share in total health spending in these countries. On average, government spending makes up 53% of health spending in selected countries, but governments in the top-5 countries in the list, with ‘Very High’ index score, have a spending ratio of 64%. And this ratio rises further in the developed countries. This means that with all the mantra of free markets, even much economically and technologically advanced countries are not willing to forego government support for a robust and sustainable healthcare system.
+
+This brings us to a crossroad in the context of Pakistan. It is evident that the prevailing precarious fiscal conditions are not likely to allow Pakistan to loosen its financial strings for health spending. Most of our health indicators are low in terms of regional performance and progress is also slow. The situation may be termed bleak, but affordable healthcare solutions are brimming with successful precedents making their mark in different developing countries. Let us take a look at some of the innovative healthcare advancements that are creating space for more affordable health services at the grassroots level.
+
+Digital Technologies Transforming Healthcare Systems
+
+It is imperative to mention that the bulk of healthcare innovations are led and driven by developed countries. Over a long period of time, they have fostered a robust innovation system based upon strong research and development capacity, provision of risk capital and government funding. In terms of patents, health firms and startups from the western hemisphere are legally well-secured to ensure sustained sales and cash flows from both developed and developing markets. This paradigm appeared to be loaded heavily in favour of the developed world with little leeway for developing countries to create space for their own products and services. Overt dependence on western health products and technology also slowed down progress on more inclusive healthcare systems in developing countries.
+
+In the latter half of the 20 th century, we witnessed governments in various developing countries supporting the manufacture of generic drugs by local pharmaceutical producers. Many of the developing countries also embarked upon the establishment of health education institutes for the creation of large pools of trained and qualified healthcare professionals. As economic prosperity expanded in developing countries, spillover effects resulted in greater self-sufficiency in the provision of healthcare products and services by local health firms. On account of low production costs, many of the western health firms started relocating their production facilities in developing countries. This sustained exchange of technological knowhow and western-qualified healthcare professionals from developing countries contributed in laying the foundations of a globally competitive healthcare ecosystem.
+
+In the early 21 st century, the internet (world wide web) emerged as a change agent for many innovations in the delivery of health products and services – smoothening the adoption paths of innovations that were originating in western labs and startups. It is pertinent to mention here that the breadth of these healthcare innovations is much wider and covers a large range of offerings in different facets of primary, secondary and tertiary healthcare. And it is also a matter of fact that a holistic integration of health tech will optimise the outcomes of UHC in terms of its span and reduce burdens relating to out-of-pocket health spending.
+
+However, for a more focused approach, we restrict our scope to digital technologies related to Artificial Intelligence (AI) and Internet of Things (IoT) powered healthcare products and services. The rising marketability of these products and services is linked with greater smartphone penetration around the world. In Pakistan, mobile broadband penetration has reached 53% with 127-million mobile broadband subscriptions. Our intention is to highlight their utility in augmenting UHC in developing countries – a perspective based upon the premise of leveraging technology to overcome the human resource crunch in the provision of quality and affordable healthcare services at the grassroots level. Adoption of digital technologies is also part of SDG-3, pertaining to provision of healthcare to all.
+
+As per various market research reports, average global market size of mobile healthcare devices and apps stood at USD 63.2 billion in 2022. It is forecasted that this market will quadruple to reach USD 247.9 billion by 2032. It includes wearables and portable devices such as ECG monitors, glucometers, pulse oximeters, BP devices, fitness trackers, amongst others. Powered by AI and IoT, these devices are equipped with user-friendly smartphone apps to facilitate self-care and smoothen up diagnostic and monitoring capacity. From their predominant western origin and market presence, we are witnessing the emergence of Chinese and Indian economical brands in this segment of portable healthcare devices.
+
+A healthcare system is an amalgamation of various hardware components ranging from brick and mortar structures to the provision of medicines, devices and other material. Technology-driven solutions have the potential for scaling and, in turn, better affordability. The roadmap for augmenting UHC through the deployment of digital technologies will be addressed in the section ahead.
+
+Pakistan: Health Tech as a Viable Tool for Expanding UHC
+
+With its 240-million population, Pakistan is the fifth most populous nation spread over an area of 881,913 square kilometers. As per an estimate, it has over 100-cities with a population of 100,000 and above. The country is rapidly urbanising, which is creating the potential for scale in tech-driven healthcare products and services. Pakistan has the lowest per capita health spending in South Asian region as well as the lowest ranking on UHC Service Coverage Index. The private sector is providing 70% of the healthcare service coverage in Pakistan. Its domestic ecommerce market has surged to USD 6 billion in just a few years – which reflects market appetite and demand for internet-driven delivery of products and services in a broad sense.
+
+Breadth and length of the country requires a health-tech driven ecosystem for effective UHC implementation. Proposed policy interventions are listed below:
+
+Incorporating health as a right in the Constitution.
+
+Launching a holistic UHC policy with the inclusion of tech-driven approaches for inclusive health coverage and reducing the burden of out-of-pocket health spending.
+
+Promoting health tech entrepreneurship through university and incubator based startups for the manufacturing of no-frills medical devices.
+
+Providing free-of-cost health data from government hospitals and health units to startups and SMEs for the development of AI-based algorithms.
+
+Strengthening data privacy regulations for the confidentiality of personal health records used in health devices and apps.
+
+Encouraging government hospitals and health units to procure locally manufactured portable healthcare devices.
+
+Supporting quality certifications for startups and firms engaged in the design and manufacturing of portable health devices and apps.
+
+Ensuring early expansion and roll-out of 5G technology and network across the country.
+
+Initiating grant programs for health tech startups and promoting the risk capital ecosystem in the country
+
+The Author is the CEO and Co-Founder of a Health Tech Startup
+
+References :
+
+Global Spending on Health: Rising to the Pandemic’s Challenges, 2022
+
+WHO & World Bank. Tracking Universal Health Coverage: Global Monitoring Report, 2021
+
+Gallup Pakistan. Pakistan’s Healthcare Market, Medical Devices and Digital Healthcare, February 2022
+
+M. Nabeel Ul Haq. Essays on Healthcare Provision and Utilization in Pakistan. Université de Pau et des Pays de l’Adour, 2021
+
+Center for Health Security. Global Health Security Index. John Hopkins Bloomberg School of Public Health, December 2021
+
+Centre for Health, Equity, Law & Policy. Digital Technology, Health & the Law: Implications for UHC, June 2023
+
+Official Journal of the European Union. Regulation on European Data Governance, June 2022
+
+Karina Bhattachariya. Medical Wearables: Case Study. University of Houston, 2022
+
+Philip Pfrang & Stephanie Allen. The Rise of Global Healthcare Companies. Deloitte, 2020
+
+Dr Rana Mehta & Abhijit Majumdar. How Health can revolutionize the Indian Healthcare Industry. PWC, 2017
+
+Bhavya Mehta & Paavi Kulshreshth. Healthcare at Your Fingertips: Case of mHealth in India. Centre for Civil Society, January 2023
+
+List of Priority Medical Devices for Management of Cardiovascular Diseases and Diabetes, 2021
+
+Data Darbar. State of B2C E-Commerce in Pakistan, 2022
+
+Wilhelm Daniel Scherz, Jannik Baun & Ralp Seepold. A Portable ECG for Recording and Flexible Development of Algorithms and Stress Detection. The Elsevier, 2020

@@ -1,0 +1,61 @@
+“You should never let a good crisis go to waste,” Response of Finance Minister, Pakistan on Tariff
+
+Executive Summary
+
+The US is the Pakistan’s largest single-country export destination as country exported $5.3 billion to the US in FY2024, dominated by textiles. The US claims tariffs address trade deficits and “currency manipulation,” but they risk destabilizing the partnership between the two countries.
+
+The proposed 29% US import tariffs will reduce Pakistan’s exports to the US by 20–25% (USD 1.1–1.4 billion annually)[1], disproportionately harming the products with the largest share in the export basket. The affected products are textiles, rice, and surgical instruments. While framed as a remedy for US trade imbalances, the tariffs reflect a zero-sum approach by the US that ignores mutual gains from comparative advantage, liberalization and GVCs. In order to minimize losses and take advantage of long-term potential, this note suggests immediate diplomatic engagement, export diversification, and cost-cutting measures.
+
+1) Introduction
+
+The United States remains a significant export destination for Pakistani commodities. The total trade volume was USD 6.7 billion in 2024, with Pakistan exporting roughly $5.3 billion to the US and importing about $1.4 billion- accounting for around 17.3% of its total exports.[2] Pakistan has been granted the Most-Favored Nation (MFN) access (normal trade relations) in the US market, and some exports had preferential tariffs under programs like GSP (though most textiles/apparel were not duty-free even under GSP).[3]
+
+During first seven months of ongoing fiscal year (2024/25), Pakistan exported USD 3.6 billion worth of goods to the United States, with textiles and apparel comprising 79% (USD 2.8 billions) of share. Notably, value-added products like clothing and household textiles account for 94% of total textile exports. In spite of this, Pakistan already has to pay up to 17% in tariffs on these goods, while its US-imported cotton is still duty-free.
+
+Trump’s Reciprocal Tariff Rate for Pakistan
+
+Formula: (US Goods Imports from Pakistan – US Goods Exports to Pakistan) / US Goods Imports from Pakistan * 0.5
+
+However, there’s a base tariff of 10% applicable to most countries, including Pakistan. The reciprocal tariff calculated above is then added to this base rate.
+
+Let’s quantify this using the most recent trade data available for 2023, according to the United States Trade Representative (USTR):
+
+US goods exports to Pakistan in 2023: $2.1 billion
+
+US goods imports from Pakistan in 2023: $5.1 billion
+
+Plugging these values into the formula:
+
+Calculate the trade deficit: $5.1 billion (imports) – $2.1 billion (exports) = $3.0 billion
+
+Divide the trade deficit by US imports from Pakistan: $3.0 billion / $5.1 billion = 0.588
+
+Multiply the result by 0.5: 0.588 * 0.5 = 0.294
+
+Convert to percentage and round: 0.294 * 100% = 29.4% ≈ 29%
+
+Recently, President Trump implemented extensive import tariffs, including a 10% flat tariff on most US trading partners and additional reciprocal tariffs on 57 countries.[4] These measures significantly disrupted global trade, raising US import tariffs from an average of 2% to 22%, the highest level in over a century. Despite being labeled as “fair and reciprocal,” these tariffs are criticized for their simplistic formula based solely on a country’s trade deficit with the US, ignoring tariff levels and economic size.
+
+While Western countries like the United Kingdom and European Union were smacked with 10% to 20% tariffs, Trump’s primary focus remained on Asia – the hub of the global manufacturing supply chain with a tariff rate of 34% on China, 26% on India, 37% on Bangladesh, 29% on Pakistan, 36% on Thailand, 32% on Indonesia, Sri Lanka (44%), 46% on Vietnam.
+
+Pakistan’s exports to the U.S. are heavily concentrated in a few key categories – mainly textiles and apparel that will be most affected by the 29% U.S. tariff. Such a large tariff will render into higher prices for American consumers., making Pakistani goods less attractive, either Pakistani exporters or American buyers absorb some of the cost. In the short-term, Pakistan’s exports to the United States will likely decline in both value and volume.
+
+2.Understanding the Tariffs
+
+Before making any comments regarding the existing reciprocal tariff, it is worthwhile to comprehend the nature of the various tariff kinds.
+
+Weighted Averaged MFN Tariff: This is the standard tariff rate that the US applies to imports from all World Trade Organization (WTO) members on a non-discriminatory basis, weighted by the import shares of different products. It represents the baseline tariff before the imposition of any reciprocal measures.
+
+Reciprocal Tariff: This is an additional tariff imposed by the US on specific countries based on the trade deficit the US has with them. The calculation aims to balance the bilateral trade deficit. The US imposed a 29% reciprocal tariff on imports from Pakistan.
+
+Reciprocal Duty + MFN: This represents the total tariff burden, which is the sum of the standard MFN tariff and the newly imposed reciprocal tariff.
+
+3) Potential Impact on Pakistan’s key Textile Competitors
+
+Pakistan’s weighted average MFN tariff is relatively low. However, the imposition of a 29% reciprocal tariff by the US significantly increases the total tariff burden on Pakistani textile exports. This increased cost makes it harder for Pakistan to compete with countries facing lower tariffs in the US market, such as India. While Pakistan’s tariffs are lower than those imposed on Bangladesh, giving it a relative advantage over these nations, it faces a disadvantage compared to India. Followings are the key textile competitors of country.
+
+Bangladesh faces a relatively low weighted average MFN tariff. However, the reciprocal tariff imposed by the US is significantly high, leading to a substantial combined tariff rate. Recently, the US has imposed a 37% reciprocal tariff on Bangladesh, increasing duties from previous rates on cotton and polyester products. This has caused significant concern in Bangladesh’s textile industry, which relies heavily on exports to the US.
+
+China has a relatively low weighted average MFN tariff compared to the reciprocal tariff imposed by the US, resulting in a very high combined tariff. It’s important to note that the US had already imposed additional duties on Chinese goods prior to these reciprocal tariffs. The new 34% reciprocal tariff comes on top of existing extra duties, leading to a total tariff of 54% on Chinese imports in some cases.[5] This significantly impacts the price competitiveness of Chinese textiles in the US market.
+
+India also faces a weighted average MFN tariff, and the reciprocal tariff imposed by the US results in a notable combined tariff rate. The US has imposed a 26% reciprocal tariff on Indian exports. Despite this, some analysts believe Indian textile companies might gain a competitive edge because the tariffs on other major competitors like Bangladesh, and China are even higher.

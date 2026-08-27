@@ -1,0 +1,154 @@
+Elections, despite their shortcomings, remain a major political activity in Pakistan.
+
+To date, 12 direct general elections have been conducted since 1970
+
+Elections are a significant financial obligation for the country, with their costs rising exponentially over the past 3 elections. ( Table 1 )
+
+Table 1: Total Cost of General Elections (including national and provincial elections)
+
+General Election
+Cost of Elections
+
+2013
+PKR 13 Billion
+
+2018
+PKR 31 Billion
+
+2024
+PKR 47 Billion
+
+Source: THE NATION, newspaper[1]
+
+2 types of MPs in National and Provincial Assemblies: MPs on General Seats and MPs on Reserved seats.
+
+MPs on General seats: Constituency-based parliamentary seats for which elections are contested.
+
+MPs on Reserved seats (for women and minorities): Allotted to political
+
+parties based on general seats won by the party. Party nominates its members for the allotted reserved seats.
+
+Total General Seats in Past 3 Elections
+
+Due to new delimitations under The Elections Act, 2017 (as modified up to 5th August 2023) and per Population Census 2023, the total number of general seats in the national assembly decreased in the 2024 elections while KPK provincial assembly seats increased due to incorporation of the erstwhile FATA region.
+
+Table 2: General Seats in Elections
+
+Year
+National Assembly
+Punjab Assembly
+KPK Assembly
+Sindh Assembly
+Balochistan Assembly
+Total
+
+2013
+272
+297
+99
+130
+51
+849
+
+2018
+272
+297
+99
+130
+51
+849
+
+2024
+266
+297
+115
+130
+51
+859
+
+Source: Election Commission of Pakistan[2]
+
+Contesting Elections from Multiple Constituencies
+
+Loopholes: No limit is defined in The Elections Act regarding the number of assemblies a single candidate can contest from in a single general election, nor the number of constituencies a single candidate can contest from.
+
+This rule is exploited primarily by party heads and senior leadership to secure entry into parliament and choose between national and provincial assembly seats to vacate or keep based on executive position or gaining better political mileage.
+
+For instance, a winner might vacate their national assembly seat where their party is in opposition to become a provincial cabinet member or even chief minister.
+
+Senior leaders often contest elections on multiple seats ⇒ upon winning more than one seat, they retain only a single seat and vacate the rest ⇒ triggering by-elections on vacated seats ⇒ imposes a cost on national exchequer and the general populace.
+
+Table 3: Printing Costs[1] – General Elections 2024
+
+Total Expenditure – Ballot Papers
+PKR 243.4 million
+
+National Assembly Ballot Papers Expenditure
+PKR 120.24 million
+
+Provincial Assembly Ballot Papers Expenditure
+PKR 121.2 million
+
+Source: Samaa TV[3]
+
+Table 4: Average Cost of Election per Constituency – General Elections 2024
+
+Total Cost of Elections
+PKR 47 Billion
+
+Total Cost of Elections (excluding ballot printing costs)
+PKR 46.76 Billion
+
+Average Printing Cost per NA Constituency
+PKR 0.452 Million
+
+Average Printing Cost per PA Constituency
+PKR 0.204 Million
+
+Average Cost of Elections per NA Constituency (excluding ballot printing costs)
+PKR 175.79 Million
+
+PA to NA constituencies ration
+2.2 PA seats for 1 NA seat
+
+Average Cost of Elections per PA Constituency (excluding ballot printing costs)
+PKR 79.9 Million
+
+Total Cost of Election per NA Constituency
+PKR 176.242 Million
+
+Total Cost of Election per PA Constituency
+PKR 80.104 Million
+
+Source: Author’s Calculations based on tables above
+
+In 2024 elections, 22 by-elections conducted after general elections.
+
+2 constituencies : election delayed due to candidates’ deaths
+
+20 constituencies : reelection due to seats left vacant by candidates who won multiple seats
+
+04 NA seats and 16 PA seats
+
+Table 5: Cost of Reelections (on vacated seats) – By Elections 2024
+
+Cost of reelection – NA seats
+PKR 704.97 Million
+
+Cost of reelection – PA seats
+PKR 1.282 Billion
+
+Total Cost of reelections – By Elections 2024
+PKR 1.99 Billion
+
+Source: Author’s Calculations based on tables above
+
+Recommendations:
+
+As national and provincial elections are held together while all other costs in a constituency remain the same, printing ballot papers for each incurs twice costs for the same constituency, which must be separated to capture before estimating the average cost per constituency.
+
+Contesting elections on multiple seats must immediately be disallowed
+
+Candidates should only be allowed to contest elections in a single constituency of only one parliamentary house in a general election.
+
+[1] As national and provincial elections are held together while all other costs in a constituency remain the same, printing ballot papers for each incurs twice costs for the same constituency, which must be separated to capture before estimating the average cost per constituency.

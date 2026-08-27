@@ -1,0 +1,71 @@
+Potential Role of Sehat Sahulat Program (SSP) in Reducing Catastrophic Health Expenditirues: Suggestions and Way Forward
+
+Shujaat Farooq and Nabila Kunwal, Pakistan Institute of Development Economics, Islamabad.
+
+INTRODUCTION
+
+Out-of-pocket (OOP) payments are the major source of health financing in low-income countries [ 1 ], and particularly in South Asia, where on average 62 percent of the households finance from their own pockets. Public health expenditures of Pakistan are low – only 1.2 percent of GDP. As a result, the public health infrastructure is not sufficient to serve the entire population.
+
+As detailed in the 2017/2018 National Health Account report, 83 percent of the population has been using private health facilities due to lack of access and the treatment challenges quality at government hospitals.
+
+Catastrophic health expenditures (CHE) are simply the high share of health payments in total consumption/ income. The high OOP payments cause households to reduce their spending on other basic needs, compel them to take out loans, fall into debt [ 2 ], compromise and forgo treatment [ 3 ], and are responsible for pushing households into chronic poverty [ 4 , 5 ]. Therefore, controlling CHE can significantly reduce poverty [ 6 ].
+
+Launched in 2015, the Sehat Sahulat Program (SSP) has been providing in-door health facilities with two distinct packages:
+
+(1) Annual Health coverage for secondary care of PKR 60,000 per family per year, with additional coverage of PKR 60,000 per family facility under exceptional circumstances.
+
+(2) Annual health coverage for tertiary care of PKR 300,000 per family, with additional coverage of PKR 300,000 per family facility under exceptional circumstances.
+
+Currently, the SSP is operational in 68 districts of Punjab, AJK, GB, and Tharparker, Sindh. The program has now adopted a universal approach where the in-door health benefits will be extended to all citizens. In Punjab, the program is managed by the Punjab Health Initiative Management Company (PHIMC). State Life Insurance Corporation (SLIC) has been given the contract of paying a certain premium amount against each member of a family. The SSP is a milestone in social welfare reforms, ensuring that all the citizens, especially the under-privileged, have access to entitled in-door medical health care in a swift and dignified manner without any incurring any financial obligations.
+
+The current research provides a snapshot of potential welfare implications of SSP in reducing catastrophic health payments and poverty. Certain recommendations have been made in improving the in-door health utilisation services under the SSP. We have used both the Out-of-pocket health expenditure survey and HIES 2017/2018 for the analysis.
+
+OUT-OF-POCKET HEALTH PAYMENTS
+
+The 2017/2018 OOP Health Expenditure Survey shows that per capita annual OOP health expenditures are PKR 3,098, where citizens spent PKR 650 billion on health from their own pockets. Around 73 percent of the total OOP expenditures incurred on outpatient services, 20 percent on inpatient care, 6 percent on cost unrelated to illness, and only 2 percent on self-medication.
+
+The survey found that on average share of OOP health payments is 5 percent in total household consumption. The share is almost same for various socio-income groups (as measured through consumption quintiles). In urban areas, health expenditures as a percentage of total consumption have a declining trend, whereas better-off households in rural areas spend more as compared to the bottom quintiles (Figure 2).
+
+INCIDENCES OF CATASTROPHIC HEALTH EXPENDITURES AND ITS IMPACT ON POVERTY
+
+Mostly the literature has defined catastrophic health payment if health expenditures are 10percent and above to total household consumption and 40percent and above to non-food consumption. We have used various thresholds to define catastrophic health expenditures and to measure both the intensity and mean positive gap.
+
+Key concepts of incidence and intensity of CHE
+Incidence is the fraction of households whose health expenses exceed the adopted threshold to total/non-food consumption.
+Intensity measures the average amount by which fraction of OOP payments of total/non-food consumption exceed the threshold.
+Mean positive gap is the fraction of intensity to headcount.
+
+Table 1 shows that as the threshold increases, i.e. from 5 to 10 percent, both the incidence and intensity decline whereas the mean positive gap increases. Taking the threshold of 10 percent, 13 percent of households are facing the issue of catastrophic health payments. However, while taking the means positive gap, these households on average, spent 22.8 percent on health care (10 percent +12.8 percent). It is worth mentioning that the incidence measure does not reflect the intensity of how much a household is above the threshold. Therefore, intensity and mean positive gap measures the degree of payments that exceeds the specified total consumption or non-food consumption threshold.
+
+We have used the official poverty line (PKR 3776) to draw Pen’s Parade Graph.[1] The analysis is carried out before and after health payments as excluding health payments from total consumption (as it is the forced payment) yields a picture of actual standard of living with a health problem. The pre and post t health payments and total consumption along with poverty line are plotted against the cumulative distribution of households by per capita consumption (ranked in ascending order). The vertical red bar shows that some households are pushed into the state of poverty due to health payments.
+
+Table 2 measures the impact of catastrophic health expenditures on headcount poverty where per capita consumption and per capita health expenditures are used. The analysis is carried out before (health payments are part of consumption) and excluding health payments.
+
+The findings reveal that counting the OOP health expenditures as the part of total consumption yield, the head count poverty of 21.5 percent and after excluding the OOP health payments, headcount poverty goes upto 29.4 percent. The figures indicate that about 8 percent of the population would not be poor if health resources would have been available to counter OOP. The adverse impacts are more for ‘inpatient’ category and in rural areas (Table 2).
+
+______________________
+[1] Authors are thankful to Dr Nasir Iqbal for providing the micro poverty series data as estimated in National Poverty Estimates (2018)
+
+THE WAY FORWARD
+
+SSP can help in reducing catastrophic health expenditures and escaping households to fall into poverty.
+
+The following recommendations may be noted:
+
+We found that main share of OOP goes to the ‘outpatient’ category. Currently the program is only for in-door treatment. The program must add limited OPD visits to further reduce catastrophic health expenses. In developed countries, insurance companies offer such facilities to minimise in-door expenses.
+
+Currently the benefits of SSP are fixed under secondary and tertiary health care. To minimise the in-door health expenses, the program should create an endowment fund where chronic patients must be allowed unlimited spending on in-door health services. For example, a kidney dialysis patients exhaust their SSP card limit within a few months, and have to bear additional expenses from their own pockets.
+
+REFERENCES
+
+Mathauer, I. & Carrin, G. (2011). The role of institutional design and organisational practice for health financing performance and universal coverage. Health Policy, 99 (3), 183–192.
+
+Krishna, A. (2004). Escaping poverty and becoming poor: Who gains, who loses, and why? World Development, 32 (1), 121–136.
+
+Bredenkamp, C., Mendola, M., & Gragnolati, M. (2010). Catastrophic and impoverishing effects of health expenditure: New evidence from the Western Balkans. Health Policy and Planning , 26 (4), 349–356.
+
+Cavagnero, E., et al. (2006) Health financing in Argentina: an empirical study of health care expenditure and utilisation. Innovations in Health Financin (Working Paper Series, 2006.8).
+
+Farooq, S. & Masud, F. (2021). Catastrophic health expenditure and poverty in Pakistan. The Pakistan Development Review, 60 (1), 27–48.
+
+Mchenga, M., Chirwa, G. C., & Chiwaula, L. S. (2017). Impoverishing effects of catastrophic health expenditures in Malawi. International Journal for Equity in Health , 16 (1), 1–8.

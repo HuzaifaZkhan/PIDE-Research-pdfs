@@ -1,0 +1,147 @@
+Background
+
+Pakistan has been facing high inflation over the last few years. Rising food and fuel (2Fs) prices, in addition to disruption in the global supply chain, adverse impacts of climate change, and bad governance challenges, are major contributing factors to high inflation. The skyrocketing 2Fs prices have aggravated food insecurity and poverty in Pakistan.
+
+Targeted in-kind transfers are commonly used to dilute the adverse effects of food and fuel inflation globally (Banerjee, Hanna, Olken, Satriawan, & Sumarto, 2021; Nawaz & Iqbal, 2020). The government of Pakistan has similarly launched a targeted food subsidies program, the “Ehsaas Rashan Program (ERP),” to provide food subsidies to low-income families.[2] The ERP aims to provide a subsidy of Rs. 1000 per month to 20 million families with monthly incomes below Rs. 50,000 on three food items (pulses, flour, cooking oil/ghee) across Pakistan. Hence, the ERP aims to protect the essential food intake of the poorer segments of society, without disrupting their budgets, by selling essential items at lower and discounted prices.
+
+With the rapid increase in social protection programs, the design and implementation issues have become major areas of discussion among the stakeholders (Handa et al., 2012). The success of such an initiative depends mainly on the targeting method, enrollment procedure, disbursement mechanism, grievance management, and financial support. Proper targeting, transparent enrollment and efficient and low-cost service delivery, and optimal stipend amount are pre-requisite to deliver the desired objective of poverty alleviation and social development (Devereux et al., 2017; Hanna & Karlan, 2017; Iqbal & Nawaz, 2019).
+
+_________________________
+
+[1] The views and opinions presented in this brief are those of the author and do not necessarily reflect the official policy of the Institute (PIDE). The author is thankful to Muhammad Ali Kemal (MoPD&SI), Raziq Muhammad Shinwari (Federal SDGs Support Unit), Nadeem Ahmed (Federal SDGs Support Unit), Durr-e-Nayab (PIDE), Najm uz Zehra Gardezi (PIDE), and Shujaat Farooq (PIDE) for their valuable feedback to improve quality of the brief. The author is thankful to Amna Raiz (PIDE) for her support as a Research Assistant in data collection, field work and report writing. The author also thankful to Amila Rafique (PIDE) for her support in conducting field interviews. The financial support is provided by PIDE through Research Assistantship program.
+
+[2] Apart from ERP, the government provides unconditional cash support though Ehsass Kafaalat program to over 6 million families across all districts of the country with an objective of consumption smoothening for ultra-poor against adverse economic shocks, including inflation and pandemic (Awaworyi Churchill, Iqbal, Nawaz, & Yew, 2021; Iqbal & Nawaz, 2019, 2020; Nayab & Farooq, 2020).
+
+This brief reviews the design and method of implementation of ERP in the context of global practices. The design of these programs and methods of implementation depends on social goals, institutional capabilities, and financial resources (Devereux et al., 2017; Hanna & Karlan, 2017). The brief covers three aspects of the program using primary and secondary data, including:
+
+Design: This includes subsidy amount and enrollment criteria
+
+Implementation: This includes disbursement mechanism and accessibility/connectivity challenges; and
+
+Learning from other food subsidy programs
+
+Design of ERP
+
+a. Food Subsidy Amount
+
+The amount of financial assistance and enrollment criteria are vital design elements in the success of any social protection program. Globally, there are two main approaches to providing food subsidies, including in-kind and voucher-based programs. The government distributes subsided foods to target households under an in-kind program. At the same time, it gives a voucher or advances cash in the account under the voucher-based program to purchase particular food items at participating shops (Banerjee et al., 2021). In terms of financial support, the ERP is a voucher-based food subsidy program delivering a subsidy of Rs. 1000 per month to a family on three food items (pulses, flour, cooking oil/ghee).
+
+To establish the optimality of subsidy provided under ERP, we examine the consumption patterns of three food items included in the program, namely pulses, flour, cooking oil/ghee, among the target group using the nationally representative Household Integrated Economic Survey (HIES) 2018-19.[3] Table 1 provides the average consumption of three food items across different income groups. It shows that the actual average monthly subsidy requirement is PKR. 2048 for the lowest income quintile, while it is around PKR. 2037 for 2 nd income quintile and PKR. 1896 for 3 rd income quintile. These figures reflect the subsidy amount only covers half of the consumption for the poorest quintiles.
+
+https://www.pbs.gov.pk/sites/default/files//pslm/publications/hies2018-19/hies_2018-19_writeup.pdf
+
+Note: The data on food items are taken from HIES 2018-19. The reported values are adjusted by household size as per the respective income quintile. Households are divided into five quintiles based on their income brackets.
+
+_________________________
+
+[3] HIES is administrated by Pakistan Bureau of Statistics (PBS) and covers 24,809 households. The survey provides detailed information on income, consumption expenditure and consumption patterns, apart from other socioeconomic indicators (GoP, 2020b).
+
+b. Targeting method and enrollment criteria
+
+The government will provide a subsidy to each of the 20 million families (that constitutes almost half of the population) with monthly incomes below Rs. 50,000 on these three essential items. The government uses the poverty score to establish the eligibility of households for ERP. The government uses robust data, namely National Socio-Economic Registry (NSER) 2018-21, to select beneficiary households based on proxy mean test (PMT) scores.[4] PMT-based targeting is one of the best targeting methods to reduce inclusion and exclusion errors (Alatas, Banerjee, Hanna, Olken, & Tobias, 2012; Hanna & Karlan, 2017; Premand & Schnitzer, 2021). Premand and Schnitzer (2021) show that PMT-based targetting is more efficient than community-based targetting to identify households with lower per capita consumption. All households with a PMT score of 39 or below are eligible for ERP.[5] One family member can enroll their family for ERP using the Computerized National Identity Card (CNIC) through the web portal or SMS on 8171.[6]
+
+3. Implementation design
+
+The ERP will be implemented by Kiryana (grocery) merchants. The ERP beneficiary needs to visit any Ehsaas-enabled Kiryana store to avail of said food subsidy.[7] A Kiryana merchant requires an Andriod phone, a CNIC, a Subscriber Identity Module (SIM) card registered against the said CNIC, and a bank account for registration to become a sale agent of the ERP. The National Bank of Pakistan (NBP) will manage the implementation and subsidy disbursal processes. This will involve supervising merchant onboarding/training, managing the mPOS (mobile point-of-sale), and maintaining a beneficiary complaint management system, among other things. The subsidy amount will be credited into merchants’ bank accounts in 24 hours, along with a commission. The government will provide 8% profit as an incentive to the Kiryana store owner for every PKR 1000 worth of purchase.
+
+4. Coverage and connectivity challenges: Survey-based findings
+
+We interviewed Ehsass Kafaalat program beneficiaries to understand the efficacy of ERP and their knowledge of the ERP. The majority of them either have no information about the program or have no idea where to get benefits.
+
+An Ehsass Kafaalat beneficiary said, “ I just heard about this program, but we don’t have any Kiryana or utility store in our village .” We explained that it is not necessary that only a big Kiryana/ grocery store register with ERP, and even a small shop in your village can also register if the shop owner has an android phone and a bank account. The beneficiary smiled and replied, “ We poor people do not have big phones or a bank account. Only rich people will benefit from this program; we who are entitled will not get anything ”.
+
+We interviewed many other females from the same village and asked them about ERP. All of them did not know about this program. Another respondent said he knew about this program, and he registered for ERP. We asked him if this program was beneficial for the local people because the government took this initiative to subsidize the people. “ Not much beneficial because the government gives a discount of PKR 1000 per month only. There is only one time discount per month for these items. We cannot purchase a larger amount of items together at a single time; we can only buy one or two kgs of items together, so it doesn’t benefit us. In this price hike situation, we are facing many problems. We poor people have less or no earning source to feed our children well ”.
+
+____________________________
+
+[4] NSER was established as a result of nationwide Poverty Score Card (PSC) survey conducted in 2010-11. NSER 2010-11 cover more than 27 million households across Pakistan. Keeping in view the demographic and economic changes in household structure, the government of Pakistan decided to update NSER in 2015-16. The update process completed in three years. NSER 2018-21 covers around 34 million families across Pakistan. NSER provide detailed information on socio-economic profile of all individual.
+
+[5] PMT score ranges from 0 to 100 i.e. (0<=PMT<=100). The beneficiaries with PMT score less than or equal to 32 are also eligible for unconditional cash transfers, namely “Ehsass Kafaalat”. This implies that beneficiary with PMT<=32 is eligible for both programs.
+
+[6] https://www.thenews.com.pk/print/910815-ehsaas-rashan-subsidy
+
+[7] Kiryana merchant (store) is small shop selling groceries and other sundries
+
+While visiting the Kiryana store in a village, the store owner said, “ I don’t know about this scheme; I don’t have an android phone. We are poor and uneducated people; how do I have a bank account .” After all these interviews, we conclude that either no Kiryana store is available in these areas from which people can benefit, or if it is available, it is either in another village or the city. If people have to travel to another village or city, it will take much time and cost, and the transaction cost of visiting Kiryana stores would be very high; that is why the poor do not visit such stores if they are not located near them to purchase these items.
+
+Following are the key findings from field interviews:
+
+More than 90% of respondents did not know about the ERP;
+
+Distance to Kiryana stores is the major accessibility issue that is linked with high transaction costs faced by the beneficiary; and
+
+Low-income families usually buy items on a short-term loan basis (udhaar), and they don’t purchase larger quantities at a time. Instead, they are used to buy in small quantities, i.e., ½ kg or ¼ kg at a single transaction
+
+a. Connectivity challenges and administrative costs
+
+The ERP relies on internet connectivity using an Android mobile. Figure 1 shows that only 45% of individuals 10 years and older owned a mobile/smartphone in Pakistan. Smartphone ownership is very low in rural areas (only 39% of individuals 10 years and older), where most low-income families reside. Furthermore, smartphone ownership is particularly low in Balochistan (only 44% of individuals 10 years and older owned mobile/smartphone). Apart from the low penetration of smartphones, the use of the internet is also very low. For example, only 17% of individuals 10 years and older reported using the internet for information seeking. Around 20% of the population of the same age in urban areas and only 10% of people in rural areas reported using the internet (GoP, 2021). These statistics highlight significant potential challenges to the rollout of the ERP, especially in rural areas. Furthermore, a government’s ability to administer the program on the ground, especially in areas with low public sector capacity, poses enormous challenges and significantly increases implementation costs.
+
+5. Learning from the Ehsass Kafaalat program and Utility Store Program
+
+The government of Pakistan is simultaneously running two different programs with similar objectives. First, under the Ehsass Kafaalat program, the federal government provides PKR 28,000 per year per ultra-poor family across Pakistan to cushion the food and fuel crisis (Iqbal & Nawaz, 2019; Nawaz & Iqbal, 2021). The program currently delivers cash to over 6 million families but aims to cover around 8 million families across Pakistan within the current fiscal year. The implementation cost of the Ehsass Kafaalat program is less than 1.5% — paid to commercial banks for disbursing funds. The government has a well-established mechanism to disburse these stipends using the biometric verification system (BVS).
+
+Various studies have shown that the Ehsass Kafaalat program significantly impacts food consumption. The impact assessment report indicates that the Ehsass Kafaalat program (previously known as BISP) increases per adult equivalent monthly food consumption by PKR 69, driven by a higher quality of protein (GoP, 2020a). Nayab and Farooq (2020) documented that BISP has a significant impact on food consumption only (PKR 81). On the other hand, the Ehsass Kafaalat program does not affect monetary and multidimensional poverty due to the small amount (stipend) (GoP, 2020a; Nayab & Farooq, 2020).
+
+Similarly, the federal government provides food subsidies through Utility Stores Corporation (USC).[8] The USC aims to protect the real income of the people by selling essential grocery items at lower prices. The USC also acts as a price moderator in the market and deterrent to profiteering, hoarding, and black marketing by the private sector. The federal government often uses the services of USC to support poor segments of society against the price hikes of essential commodities. The government has approved PKR 8 billion for the Ramzan relief package to provide subsidized essential items at USC, mainly on the floor, sugar, ghee, and pulses.
+
+A PIDE study shows that the availability of essential items at stores, especially sugar, remains very thin.[9] Further, the PIDE study reveals that the poor fail to reap the potential benefits due to travel costs and supply-side constraints, i.e., purchase on “udhar” and small quantities. This implies that the food subsidy provided under USC faces similar challenges as noted for ERP. The food subsidy provided under USC is untargeted, hence is subject to criticism due to rent-seeking and misallocation of resources. Furthermore, the cost of implementation is very high, and USC has faced losses over the last few years. Literature also argues that in-kind subsidy is less effective compared to e-voucher based food subsidy (Banerjee et al., 2021).
+
+What would be the gain by running three different programs with a significant overlap in objectives and beneficiaries?
+
+______________________________
+
+[8] According to Ministry of Finance (MoF), the USC is a State-Owned Enterprise (SOE) incurred PKR 5 billion loss in FY 2018-19 and magnitude of loss widen every year. The MoF report suggested that USC is a potential privatization candidate and due consultation with line ministries have been initiated ( https://www.finance.gov.pk/publications/SOEs_Triage_03032021.pdf ).
+
+[9] PIDE (2021) An Analysis of Subsidies given by Utility Stores on Essential Food Items, Unpublished, Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+Conclusion
+
+Four main outcomes emerge from the above discussion
+
+First, the proposed subsidy amount under ERP may not cover the need of the target group. The accessibility and connectivity, especially in areas with weak state capacity, remain the significant challenges. This means the actual beneficiaries would not be able to receive this amount.
+
+The implementation cost of ERP is very high compared to other similar programs run by the federal government. The government will pay an 8% commission to the Kiryana store to disburse the subsidy, while it is less than 1.5% in the Ehsass Kafaalat program.
+
+Third, the government is running three different programs (ERP, Ehsass Kafaalat program, and USC) to provide support against the increase in food and fuel prices. Ehsass Kafaalat program provide Rs. 28,000 per year per family across Pakistan.
+
+Lastly, the subsidy amount provided under three different programs have different implication due to the targeting mechanism and subsidy amount
+
+a. First, a small amount (very low subsidy) may not help improve food consumption and reduce poverty. Nayab and Farooq (2020) argue that the value of the transfers under the Ehsass Kafaalat program is not sufficient. Its contribution is just 5.3% of the household’s total consumption based on the amount that the beneficiaries receive.
+
+b. Second, untargeted subsidy under USC may lead to underutilization of resources – due to leakages and low coverage among the target group
+
+c. Third, running three different programs to achieve one objective (consumption smoothening to tackle Food and Fuel (2Fs) inflation) significantly increases the implementation costs. As argued above, a government’s ability to administer the program on the ground, especially in areas with low public sector capacity, poses enormous challenges and significantly increases implementation costs.
+
+In essence, the government needs to revisit these programs for optimal utilization of public resources and effectively address the ultra-poor’s consumption needs.
+
+References
+
+Alatas, V., Banerjee, A. V, Hanna, R., Olken, B. A., & Tobias, J. (2012). Targeting the poor: evidence from a field experiment in Indonesia. American Economic Review , 102 (4), 1206–1240.
+
+Awaworyi Churchill, S., Iqbal, N., Nawaz, S., & Yew, S. L. (2021). Unconditional cash transfers, child labour and education: theory and evidence. Journal of Economic Behavior & Organization , 186 , 437–457. https://doi.org/https://doi.org/10.1016/j.jebo.2021.04.012
+
+Banerjee, A., Hanna, R., Olken, B., Satriawan, E., & Sumarto, S. (2021). Food vs. Food Stamps: Evidence from an At-Scale Experiment in Indonesia (NBER Working Paper Series No. 28641). Cambridge, MA: National Bureau of Economic Research. https://doi.org/10.3386/w28641
+
+Devereux, S., Masset, E., Sabates-Wheeler, R., Samson, M., Rivas, A.-M., & Te Lintelo, D. (2017). The targeting effectiveness of social transfers. Journal of Development Effectiveness , 9 (2), 162–211.
+
+GoP, G. of P. (2020a). BISP: Impact Evaluation Report . Islamabad, Pakistan. Retrieved from https://bisp.gov.pk/SiteImage/Misc/files/BISP_EvaluationReport_Ver without_FINAL.pdf
+
+GoP, G. of P. (2020b). Household Integrated Economic Survey (HIES) 2018-19 . Islamabad, Pakistan.
+
+GoP, G. of P. (2021). Pakistan Social and Living Standards Measurements (PSLM) 2018-19 . Islamabad, Pakistan. Retrieved from http://www.pbs.gov.pk/sites/default/files//pslm/publications/pslm_hies_2018_19_provincial/key_findings_report_of_plsm_hies_2018_19.pdf
+
+Handa, S., Huang, C., Hypher, N., Teixeira, C., Soares, F. V, & Davis, B. (2012). Targeting effectiveness of social cash transfer programmes in three African countries. Journal of Development Effectiveness , 4 (1), 78–108.
+
+Hanna, R., & Karlan, D. (2017). Designing Social Protection Programs: Using Theory and Experimentation to Understand how to Help Combat Poverty. In Handbook of Economic Field Experiments (Vol. 2, pp. 515–553). Elsevier.
+
+Iqbal, N., & Nawaz, S. (2019). Targeting efficiency and effectiveness of national cash transfers program: Lessons from BISP, Pakistan. In A. Chaudhry & T. T. Chaudhry (Eds.), Economic Challenges Facing Pakistan in the Regional and Global Environment 2017-19 (pp. 337–357). Lahore: Lahore School of Economics, Lahore, Pakistan.
+
+Iqbal, N., & Nawaz, S. (2020). Moving up the Energy Ladder: The Impact of BISP Cash Transfers on Fuel Choices . PIDE Knowledge Brief (Vol. 10).
+
+Nawaz, S., & Iqbal, N. (2020). The impact of unconditional cash transfer on fuel choices among ultra-poor in Pakistan: Quasi-experimental evidence from the Benazir Income Support Program. Energy Policy , 142 , 111535. https://doi.org/https://doi.org/10.1016/j.enpol.2020.111535
+
+Nawaz, S., & Iqbal, N. (2021). How cash transfers program affects environmental poverty among ultra-poor? Insights from the BISP in Pakistan. Energy Policy , 148 (B), 111978. https://doi.org/10.1016/j.enpol.2020.111978
+
+Nayab, D.-, & Farooq, S. (2020). Unconditional Cash Transfer and Poverty Alleviation in Pakistan BISP’s Impact on Households’ Socioeconomic Wellbeing (PIDE Policy Viewpoint No. 18:2020). Islamabad, Pakistan. Retrieved from https://file.pide.org.pk/pdf/Policy-Viewpoint-18.pdf
+
+Premand, P., & Schnitzer, P. (2021). Efficiency, Legitimacy, and Impacts of Targeting Methods: Evidence from an Experiment in Niger. The World Bank Economic Review , 35 (4), 892–920. https://doi.org/10.1093/wber/lhaa019

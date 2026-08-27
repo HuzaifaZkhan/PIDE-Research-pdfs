@@ -1,0 +1,98 @@
+Pakistan, having a population of near to 220 million, has one fourth of its population living below the poverty line and 17% being food insecure. Benazir Income Support Programme (BISP) was initiated in 2008 with the objective of consumption smoothening, poverty alleviation and women empowerment. The programme was, and still is, unique in terms of resources, coverage and targeting.
+
+Given the resources dedicated to the programme (see box below), it is important to analyse where the BISP stands after 12 years of its initiation. This Policy Viewpoint does so by analysing the socioeconomic wellbeing of the households that have been receiving cash assistance for 9 years (2011 to 2019). Given the mandate of the Programme one would expect an improvement in their socioeconomic indicators. To see if this has actually happened, we measure the impact of BISP’s cash transfer on various factors of the recipient households’ socioeconomic condition. These include the following:
+
+Headcount poverty ratio
+
+Multidimensional Poverty Index (MPI)
+
+Food consumption
+
+Non-food consumption
+
+While the headcount ratio is primarily an economic indicator, we consider MPI more of a socioeconomic deprivation index rather than an indicator for poverty. For this very reason it is a useful measure to gauge the socioeconomic condition of a household/population.
+A NOTE ON METHODOLOGY
+
+We use the BISP’s impact evaluation survey to measure the welfare impact of its unconditional cash transfer. The baseline survey was conducted in 2011, followed by four subsequent rounds in 2013, 2014, 2016 and 2019.The analysis is carried out cross-sectionally as well as longitudinally. Fuzzy Regression Discontinuity Design (RDD) is applied to the 2019 cross-sectional data, and difference-in-discontinuity method is applied for a panel analysis by comparing the recipient households (having proxy mean test score 11.17 to 16.17) with the non-recipient ones (having score from 16.18 to 21.17). To ascertain internal validity, we confirmed that both the groups, treated and control, within the fixed bandwidth (+/-5, +/-3) were homogenous with no discontinuous changes at the eligibility threshold.
+
+BISP: A Snapshot
+BISP provides unconditional cash assistance to more than 5 million families. The quarterly stipend at present is Rs. 6000 per household. All the beneficiaries receive cash assistance after on the spot biometric verification. The conditional cash transfers component serves children aged 4-12 years by providing stipend for primary education. Despite changes in political regimes, budgetary allocation has enhanced overtime. It was Rs. 34 billion in 2008-09, Rs. 70 billion in 2013-14 and Rs. 180 billion in 2019-20. The beneficiary quarterly stipend has also seen an increase overtime. It was Rs. 3000 in 2008 and is currently Rs. 6000. Since inception, the federal government has allocated a total of Rs. 1,088 billion to the BISP cash transfer from 2008 to 2019. The emergence of BISP has improved the overall spending on the social safety net in Pakistan. It was only 0.1% of the GDP before 2008, increasing to 2% of the GDP by 2018.
+
+FINDINGS FROM 2019 CROSS-SECTIONAL ANALYSIS OF BISP BENEFICIARIES
+
+For poverty, we look at the impact of the BISP cash transfer on both headcount ratio and the multidimensional index. Figure 1 presents the headcount poverty rates among the BISP beneficiaries. The cross-sectional analysis illustrates that despite 8 years of intervention, 65% of the beneficiaries are still below the poverty line, as measured through the cost of basic need approach. Another 20% are ‘vulnerable poor’, suggesting that any negative shock can push them back into the state of poverty.[1] One can see large variations across the provinces with massive poverty rates among the recipient households in Balochistan, ex-FATA and GB regions. BISP beneficiaries in Punjab show better results than other provinces but still more than half of them remain in the ultra-poor and poor categories (see Figure 1).
+
+Table 1 presents the results of the RDD analysis at a narrowed PMT bandwidth (i.e., +/- 3 and +/-5) on the impact of the BISP cash transfer on different indicators of poverty and consumption. No significant impact is observable on either the headcount poverty or the multidimensional poverty index. Even in the case of the ultra-poor and the severe multi-dimensional poor, no significant impact is found for the unconditional cash transfer on their wellbeing (Table 1).
+
+Note: 1. Coeff. refers to coefficient, and Std. Error to standard error.
+
+*** shows significance at 1%, ** shows significance at 5%, * shows significance at 10%.
+
+The estimates are based on the kernel triangular method where the poverty score was normalized around 0.
+
+The analysis reveals that the BISP beneficiaries continue to face the issue of high food insecurity. [1] On average, the food consumption score of beneficiary households is 5 to 6 points less than the non-beneficiary households (Table 1). Commonly the poor exhaust their financial resources on their basic needs, mostly on food items. The analysis shows no impact of the cash transfer on various welfare indicators related to consumption expenditures at the national level. However, the cash transfer is found to a significant impact in the poorer provinces (not shown in the table). A positive impact is observable in
+
+_______________________
+[1] Ultra-poor = up to 75% of poverty line; Poor = up to 100% of poverty line; Vulnerable to poor = up to 125% of poverty line; Quasi non-poor = up to 200% of poverty line; Non-poor = over 200% of poverty line.
+
+the province of Balochistan for food expenses (Rs. 428 at +/-3 bandwidth), and in the province of Sindh for non-food expenses (Rs. 368 to Rs. 429 under +/-3 & +/-5 bandwidths).[2]
+
+Due to high poverty and vulnerability, the BISP beneficiaries continue to struggle in managing their basic needs. Analysis on selected food and non-food items illustrates that there is no impact of the BISP cash transfer on healthy food items, i.e., milk, meat and fruit, as can be seen from Table 2.
+
+Despite the intervention, beneficiary households made no progress on allocating more money to non-food items that includes the all-important expenditures on health, education, clothing and transport. For instance, their expenditure on children’s education is Rs. 74 less than the non-beneficiary households when we consider the +/-5 bandwidth (Table 2).
+
+Note: 1. *** shows significance at 1%, ** shows significance at 5%, * shows significance at 10%.
+
+Fuzzy RD estimates are used. The estimates are based on the kernel triangular method where the poverty score was normalized around 0.
+
+FINDINGS FROM THE PANEL ANALYSIS
+
+The panel analysis was conducted on a sample of 2,118 beneficiary and non-beneficiary households that were tracked in all the five rounds of the BISP surveys. Figure 2 shows that the reduction in poverty among the beneficiaries was mainly witnessed in the first 3 years of the intervention (2011-2014). Around 25% of the beneficiary households graduated from ‘ultra-poor’ to ‘poor’ and ‘vulnerable’ categories; however, it cannot be considered as a safe exit from poverty as they had not shifted to quasi non-poor or non-poor (Figure 2).
+
+_____________________________
+[2] For details see the forthcoming PIDE paper on the impact of BISP on the socioeconomic wellbeing of its beneficiaries.
+
+High chronic headcount poverty is witnessed among the recipient households as one-third of them remain in the state of poverty across all the five rounds (Figure 3).
+
+Looking at the impact on MPI, reduction is seen in the trends for both the severely MPI poor and MPI poor, the proportion for which decline in almost every round (Figure 4). Overall, around 28% reduction is observed in the MPI. It is worth noting that the proportion of the non-MPI poor increased by 3 times during the five evaluation rounds.
+
+The differences-in-differences (DiD) analysis for the 2011-2019 period shows no impact of the BISP cash assistance on consumption expenditures and headcount poverty. Impact of the intervention is observable only in food consumption (Rs. 81). Interestingly, no significant impact of the intervention is found on the MPI despite its reduction among beneficiary households as detailed in Figure 4.
+
+This raises the question that why no significant impact is observed on the beneficiary households despite the consistent reduction in MPI overtime? The analysis reveals that it is the time-factor that led to the improvement in various socioeconomic indicators including consumption, poverty and MPI. The factors that contributed to the improvement are education of the head of the household and lower household size/dependency burden.
+WHY THE BISP CASH TRANSFER DOES NOT IMPACT BENEFICIARIES SOCIOECONOMIC WELLBEING?
+
+We analyse the possible factors behind the lack of impact of the BISP’s cash transfers on households’ socioeconomic wellbeing across and overtime both. The reasons are multiple. First, although the nominal value of cash transfers increased by 67%, the real value of transfers declined by 9% during the 2011-2019 period. Second, disruptions in payment frequency creates issues for the recipient households. A beneficiary should receive the payment after every 3 months, but delays can and do take place. Third, the value of the transfer is not sufficient, and its contribution is just 5.3% in the total consumption of the household on the basis of the amount that the beneficiaries actually receive, and 7.5% if she received the full amount. [2]
+
+We conducted a simulation exercise to ascertain the amount of cash transfer that will generate a significant socioeconomic impact. We found that a payment of Rs. 24,000 in a year (Figure 5b) or restoring the real value of cash transfers as per baseline (2011) will not yield a significant impact on consumption (Figure 5c). BISP cash transfer should contribute at least 15% of the total consumption to generate an impact of Rs. 342 in per adult equivalent consumption that may help in poverty reduction (Figure 5d).
+
+There is a general belief that unconditional cash transfers make recipient households to reduce their labour supply. Such reduction in labour supply could be the reason of high chronic poverty among them. RDD analysis was carried out to investigate if this was the possible reason behind the no impact of the cash transfer on poverty. The analysis showed no statistical difference in the labour force participation rates for both women and men among the recipient and non-recipient households (Figure 6).
+
+THE WAY FORWARD
+
+Despite 12 years of the intervention, the BISP programme has not succeeded to reduce poverty among its recipients. It is time to rethink the unconditional cash transfer as a poverty alleviation strategy as the country cannot afford an unconditional intervention for an unlimited time-span. [3] Few recommendations in this regard are listed below.
+
+A policy shift is needed to shift from unconditional to conditional transfers that may help in improving human capital and asset creation. [3,4] The recently drafted Ehsaas strategy has tried to reconceptualise the programme but strong commitment and financial resources are required to implement it. It also requires synergy among the various tiers of the federal and provincial governments which is generally hard to create.
+
+The existing BISP conditional cash transfers should be extended to secondary level education as financing up to primary level is not sufficient to build human capital among the poor.
+
+The demographic profile of the recipient households have a fair share of young population, with only 4-5% members aged above 60 years. Any new intervention must target the youth by providing them market-based skills. Such skills, accompanied by interest free loans, may generate livelihood opportunities for the poor, and lower their dependency on unconditional cash.
+
+Expecting poverty alleviation from social safety nets alone is not pragmatic. The provision of unconditional and conditional cash transfers will not eradicate poverty in regions deprived of education, health, infrastructure and market connectivity. A stable macroeconomic environment is needed, with more stress on soft infrastructure than physical.
+
+Both the federal and provincial governments are running several social safety net programmes. This has led to duplication as well as exclusion of some the deserving. To make a real impact, the recently developed Poverty Alleviation and Social Safety (PASS) Division should work on the consolidation of all such programmes, and also formulate a social protection framework by enlisting the roles and responsibilities of both the federal and the provincial governments.
+
+Lastly, and most importantly, we need to give space to the poor to grow as mere handouts would not do so. A cash transfer cannot be a substitute for opportunity. Exclusion from opportunity is the biggest reason for people staying poor. The “ apartheid social regime ” [5] excludes the poor in housing, employment, leisure and space from entrepreneurship, [6] obstructing their way to exit from poverty. Access to opportunities can do what cash transfers may not do, that is, moving out of poverty.
+
+REFERENCES
+
+[1] WFP (2008). Food consumption analysis: Calculation and use of the food consumption score in food security analysis . World Food Programme.
+
+[2] OPM (2019). Benazir income support programme: impact evaluation report . Oxford Policy Management.
+
+[3] Nayab, D. and S. Farooq (2014). Effectiveness of cash transfer programmes for household welfare in Pakistan: The case of the Benazir Income Support Programme, The Pakistan Development Review , 53 (2), 145–174.
+
+[4] Dreze, J. and A. Sen (1990). Hunger and public action . Clarendon Press.
+
+[5] Haque, N. U. (2019). Where are the opportunities for the poor? https://pide.org.pk/blog/where-are-the-opportunities-for-the-poor/
+
+[6] Haque, N. U. (2019). Why not Khokhas everywhere? https://pide.org.pk/blog/why-not-khokhas-everywhere/

@@ -1,0 +1,89 @@
+In order to answer the above question of whether electronic voting machines (EVMs) should be incorporated into the electoral process of Pakistan, we should first make some basic queries and then based on the answers to these try to analyse the larger question. Some of these basic questions are as follows. What is an EVM and what can it do? What can it not do? What is our objective in deploying EVMs? How many countries in the world are using or have used EVMs and what has their experience been like?
+
+What is an EVM?
+
+There are different variations of EVMs available in the market or in use in different countries.
+
+The kind of EVM which we in Pakistan had been considering for some time is basically a simple electronic gadget, almost like a calculator, to eliminate manual stamping of ballot paper and move towards automating the process of casting votes through the simple push of a button that would allow for immediate (or almost immediate) vote-count at polling booth level at the end of the polling. Such an EVM is based on ‘Direct Reading Electronic Voting Technology’.
+
+Another EVM which some countries use is based on the principle of Electronic Scanning and Counting of Paper Ballots. There can be various add-ons to this basic unit such as the voter’s biometric verification unit, printer to provide paper-trail, feature to generate a QR code which can then be used to send vote-count to a remote location, for example, the Returning Officer’s (RO’s) office.
+
+History of Efforts to Deploy EVMs in Pakistan:
+
+A prototype EVM on almost the above lines was designed and produced by Islamabad-based COMSATS Institute of Information Technology in 2011 at the request of the Election Commission of Pakistan and its working was demonstrated to a select group including politicians, government officials and diplomats under the auspices of ECP.
+
+Probably after considering that introduction of EVMs is a policy decision which should be made by the government and a law to this effect be passed by the parliament, the ECP did not proceed further. The interest in EVMs likely developed in ECP after the Chief Election Commissioner and some other officials of ECP visited Indian Election Commission which had started using EVMs in all Lok Sabha and state assembly elections since 2004.
+
+Another EVM prototype was produced in the second half of 2021 under the auspices of the Ministry of Science and Technology during the PTI government. ECP was apparently not happy with its design and had asked to come up with a modified version. It is not clear whether the modifications were made and where it led but the whole executive-driven process was flawed. After passing the law, it should have been the job of the ECP to finalize the specifications, invite bids, organize pilot testing and then gradually introduce EVMs if all testing and was successful and the integrity of voting was not subjected to greater risk during the storage and transportation of EVMs.
+
+The Elections Act of 2017, which was passed in October of the same year, included Section 103 requiring the ECP to organize pilot testing of EVMs and submit findings of the test to the federal government which, in turn, would place the report before the parliament so that a way forward may be adopted.
+
+Although ECP conducted pilot testing in 35 polling stations of the National Assembly Constituency NA-4, Peshawar-IV by deploying 100 EVMs during a by-election on 26 October 2017 and submitting its report to the federal government on or around 14 November 2017, the report was never debated in the parliament so that a way forward could be charted. ECP also chose not to undertake further pilots to collect enough feedback on the use of EVMs in Pakistan.
+
+Without any discussion on the result of the pilot, the PTI government promulgated an ordinance to amend Section 103 of the Elections Act, 2017 on 8 th May 2021 which required ECP to procure EVMs for casting votes in general elections. Later an Act of Parliament was signed into law on 3 rd December 2021 which improved the language of the amended Section 103 of the Elections Act, 2017 and made the procurement and use of EVMs incumbent upon ECP but this time subjected the use of EVMs to ‘secrecy and security’ which provided a window to the ECP to defer the use of EVM if secrecy and security cannot be ensured during the next general election.
+
+After the PTI government was removed through a vote of no-confidence in April, 2022, the incoming PMLN-led government had Section 103 amended through an Act of Parliament on 22 nd June, 2022 which again asked the ECP to conduct pilot testing and submit a report to the government.
+
+It is understood that ECP is now making arrangements to decide EVM specifications and procure some EVMs for pilot testing.
+
+To What Extent Can EVMs Mitigate Election Rigging?
+
+An EVM is generally projected as an instrument capable of resolving all or most of our problems relating to fairness of elections. It is, therefore, very important to understand what an EVM can do and cannot do.
+
+A noted Electoral Security Expert, Dr. Taha Ali, who has a post doctorate in Election Security and teaches at NUST Islamabad, has aptly noted that “… EVMs were originally designed to automate elections, not secure them.’
+
+He went on to add that “EVMs are great at tallying of thousands of votes in minutes but…are notoriously poor at preventing fraud. In certain cases, machines are actually significantly more vulnerable to rigging than paper.”
+
+An EVM can almost instantly give the candidate-wise vote-count at each polling booth and this may save a couple of hours which are generally consumed in manual counting. If paper trail is introduced, then counting of printed ballots would take almost the same time as in a manual counting thus losing advantage of efficiency.
+
+It should be understood that an EVM does not have a provision to consolidate the results of various polling booths in a polling station to give the consolidated result of the entire polling station. This consolidation will need to be done manually. The EVM also does not have a system to consolidate the result of all polling stations in a constituency and this part will also need to be done manually. Transmissions of results from a polling booth or polling station to the RO’s office, which is considered the most vulnerable link within the chain of electoral process on polling day, is also not covered as a standard feature of the EVM and either a separate technology-based arrangement will have to be devised or we would need to rely on the old manual system under which Presiding Officers manually carried result of each polling station on Form-45 to the RO’s office and handed to him/her personally. Biometric Identification of a voter is also not an integral feature of the EVM and a separate Biometric Verification Machine (BVM) will need to be provided at each polling booth, if such identification is desired. It is, therefore, unrealistic to believe that EVMs are a panacea for electoral fraud.
+
+A Distinct Advantage of EVMs: Elimination of Invalid Votes
+
+About 3% of the casted ballots on the average go to waste in every election because the ballot paper is not correctly stamped. Instead of affixing the stamp within the space provided against each candidate’s name and symbol, many voters stamp in a way that the mark is partially placed on two adjacent spaces making it almost impossible to correctly read the voter’s intention. Some voters stamp in more than one space and that also renders the ballot invalid. An EVM will obviate all these actions which render ballot papers invalid. The 3% invalid votes could impact results in as many as 49 National Assembly and 120 Provincial Assemblies’ constituencies in 2018 General Election – making this an important point of consideration.
+
+Besides EVMs, however, a concerted voter education campaign can considerably reduce, if not completely eliminate, invalid votes.
+
+Cost Effectiveness and Economic Feasibility of EVMs:
+
+It is important to discuss the cost-effectiveness of EVMs. We are considering an EVM with basic features and consisting of Balloting Unit, Printing Unit (for Voter Verified Paper Audit Trail – VVPAT), Control Unit, Rechargeable Battery, cabling and a suitable carrying case. An EVM Control Unit is meant to control two Balloting Units. After voters prove their bonafide identity at the Control Unit desk, the control desk allows them to operate the EVM for one time after which the balloting unit would auto-lock itself. Separate balloting units would be required for National and Provincial Assembly elections. Using the statistics of 2018 General Election, it is estimated that about 400,000 EVM balloting units, 200,000 EVM Control Units and 200,000 Printer Units would be required, if EVMs are used in all the constituencies of the National Assembly and four provincial assemblies. Total preliminary estimated cost for all this Hardware would be around USD 370 million, or Rs. 83 billion.
+
+The costs associated with provision of warehouses suitable for storage of EVMs, transportation of EVMs from warehouses to polling stations, training of staff for use and trouble-shooting of EVMs etc. would add approximately Rs. 27 billion to the cost. A total budget of Rs. 110 billion (USD 490 million) would, therefore, be required based on prices in December, 2022. Some media reports have quoted this total cost to be over Rs. 400 billion. To put these figures in perspective, the total cost of introducing EVMs for simultaneous election on all constituencies of National and Provincial Assemblies would correspond to about 2.3 times the forecasted ECP spending of Rs. 47 billion in General Election 2023.
+
+EVMs can be either imported or a local manufacturing facility can be established. In either case, a considerable proportion of components will be imported. With the current economic conditions and restrictions on imports, it is not difficult to figure out the feasibility of introducing EVMs in Pakistan.
+
+Experience of Other Countries with EVMs – What Can Be Learned?
+
+A quick net-search indicates that only eight countries in the world are using EVMs at present which corresponds to less than 5% of the 167 countries which claim to be democracies and hold elections. Another six countries are experimenting with the possible use of EVMs, meaning a total of 14 countries (8% of the total democratic countries) using or considering the use of EVMs. The countries that are using EVMs include Estonia, Namibia, India, Philippines, Brazil, Mongolia, US (90% of voters) and Kyrgyzstan (a different kind of EVM is here used which optically reads/counts the ballots manually marked by voters).
+
+The most important fact, to be considered while studying the feasibility or desirability of introducing EVMs in Pakistan, is that about nine countries including Ireland, Paraguay, Netherlands, Norway, Germany, Iraq, Democratic Republic of Congo, France and Argentina, abandoned the use of EVMs for diverse reasons after adopting them in their electoral systems.
+
+India’s Use of EVMs
+
+India is probably the country most comparable to Pakistan in terms of social conditions. It should be remembered that India took 22 years from the date (May 1982) of introducing EVMs in some constituencies in Kerala state to universal application of EVMs in all elections in May 2004. Another aspect of Indian elections which is distinctly apart from our electoral system is that elections to Lok Sabha and state assemblies in India are not held simultaneously. Even elections to all state assemblies are not held on the same date. This staggered mode of elections greatly reduces the demand for number of EVMs and associated support services unlike Pakistan where election to National and all provincial assemblies are held on the same day.
+
+Why Do We Need EVMs?
+
+The question arises that what exactly is the need or justification of introducing EVMs in Pakistan. An obvious answer is that EVMs are proposed to be introduced to eliminate or greatly limit manipulation in identification and counting of voters and secondly to speed up process of vote counting to quickly get the result.
+
+Utility of EVMs to Address the Popular Mode of Rigging in Pakistan
+
+The fact is that EVM will not help in either of the two desired objectives. Rigging in election in Pakistan has now evolved into a sophisticated science and is not focused on election day activities. Most of the rigging takes place in pre-poll phase like was the case in 1970 (Gen. Yahya Khan’s military government provided funds to PML-Qayyum and some other parties), 1985 (party-less elections), 1988 (formation of alliances such as IJI at the behest of military establishment to defeat PPP as admitted by the then DG ISI, Lt. Gen. Hameed Gul), 1990 (distribution of cash among favourite parties as admitted by the then DG-ISI, Lt. Gen. Asad Durrani in an affidavit produced before the Supreme Court), 2002 (patronization of the favourite ‘King’s Party’ – PML-Q), 2008 (according to various accounts of Pakistani and international analysts, including that of Chaudhry Shujaat Hussain, former Prime Minister and President of PML-Q who wrote in his book that their party was conveyed the message that they would not win the election and instead the establishment had agreed to give a chance to PPP), 2018 (military establishment developed differences with PM Nawaz Sharif and efforts were made to remove him and not to allow him or his party to win the election, paving the way for Imran Khan’s PTI to win).
+
+1977 was the only general election in which election day rigging was used in a big way but it led to violent protests and subsequent Martial Law. Unlike India, where most of the rigging tends to take place at polling station level by local strongmen which EVMs are quite effective in checking, the most popular mode of rigging in Pakistan is by heavily influencing polls through pre-poll manipulations by strong forces at the national level. EVM is unable to curtail such centralized rigging. In fact, the chips in EVMs can be compromised during storage, something that would make the job of rigging by powerful elements at the centre more efficient and almost undetectable.
+
+Pakistan Should Exercise Extreme Caution in Introducing EVMs
+
+Pakistan should be extremely careful in inducting EVMs in its electoral system. EVMs are an expensive proposition without any substantive benefits and are vulnerable to manipulation by powerful forces controlling the federal government during the election phase. A populist narrative has created the impression that without EVMs, Pakistan will be left behind in the race for technological development and that the EVMs will solve the perennial problem of election rigging in Pakistan.
+
+Unfortunately, both the propositions are flawed and propelled by either faulty understanding of the EVMs and their functions or by design aimed at manipulating the next election through the efficient manipulation of EVMs.
+
+In case the decision is made to introduce EVMs, the process of introduction should be gradual and not rushed.
+
+The Way Forward:
+
+Based on the latest amendments in Elections Act, 2017, the ECP should carry out pilot-testing of EVMs after considering all aspects such as technical efficacy, secrecy, security and financial feasibility. The Parliament should have the ECP publicly report on pilot testing so that open discussions may take place both in and out of Parliament. Ultimately, Parliament should carefully make the final decision to incorporate EVMs in our electoral system after a thorough debate on the report is conducted and only after having studied all aspects of the proposition.
+
+Parliament should not remain fixated on EVMs alone. New technologies are emerging which may be able to make Internet-based voting (I-Voting) secure and simple. ECP research wing should work on the possibility of using I-Voting inside the country obviating voters’ travel to the polling stations. Use of cellular phones for casting votes will be a real game-changer and must be thoroughly investigated and pilot-tested.
+
+The author is President of PILDAT-Pakistan Institute of Legislative Development And Transparency. Email: president@pildat.org ; Tweets at @ABMPildat

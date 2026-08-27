@@ -1,0 +1,165 @@
+Introduction
+
+One of the core strengths of network-centric warfare (NCW) is its potential-within certain limits-to offset disadvantages in numbers, technology, or position (Alberts et al., 1998). If we choose to fight on a network-centric rather than a platform-centric basis, we must fundamentally change how we train, organize, and allocate our resources (Alberts et al., 1998). Unfortunately, defense budgets often become the subject of public debate and criticism, fueled by media perceptions and political motives. However, it is crucial to understand that all else becomes irrelevant if the sovereignty of a state is endangered. To ensure a sovereign state-protected from threats, especially security threats that endanger its very existence and the honor of its people-it is vital that the state has a strong defense capable of deterring any aggressor, whether from outside or from any internal elements threatening the state and its people. A strong defense, therefore, is not a choice; it is a compulsion-a vital ingredient for survival. Defense budgets must be allocated with the prevailing threat environment in mind; this is not a matter of preference, but of necessity.
+
+The State of Our Defense Budget Over the Last Decade
+
+Over the past ten years, while Pakistan has been fighting on multiple fronts-countering terrorism, foreign-funded insurgency, and internal threats such as the Fitna-al-Khawarij -the armed forces’ budget has been on a decreasing trend (figure 1). This is alarming for several reasons. It indicates that the parliament and policymakers have not fully appreciated the importance of military spending, especially when the country’s armed forces face daily operational challenges. This downward trend (fig 1) becomes even more concerning when one considers the persistent and growing threat posed by India, which in recent days has made public statements about removing Pakistan from the face of the earth (Express Tribune, 2024). Modern warfare cannot be taken lightly; if this trend continues, it will eventually choke the armed forces, making it increasingly difficult to fight insurgents and terrorist entities-groups in which our enemies are investing heavily. And will also pose a grave challenge to deter the enemy.
+
+PAksitan’s Defense allocation over past ten years in USD millions
+
+The Changing Nature of Warfare: Why NCW Is Essential
+
+The world has changed. Modern warfare is quicker, more lethal, and significantly more expensive compared to wars of the past. NCW represents the new art of war,-a doctrine that aims to achieve information superiority over the enemy in a combat environment, enabling rapid decision-making and mission accomplishment (Garstka, 2003). In most cases, it is not just about who possesses this capability, but about who employs it early and executes it effectively. This capability comes at a financial cost, but a nation must be prepared to bear this cost, as the very survival of the state is at stake.
+
+Information sharing, shared awareness, quick decision-making, and auto-synchronization of all players-enabled by high-performance information grid links-are the key features of NCW (Alberts et al., 1998; Garstka, 2003). This requires a constant inflow of funds. Below, I outline the key areas where NCW requires investment, which should be a central consideration in this year’s defense budget allocation.
+
+One of the strengths of network-centric warfare is its potential, within limits, to offset a disadvantage in numbers, technology, or position. (Network-Centric Warfare – Its Origin and Future, 1998)
+
+Key NCW Investment Areas
+
+Development, Design, and Maintenance of Key Infrastructure
+
+In future wars and conflicts, Pakistan will have to rely on its own resources and make the best and most optimal use of them. NCW, as a doctrine, can turn our small numbers-otherwise a disadvantage-into an advantage. The first and foremost ingredient of a battle-worthy NCW-based defense is the required IT infrastructure. NCW relies on an efficient and secure IT infrastructure. High-performance information grids are essential for communication, computing, and serving as a strong backplane for supporting sensors and engagement systems. At the core of any NCW operation is the ability of the IT infrastructure to provide a real-time, complete picture of the battlefield to all players. This requires a robust, agile, and most importantly, secure NCW-oriented IT infrastructure. The high-performance grid and secure network backplane or backbone will require significant investment. The budget for 2025-26 should therefore have sufficient provisions for financing the development and adaptation of such infrastructure.
+
+A high-performance, secure network backbone-information grid or backplane-is critical for NCW. It connects all nodes (sensors, command centers, shooters) across the battlespace, supporting multi-mode communications (wired, wireless, satellite, radio), dynamic routing, beyond-line-of-sight connectivity, and resilience to failures. It also enforces quality of service (QoS) parameters and robust security features such as encryption and intrusion detection (Defense News, 2022). Globally, nations are responding to the impact of IT advancements on warfare. For instance, in 2021, the U.S. Pentagon requested nearly $11.9 billion for NCW modernization, with significant allocations for tactical network transport and secure communications (US DoD, 2021). India, Pakistan’s primary regional rival, has invested approximately $3 billion in establishing a strong communications network for its armed forces (Jain, 2023). International trends indicate that 30–45% of NCW investment should be directed toward developing and maintaining the information grid, as it is the backbone upon which all C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance) operations depend (Market Research Future, 2024). The success of C4ISR will be determined by the quality and strength of the backplane.
+
+Sensor Grids
+
+Sensor grids are another crucial component of NCW-based operations. All data collection units-whether ground-based radars, air defense systems, airborne AEW&CS, or satellites-serve as sensors. In NCW operations, these sensors must fuse data to create a complete, real-time picture of the battlespace. The data provided by the sensor grid is then processed and distributed by the information grid to command centers and shooters (Alberts et al., 1998). Global benchmarks suggest that at least 25% of NCW investment should be allocated to the improvement and development of sensor grids (Market Research Future, 2024).
+
+🌐 Table 1: Global Investment in Sensor Grids for NCW
+
+🌏 Country
+📊 % of NCW Budget
+🚀 Focus & Highlights
+
+🇺🇸 United States
+25% – 40%
+Heavy ISR, UAVs, satellites, radar networks. Sensor grids are a major NCW priority.
+
+🇨🇳 China
+30% – 40%
+Integrated sensor networks, space-based ISR, large UAV fleets for battlespace awareness.
+
+🇮🇳 India
+35% – 45%
+Radar modernization, UAVs, satellite sensors for situational awareness and data fusion.
+
+🇮🇱 Israel
+40% – 50%
+Sensor fusion, multi-sensor integration, real-time data sharing for battlefield superiority.
+
+🇷🇺 Russia
+25% – 35%
+Radar modernization, EW sensors, UAVs; significant but less transparent.
+
+🇯🇵🇰🇷 Japan & S. Korea
+30% – 40%
+Modernizing sensor networks, maritime radar, UAV surveillance for regional threat response.
+
+🇦🇺 Australia
+25% – 35%
+Sensor integration for joint ops and maritime domain awareness.
+
+🇸🇦🇦🇪 Gulf States
+30% – 40%
+Advanced radar, UAV, satellite sensors for situational awareness and air defense.
+
+Table 1 provides a brief outlook of investments in sensor grids across different countries, illustrating that a minimum of 25% investment is required to ensure sensor grid improvement and development. The additional defense package I propose should account for this essential pillar of NCW.
+
+Engagement Grids
+
+Engagement grids are networked systems that connect shooters and weapons platforms to sensor grids, allowing militaries to translate situational awareness into rapid, coordinated combat actions. Investment in engagement grids typically covers networked weapon systems (such as precision-guided munitions and hypersonic missiles), advanced fire control and targeting systems, secure communications infrastructure (including 5G and SATCOM), and AI-driven decision aids (Jain, 2023; Defense News, 2022). Globally, leading countries allocate about 20–45% of their NCW budgets to engagement grids. For example, the United States spends an estimated $15–24 billion annually, focusing on programs like JADC2, AEGIS, and F-35 sensor fusion, while China, Israel, India, and Russia also invest billions in integrating advanced missile systems, UAVs, and joint fires networks to enhance their engagement capabilities (US DoD, 2021; SIPRI, 2023).
+
+Within each military branch, the nature of engagement grid investment varies. Armies prioritize networked artillery, integrated air and missile defense, and AI-driven targeting for ground forces. Navies focus on ship-based strike networks, cooperative engagement capabilities, and the integration of unmanned surface and underwater vehicles for distributed lethality. Air forces invest heavily in fifth-generation fighters (like the J-20, J-31, F-35,Su-57), loyal wingman UAVs, and advanced battle management systems to enable multi-domain operations and real-time sensor-to-shooter links (Garstka, 2003; SIPRI, 2023). The costs for these upgrades are substantial, with advanced air forces and navies spending billions annually to maintain technological superiority.
+
+Fifth-generation fighters and advanced UAVs/UCAVs play a pivotal role in modern engagement grids. These platforms act as network nodes, fusing sensor data and coordinating with other assets to execute precision strikes and swarm tactics. Stealth fighters provide first-look, first-kill advantages, while autonomous UAVs enable massed, resilient attacks and rapid ISR-strike loops. Ultimately, robust engagement grids are essential for compressing decision cycles, achieving massed effects, and maintaining the speed of command that defines success in network-centric warfare. Without these investments, even the best sensor and information grids cannot be fully exploited for battlefield dominance.
+
+C4I Systems
+
+Command, Control, Communications, Computers, and Intelligence (C4I) systems form the backbone of NCW, enabling rapid, accurate decision-making and coordinated action across the battlespace. Investments in C4I innovations focus on integrating existing command and control systems with advanced communication networks, computing infrastructure, and intelligence processing capabilities. This integration transforms raw data from sensors and reconnaissance assets into actionable intelligence, delivered in real time to commanders and warfighters (Alberts et al., 1998; Garstka, 2003). Modern C4I systems emphasize machine-to-machine data exchange, automated data fusion, and decision-support tools that enhance the speed and quality of command decisions while maintaining human oversight. The goal is to create a seamless “system of systems” where sensors, shooters, and command centers operate in a tightly coupled network, enabling shared situational awareness, increased tempo of operations, and self-synchronization of forces.
+
+Global trends in C4I investment reflect the increasing complexity and scale of modern warfare, with major military powers prioritizing the modernization of their command and control architectures (US DoD, 2021; Jain, 2023). The United States, for example, continues to develop the Joint All-Domain Command and Control (JADC2) initiative, which integrates air, land, sea, space, and cyber domains through a resilient, cloud-enabled network. Similarly, allied nations and competitors invest heavily in upgrading their C4I capabilities, focusing on secure communications, advanced computing platforms, and artificial intelligence to automate data processing and enhance decision-making (SIPRI, 2023). Commercial off-the-shelf (COTS) technologies are increasingly leveraged to accelerate deployment and reduce costs, though integration and performance assurance remain challenging. Cybersecurity is a critical component, with investments ensuring the protection and resilience of C4I networks against sophisticated cyber threats. All around the world, militaries are realizing that to truly gain an edge in information and outperform adversaries in network-centric warfare, investing in top-tier C4I systems is absolutely vital..
+
+Within military forces, investment in C4I systems spans all branches, reflecting their central role in joint operations. The Army focuses on mobile, robust command posts and battlefield management systems that enable real-time coordination of ground forces and integration with air and naval assets. Navies invest in shipboard C2 systems and secure, long-range communications, while air forces prioritize real-time data links, advanced mission planning, and automated threat detection. Across all domains, the emphasis is on interoperability, resilience, and the ability to operate in contested, degraded environments.
+
+The Importance of Advanced Chinese Fighters and Upgrading JF-17 Capabilities
+
+A critical component in strengthening Pakistan’s NCW capabilities is the acquisition of advanced multi-role fighter aircraft and the modernization of existing platforms. Procuring advanced Chinese fighters such as the Chengdu J-10C offers a significant leap in operational capability. These aircraft are equipped with state-of-the-art Active Electronically Scanned Array (AESA) radars, advanced electronic warfare (EW) suites, and integrated data links that are essential for network-centric operations (Global Times, 2023). The successful use of the J10-c in BVR dog fight, where it downed Dassault Rafael speak the high return on investment of the J10 c, its integration with other system in the Pakistan’s defense architecture .
+
+Upgrading the JF-17 fleet with Chinese KLJ-7A v2 AESA radars or JF-17 Block 4 with KLJ-7a V2 and enhanced EW systems will further ensure that Pakistan’s frontline fighters can operate as effective sensor and shooter nodes within the NCW framework (Defense News, 2022). These upgrades are essential to ensure smooth real-time data sharing, electronic countermeasures, and multi-target engagement, which are vital for survivability and mission effectiveness in a contested environment. The integration of these technologies will not only enhance the Pakistan Air Force’s ability to maintain air superiority but will also provide a force multiplier effect across the entire networked battlespace.
+
+It is therefore the need of the hour to allocate funds for the upgrades, production (JF-17 block 3 and Possibly a superior variant of the JF-17) as part of enhancing overall capability of the Pakistan Armed forces in multi domain warfare. And acquire newer more advanced platforms.
+
+Naval Artillery, SAM Systems for the Army, and Anti-Ship/Anti-Air Missiles for the Navy
+
+To achieve true network-centric synergy across all branches of the armed forces, Pakistan has made significant progress in acquiring and operationalizing modern platforms, but further investment and integration remain essential. The Pakistan Navy has already inducted advanced Chinese systems such as the Type 730 and Type 1130 close-in weapon systems (CIWS) and the H/PJ-38 130mm naval gun, now operational on the latest Type 054A/P frigates, greatly enhancing layered defense and firepower (Jane’s Defence, 2024). However, to fully realize the potential of networked maritime warfare, Pakistan must accelerate the integration of next-generation anti-ship cruise missiles like the YJ-18, and pursue the acquisition of the YJ-12 and long-range naval SAMs such as the HHQ-9. These systems will enable the Navy to deliver rapid, coordinated responses to both surface and aerial threats, closing the sensor-to-shooter loop in real time (Global Times, 2023).
+
+On the land front, the Pakistan Army has already fielded the HQ-9B long-range surface-to-air missile system, providing robust area defense against advanced aerial threats. Yet, to ensure comprehensive, multi-layered protection and seamless integration with battlefield management systems, it is critical to acquire and operationalize additional platforms such as the HQ-16 for point defense and mobile operations (SIPRI, 2023). These future acquisitions will enable the Army to respond to evolving threats with greater agility and precision, while enhancing interoperability with air and naval assets in joint operations.
+
+Looking ahead, Pakistan’s continued investment in these advanced Chinese platforms is not just about expanding firepower, but about embedding interoperability, rapid data integration, and real-time decision-making at every level of the military. By acquiring and integrating these capabilities, Pakistan will be able to compress the sensor-to-shooter loop, maximize the effectiveness of its NCW doctrine, and maintain a credible deterrent in a rapidly evolving regional security environment. Prioritizing these acquisitions in the upcoming defense budget is essential for achieving true network-centric warfare capability and ensuring national security in the face of emerging threats.
+
+While the Pakistan Army has made strides in modernizing its artillery arm, particularly with the induction of the A-100E multiple launch rocket system (MLRS) and the SH-15 155mm wheeled self-propelled howitzer-both capable of precision strikes and networked fire missions-significant gaps remain in achieving true network-centric synergy.
+
+Current precision-guided munitions (PGMs) and digital fire control systems provide improved accuracy and responsiveness, but the majority of tube artillery still relies on legacy platforms with limited automation and integration. To fully exploit the advantages of NCW, Pakistan must invest in next-generation artillery systems such as the Chinese PCL-181 155mm self-propelled howitzer and advanced PGMs, which offer longer range, rapid deployment, and digital connectivity for real-time targeting and sensor-to-shooter integration (Jane’s Defence, 2024; SIPRI, 2023).
+
+Additionally, acquiring automated artillery fire direction centers, battlefield management systems, and counter-battery radars will enable the Army to conduct coordinated, precision strikes in joint and multi-domain
+
+The Strategic Need for Procuring Chinese Defense Technologies
+
+The availability of these advanced Chinese platforms presents Pakistan with a unique opportunity to rapidly enhance its NCW capabilities while maintaining cost-effectiveness and technological compatibility. Chinese defense products are not only battle-tested by PAksitan and reliable but are also designed with network-centric integration in mind (Jane’s Defence, 2024). By investing in these systems, Pakistan can achieve a high degree of interoperability across its air, land, and sea domains. This will enable seamless data sharing, coordinated targeting, and synchronized operations-key tenets of NCW. Moreover, the strategic partnership with China ensures technology transfer and long-term support, allowing for continuous upgrades and adaptation to emerging threats. The timely procurement and integration of these platforms should be prioritized in the special defense package, as they will serve as the backbone of Pakistan’s future warfighting capability.
+
+The Critical Importance of Training for All Three Services
+
+No matter how advanced the technology or how modern the platforms, the effectiveness of NCW ultimately depends on the skill and proficiency of the personnel operating these systems. Continuous and realistic training is essential for pilots, sailors, and soldiers to fully exploit the capabilities of networked platforms and integrated weapon systems (Alberts et al., 1998; Garstka, 2003). For the Air Force, this means regular simulation-based and live exercises that focus on multi-domain operations, electronic warfare, and rapid decision-making in a networked environment. The Navy must invest in training for networked maritime operations, including real-time data fusion, cooperative engagement, and anti-access/area denial (A2/AD) tactics. The Army, meanwhile, requires ongoing training in integrated air defense, sensor-to-shooter operations, and battlefield management systems. Cross-service joint exercises, leveraging advanced simulation and virtual reality platforms, are crucial for building the interoperability and coordination that NCW demands. A dedicated portion of the special defense package must be allocated for the continuous professional development and technological upskilling of all three services, ensuring that Pakistan’s armed forces remain agile, adaptive, and ready to meet the challenges of modern warfare.
+
+if we decide to fight on a network-centric rather than platform-centric basis, we must change how we train, how we organize, and how we allocate our resources ( Network-Centric Warfare – Its Origin and Future , 1998)
+
+Global Trends and the Need for a Special Allocation
+
+Globally, militaries are prioritizing investments in engagement and sensor grids alongside comprehensive arsenal modernization to achieve NCW dominance. The U.S. leads with initiatives like Project Convergence 2025, integrating Army, Air Force, and multinational systems to enhance joint command-and-control (C2) and sensor-to-shooter connectivity (US DoD, 2021). Similarly, China and India are investing heavily in networked missile systems (e.g., DF-21D, BRAHMOS-NG) and secure communications infrastructure, while NATO allies focus on interoperable battle networks for multidomain operations (SIPRI, 2023). For army modernization, advancements include AI-driven targeting systems, lightweight tripods, and polymer ammunition to boost mobility and precision. Navies are upgrading to hypersonic anti-ship missiles (e.g., LRASM) and ship-based C2 systems like AEGIS, while air forces prioritize fifth-generation fighters (J20,F-35, Su-57) and loyal wingman UAVs for swarm tactics. These efforts align with the $91.4 billion NCW market projected by 2032, driven by demand for real-time data fusion, resilient networks, and distributed lethality (Market Research Future, 2024). Across all branches, the emphasis is on closing the “kill chain” faster than adversaries through seamless integration of sensors, shooters, and decision-makers-a cornerstone of modern NCW strategy.
+
+Recommendations for Pakistan’s Defense Budget
+
+Given these realities, it is imperative that the Government of Pakistan provides a special budgetary package-over and above the regular defense allocation-specifically aimed at enhancing NCW and C4ISR capabilities. The following recommendations are proposed:
+
+Allocate 30–45% of the NCW budget to the development and strengthening of the information grid and backplane.
+
+Ensure at least 25% of the NCW budget is directed toward sensor grid improvement and development.
+
+Dedicate 20–45% of the NCW budget to engagement grids, focusing on modernizing weapons platforms and integrating advanced targeting systems.
+
+Invest in the modernization and integration of C4I systems, with a strong emphasis on cybersecurity and interoperability.
+
+Support continuous training and skill development for armed forces personnel to ensure effective utilization of new technologies.
+
+Pakistan armed forces have been able to demonstrate the efficient use of scarce resources and have trained keeping in mind the resources at hand. Therefore, given our economic constraints we can not match global trends but we can still mange to provide finances which can at least fulfill the bare minimum.
+
+The budgetary provision for enhancing NCW capabilities should be in addition to the already provisioned budget. This should be an additional package, where in increases can be made from time to time
+
+Evolving nature of modern warfare demands a proactive and well-funded approach to defense modernization. Network Centric Warfare is not just a technological upgrade; it is a doctrinal shift that requires sustained investment in information infrastructure, sensors, engagement systems, and human capital. The proposed special budgetary allocation is essential to ensure that Pakistan’s armed forces remain capable of deterring and defeating any threat-now and in the future.
+
+References
+
+Alberts, D. S., Garstka, J. J., & Stein, F. P. (1998). Network Centric Warfare: Developing and Leveraging Information Superiority . CCRP Publication Series.
+
+Garstka, J. J. (2003). Network Centric Warfare Offers Warfighting Advantage. Signal Magazine .
+
+Defense News. (2022). US DoD Budget and Network Modernization Initiatives. Retrieved from https://www.defensenews.com/
+
+US Department of Defense (DoD). (2021). Defense Budget Overview: NCW and C4ISR Modernization. Retrieved from https://comptroller.defense.gov/
+
+Jain, R. (2023). India’s Military Modernization and Network Centric Warfare. The Diplomat .
+
+Market Research Future. (2024). Network Centric Warfare Market Research Report: 2024-2032. Retrieved from https://www.marketresearchfuture.com/
+
+(2023). Trends in World Military Expenditure. Stockholm International Peace Research Institute. Retrieved from https://www.sipri.org/
+
+Express Tribune. (2024). India’s Threats and Pakistan’s Defense Response. Retrieved from https://tribune.com.pk/
+
+Global Times. (2023). Chinese Defense Exports and Pakistan’s Air Force Modernization. Retrieved from https://www.globaltimes.cn/
+
+Jane’s Defence. (2024). Chinese Naval and Missile Systems: Capabilities and Exports. Retrieved from https://www.janes.com/
+
+Dr. Fida Muhammad Khan is currently serving as a Lecturer at the Pakistan Institute of Development Economics

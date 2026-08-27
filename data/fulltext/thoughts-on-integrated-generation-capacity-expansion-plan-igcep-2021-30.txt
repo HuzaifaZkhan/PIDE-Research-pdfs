@@ -1,0 +1,122 @@
+Thoughts on Integrated Generation Capacity Expansion Plan (IGCEP) 2021-30
+
+Afia Malik and Usman Ahmad, Pakistan Institute of Development Economics, Islamabad.
+
+PREFACE
+
+Pakistan’s power supply remained unreliable for many years, disrupting business operations and people’s lives. Huge investments are being made in the recent past to increase power generation capacity. As a result, installed generation capacity increased from 22064 MW in FY2010 to 39772 MW in FY2021 (NEPRA State of Industry Report, 2014 & 2019). Pakistan power sector has rolled from an excess demand (for 14 years) to excess supply and has whimsically played around with the energy mix. While the world moved towards renewable energy, we invested heavily in imported coal and RLNG.
+
+Box 1. Power Sector Expansion Plans
+· Liefticnk Report 1967
+· RESPAK Model 1988
+· Energy and Nuclear Power Planning Study for Pakistan (ENPP 1994)
+· National Power Plan (NPP 1994-2018)
+· Energy Security Action Plan (2005-2030)
+· Pakistan Integrated Energy Model (Pak-IEM) 2007
+· National Power System Expansion Plan (NPSEP 2011-2030)
+· Least Cost Plan (LCP 2016-2035)
+· Indicative Generation Capacity Expansion Plan (IGCEP) 2040.
+· Indicative Generation Capacity Expansion Plan (IGCEP) 2047.
+Source: IGCEP (2021) & Mirjat, et al. (2017).
+
+The focus in our planning strategies has remained on expanding generation capacity, with little attention on improving the transmission capacity, energy mix and energy efficiency. Beyond any doubt, planning for increased electricity generation capacity is a vital component of electricity planning, other elements are equally important. In the past, Water and Power Development Authority (WAPDA) and National Transmission and Dispatch NTDC have framed several generation expansion plans with input and assistance from foreign and local consultants (Box 1).
+
+In most of these plans and demand forecasting studies by NTDC, planning for generation expansion was based on only peak demand forecast, which is sometimes misleading. There was a lack of spatial forecasting in most of these reports. Planning was done for the existing consumers and not for those who are un-served or under-served. That is why investments to increase generation capacity does not accompany equivalent investment in downstream transmission & distribution infrastructure.
+
+Now NTDC has developed a new Indicative Generation Capacity Expansion Plan (IGCEP) 2021-30. In September 2021, NEPRA has approved this plan.
+
+IGCEP 2021-30—An Overview
+
+As stated in the report, the objective of this plan is to identify and provide the least cost generation expansion plan to cater to long-term load growth forecast and reserve requirements. The focus is on indigenous energy sources and renewable energy resources—that includes hydro. The report has two main contributions. First, it forecast long run electricity demand. Second, it provides generation capacity expansion and dispatch optimisation plans. It identifies generation additions by capacity and fuel type, along with commissioning dates, for ten years (2021 to 2030) using the planning software ‘PLEXOS’.
+
+The IGCEP (2021-30) is a revolving plan to be updated yearly to account for any change in generation technologies trends, governmental policies, progress/priorities of different projects etc. The data modelling and generation optimisation exercise is based on the existing and future generation power plants, existing policy framework, existing contractual obligations, natural resource allocations, latest-generation technologies, Grid Code provisions and the assumptions approved by the Cabinet Committee on Energy.
+
+DEMAND LOAD FORECAST
+
+The IGCEP (2021-30) forecast peak demand using the OLS regression technique and electricity prices, GDP growth, population, number of consumers, lagged variables, and dummies as demand indicators. Three GDP growth scenarios are selected to forecast peak demand. Low GDP growth scenario where GDP growth rate decreases slowly from 3.94 percent to 3.70 percent from 2021 to 2025 and constant till 2030; base (normal) GDP growth scenario where GDP grow from 3.94 percent to 5.00 percent from 2021 to 2025 and remains constant afterwards; and high growth scenario where GDP grows from 3.94 percent to 6.02 percent in the first five years and remains constant in the next five years.
+
+Under a low growth scenario, peak demand is forecast to grow by 3.2 percent. Under normal and high GDP growth, peak demand is forecast to grow by 4.02 percent and 4.67 percent respectively (Chart 1).
+
+However, while forecasting future demand the model does not deviate much from earlier generation expansion plans or other reports. For instance,
+
+The model ignores unmet or under-met demand in the country. The served demand is used to forecast and not the computed demand. It excludes load shedding and unmet demand for that 26 percent of the population who have no access to electricity.
+
+As in previous plans, it focuses on peak demand forecast only.
+
+To calculate the elasticities of commercial and industrial sectors, the impact of load shedding on their historical data has been considered presuming that load shedding does not hinder the activities in these sectors. That may be true for large scale industries or commercial setups, which have an alternate energy system in the form of captive power plants, small power plants or distributed generation, but may not be true for small and medium enterprises.
+
+It does consider, NEECA targets for energy efficiency, and a long-pending issue of power export to K-electric. Alternatively, there is no consideration of those who are moving away from the grid because of increasing power tariffs.
+
+INSTALLED CAPACITY EXPANSION PLAN
+
+The plan highlights generation additions by capacity and fuel type along with commissioning dates for ten years. The IGCEP presumes the retirement of 6,447 MW of existing thermal power plants, both from public sector generation companies (GENCOs) and Independent Power Plants (IPPs), during the planning horizon of the IGCEP, i.e., 2021 to 2030. However, this is an underestimated figure as it does not include some of the thermal power plants commissioned under 1994 policy, e.g., the license of Uch Power Plant (586.2 MW) and Rousch Power P (450 MW) will expire in this period.
+
+Under the base case (normal GDP growth) scenario, to meet a peak demand of 34,377 MW by the year 2030, an installed capacity of 53,315 MW is proposed. It includes the utilisation of existing generation facilities (28053 MW), committed power plants (22182 MW), and candidate power plants (1000 MW). The committed seventy-one projects include hydro, local and imported coal, RLNG, wind, bagasse and solar. The candidate four projects are solar and wind.
+
+The IGCEP optimises 3083 MW of solar and wind projects as candidate projects on the criteria of least-cost option in the base case scenario. In the low GDP growth case, it adds only 1000MW of candidate wind technology; and in the high growth case, 4,073 MW of solar and 2,899 MW of wind (candidate) projects are selected & optimised by the PLEXOS. The variation in wind and solar candidate projects is the only difference between the three GDP growth scenarios.
+
+It is observed that
+
+The increased share of variable renewable energy, i.e., solar, wind and bagasse. These energy resources are optimised to be 1964 MW, 3795 MW and 749 MW in 2030, a percentage growth of 17 percent, 13 percent and 11 percent respectively in ten years.
+
+Hydropower is included in renewable energy sources for the first time. It is planned to increase from 9873MW in 2021 to 23035MW in 2030. Hydro is the top priority in IGCEP (2021-30).
+
+Hydro is the cheapest source of energy in terms of the levelised cost of energy. It is encouraging to see several small hydro projects in the plan. However, in the committed hydropower projects, there are several big dam projects. Large hydro projects are not without risks. That makes the implementation of the proposed plan uncertain. For instance, about 8990 MW of hydro capacity is expected from four main projects under WAPDA, i.e., Dasu, Diamer Bhasha, Mohmand, and Tarbela extension. The construction work on all these projects started several years ago. But due to financial and political constraints, all these plants are facing delays. Consequently, their costs have gone up substantially.
+
+The cost of Diamer Bhasha Dam was US$ 12.6 billion in 2008. It has now increased to US14 billion. Experts fear that this is only a conservative figure. The study of 245 dams built in the past century revealed that most budgets underestimated total expenditure by around 99 percent. With inflation, debt servicing, depreciation of the local currency, environmental externalities costs, a dam could end up requiring twice its initial financial estimates (Ansar, et al. 2014). Even if Diamer Bhasha Dam is completed within time, i.e., by 2029, it will likely cost around 10 percent of Pakistan’s current GDP.[1]
+____________________
+[1] https://thediplomat.com/2021/03/the-cost-of-pakistans-dam-obsession/
+
+In energy planning strategies, the focus on indigenous resources has always been at the forefront, but unfortunately, not timely implementation. Diamer Bhasha dam in northern Pakistan, construction of which was expected to take eight years, has already been delayed due to lack of finances. No doubt, Diamer Bhasha is vital for flood control, water storage and cheap power generation. Accelerating the construction of the Diamer Bhasha dam is significant not only in its own right but also critical for Tarbela, by extending Tarbela’s life by 35 years, leading to economic gain in the billions of US$ as well as power, water storage and irrigation benefits. However, apart from managing its financial requirements, there is need to avoid water conflicts. Therefore, the government policy for Indus Waters must incorporate energy policy with agricultural policy, trade policy, livelihood stabilisation, environment conservation etc. (Jamal, 2021).
+
+IGCEP (2021-30) set the target for the variable renewable energy sources at 12 percent by 2030. It is below the target of 30 percent set in Pakistan’s Renewable Energy Policy 2019. But interestingly, to meet this target, IGCEP has included hydro among renewable sources.
+
+Although the plan states that wind and solar are quickly becoming the cheapest sources of generation technologies, the share of wind and solar energy projects is relatively small. In this manner, the plan is not a ‘least-cost plan’. On the contrary, if hydro is in the renewable category, the 30 percent target set for 2030 has already been met. As the combined contribution of hydro, wind, solar and bagasse is 34 percent in the total installed capacity in 2021 (Chart 2), making the policy redundant (Nicholas, 2021).
+
+In the previous IGCEP (2018-2047), there was focus on variable renewable energy. That plan targets 30 percent variable renewable energy generation by 2030. In this new IGCEP, the share is 12 percent. The inclusion of solar and wind under the proposed IGCEP is below the available potential capacity. A few wind and solar projects in Sindh and Balochistan are not enlisted, as candidate projects in the IGCEP. Thus, creating political tensions. Additionally, generation plants must be selected from across the country to minimise transmission costs and losses (Ali, 2021).
+
+As mentioned above, given Pakistan’s record of hydro project delays, the outlook of this plan is highly doubtful. There is a significant likelihood that proposed hydro projects will not be finished in the prescribed time. In other words, the 55 percent target of renewable energy (including hydro) will not be achieved by 2030. Too much reliance on hydro (in particular, large hydro projects) may cause disruptions in the energy supply chain.
+
+One can only hope that the committed hydro projects are complete in time, unlike Neelum-Jhelum. Only timely completion of these hydropower projects can avoid cost escalation to some extent, enhance cheap electricity generation capacity,[2] and help meet 55 percent renewable energy target by 2030.
+_______________________
+[2] We started Neelum-Jhelum from Rs 18 billion and around Rs 500 billion. The escalated cost was paid by consumers in the form of ‘Neelum-Jhehlum Surcharge’ in their electricity bills for more than a decade.
+
+Another significant feature in the IGCEP 2021-30 is the coal projects, among the thermal energy sources. The share of local coal projects in installed capacity will increase from 660MW to 3630MW from 2021 to 2030. And the contribution of imported coal will increase from 3960MW in 2021 to 4920MW in 2030.
+
+No doubt Thar coal projects have the lowest construction cost followed by hydro and nuclear. But the generation cost is lowest from hydropower followed by nuclear and then coal. It indicates the levelised-cost in coal projects is more than the hydro and nuclear plants. Thar coal is expensive from a generation cost perspective and has an impact on the environment, enormous water resources required in cooling, and its health impact on the local population. IGCEP (2021-30) missed these points.
+
+Nuclear energy is another source of clean energy. However, as per the generation plan optimisation in IGCEP (2021-30), the share of nuclear energy will remain unchanged at 7 percent (Chart 2 and Chart 3).
+
+There is less focus on imported thermal energy among the committed projects: a single RLNG project (1263MW) and two imported coal projects (660MW and 300MW). It is a positive step from an overall economic perspective.
+
+GENERATION MIX VARIATIONS
+
+In the IGCEP (2021-30), in terms of installed capacity, the share of fossil fuels will decrease from 59 percent in 2021 to 36 percent in 2030. In terms of the generation mix, the plan projects this decrease from 58 percent in 2021 to 23 percent in 2030. The domination of fossil fuels and imported fuels in 2020 is planned to shift to clean and indigenous energy (hydro, solar, wind, nuclear, bagasse, local coal, and gas) from 58 percent to 89 percent by 2030 (Chart 4 & 5). It seems unrealistic.
+
+The installed capacity of RLNG will be 6786MW in 2030, with the addition of one new RLNG plant of 1263MW (in the plan period). However, its share in the generation mix is predicted to decrease, from 21 percent in 2021 to zero in 2030. It means that 6786MW of RLNG will remain idle in 2030. Likewise, as per plan, 1220MW of RFO will remain unused in 2030.
+
+2582 MW of indigenous gas plants will contribute 3 percent in the generation mix of 2030 in the IGCEP (2021-30). The indigenous resources of natural gas are rapidly depleting, may not be available for power generation by 2030.
+
+The data in Chart 4 is the projected data in IGCEP. The actual data for FY2021, as reported in NEPRA State of Industry Report 2021, portrays a different picture. The share of RLNG in the generation mix increased from 26625.59 GWh in FY2020 to 31761.81 GWh in FY2021. In other words, an increase of 5136.22 GWh. Likewise, during FY 2021, 10596.06 GWh electricity was generated using RFO, showing an increase of 2,686.9 GWh from FY2020. Whereas, during FY 2021, 17,917.02 GWh of electricity was generated using indigenous gas, showing a decrease of 2406.84 GWh from FY2020.
+
+The planning tool ‘PLEXOS’ ensures that the demand in the system is adequately met by adding generation capacity on a least-cost basis and decreasing reliance on imported fuels. But without sense. The logic, as explained in the IGCEP (2021-30) Report is “up to January 2022, the power purchaser is obligated to utilise 66 percent of the three (03) RLNG based power plants i.e., Haveli Bahadur Shah, Balloki and Bhikki, under the contractual binding. Beyond January 2022, these RLNG based plants will be dispatched as per merit order. Similarly, for the existing imported coal-based power plants (Sahiwal CFPP, China HUBCO CFPP and Port Qasim CFPP) as well as three existing local gas-based power plants (Engro, Foundation & Uch-II), a minimum annual dispatch of 50 percent is modelled as per contractual obligation, from the date of their respective CODs till the expiry of their PPAs.”
+
+The NEPRA State of Industry Report 2021 states that the induction of baseload thermal power plants in the power system of the country is mostly on a ‘Take or Pay’ basis for about 30 years. In the tariff design, these projects are allowed to pay their loan during the first 10-12 years. With this background, this new projected generation mix does not make any sense; the sector/consumers will continue to bear the burden of capacity payments. The NEPRA Report also highlights deviation from ‘Economic Merit Order’ in FY2021.
+
+CONCLUSION
+
+The IGCEP (2021-30) is not without loopholes. Yet, the best part is, the plan will revise next year. Hopefully, in the revised plan, emphasis will be on cheap energy technologies like wind and solar. Likewise, in the revised plan, the negative externalities of low-quality local coal will not be ignored.
+
+Nuclear energy is gaining traction globally. It is critical from an energy security, sustainability, and environmental perspective. Thus, must be given more importance in our planning strategies.
+
+Blindly following a planning tool does not make sense. It has been a challenge to keep capacity payment per unit at the current levels, as this would require energy sales to grow significantly. A significant installed capacity under contractual and license obligations cannot be left unused.
+
+Pakistan power sector needs coordinated planning among various sectors. Without an integrated energy sector approach, Pakistan cannot realise an optimal power generation mix from imported fuels and indigenous resources.
+
+REFERENCES
+
+Ali, S. A. (2021). An ugly IGCEP. Business Recorder , September 23. https://www.brecorder. com/news/40122025/an-ugly-igcep
+Ansar, A., Flyvbjerg, B., Budzier, A., & Lunn, D. (2014). Should we build more large dams? The actual cost of hydropower megaproject development. Energy Policy, 69, 43–56.
+Jamal, N. (2021). Destructive powers of politically charged dams. DAWN , July 05. https://www.dawn.com/news/1633158
+Mirjat, N. H., Uqaili, M. A., Harijan, K., & Valasai, G. (2017). A review of energy and power planning and policies of Pakistan. Renewable and Sustainable Energy Reviews, 79, 110–127.
+Nicholas, S. (2021). IEEFA: Pakistan new power plan, one step forward and two steps back. https://ieefa.org/ieefa-pakistans-new-long-term-power-plan-one-step-forward-two-steps-back/

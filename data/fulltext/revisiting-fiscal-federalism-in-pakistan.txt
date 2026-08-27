@@ -1,0 +1,317 @@
+The 7th NFC Award of 2010 was a landmark achievement; given that it was arrived at by consensus in the backdrop of decades of discord over centre-provincial fiscal relations. While the subject of apportioning resources is essentially political, there is always a large degree of overt economic rationale underlying the decision-making. The 7th Award was an accomplishment that was political, based on economic reasoning.
+
+The need for apportionment arises from the fact of unequal development levels: vertical (i.e., in terms of different groups in the country) or horizontal (i.e., in terms of different regions in the country). The former acquires relevancy in the context of inter-jurisdictional imbalances if a marginalized group is concentrated in particular sub-national jurisdiction(s). The latter is a product of inter-regional imbalance in social and economic development. In most cases, the marginalization of a group or region is the result of historical political processes; thus, arises the need for redressal.
+
+Most, if not all, countries in the world are faced with similar problems in varying degrees. Many attempt to address the situation with different forms of inter-governmental resource transfers; albeit, in the particular context of each country. Considerable international literature exists on the subject, dating back more than half a century. The earlier models are referred to as the First Generation Theories (FGT) and the latter ones as the Second Generation Theories (SGT)[1]. Inter alia , the former were propounded by Musgrave (1959), Oates (1972, 1999, 2005), and Musgrave and Musgrave (1984), and the latter have been put forward, inter alia , by Maite and Weingast (2003), Rodden et al (2003), Shah (2005), and Weingast (2007,2009, 2013).
+
+The essence of the First Generation Theories is that revenue collection is best performed at the national level, with fiscal transfers to sub-national levels for service delivery . The basis of this understanding is that factors of production, e.g., capital and labour, are mobile. As such, sub-national governments may tend to compete by offering lower tax rates; which can likely result in overall lower revenues. At the same time, FGT proponents argue that sub-national governments tend to better cater to the needs of local residents.
+
+The essence of Second Generation Theories is that reliance of sub-national governments on federal transfers for delivery of public services amounts to de-linking tax and expenditure responsibilities – and accountability in expenditure decision-making. The absence of the linkage, it is argued, may tend to weaken sub-national incentive to tap potential local revenue sources; for example, also on account of local interest group pressure.
+
+Development divide in Pakistan
+
+Inequality is pervasive in Pakistan: vertical and well as horizontal. There are regions that are relatively under-developed; however, marginalized population groups are not concentrated region-wise. The under-developed regions include the western provinces of Khyber-Pakhtunkhwa and Balochistan; Sindh exhibits a sharp urban rural divide and there are under-developed parts in Punjab as well[2].
+
+The inter-provincial development gap is indicated by the relative shares of agricultural and industrial endowments. Punjab and Sindh account for 80 percent of cultivable area and 90 percent of industrial establishments, respectively; compared to 20 percent and 10 percent, respectively, for Khyber-Pakhtunkhwa and Balochistan. This imbalance manifests in the respective revenue generation capacity of the provinces; thus, the case for inter-provincial resource transfers (see Table 1).
+
+Table 1
+
+Resource base by province
+
+Provinces
+Cultivable
+
+area 1
+Manufacturing Establishments 2
+Own-source Revenue 3
+
+Million hectares
+Share (%)
+Nos.
+Share (%)
+Million Rs.
+
+Revised 2024-25
+
+Punjab
+12.65
+57.5
+32,580
+76.5
+915.2
+
+Sindh
+5.00
+22.6
+6,299
+14.8
+618.8
+
+Khyber-Pakhtunkhwa
+1.80
+8.3
+3,357
+7.9
+86.4
+
+Balochistan
+2.55
+11.6
+342
+0.8
+64.9
+
+Pakistan
+22.0
+100.0
+42,578
+100.0
+–
+
+Source s: 1. Government of Pakistan, Agricultural Statistics of Pakistan, 2005
+
+2. Government of Pakistan, Census of Manufacturing Industries, 2015-16
+
+3. Provincial Budgets 2025-26
+
+There are important nuances to the above distribution. Sindh’s lower share in cultivable area and number of industrial establishments, relative to that of Punjab, understates its true resource endowment. The province is home to the only two ports of the country and has large deposits of natural gas and coal; proving to be sizeable revenue bases. On the other hand, Balochistan too is mineral rich; however, the absence of supporting infrastructure – roads, water, etc. – has limited their exploitation – and, resultantly, the capacity to generate revenues.
+
+National Finance Commission
+
+The National Finance Commission (NFC) is a constitutional body – vide Article 160 of the Constitution – that has to be constituted every 5 years and which is tasked to determine the respective shares of the federation and provinces out of specified federal tax revenues – vide Fourth Schedule of the Federal Legislative List Part I – referred to as the Federal Divisible Pool.
+
+The basis for resource distribution between the federation and provinces and between provinces is the Federal Divisible Pool. Over the years since NFC was constituted in 1974, the composition of the Divisible Pool has changed, as shown in Table 2. The process began with the 1 st NFC in 1974 with a 20:80 distribution of vertical shares between the federation and the provinces, with the Divisible Pool including three taxes – Income & Corporate Tax, Sales Tax, and Export duties. The 4 th NFC in 1991 enlarged the Divisible Pool by adding Central Excise Duties, but retained the federal-provincial distribution ratio at 20:80. The 6 th NFC in 1997 further enlarged the Divisible Pool by adding Import Duties, but drastically reversed the federal-provincial distribution share to 63:37.
+
+Table 2: History of Composition of Federal Divisible Pool
+
+Award
+Year
+Federal-Provincial Share (%)
+Taxes
+
+(included in Divisible Pool)
+
+1 st
+1974
+20 : 80
+
+Income & Corporate Tax
+
+Sales Tax
+
+Export duties
+
+4 th
+1991
+20 : 80
+As above + CED
+
+6 th
+1997
+63 : 37
+As above + Import Duties
+
+Presidential Order
+2006
+52.5 : 47.5
+As above
+
+7 th
+2010
+42.5 : 57.5
+As above
+
+In other words, the 6 th NFC raised the federal share from 20 percent to 63 percent and the provincial share was reduced from 80 percent to 37 percent. The rationale for this shift was explained by the following: Import Duties constituted the major revenue source for the federal government – single largest tax revenue source, accounting of one-quarter of tax revenues – and its inclusion raised the size of the Divisible Pool significantly. Resultantly, provincial revenues increased in absolute terms despite the reduction in its share. The composition of the Divisible Pool has since remained the same; however, the federal-provincial distribution was changed to 52.5:47.5 in 2006 and to 42.5:57.5 in 2010.
+
+7th NFC Award
+
+The 7 th NFC Award, concluded in 2009-10, was historic on three counts.
+
+One, it changed the long-standing single criterion – population – formula for (horizontal) distribution between the provinces to a multiple-criteria – population, revenue, backwardness and population density – formula.
+
+Two, it reversed the (vertical) federal-provincial ratio to 42.5 – 57.5.
+
+And three, it devolved GST Services to the provinces, as stipulated in the Constitution.
+
+The introduction of the multi-criteria formula changed the inter-provincial shares as shown in Table 3. Accordingly, the shares of three provinces – Sindh, Khyber-Pakhtunkhwa and Balochistan – increased at the expense of Punjab. However, Punjab’s loss was compensated by the sizeable enlargement of the provincial pool by virtue of increase in the (vertical) provincial share to 57.5 percent.
+
+Table 3
+
+7th NFC Tax Revenue Sharing Formula
+
+Indicators
+
+Ø Population
+
+Ø Poverty/Backwardness
+
+Ø Revenue Collection/Generation
+
+Ø Inverse Population Density
+Weights (%)
+
+82.0
+
+10.3
+
+5.0
+
+2.7
+
+Share of provinces changed:
+
+Ø Punjab
+
+Ø Sindh
+
+Ø Khyber-Pakhtunkhwa
+
+Ø Balochistan
+From:
+
+57.3%
+
+23.7%
+
+13.8%
+
+5.2%
+To:
+
+51.74%
+
+24.55%
+
+14.62%
+
+9.09%
+
+The fiscal standing of the provinces was further strengthened by the transfer of General Sales Tax (GST) on Services to the provinces. However, the inter-provincial effect was not uniform; given the varying services sector economic bases of the provinces. Accordingly, Punjab and Sindh benefitted disproportionately, relative to Khyber-Pakhtunkhwa and Balochistan.
+
+Current issues
+
+The Constitution mandates the NFC to be formed every 5 years and a fresh Award to be enacted. However, it is now a decade and a half since the NFC Award of 2010 and three Commissions – 8th, 9th and 10th – have lapsed without result. Needless to say, there are voices for changes and a debate is under way; with the centre and provinces positioning themselves at different points.
+
+The centrist case
+
+The 7th NFC is under attack. The principal argument, herewith, is that the high (vertical) share accorded to the provinces has compromised federal finances; with the federal government unable to bridge its budget deficit. As is apparent from Table 4, the federal government’s Net Revenue Receipts just about covers Interest Payments and Pensions (and not entirely), with no resources even for Defence and Civil Government.
+
+Table 4
+
+Overall Resources and Expenditure
+
+Revised Estimates: 2024-25
+
+(in billion Rs.)
+
+Resources
+Expenditure
+
+Tax Revenue,
+11,900
+Interest Payments
+8,945
+
+Non-Tax Revenue
+4,902
+Pensions
+1,014
+
+Gross Revenue Receipts
+16,802
+Defence
+2,181
+
+Less Provincial Share
+(6,997)
+Running of Civil Government
+886
+
+Net Revenue Receipts
+9,805
+Essential Expenditure
+13,826
+
+Source: Federal Budget in Brief 2025-26
+
+Prima facie , the centrist case is compelling. There is, however, a counter argument in defence of the 7th NFC. The counter case is that the 18th Amendment of 2010 – in abolishing the Concurrent List – had effectively transferred nearly 40 items to the provinces. Accordingly, it was expected that the Ministries, Divisions and Attached Departments related to these items will be disbanded, merged or scaled down, so as to effect expenditure savings.
+
+This, it is said, the federal government has failed to do; resulting in the corresponding failure to reduce superfluous government expenditure. Rather, federal Current Expenditure has registered disproportionate growth even in real terms; averaging annual growth at 16.4 percent per annum over the period 2011-2014, while the average inflation rate over the same period was 10.5 percent[3]. In other words, federal Current Expenditure has grown at more than 1.5 times the inflation rate.
+
+The 7 percent proposal
+
+The centrists have, however, maintained their stance; but face a constitutional barrier. The 18th Amendment added Clause 3A in Article 160 of the Constitution, which places a bar on reduction of the (vertical) share of provinces, as determined in the previous Award. Accordingly, the federal Finance Minister placed an alternative proposal at the meeting of the 9th NFC to allocate 7 percent of the Federal Divisible Pool to the centre, prior to the distribution according to the 7th NFC formula. The proposal was unanimously rejected by the provinces.
+
+Aiming at provincial ‘failures’
+
+The centrist drive case for securing a higher share of the resources has turned to attempts to undermine provincial political standing. Two lines of ‘attack’ are:
+
+provinces are riding on the back of federal resource generation efforts and have failed to mobilize own-source revenues; specifically, agricultural income tax and urban property tax, and
+
+provinces have failed to effect devolution to the local government level to improve service delivery.
+
+Both are moot points. However, the primary centrist objective of attaining a revision of the NFC sharing formula is likely to remain unachieved, even if the cases against the provinces are established.
+
+A provincial case
+
+The demand for the NFC to convene and draw up a fresh Award is the most forceful from Khyber-Pakhtunkhwa[4]. Share of population is one of the four criteria in the 7th Award and the latest population data available in 2010 was from the 1998 Population Census. Accordingly, Khyber-Pakhtunkhwa’s population share was recorded at 13.4 percent. Moreover, FATA was a separate (federal) entity in 2010. Its merger with Khyber-Pakhtunkhwa in 2028 raised its population share to over 16 percent. Accordingly, Khyber-Pakhtunkhwa is deemed to suffer losses post-2018 on account of its lower posting of population size.
+
+Case for equity
+
+The NFC debate has all along been one of ‘who gets how much’. It is time perhaps to move on to deliberating on adopting NFC allocations as a tool to forward social goals – and one such goal can be a less regressive tax regime.
+
+Taxes impose a burden on those taxed. The burden can be proportionate to income or proportionately higher or lower relative to income. The burden is termed as incidence and is designated as progressive if the burden of the tax is higher on the rich and regressive if it is higher on the poor. Generally, direct taxes, i.e. taxes on income, wealth, property, etc., are said to be progressive and indirect taxes, i.e. sales taxes, customs duties, excise duties, etc., are said to be regressive. A tax regime that is progressive is said to be equitable and fair relative to one that is regressive.
+
+In Pakistan’s case, about 40 percent of federal tax revenue is accrued from direct taxes and 60 percent from indirect taxes. However, over two-thirds of income tax is collected in advance as withholding tax and is, in effect, indirect in nature. Thus, if the withholding tax component is excluded, the effective share of direct taxes falls to less than 15 percent, with the effective share of indirect taxes rising to over 85 percent. Collection of indirect taxes is relied upon as it is relatively administratively easy and politically low cost. Levy of direct taxes is politically problematic and the government even went to the extent of abolishing Wealth Tax. In other words, Pakistan’s tax regime is regressive and burdens the poor significantly more than the rich (see Kazi (1984), Malik and Saqib (1989), SPDC (2004), Refaqat (2008), Ara and Ahmed (2022), Ara (2023).
+
+The objective of ensuring that the tax structure targets certain higher socioeconomic goals can be achieved partly by correcting the currently skewed balance between direct and indirect taxes. This objective requires that the federal-provincial tax sharing mode provides the Centre with the incentive to prioritize direct tax collection over indirect taxes
+
+The basic proposal is for the direct and indirect taxes components in the Divisible Pool to be treated separately; with the Centre retaining 80 percent of direct taxes and provinces retaining 80 percent of indirect taxes. Calculations have shown that this dual formula does not change the current ‘take home’ for the centre or provinces.
+
+References
+
+Ara, I., (2023). Estimating the Distributional Burden of General Sales Tax in Pakistan , Pakistan Development Review, Vol. 62, No. 3
+
+Ara, I., and Qazi Masood Ahmed (2022). “ Differential Impact of Taxation on Food Items ,” Lahore Journal of Economics, vol. 27(1)
+
+Iqbal. M.A. and Muhammad Sabir (2018). Strengthening Fiscal Federalism in Pakistan: The Way Forward , Social Policy Development Centre, Karachi
+
+Kazi, S. (1984). “Inter-sectoral Tax Burdens in Pakistan: A Critical Review of Existing Evidence and Some New Estimates” The Pakistan Development Review , Vol.23, No.4.
+
+Maite, Careaga, and Barry R. Weingast (2003). “ Fiscal federalism, good governance, and economic growth in Mexico , Ch. 13, in In search of prosperity: analytical narratives on economic growth, Princeton.
+
+Malik, M. H., and Najam-us-Saqib (1989). Tax Incidence by Income Classes in Pakistan. The Pakistan Development Review , Vol.28, No. 1.
+
+Musgrave, Richard A. 1959. ‘Theory of public finance; a study in public economy’. ( New York: McGraw-Hill).
+
+Musgrave, Richard A., and Peggy B. Musgrave. 1984. Public Finance in Theory and Practice. ( New York: McGraw-Hill).
+
+Oates, Wallace E. 1972. ‘Fiscal Federalism. New York: Harcourt Brace Jovanovich’, Polity IV Dataset http://www . bsos. umd. edu/cidcm/inscr/polity .
+
+———. 1999. ‘An Essay on Fiscal Federalism’, J ournal of Economic Literature , 37: 1120-49.
+
+———. 2005. ‘Toward a second-generation theory of fiscal federalism’, International Tax and Public Finance , 12: 349-73.
+
+Refaqat, Saadia (2008). Social incidence of indirect taxation in Pakistan – (1990 – 2001). Thesis submitted for the degree of Doctor of Philosophy, University of Bath, UK.
+
+Rodden, Jonathan, Gunnar S Eskeland, and Jennie Ilene Litvack. 2003. F iscal decentralization and the challenge of hard budget constraints (MIT press).
+
+Shah, Anwar. 2005. ‘A framework for evaluating alternate institutional arrangements for fiscal equalization transfers’. World Bank Policy Research Working Paper 3785
+
+SPDC (2004). Social Development in Pakistan . Annual Review Karachi: Social Policy and Development Centre.
+
+Weingast, Barry R. 2006. Second Generation Fiscal Federalism: Implications for Decentralized Democratic Governance and Economic Development , https://ssrn.com/abstract=1153440
+
+———. 2009. ‘Second generation fiscal federalism: The implications of fiscal incentives’, Journal of Urban Economics , 65: 279-93.
+
+———. 2013. ‘Second generation fiscal federalism: Political aspects of decentralization and economic development’, World Development , 53: 14-25.
+
+[1] A review of the two theories is available in: Iqbal and Sabir (2018). Strengthening Fiscal Federalism in Pakistan: The Way Forward , Social Policy Development Centre, Karachi
+
+[2] Under-development is high in Gilgit-Baltistan and Kashmir as well; however, the two territories are not constitutionally part of Pakistan. As such, they are not parties to the National Finance Commission.
+
+[3] Calculated from: Government of Pakistan, Economic Survey, various issues
+
+[4] The province’s name was NWFP at the time of the 7 th Award in 2010
+
+Dr. Kaiser Bengali is a renowned economist with over 40 years of experience in teaching, research, and policy advice. He has served in key positions, including as Advisor to CM Sindh and as the first head of BISP

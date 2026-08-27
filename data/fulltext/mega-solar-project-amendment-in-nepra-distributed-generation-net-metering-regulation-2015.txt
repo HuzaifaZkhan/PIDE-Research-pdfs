@@ -1,0 +1,71 @@
+Webinar Speakers:
+
+Tahir Basharat Cheema, Former MD, PEPCO
+
+Waqas Bin Najib, Member Energy, Ministry of Planning and Special Initiatives
+
+Moin M. Fuda, Chairman, Central Depository Company (CDC) Pakistan
+
+Syed Feisal Ali, Managing Director, Allied Engineering & Services Limited
+
+Engineer Imtiaz Hussain Baloch, DG licensing NEPRA.
+
+Mian Suhail Hussain, CEO Gresham’s (PVT) Limited
+
+The Panel has discussed the following:
+
+Details 10,000 MW solar projects and its implications on the sector sustainability.
+
+Why do we need this project when as per ICGEP (2021-23)22182 MV is already committed?
+
+When NEPRA needs to amend its Distributed Generation and Net Meeting Regulations?
+
+Its implications for consumer with roof-top solar system.
+
+Tahir Basharat Cheema, Former MD, PEPCO:
+
+What’s the current situation of Quaid-e-Azam solar panels?
+
+The Quaid-e-Azam Solar Power Park was designed and built at the incorrect location. Bahawalpur’s climate is not suitable for the project. The temperature rises above 45 degrees Celsius, which does not produce the required amount of electricity.
+
+The project was designed to project 1000 MW of energy; however, up until this point, it has only generated 400 MW. Good money has been squandered on this project. However, this project is a good lab test to analyze how to not do a project.
+
+What about the10 000 MW solar projects which will be planted and their implications on the sector’s sustainability?
+
+GENCO holding companies (Public sector plants) have seven sites, including Muzaffargarh, Buddhu, Shahdara Lahore, Kotri, and Jamshoro, which are redundant. For all these years, the management of these companies has remained non-technical. It is said these sites have transmission lines available as well as auxiliary services, and there is no major auxiliary and transmission services problem. These locations are ideal for installing and operating solar systems. Even though we have very few professional resources, we need to make the most of what resources we do have. This time, IPPs have a stranglehold on the situation, and we have reached the point where PPA implementation is impossible.
+
+There are several problems with solar energy, and when we integrate it into the system, issues of grid instability arise. This is the reason why we wanted to invest in grid stability but were unable to do so; here, we have static compensators and battery banks to be installed that would have been cleared. Another idea that has surfaced is to run plants with a combination of solar and wind energy or create hybrid wind power plants. The fact that both energies complement one another and their maximum generation are at different times is a positive trait. Another thing which is said is that from now onwards whatever power plant will come it’ll ensure competition. In order to generate solar energy at the lowest possible cost, it is imperative that we adopt global best practices instead of giving excuses that we lack resources.
+
+Another crucial element is net metering, a billing system that credits owners of solar energy systems for the electricity they supply to the grid. But what we are doing is we are selling this energy at a power purchasing price and buying on the energy purchasing price, which is making a difference of 17% to 23%, which is considered as oxygen for the power sector. But, this will be totally opposite to the concept of net metering.
+
+Should IPPs be demolished, or should we have to keep them again on the table?
+
+All of our IPPs feature phantom equity holdings for all sponsors. There isn’t a single IPP where the sponsors have all paid their equity. They are receiving returns based on phantom equities. The problems that existed in our system in 1994 resurfaced in the 2002 policies. In summary, extremely high IPP prices are to blame for Pakistan’s energy issues, and no one can defend them under any circumstances. Therefore, handling IPPs with kid clubs is crucial if we want to keep them on the table; otherwise, things will only grow worse.
+
+Moin M. Fuda, Chairman, Central Depository Company (CDC) Pakistan
+
+Rooftop solar panels have a 16% capacity, which means that 80MW of electricity is produced nationwide by them. A general rule states that 25% of this 80 MW is exported. Why has NEPRA begun to modify its policies for this 25%? Net metering, according to the power secretary, is a concept reserved for the elite. From 2015 to Nov 2018, netting was from apple to apple; there was no concept of peak and off-peak. In December 2018, NEPRA changed the rules of games and introduced a number of new things, including demolishing the netting of peak versus off-peak. So, you are providing financial guarantees to solar producers but penalizing the people who are producing 20 MW from their rooftops. We have yet to adopt the net metering practices that other industrialized countries rely on. In Pakistan, we have net dealing rather than net metering.
+
+Syed Feisal Ali, Managing Director, Allied Engineering & Services Limited:
+
+The rate solar IPPs are getting now is 21.22 PKR, which is all (25-30) the solar IPPs in aggregate. So if along with 21.22 PKR anti dc charges and CCPGA charges which makes 1.47 PKR, and on average, the amount becomes around 23 PKR. Why is there this step-motherly treatment with these small tiny investors who are making their investments and not asking for indexation of their pricing to the exchange rate and government guarantees? There is an urgent need to compare what is paid to solar IPPs.
+
+Second, NEPRA guarantees returns on investment to every IPP, which range from 12% to 18% in dollars and cents. So why is there such a fuss over just over 20 MW out of the 30,000 MW that is being produced?
+
+Mian Suhail Hussain, CEO of Gresham’s (PVT) Limited:
+
+Very few countries had this idea back in 2002 when Pakistan’s net metering policy was first adopted. We were ahead 20 years of our time. But, unfortunately, we didn’t capitalize it the way it should be. Using the same approach that NEPRA is currently executing, India also adopted the idea of net metering, but after experiencing a significant backlash, the Indian government backed down and introduced a different policy. India will grant all the concessions that the people originally requested, and electrical companies will purchase all the solar-powered electricity generated on rooftops at competitive prices.
+
+So it’s time to think about why Pakistan’s government isn’t giving the consumers setting up the power projects here credit for reducing greenhouse gas emissions.
+
+Engineer Imtiaz Hussain Baloch, DG licensing NEPRA:
+
+IPPs were initiated as a result of our funding shortfall. So the government made the decision to adopt IPPs like many other countries. We continued to be very generous with our returns, something we will need to learn with time.
+
+Waqas Bin Najib, Member Energy, Ministry of Planning and Special Initiatives:
+
+The next obstacle we must overcome is lowering the cost of generation. The cost of generating will continue to rise if we anticipate the capacity increase from the projects in the pipeline for the next ten years. Solar projects and parks will only be able to offset the variable cost of the current generation capacity. It’s an excellent strategy to lower the cost of generating, in theory.
+
+How investment can be mobilized to increase energy output is the next query. There is a need to raise private sector capital since the government does not generate enough revenue to invest all the necessary capital. To mobilize capital in the private sector, we have to go on an IPP model. IPPs now use a cost-plus tariff model. We haven’t received any cheap power through the cost-plus tariff scheme. Therefore, in order to proceed, our sites are technically sound choices, and on such sites, tariff competition and bidding are the least expensive options that the majority of the globe has adopted. Utilizing IPP based on competitive base tariffs is the best course of action as opposed to the cost-plus tariff model.
+
+It is concluded that the customer is the one who is affected by all of the NEPRA’s current policies. It’s time to compare Pakistan’s system of net metering to that of the developed world to see where we fall short and how we may close the gap so that consumers suffer less. These 10,000 MW projects require careful planning and research if we want them to be successful.

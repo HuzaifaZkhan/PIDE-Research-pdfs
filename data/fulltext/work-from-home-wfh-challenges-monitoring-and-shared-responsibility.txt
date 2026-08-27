@@ -1,0 +1,196 @@
+1. Executive Summary
+
+The Government of Pakistan (GoP) implemented austerity measures in early March this year in the wake of current global conflict. The measures outlined fuel conserving practices as a part of which public and private sector offices were required to adopt Work from Home (WfH) policies for up to 50% of the office staff. The purpose of this knowledge brief is to detail what the current austerity measures entailed with respect to WfH policies at the organizational level, what the existing empirical evidence suggest with respect to effectiveness of these policies, and worker productivity and output, and how can WfH policies be made effective in Pakistan. The efficacy of WfH in Pakistan’s public sector and the related concerns have also been highlighted based on the interviews conducted with the public sector personnel in Islamabad. A short commentary on the Islamabad’s public sector workplace and WfH policies is also included to highlight the issues of mistrust, professional dishonesty, disproportionate burden on a few employees, hierarchical nature of work in the public sector, heterogeneity of public sector offices, multiple-burden on women due to debilitating work life balance, and data security threats. Lastly, a few recommendations have also been outlined about effective communication systems, work ethics, professionalization of WfH, and clear organizational rules for WfH in Islamabad.
+
+2. Global Context
+
+Anakpo, Nqwayibana and Mishi, (2023) document that WfH is essentially an employment arrangement in which employees are not required to be physically present at the central place of work (office building, warehouse, retail shop, industrial unit, etc.), rather continue work from homes or any offsite location while continuing duties and performing official tasks through emails, online meetings, and telephone calls. The concept of telework emerged in 1970s when as a response to energy crises, researchers proposed telecommuting as the effective alternative to physical commute and onsite work (Haddon and Brynin, 2005). In 1980s and 1990s, the managerial and business schools propelled teleworking as an effective employment arrangement in-line with changing labor-market dynamics of contemporary societies. And since 2000, with the advent of internet and technological revolution, more flexible employment policies and dynamized work configuration plans are encouraged, among which WfH is also included (Haddon and Brynin, 2005).
+
+The impact of GoP’s decision of WfH policy for up to 50% staff to save fuel is yet to be seen but global literature highlights that teleworking, telecommuting, WfH, and remote working help save energy for commuting and energy for office equipment (O’Brien and Aliabadi, 2020). Nakanishi (2015) highlights that if telework policy is implemented on a large scale by an organization and the office’s operations are mostly closed down, energy consumption on lighting, air conditioning, and running generators will considerably reduce. But the results will not be realized if policy is implemented on a small scale. Similarly, if policy is implemented on a larger scale to scale down fuel consumption used in office transport, the fuel costs will significantly decrease, otherwise cost cuts may not be materialized.
+
+The actualization of these intended goals is yet to be seen. What is critical and for which this write-up is important is to document the effectiveness of WfH policy through highlighting contemporary scholarship on worker productivity and outcome, how can the efficacy of this policy be guaranteed with respect to task completion, challenges in the public sector, and organizational communication systems.
+
+3. Local Context
+
+Under the directive of the Prime Minister Office, WfH has been institutionalized across all the Federal Offices and establishments, following the austerity and fuel conservation measures. Some critical directives issued by the PM Office to ensure fuel conservation, through ensuring WfH, are stated in the following text.[1]
+
+Teleconferencing instead of physical meetings will be ensured and practiced for two months (the notification was issued on March 9, 2026). Physical meetings are banned and meetings will be conducted through virtual/online formats in all the federal and provincial establishments and offices with the intention of reducing fuel, travelling and lodging expenditures.
+
+The judiciary is required to ensure that lesser number of people appear in court hearings.
+
+All schools, colleges, and universities will be required to conduct 100% online classes for two months.
+
+Federal and government entities and establishments are instructed to shift to online meetings and operationalize work from home for up to 50% of the official staff.
+
+The Heads of the concerned departments and secretaries of the concerned offices, entities and establishments will determine whose services are essential to the organization and hence be required to attend 4 days a week, and whose services can be efficaciously managed and monitored from home.
+
+Within an organizational organogram, those with essential services (the Heads, Directors, Deans, Secretaries, and immediate limited personnel related to HRD and finance sections/departments) will be physically present and those in non-essential official roles, will work according to the alternative rotational on-site presence as per the WfH policy.
+
+These measures are not applicable to the essential service sectors such as banking, industrial, and agricultural sectors.
+
+Adjusting daily working hours in compliance with 4 days a week and WfH for up to 50% of staff will be maintained by the private sector organizations as well.
+
+4. What is Scholarship Saying on the Effectiveness of WfH Policy?
+
+During COVID-19, governments encouraged and enforced institutional systems and arrangements in place for effective implementation of WfH policies to control the spread of the pandemic. Complete and/or smart lockdowns were also imposed to control coronavirus spread. In addition, employers also prefer WfH because of lower office rents, improvements in work life balance, travel time saving, and fuel saving. During COVID-19, the physical separation strategy proved to be effective, especially, during the quarantine phase to reduce the susceptibility of acquiring and transmitting the virus. However, with respect to effectiveness of WfH policy, the scholarship identifies the loss of outstanding production in families with more children than families with fewer children, disproportionate burden of household responsibilities on women, significant increase in cases of domestic violence, worker’s productivity and efficiency, and the burden of time-bound official tasks on few workers working from home and most of them free-riding.
+
+While building WfH and productivity nexus, proponents claim that teleworking is an effective employment arrangement because of its human-centric strategic vision which supports employees’ mental and physical health. The antagonists argue that there are disadvantages of WfH such as lack of supervision, uninspiring and demotivating environment, monotonous timetable, lack of tiers in ‘what is official work time’ and ‘what is leisure time’, consistency and coherence issues in communicating official tasks, lack of coordination, discriminate digital access, data privacy concerns, inaccessibility to internet, anxiety, depression, and low employee productivity. A systematic literature review by Anakpo, Nqwayibana and Mishi (2023) assessing the impact of WfH policies on the worker’s productivity and outcome, details following results.
+
+Table 1 : Impacts of WfH Policies
+
+The mustard colored cells show improvement (in productivity and/or output).
+
+The orange colored cells show deterioration (stress, work-life-balance, increase in working hours, decrease in output and productivity)
+
+The gray colored cells show insignificant results.
+
+Unit of Data Collection
+Impacts of WfH Policy
+
+A research with 704 university researchers in Hungary (Aczel, Kovacs, Van Der Lippe, and Szaszi, 2021).
+
+Productivity increased.
+
+396 employees from three business-process-outsource companies of Philippines (Alfanza, 2021).
+
+No significant impact on productivity.
+
+University students and teachers’ experiences of online learning in Slovenia (Drašler et al. 2021).
+
+Higher stress levels.
+
+Less efficiency in learning.
+
+Ineffective online pedagogy.
+
+Stringent working environment at home.
+
+314 Indonesian bank workers (Prasetyaningtyas et al. 2021).
+
+Productivity Increased due to:
+
+Higher job contentment
+
+Improved mental health
+
+Negative relationship between work life balance and WfH.
+
+438 respondents from the service sectors of Luxembourg (Martin, Hauret, and Fuhrer 2022).
+
+Worker satisfaction improved.
+
+Job productivity increased.
+
+Mental stress reduced.
+
+50 Indonesia public sector personnel (Mon, 2021).
+
+No increase in output.
+
+No increase in productivity.
+
+Certain nature of work which can only be completed within offices.
+
+24 middle and senior managers in India (Jasiwal and Arun, 2022).
+
+Weekly working hours increased.
+
+Mental stress increased.
+
+Online survey in India (Farooq and Sultana, 2022)
+
+Negative relationship between WfH and employee productivity for the female respondents.
+
+526 IT professionals in India (Patanjali and Bhatta, 2025).
+
+Two-thirds of the respondents reported greater productivity because of the allocation of more time on official tasks due to reduction in commute time.
+
+11,011 respondents from healthcare, manufacturing, higher education, transport, telecommunication and financial services located in Europe (Van Der Lippe and Lippényi, 2020).
+
+Negative relationship between worker productivity and team dynamics as team coordination and cooperation cannot always be ensured in remote or home-based settings
+
+In the context of Pakistan, Hasan, Rehman, and Zhang (2021) identify that switching from physical to WfH arrangement is easier for primary and secondary school teachers and clerical staff but difficult for agricultural producers, dairy producers, and mixed-crop growers. Regional divides with urban areas relatively better equipped for online working than rural areas were also highlighted in the study. Urbanized provinces like Sindh and Punjab were found out to have more jobs which can be done online as compared to Balochistan and Khyber Pakhtunkhwa.
+
+Key Takeaways from empirical research is tabulated in the table below.
+
+Table 2: Key Takeaways from Empirical Research
+
+Team-centric versus Individualized Work
+
+Publication rates during coronavirus increased, people had more time to read, synthesize and analyze data, and hence they could publish more. Contrarily, the work that required more collaborative efforts and teamwork needed physical presence (Anakpo, Nqwayibana and Mishi, 2023).
+
+The nature of work (individualized or collective) has an important role in detailing a worker’s performance and productivity. Worker productivity and hence effectiveness of WfH policies are contingent on workplace culture, domestic responsibilities, nature of work, access to economic and informational resources, and the social ecosystem.
+
+Disproportionate Burden of Work
+
+Women, who have disproportionate burden of domestic responsibilities than men at households, or women who have children at home to take care of or elderly to look after, find it difficult to manage work life balance. The productivity as well as job satisfaction of these women is documented to be low while WfH.
+
+During coronavirus more women were laid off from work, and their working hours were shortened by the employers because they were not readily available for virtual meetings due to additional domestic responsibilities. Bifurcating a female’s identity as a professional worker who can WfH from her domesticated identity saddled by the constraints of domestic care economy could not be outlined in the predominantly larger number of organizations across the globe.
+
+Digital Literacy and Technological Adaptability
+
+Quick adaptation to evolving work configuration is also positively linked to worker productivity. Those who were quick to adapt, learn telecommuting, and adjust to effective operations from home were able to complete their intended tasks efficiently than those who were reticent to adapt.
+
+Lack of IT training, internet inaccessibility, technological incapacitation, and problems in the indiscriminate provision of technological facilities across all the cadres, divisions, establishments, and tiers of organizational organograms have also been alluded as instrumental reasons for lower worker outcome, productivity, and efficiency.
+
+Nature of Work Matters
+
+WfH can be an effective arrangement for some types of work, not for all.
+
+For instance, work requiring onsite visitation to industries, manufacturing plants, and client meetings for real estate purchase-sale, cannot be relegated within the walls of domesticity. So, identifying for which sector and nature of work in different sectors, WfH can be developed, implemented and monitored is crucial.
+
+5. Public Sector and WfH in Pakistan
+
+In order to understand the WfH dynamics in Pakistan, especially in the public sector, twelve interviews with the public sector officials (ministries, regulatory authorities, universities, and personnel who have transitioned from the public to private sector) were conducted. Two respondents from the development sector were also interviewed. 7 interviews were conducted face-to-face and the remaining (5) were conducted online on WhatsApp and Zoom. The locale of the current research was Islamabad; therefore, results cannot be generalized to other geographical locales of Pakistan. The themes (detailed below), however, may be reflective of the issues prevalent across all provinces.
+
+Staffing Distribution : The staff working immediately under the Heads (such as Federal Ministers) cannot avail WfH because of the official engagements and meetings which require face-to-face communication. It was also narrated that, in addition to, onsite meetings, WhatsApp has turned into a new office in the public sector where formal communication about official approvals, file updates, and online meetings are communicated in the online format.
+
+E-Office : In its initial days of operability, E-Office was functional within the premises of public sector offices. With the announcement of WfH in March 2026, the staff of grade 17 and above have been issued official devices with in-built security features which can easily be connected with the gadgets used for online official tasks. In this way, WfH policy for 17 and 17+ staff is being conveniently maintained to save fuel consumption. For support staff (including under 17 grade), a clear demarcation of essential and non-essential work needs to be ascertained so that the latter’s work can be considered under WfH policy and clear SoPs for the same can be developed.
+
+Fuel Saving : About fuel saving, varied views were reported. Some respondents stated that WfH was declared right before Eid-ul-Fitr and during Spring holidays, making increased fuel consumption inevitable. It was also reported that ensuring that people who are working from home are not consuming fuel, at least during the committed official hours and are available for any official task is also critical. When asked if their fuel consumption has reduced, one respondent stated that it has because of the change in the routine, and a conscious effort taken to both be available online during WfH days and to reduce driving. Another respondent stated that fuel is less consumed but other costs such as those incurred on internet, electricity, educational devices, and food have gone up.
+
+More granular and focused responses and themes from interviews are tabulated as follows:
+
+Themes Emerged from Interview Data
+
+Nature of Work in the Public Sector
+
+“There are two types of public sector organizations. One is Secretariat-based such as my organization, Economic Affairs Division. The second are field-based organizations; the commissioner’s office, for instance. So, the work from home for Secretariat is very effective since the operability of E-Office in 2025. Due to E-Office, regular daak is no more accepted and allowed. So, it has made life easier for me as I can work even at night by checking any correspondence on E-Office. but for field offices like the commissioner’s office or CDA, WfH is actually not possible because site-visitation for upgradation or maintenance is needed.”
+
+(Respondent from Secretariat, Economic Affairs Division)
+
+“Public sector has more public dealing than the private sector and if WfH is functional in the former, people may have to visit public offices more and the fuel saving which we were anticipating earlier may not be realized. So, I am not in favor of going into WfH mode.”
+
+(Development Sector Respondent 1)
+
+“For certain assignments this can work. But given work behaviors and ethics in public sector it has not proven to be a good measure altogether. We should have tried alternate models rather than slashing linearly. I think making sure all staff of a particular unit attend office for 4 days at least.”
+
+(Ministry of Finance Respondent)
+
+Has Fuel Cost Reduced?
+
+“It has led to reduction in cost of commutation for staff at personal level but for offices almost all utilities remain the same, fuel cost has also not gone down.”
+
+(Ministry of Finance Respondent)
+
+“The fuel cost has definitely reduced. Now if I visit office 4 days a week instead of 5 days, my per week fuel cost has reduced by 2500 rupees and per month cost has reduced to 10,000 rupees. As to what extent this cost has reduced on a city level, a survey-based study can be designed and questionnaires can be disseminated to all federal offices and establishments. One data point for such information doesn’t exist as of now.”
+
+(University Respondent)
+
+“Fuel cost reduces under WfH. I as a manager keep annual estimate of per employee cost of commute to and from office, which helps in gauging fuel cost. Since in my organization we WfH four days a week and one day from office. So, before fuel price inflated, our quarterly surveys revealed that for each employee the saving was 8000 rupees per month. I am sure this number would increase in the next quarterly survey. If a small organization like mine is saving, consider how much government which is the biggest recruiter of human resource in the country can save!”
+
+(Development Sector Respondent 2)
+
+Ineffectiveness due to Hierarchical Power in the Public Sector
+
+“In public sector, a senior officer will not be able to exercise power over his subordinates if WfH is institutionalized. Commissioners, Deputy Commissioners, Secretaries, Deputy and Joint Secretaries, or even Registrars or Controller of Examination Officers are so used to yes-man mentality which cannot be practiced in the WfH settings. Their idea of work is to command and their subordinates to comply. So, this question is not economic, it is an anthropological question. Our society is neither prepared to work in silos, nor do we respect each other enough to work collaboratively in teams.”
+
+(University Respondent)
+
+“Familiarization of the entire team with 2-3 basic equipment and technology is all what it takes to run efficient WfH model. By team, I mean, from the clerk to decision maker, either a minister, parliamentary secretary, or a DG, must have knowledge of using WhatsApp on the desktop, sending and receiving documents on emails, and operating virtual meeting interfaces such as Google Meet, MS Teams, or Zoom. What I have observed in senior government officials is the reticence. A senior legislator who visited my office a few weeks ago asked, ‘Do you use your computer or have you hired someone to operate it for you?’ WfH cannot work if one cannot use MS Word, cannot send or receive an email, cannot operate desktop or virtual meeting interfaces. And file rotation in government offices (signing a file, marking to another officer, maneuvering to another office for further action) … is very reductant. I often send an email to concerned governmental official. In response, I receive a message on WhatsApp from secretary to send a hard file to rotate to concerned section. I don’t understand this obsession with file rotation in government offices, when extremely confidential information is communicated through emails on a global level. Email’s digital and temporal stamp is so strong that it cannot be challenged in any court. The inherent reluctance is not just an incapacitation issue; it is also behavioral.”
+
+(Development Sector Respondent 2)
+
+“Office-related tasks can be performed from home but it cannot be effective in organizations where performance evaluation and monitoring policies are not in place. During COVID-19, our organization out-performed as compared to other public sector offices but for many of us the ‘Work’ vanished and ‘from Home’ remained. Many a times, I used to call staff during official hours and the reply I received was, ‘I am in the bazaar, I will get back to you.’ So, they didn’t consider it as an office time. Even their families were not respecting it as their work time. The ones who performed well during COVID-19 carried the same spirit post-pandemic too; their efficiency and productivity improved. Those who don’t perform, are financial liabilities (salaries, institutional cost incurred on transport routes and the office resources they exploit). At the end, it comes down to work ethics, professionalism, and nature of job.”
+
+(Former Public Sector Official)

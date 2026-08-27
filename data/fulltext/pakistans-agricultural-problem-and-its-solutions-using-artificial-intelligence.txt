@@ -1,0 +1,127 @@
+Introduction
+
+“Pakistan is no longer an agricultural country”. This is a controversial statement but if we consider the facts, we cannot deny the obvious. At the time of independence, the contribution of agriculture to the GDP amounted to 61% and today it contributes to 24%. The overall employment produced by agriculture is around 37.4% but it also includes low-skilled and least productive types of employment. Moreover, the three land reforms i.e. 1958, 1972, and 1977 have failed to include small farm owners and increase agricultural productivity. (Spielman, Malik, Dorosh, Ahmed,2016). Why Pakistan is no longer an agricultural country because the agriculture of Pakistan has been faced with multiple complex problems. These problems include:
+
+Lack of efficient utilization of resources in agriculture:
+
+The critical problem with agricultural resources is the precarious tradeoff between natural resources versus productivity. The relationship between land, water, and wastage has a huge impact on the overall growth of agriculture. As a result, since the 1980s the contribution of agricultural growth has stagnated to 2.5%. And it never crossed this threshold because the land and water along with climatic changes, need careful and balanced policy of resource utilization. For example, Spielmann, et. al, found that the increase in the total factor productivity for the years 1990 to 2012 in Pakistani agriculture is due to the incremental utilization of inputs rather than technological advancement. Similarly, the current irrigation system is highly inefficient with a water efficiency rate of 39%, because of failing infrastructure; along with 98% dependence on agriculture in the single Indus basin river system. Moreover, the general water productivity is quite low considering Pakistan ranked lowest among eight countries for water withdrawal (Maqbool, 2022).
+
+Misguided Government Policies:
+
+The second issue is misguided government policies. To understand the policies of agriculture growth and trade needs context. For example, from 1950 to the 1960s the agriculture trade policy was highly biased because the ruling elite compromised agricultural growth against industrialization. (Zaidi, 2015). After the Green Revolution, agriculture fell into the web of ineffective subsidies. The example of fertilizer-based subsidies that have reduced the cost of inputs in agriculture rather than output efficiency. Another example is the import policy of agriculture on account of food security that has historically damaged the prices for the poor framers in Pakistan. Lastly, substantial lack of research and development expenditure in agriculture since the 1980s (Spielmann. et, all. 2017).
+
+Innate Inequality in the Agriculture Sector:
+
+The third major problem is the persistent innate inequality in the agriculture sector. For example, the Green Revolution’s success in impressive crop production is because of two reasons. First, tube wells, and second Tractorization. However, those who had large lands and spare capital were able to afford it. This led to the creation of landless peasants that were pushed into the tenant labor relationship. Moreover, the land assumption decreased the number of middle-class farmers that held the lands between 7.5 to 25 acres. As a result, those who have immense land and those who have not enough land increased significantly. As a result, the accumulated wealth increased disproportionality as well. (Hussain, 2012.) This phenomenon created inequal agriculture where the majority cannot afford investment in new technology. In addition to that the lack of credit availability for the small farmers is another reason that despite having re-distribution of land due to land reforms, the small farmers are unable to deploy high technology and increase productivity. (Zaidi, 2015).
+
+Linear Growth Model of the Agriculture of Pakistan:
+
+The fourth problem is the linear growth model of production in agriculture. The linear model is defined as the utilization of inputs to generate the outputs for a single time only. The linear growth of agriculture is evident in the fact the increase in productivity is because of the increase in inputs. Moreover, there is no concept of regenerative agriculture or circular utilization of resources in the agricultural sector of Pakistan. (CITG, 2017).
+
+How can AI help in reducing the key issues of agriculture in Pakistan?
+
+The concept of Artificial intelligence is still in its infancy. However, many scholars believe it to be a helping tool that will augment human skills and knowledge. Considering the multifaceted nature of Artificial intelligence, it is interesting to explore how it can help Pakistan solve its agricultural problems. The key solutions to help the agriculture sector in Pakistan are as follows:
+
+Circular Agricultural Economy Model :
+
+The circular model of agriculture deals with systematic change where the producer strategizes for the maximum utilization of the end products, along with the re-utilization of the end product as input for the new production. The aspect of artificial intelligence that can aid in the transformation is dependent on the development of circular economic systems. Currently, Pakistan produces 650 million tons of agricultural waste from just 04 major crops i.e. Rice, Wheat, Sugarcane, and Maize. Whereas, Pakistan has the potential to fulfill 30% of its electricity needs via thermal electricity by supplementing the oil with solid agricultural waste. Additionally, the biomass generated by using agricultural waste as a powerhouse can add 76% more electricity to the power grid (Saeed, et.al, 2015). Hence, agriculture in Pakistan seriously needs to be transformed into a circular economy where the agricultural waste can be reused, by the other industry as key inputs. Artificial intelligence accelerates this process by keeping track of the produced waste data, helps in running simulations to generate efficiency models, and much more.
+
+Regenerative Agriculture and AI :
+
+There are deliberate efforts to shift Pakistan’s agriculture to organic agriculture. Currently, only 6% of the total agriculture is organic in Pakistan. Regenerative Production Landscape Collaborative Pakistan is the latest project initiated by the World Wildlife Fund in Punjab and Balochistan to shift agriculture towards regenerative agriculture. Hence there is substantial space for regenerative agriculture in Pakistan. Regenerative agriculture argues that the careful usage of soil, an understanding of biodiversity, and a sustainable ecosystem can add to the yield production. According to the estimate of FAO, three-fourths of the soil in Pakistan is degraded (Ebrahim & Bhardwaj, 2024). The utilization of Artificial intelligence by deploying farm sensory monitoring can directly decrease chemical utilization and increase soil’s natural biodiversity.
+
+Precise Farming, AI, and Agriculture :
+
+The second solution of agriculture transformation in Pakistan deals with the adoption of precise farming using AI. The concept of precise farming is using inputs in agriculture exactly as needed. For example, if the farmers know how much fertilizer has been absorbed in the soil, they will not use more fertilizer based on intuition. Artificial intelligence added into the machinery to accurately measure the soil fertility, PH level, and weather conditions can help adopt precise framing. (Waqas, Wasim, Ashraf and Jatoi, 2023). Similarly, the research done by the authors Hossain and Majharul (2022) found that adopting AI in precise farming in Bangladesh increased crop yield by 22.5% more than that of imprecise farming. Hence, Pakistan can also increase its yield crop production by adopting Artificial intelligence, because the issues Bangladesh and Pakistan’s agricultural issues are quite identical.
+
+Data-driven Decision Making :
+
+The third way in which agriculture in Pakistan can be modernized with the help of AI is the integration of data-driven decision-making. It is profoundly important for agriculture as according to Talaviya et al.2024, the average farm will generate 4.1 million data points by adopting artificial intelligence methods by 2050. Data-driven decision-making via AI can benefit agriculture in two ways. Firstly, it will help in the successful utilization of Precision framing (Linaza, et, al., 2021). Secondly, it has immense potential to help the government to make effective policies. The three key areas where agriculture, artificial intelligence, and government policy overlap, are knowledge sharing with farmers, developing better supply chain mechanisms, and facilitation of credit and risk management of crops and livestock. (Beriya & Saroja, 2019). Moreover, data-driven decision-making will create more productive jobs as the data intermediaries will be required to connect farmers with the government. (Maru, et, al. 2018).
+
+Agro-credit facility using AI Simulations:
+
+Another important solution to modernize the agriculture of Pakistan is to deal with inequality by extending the agro-credit facility to small and medium-level farmers. Artificial Intelligence can provide information on the crops’ yield, water stress level, and possibility of drought or flood that can damage the crops. Such data helps the bankers understand the full extent of agriculture risk, optimize loan reimbursement, and ensure safer credit ratings for the farmers. A practical example is available in Bengal in India where such AI utilization is helping bankers and farming entrepreneurs facilitate agriculture finance. (Balaji,2020).
+
+Economic Impact of AI on Agriculture :
+
+AI can also have an immense economic impact as summarized (see Table 1.1)
+
+Serial No.
+Author Names
+Key Research Findings
+Economic Impact
+Year
+
+1
+Saeed, et.al,
+A circular economy can provide cheap inputs for other industries.
+76% increase in the power grid using biomass in Pakistan.
+2015
+
+4
+Maru, et. al.,
+AI and data-driven decision-making in agriculture will lead to creating value-added jobs.
+Development of jobs in the sector of Agriculture robotics, chatbots for farmers, and others.
+2018
+
+5.
+Majid.
+Climate change policy and usage of clean technology for agricultural production.
+USD 47 Million pledged for adopting clean technology for climate-resilient agriculture in Pakistan.
+2019
+
+2
+Hossain and Majharul.
+Precise Farming and Agriculture in Bangladesh
+A 22.5% increase in crop yield is realistically possible.
+2022
+
+3
+Sharma & Sharma.
+The Applications of Artificial intelligence can aid in agriculture in multiple ways such as intelligent sensing, forecasting, and effective monitoring
+$9 billion addition in farm profits and 46% reduction in carbon foot printing in India
+2023
+
+(Table 1.1)
+
+Conclusion
+
+The status of Pakistan as an agricultural country is precarious considering the multifaceted problems it has been currently facing. The lack of efficient utilization of water land and fertilizer inputs is affecting the TFP of the sector. Similarly, the misguided policies for agriculture by the government are generating a fiscal burden rather than improving the sector. Moreover, the innate functional inequality and linear model of growth have stunted the overall growth of the sector. Artificial intelligence might not be the silver bullet for all of the agriculture problems, but it is a good start. AI can help in the innovation of agriculture by aiding in circular economy transformation and the adoption of precise framing. Similarly, the data driven decision making using AI can be helpful not only in the adoption of agriculture but also for government decision-making. Besides the obstinate issue of inequality can be reduced using AI for farmer credit and effective risk assessment.
+
+Artificial intelligence is the need of the hour as Dr Kauser Abdulla Malik, emphasized that “Integration of Artificial intelligence in agriculture is not just an option but it is a strategic imperative to address these challenges head-on.” Hence, modernization of agriculture of Pakistan with AI is not for the sake of introspection but for survival, if Pakistan wants to feed its population and earn economic value in the near future.
+
+References
+
+., A. B., & Saroja, V. N. (2019). Data Driven Decision-Making for Smart Agriculture. Centre for Sustainable Development , Earth Institue .
+
+Balaji, S. (2020, July 25). AI is enabling improved agri financing options for farmers. Retrieved from Agri-Finance, India : https://indiaai.gov.in/article/ai-is-enabling-improved-agri-financing-options-for-farmers
+
+CIAT; World Bank . (2017). Climate-Smart Agriculture in Pakistan. CSA Country Profiles for Asia Series. Washington DC : International Center for Tropical Agriculture and world Bank .
+
+David j. Spielman, Sohail J malik, Paul Dorosh , Nuzhat Ahmed . (2016). Agriculture and the rurla economy in Pkaitsna : Issues , Outlooks, and Policy Priorites . Philadelphia : Univeristy of Pennsylvania Press .
+
+Ebrahim, Z. T., & Bhardwaj, S. (2024, April 05). Why Framers in India and Pakistan are shifting to regenerative farming. Retrieved from Dawn -Prism: https://www.dawn.com/news/1824460
+
+Hossain, Md & Islam, Majharul. (2022). Use of artificial intelligence for precision agriculture in Bangladesh. 81- 96 .
+
+Linaza, M.T.; Posada, J.; Bund, J.; Eisert, P.; Quartulli, M.; Döllner, J.; Pagani, A.; G. Olaizola, I.; Barriguinha, A.; Moysiadis, T. (2021). Data-Driven Artificial Intelligence Applications for Sustainable Precision Agriculture. Agronmy . doi:https://doi.org/10.3390/agronomy11061227
+
+Majid, A. (2019, September 11). How cleantech can help power Pakistan’s green revolution. Retrieved from World Economic Forum : https://www.weforum.org/agenda/2019/09/how-cleantech-can-help-power-pakistans-green-revolution/
+
+Maqbool, N. (2022). Water Crisis in Pakistan: Manifestation, Causes and the Way Forward. Knowledge Brief, Rasta Knowledge Brief . Retrieved from https://pide.org.pk/research/water-crisis-in-pakistan-manifestation-causes-and-the-way-forward/
+
+Maru, A., Berne,, D., & Beer, J. (2018). Digital and Data-Driven Agriculture:Harnessing the Power of Data for Smallholders. e Global Forum on Agricultural Research and Innovation (GFAR).
+
+Muhammad Islam, Syed Ijaz Hussain Shah, Syeda Amna Wajahat, Muhammad Fahim Bhatti, and Noor Ul Ain . (2023). Analyzing the Impact of Subsectors and Population Growth on Agricultural Sector in Pakistan. Journal of Statistics, Computing and Interdisciplinary Research .
+
+Muhammad Mohsin Waqas, Muhammad Wasim, Muhammad Ashraf & Wajid Nasim Jatoi . (2023). Engineering Principles of Precision Farming: Pathway for the Developing Countries to Ensure Food Security. Climate change imapct on Agriculture .
+
+Saeed, MA, Irshad, A, Sattar, H et al. (2015). Agricultural Waste Biomass Energy Potential In Pakistan. . International Conference held in Shanghai, P.R. China. International Bioenergy (Shanghai) Exhibition and Asian Bioenergy Conference, . Shanghai, P.R. China.
+
+Sharma, P., & Sharma, D. (2023). Economic impact of artificial intelligence in the field. International Journal of Horticulture and Food Science , 29-34.
+
+Tanha Talaviya, Dhara Shah, Nivedita Patel, Hiteshri Yagnik, Manan Shah. (2024). Implementation of artificial intelligence in agriculture for optimisation of irrigation and application of pesticides and herbicides,. Artficical Intelligence in Agriculture , 58-73.
+
+The green revolution. (2012). In A. Hussain, The Oxford Companion to Pakistani History. Oxford University Press.
+
+Zaidi, S. A. (2015). Issues in Pakistan’s Economy , Third edition . Karachi : Oxford University Press.

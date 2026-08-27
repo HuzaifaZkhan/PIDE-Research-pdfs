@@ -1,0 +1,65 @@
+ABOUT THE SPEAKER
+
+Dr. Naeem Uz Zafar is the chief statistician of the Pakistan Bureau of Statistics. He did his Doctorate in economics from Northern Illinois University, USA, in 2010. Prior to that, he did his MBA from the Institute of Business Administration, Karachi. He served in diverse fields like public policy, development management, university teaching, economic research, power generation, and manufacturing.
+
+AGENDA OF WEBINAR
+
+The main agenda of the seminar was to describe and discuss
+
+Purpose of the 2023 census
+
+Procedure and Methodology of the 2023 census
+
+How does the digital census enhance the capabilities of the Pakistan Bureau of Statistics?
+
+How the quality, credibility, and transparency of the census would be ensured?
+
+HISTORY OF CENSUS TAKING
+
+In Pakistan’s history, six censuses have been undertaken in 1951, 1961, 1972, 1981, and 1998, and the last in 2017. All these censuses were conducted through traditional paper-based methods. But the result of the 2017 census was not approved due to some reasons, and CCI directed that the process of the new census should start as early as possible according to international best practices by using the latest technology.
+
+ROAD MAP FOR RECOMMENDATIONS
+
+To make the latest digital system, the expert team was formed by the government of Pakistan. They did a forensic audit to identify issues and study UN principles. Two methods are basically used in the census, de-jure and de-facto, respectively. And this census will be on the de-jure methodology.
+
+TRAINING AND METHODOLOGY
+
+After getting a complete sampling frame, different enumerators were hired from different disciplines and trained by the officials of the Pakistan Bureau of Statistics as this is digital senses, so digital devices/ tablets will be used. The five main organizations which are involved are shown in the table:
+
+MODES OF DATA COLLECTION
+
+Multi-mode Data collection methods are used in the senses
+
+Self-enumeration (phase I)
+
+At the first step user login to their account, and a unique QR code is assigned to him/her.
+
+In the second stage field enumerator will physically visit the household and verify the QR.
+
+Tablet-based (phase II)
+
+In this step, data will be collected electronically through tablets. (Both online and offline mode)
+
+Paper-based Enumeration
+
+In remote and sensitive areas paper-based method of Data collection will be used.
+
+The post-enumeration survey is conducted through the latest technique, i.e., CATI, for Resource Management.
+
+QUESTIONNAIRE
+
+The questionnaire of the census contains approximately 40 questions.
+
+Two questionnaires may be designed.
+
+First, household listing from 4 to 6 question
+
+Second, the main Census from
+
+10 to 12 questions (age, gender, religion, ethnicity, nationality, literacy, education level, disability, and migration)
+
+Housing questions (i.e., number of rooms, electricity, water, gas, toilet, etc.)
+
+CONCLUSION
+
+The Digital Census of 2023 will be conducted by using advanced technology. Pakistan Bureau of Statistics made different checks and balances to ensure the transparency and reliability of results, including data visualization, Supervision indicator and early trend analysis, historical data comparison, GIS-based field monitoring, public data dissemination, customized visualization, and reporting, etc. These digital tools will enhance the capability of the Pakistan bureau of statistics and provide more reliable results.

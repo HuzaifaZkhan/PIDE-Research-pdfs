@@ -1,0 +1,47 @@
+Pakistan’s startup ecosystem is currently facing a slowdown due to drying funding sources, resulting in the closure of multiple startups. This situation is aligned with the subdued global fundraising environment, as high-interest rates have shifted investor focus to alternative asset classes like debt-backed assets. The ‘crowding out effect’ was a significant topic of conversation within the ecosystem throughout 2023. This phenomenon, driven by the US interest rates remaining at 5.5%, has led to what some refer to as a venture winter.
+
+The country experienced a substantial influx of funds in 2021 and 2022, as global investors recognised Pakistan’s potential and took advantage of affordable financing to invest in frontier markets.
+
+Global venture investors, newly entering the market with ample funds, opted for a less robust due diligence process before investing in Pakistani startups. This approach led to local startups being valued based on metrics that potentially overstated their worth. However, in 2023, the funds dwindled significantly, leading to a sharp decline in the amounts raised, returning to levels seen pre-2021. Subsequently, the valuations eventually reverted to pre-funding frenzy levels.
+
+The main culprit for this is the persistent macro instability over the past two years coupled with the highly unstable business models of many local startups.
+
+Flaky Macro Conditions
+
+Economic challenges have dominated the landscape over the past 24 months, with global conflicts, domestic political unrest, and natural disasters preventing the economy’s soft landing. As a result, rising interest rates, rupee devaluation, and high inflation have diminished the country’s appeal as an investment hub. Additionally, the dollar liquidity crisis and concerns about profit repatriation have discouraged foreign venture capital (VC) from supporting startups in the ecosystem due to heightened country risk.
+
+The impact of the existing macroeconomic climate on venture investors is exemplified by the negative fluctuations in the value of the rupee. Global VCs investing in Pakistan typically denominate their investments in dollars. In contrast, local startups are initially valued in rupee terms, as their revenues are predominantly in the local currency. Consequently, with each round of devaluation, investors are compelled to write down the dollar value of their investments in Pakistani startups.
+
+Unsustainable Business Models
+
+Lack of sufficient stress testing by VCs while investing, as explained earlier, led to a flurry of startups with highly unsustainable business models. The unit economics of businesses, particularly in segments like quick commerce and e-commerce, were destined for failure. In many instances, the cost of customer acquisition exceeded the lifetime value of the customers, resulting in significant cash burn over the past few years. Once the seemingly endless supply of funds dried up, these startups struggled to sustain their operations.
+
+The idea behind deploying such models in the first place was that the startups would be able to amass a large number of loyal customers over a specific period which in turn would be willing to pay a premium once the prices were gradually increased to end the loss-making cycle.
+
+However, what local entrepreneurs learned the hard way was that many solutions were addressing issues that the majority of the population did not perceive as a problem to begin with. Moreover, the price-sensitive population faced challenges from economic pressures, causing consumers to switch when startups increased prices.
+
+Thus, even after significant investments in building teams, offering discounts, waiving delivery fees, and providing other incentives, the unit economics proved unsustainable. Consequently, scaling operations exacerbated losses.
+
+Moving Towards a Solution
+
+The recent news of numerous startups shutting down and others facing challenges may have disheartened many individuals invested in the sector. However, there are already explored solutions available to navigate this crisis.
+
+At the funding end, raising local capital through rupee-denominated funds can de-risk investments and potentially reignite the startup funding cycle. A prime example of this is the recently launched Pakistan Startup Fund (PSF) by the Ministry of IT. The Rs. 2 billion fund aims to address the funding gap faced by Pakistani startups seeking their first round of external investment. Targeting companies at the crucial stage of securing venture capital (VC) funding, the PSF acts as a ‘last-cheque’ investor. This means the fund can offer grant funding to fill the remaining gap in a funding round once a startup has secured a commitment from a VC firm.
+
+These grants can range from 10% to 30% of the total VC investment, providing startups with additional capital to reach their fundraising goals and fuel their growth. Additionally, the PSF aims to reduce risk for international VCs by partially funding these ventures, potentially encouraging more investment in the Pakistani startup ecosystem.
+
+Though a promising initiative, the fund is likely to face some inherent limitations including a history of lack of continuity when it comes to government-backed programs. Further, the involvement of VCs may hinder progress, as there is a limited number of active VCs in Pakistan. Moreover, their cautious approach to investing has led to a restricted number of funding rounds. This situation is compounded by the difficulties local venture capitalists face in raising funds and the reduced activity of foreign investors.
+
+Another potential solution to alleviate fundraising challenges is through merger and acquisition (M&A) activities. These offer dual benefits. Firstly, for startups that have depleted their resources, being acquired by a larger competitor or another entity can serve as a lifeline. For the acquirers, it presents an opportune moment to secure a favorable deal, as startup valuations are currently low and expected to bounce back once the macroeconomic conditions stabilise.
+
+Furthermore, consolidation offers an opportunity for various sectors to reallocate their resources, especially in crowded sectors like fintech, where numerous players are competing for market share and impacting each other’s margins. Acquisitions can lead to synergies and improved margins.
+
+What Lies Ahead
+
+As we move forward, startups and investors alike are prioritising sustainable business models that are asset-light and avoid operational burdens. Profitability has become the primary focus, shifting away from the prior ‘growth at all costs’ mindset and orientation. Investors are now keen on assessing Pakistani startups for their potential regional scalability.
+
+Despite the challenges, Pakistan’s startup ecosystem continues to show promise. The recalibration of seed round valuations to the 2019-2020 standards indicates a more sustainable funding environment. This valuation allows founders to raise adequate funds with minimal dilution, providing them with sufficient runway to attain product-market fit.
+
+The ongoing transition towards digitisation in the country is a major driving force, propelling businesses towards more efficient and economically viable models. Fintech, in particular, is expected to thrive as a less capital-intensive sector, presenting significant opportunities for growth in the Pakistani startup landscape.
+
+The author is the Research and Insights Lead at Invest2Innovate (i2i) and the Consulting Editor at Profit Magazine. He can be found on Twitter as @AhtasamAhmad and reached via email at ahtasamahmad@yahoo.com.

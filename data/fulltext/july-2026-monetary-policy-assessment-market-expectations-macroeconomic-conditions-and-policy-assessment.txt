@@ -1,0 +1,37 @@
+PIDE MONETARY POLICY TRACKER, Pre-MPC scorecard, risk dashboard and conditional forward guidance
+
+Executive Summary
+
+Pakistan’s monetary policy has entered a narrow corridor: inflation is easing, but not enough to declare victory; growth is recovering, but not strongly enough to absorb further tightening without cost. Against this balance, PIDE assesses that the policy rate should remain unchanged at 11.5 percent at the 27 July 2026 MPC meeting. The policy imperative is now neither to tighten reflexively nor to ease prematurely, but to preserve credibility while allowing the existing stance to work through the economy.
+
+Inflation dynamics reinforce this case for patience. Headline CPI eased to 11.1 percent in June, yet urban and rural core inflation remain elevated at 8.7 and 7.9 percent. Much of the recent inflation impulse has come from food, energy, transport and administered prices. Monetary policy cannot reverse these first-round price increases; its task is to prevent them from becoming embedded in expectations, wages and broader price-setting. The recent rebound in weekly SPI further cautions against assuming that disinflation is firmly entrenched.
+
+Market signals broadly support the status quo. Short-term Treasury-bill yields remain close to the policy rate and the overnight rate is aligned with the existing stance, while somewhat higher 6 and 12-month yields point to medium-term caution rather than an immediate case for either easing or further tightening. Meanwhile, economic recovery remains positive but uneven. GDP growth has strengthened, but recent large-scale manufacturing momentum remains soft, suggesting little evidence of demand-driven overheating. Further tightening would therefore impose additional costs on investment and activity without directly addressing administered-price shocks.
+
+External conditions have improved, creating greater, but not unlimited policy space. Stronger reserves, robust remittances and an orderly exchange rate have reduced immediate external pressures. However, the wide merchandise trade deficit, forthcoming external repayments and continued dependence on imported energy leave the economy exposed to renewed external shocks.
+
+The balance of risks therefore favors patience with a clear conditional path ahead. Easing should begin only when headline and core inflation show sustained moderation, inflation-expectation proxies improve, and exchange-rate, reserve and external-financing conditions remain stable. Conversely, persistent core inflation, broadening second-round effects or renewed energy and external pressures would justify maintaining the current stance.
+
+PIDE Policy Call: HOLD at 11.5 percent. The case for patience is stronger than the case for movement: hold now, ease only when disinflation is firmly anchored.
+
+PIDE DECISION FRAMEWORK: FIVE PILLARS OF THE POLICY CALL
+
+The recommendation is derived from a structured assessment of five policy pillars rather than from any single indicator. Each pillar is evaluated for the direction and strength of its signal, with the final stance reflecting the balance of inflation control, macroeconomic stability and output costs.
+
+MARKET EXPECTATIONS SUPPORT A STATUS QUO
+
+Treasury-bill yields are an important corroborating signal rather than a mechanical guide to the MPC decision. At the 22 July auction, the 1-month MTB yield remained below the 11.5 percent policy rate, and the 3-month yield was broadly aligned with it, indicating limited immediate pressure for a policy adjustment. However, the 6- and 12-month yields rose to 11.80 and 11.99 percent, respectively, signalling moderate caution over the medium-term inflation and liquidity outlook. Overall, the yield structure supports maintaining the policy rate at 11.5 percent, as short-term conditions do not warrant tightening, while the higher longer-tenor yields provide little justification for immediate easing.
+
+A broader reading of financial conditions is also required. The effective overnight rate of 11.54 percent on 16 July was closely aligned with the 11.5 percent policy rate, indicating that short-term liquidity conditions were consistent with the existing policy rate, dictating to keep policy rate unchanged. The yield curve was mildly upward sloping at the 22 July auction, with the 6 and 12-month cut-offs above the policy rate, pointing to medium-term caution rather than an immediate tightening signal. For subsequent editions, the tracker should report private-sector credit growth, weighted-average lending rates, monetary aggregates and the term spread alongside auction yields to assess the strength of monetary transmission.
+
+Table 1: Treasury Bills Yield
+
+Sources: SBP
+
+INFLATION RISKS REQUIRE CONTINUED VIGILANCE
+
+Headline CPI inflation eased to 11.1 percent year-on-year (YoY) in June, and prices declined by 0.3 percent month-on-month, but underlying pressure has not disappeared. Urban and rural NFNE core inflation stood at 8.7 percent and 7.9 percent. Food, housing-energy and transport contributed 8.33 percentage points to headline inflation. The latest acceleration originated largely in administered energy, transport and food prices, while persistent core measures point to second-round risks. At 11.5 percent, the policy rate is only 0.4 percentage point above current headline inflation but 2.8-3.6 percentage points above core (NFNE) inflation, a firmly positive real rate on the measure most relevant to underlying, persistent inflation. In the absence of a reliable survey-based measure of 12-month inflation expectations, an exact ex-ante real rate cannot be computed; on backward-looking measures, however, the stance is clearly restrictive relative to core. The evidence therefore supports a hold rather than either renewed tightening or immediate easing. Given the fragile global environment, it is too early to draw firm conclusions on inflation; however, if oil prices remain stable, inflation in Pakistan is expected to ease.
+
+Monetary policy should remain forward-looking rather than responding solely to current inflation outcomes. While recent indicators support maintaining the policy rate, the appropriate stance will depend on how inflation, inflation expectations, growth and external conditions evolve over the coming months. A sustained moderation in core inflation, continued stability in inflation expectations and external accounts, and further easing in underlying price pressures would strengthen the case for a gradual policy easing cycle. Conversely, renewed energy-price shocks, persistent core inflation, deterioration in inflation expectations or emerging external financing pressures would warrant maintaining the current stance for longer or, if sufficiently severe, reconsidering additional tightening. Against this balance of risks, maintaining the policy rate at 11.5 percent remains the most appropriate course at the July 2026 MPC meeting.
+
+Figure 1: Headline vs core Inflation & SBP Policy rate (YoY%)

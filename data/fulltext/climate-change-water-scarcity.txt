@@ -1,0 +1,59 @@
+Climate Change and Water Scarcity – Pakistan
+
+Ghulam Nabi
+
+The globe is experiencing an atmospheric change as the accumulations of greenhouse gases (GHGs), resultantly increasing global temperature and threatening biodiversity loss, disruption in biogeochemical cycles, food insecurity, water scarcity, migration, loss of forest cover and many others[1]. The main reason for climate change is the anthropogenic activities; increasing concentration of greenhouse gases (GHGs) in the atmosphere which interferes with the climate system. Figure – 1 shows the share of emissions that comes from different sectors, the anthropogenic activities produces 55.46 percent of total global emission (Xi-Liu and Qing-Xian, 2018) while 44.54 percent is produced naturally.[2]
+
+Figure 1: : Global GHG Emission
+
+Source: IPCC, 2014
+
+The growing global emission has put huge pressure on natural resources and their carrying capacity and results in degradation of natural resources, and increasing pollution. Water scarcity became as a great threat to human survival In a hypothetical world without water, human civilization cannot survive for more than 3 days. On a globe that is 71% covered with water, a mere 1% of the water remains at human’s disposal. Yet, surprisingly, water is one of the most taken for granted and undervalued resources on earth.
+
+Putting this in perspective, the water issue in Pakistan is also very intricate and multifaceted and listed among the water scare country. Pakistan once was a well-water endowed country with more than 5200 cubic meters per capita at the time of independence, now its availability is less than 1000 cubic meters per capita[3]. This decline is more than 400 percent, and there will be an absolute water scarcity in Pakistan[4] by 2025.
+
+Figure – 2 shows the relationship between water availability and population. Figure shows, Pakistan’s water availability per capita is constantly decreasing, with only 32 countries having less water per person than Pakistan whereas its population is ranked as the fifth most populous country in the world. While population growth had been one of the biggest drivers behind the stressed waterscape of Pakistan, rapid urbanization, climate change will put further pressure on our water resources and push the country towards absolute water scarcity. According to the Sustainable Development Goal (SDGs) 6.4.2 report (2017), Pakistan is categorized as an extremely high water stress country and the ratio of water supply is 102.5 percent[5]. Water stress is going to increase further due to growing demand, mainly coming from the rising population, rapid urbanization, the adverse impact of climate change, and the continuing degradation of water quality. This pressure will push the country very close to the threshold for absolute water scarcity.
+
+Figure 2 : Per Capita Water Availability and Population
+
+Source: Aqua Stats
+
+Pakistan’s surface and groundwater use is heavily dominated by agriculture – four major crops (wheat, rice, sugarcane, and cotton) consumed nearly 80% of the water to generate only 5 % of GDP[6]. On the other hand, Only 32 countries have less water per person than Pakistan; across these countries, the average per capita GDP is 10-folds than ours. The economic cost to Pakistan from poor water sanitation, floods, and droughts are conservatively estimated to be 4 % of GDP which is around $12-14 billion. The economic cost to Pakistan from poor water sanitation, floods, and droughts are conservatively estimated to be 4 % of GDP which is around $12-14 billion. Figure – 3 shows the sector-wise water consumption, the agriculture sector is consuming a huge quantity of water yearly, statistics show the agriculture sector has withdrawal around 94 percent of total water while the domestic sector and industrial sector consumed only 5.2 percent 0.76 percent respectively.
+
+Figure 3 : Water Consumption (Sector wise)
+
+Source: Aqua Stats
+
+Virtual water trade is another dimension that problematizes the country’s water strategy of investing its limited water on a handful of crops. Pakistan’s water productivity is less than $1 per cubic meter whereas the global water productivity is around $17. Table – 1 shows the water use efficiency for agriculture, industrial, and service sectors for Pakistan. The total water use efficiency is $51.6/cubic meter which indicates that the water use efficiency for the agriculture sector is very low while it consumes more than 90 percent of total withdrawal water. However, the trend shows a little improvement from $0.19/cubic meter to $0.30/ cubic meter water use efficiency from 2002 to 2017, this may be due to the transition toward the high-value crops. The industrial sector is also showing a significant improvement in water use efficiency from $6.01 to $34.35 per cubic meter. Likewise, the service sector shows a little improvement in water use efficiency.
+
+Table 1 : Water Use Efficiency, (U $/Cubic Meter)
+
+Source: Aqua Stats
+
+Along with many factors, unsustainable irrigation practice is the major reason for water scarcity in Pakistan while agriculture is already consuming a huge quantity of water. On top of this, Pakistan is also exporting water intense agricultural commodities like rice and imports low delta produces
+
+The limited water resource is just but one aspect whereas water governance is another side of the story. Water governance at multiple levels is in severe need of scholarly focus. Scholars certainly need to address some of the different governance issues such as low Abiana charges, assessment, and collection but also discuss issues involved in the participation of farmers and other marginal groups, equitable water distribution at tail reaches of the canals and watercourses, groundwater governance and electric subsidies, interprovincial conflicts and transboundary issues.
+
+Bringing in the economic perspective, water in Pakistan is a highly underpriced commodity and the cost of recovery is very poor which results in highly inefficient use of water. The prevailing cost recovery through water charges (Abiana) is able to meet only a fraction of the O&M cost of the irrigation infrastructure. The best way forward was for the country to develop and implement water governance protocols in the country and established a water economics and food nexus. The immediate efforts are required to build:
+
+There should be a water accounting, audit, and water accountability system. (A portal should be created for the water and glaciers, storage, rivers flow for data accessibility)
+
+Charge for the use and penalty of misuse of water.
+
+Improvement infrastructure and technology introduction.
+
+Major efforts are required in agriculture by using current institutions (WAPDA, IRSA, GCISE, PCRWR, PMD, and Universities) such as agriculture extension by employing scientific research and new knowledge to agricultural practices through farmer education.
+
+_______________________
+
+[1] National REDD+ Strategy and its Implementation Framework https://www.redd-pakistan.org/wp-content/uploads/2015/08/REDD-Strategy-V1.1.pdf
+
+[2] Natural Emission involve: Forest Fire, Ocean, Wetland, Permafrost, Volcano and Mud Volcano.
+
+[3] CEECC-PIDE: Activity Report (2019) on “Water and Sustainability in Pakistan” funded by The Asia Foundation.
+
+[4] Report: Pakistan Council of Research in Water Resource (PCRWR) and United Nations Development Program (UNDP)
+
+[5] FAO and UN-Water. 2018. Progress on level of water stress. Global baseline for SDG 6 Indicator 6.4.2: Level of water stress: freshwater withdrawal as a proportion of available freshwater resources.
+
+[6] Wheat, Ricem Sugarcane and Cotton produced 4.45 pecent of GDP Source: http://www.finance.gov.pk/survey/chapters_18/02-Agriculture.pdf

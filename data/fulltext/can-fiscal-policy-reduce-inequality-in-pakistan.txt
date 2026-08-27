@@ -1,0 +1,65 @@
+Introduction: The Budget’s Forgotten Promise
+
+Every year, Pakistan’s federal and provincial governments unveil budgets amid bold promises: infrastructure development, economic growth, job creation, and social relief. Despite these pledges, deep-rooted inequality persists, with millions trapped in poverty while wealth concentrates in the hands of a few.
+
+This paradox raises an urgent question: Is fiscal policy bridging the inequality gap or widening it?
+
+Fiscal policy has the potential to reduce inequality through two primary tools: taxation and public expenditure. Ideally, taxation ensures that those with higher incomes contribute more, while targeted spending supports vulnerable populations. However, in Pakistan, these tools often function in ways that reinforce rather than reduce disparities. This article evaluates how fiscal policy can be realigned to serve as a tool of social equity, drawing on global examples and the current policy framework in Pakistan.
+
+Around the World: Budgets That Work for the People
+
+Globally, fiscal policy has played a transformative role in reducing inequality. Countries like Brazil, South Africa, and Mexico have leveraged redistributive mechanisms to lift millions out of poverty.
+
+A progressive tax system charges higher rates to higher income brackets, thereby redistributing wealth more equitably. By contrast, regressive taxes, like sales tax or VAT, take a proportionally higher toll on the poor. South Africa and Brazil have both employed more progressive tax policies, contributing to modest reductions in income inequality.
+
+Direct income transfers, education subsidies, and health benefits are powerful equalizers. Brazil’s Bolsa Família program, for example, has been widely praised for reducing both poverty and inequality by providing conditional cash transfers to the poorest households. Similarly, Mexico’s Prospera program improved child health and school attendance among low-income families.
+
+Universal access to public healthcare, education, and housing can drastically reduce out-of-pocket expenses for poor households, enhancing their economic security. The key lies in effective targeting, delivery, and governance—areas in which Pakistan still lags behind.
+
+The Pakistani Puzzle: Policies Without People
+
+On paper, Pakistan has a range of redistributive policies, from progressive income tax brackets to cash transfer schemes. In practice, however, the implementation is flawed, and the fiscal framework disproportionately benefits wealthier groups.
+
+Though Pakistan’s income tax system is technically progressive, only 1% of the population pays direct taxes. The bulk of revenue comes from indirect taxes, such as sales tax and petroleum levies, which disproportionately impact low-income groups. In 2021, indirect taxes constituted nearly 60% of total federal revenue, exacerbating income inequality rather than mitigating it. In recent years, the country has initiated a shift from dependency on indirect taxes, lowering them to 51.3% (Figure 1). However, sales taxes, which are the main drivers of regressive taxation, remain a very significant part of the country’s tax revenue system.
+
+Figure 1: Pakistan’s Tax Revenue Composition 2023-24
+
+Source: Federal Board of Revenue [FBR], 2024
+
+Large segments of government spending are allocated to blanket fuel, electricity, and agriculture subsidies, often dominated by wealthier interest groups. Simultaneously, tax exemptions for powerful sectors (e.g., real estate and agriculture) erode the government’s capacity to fund pro-poor initiatives.
+
+While programs like the Benazir Income Support Programme (BISP) have made commendable strides in reaching the ultra-poor, their reach remains limited. BISP covers less than 10% of Pakistan’s population, and millions who qualify are excluded due to data gaps, lack of awareness, or bureaucratic hurdles.
+
+A significant share of development spending focuses on infrastructure projects in urban areas, with limited trickle-downn to rural or marginalized communities. This creates geographic disparities and sidelines regions most in need of public investment.
+
+These policies lack fruitful coherence and intent. Despite decades of attempts, Pakistan’s Gini Coefficient, a measure of statistical dispersion that represents income inequality within a nation, has remained stagnant at around 0.5 for the past 40 years (Figure 2)
+
+Figure 2: Gini Index of Pakistan 1980-2023
+
+Source: World Inequality Database, 2025
+
+The Big Blind Spot: Who Wins and Who Loses?
+
+A core issue with Pakistan’s fiscal management is the lack of robust policy analysis. Few efforts are made to evaluate who benefits from government spending or who bears the brunt of tax changes.
+
+Globally, microsimulation models are used to assess the distributional impact of fiscal policies. These models simulate how changes in taxes or transfers affect household incomes across income brackets. In Pakistan, however, institutional capacity to use such tools is minimal. Policymakers often rely on anecdotal evidence or political considerations rather than empirical data.
+
+This absence of analytical tools leads to suboptimal or even harmful policy decisions. For example, untargeted fuel subsidies often benefit higher-income hhouseholds, while the poorest 20% receive minimal relief. Conversely, spending cuts or tax increases, often part of IMF stabilization programs, tend to hurt the poor the most if not accompanied by compensatory social protection.
+
+Without evidence-based policymaking, fiscal decisions can entrench inequality instead of correcting it.
+
+What Needs to Change
+
+To turn fiscal policy into a genuine force for equity, Pakistan must undergo structural and institutional reform. Below are key recommendations grounded in the research:
+
+Budgets must be evaluated not only for their impact on growth but for how they affect income distribution. Equity impact assessments should become a standard part of the policy design process; Reduce reliance on indirect taxes and strengthen direct taxation. Property taxes, capital gains taxes, and wealth taxes should be prioritized, while closing loopholes and eliminating exemptions for the powerful. Expand programs like BISP while integrating them with broader social registries. Use digital technologies and real-time data to better identify and serve vulnerable populations. Universal Basic Income pilots could also bee explored in extremely poor districts; Redirect development spending toward rural health, education, and infrastructure to reduce regional inequalities. This would also help mitigate urban migration and reduce pressure on urban services. Most importantly, the Planning Commission must engage citizens in the budgeting process through open budget portals and consultations. This can increase accountability and align spending with public needs. There is no shortage of academic research evaluating the impact of fiscal policy in Pakistan, it is time to acknowledge these efforts by making smart, evidence-based policy decisions.
+
+Conclusion: A Budget That Works for Everyone
+
+Pakistan faces a pivotal fiscal moment. Continuing with the current trajectory, where public finances often reinforce elite privilege, risks further polarizing society. Alternatively, a recalibrated approach that prioritizes fairness, evidence, and inclusion can turn the budget into a tool for transformative change.
+
+Fiscal policy is more than just economics. It is a moral choice—a reflection of what kind of society we aspire to build. If Pakistan hopes to become more equitable, resilient, and humane, the journey must begin with how we raise and spend our public resources.
+
+The budget is not just a technical document. It is a reflection of our values. Let it reflect fairness.
+
+Ms. Eisha Jawad Khan is a M.Phil. Scholar at the Pakistan Institute of Development Economics

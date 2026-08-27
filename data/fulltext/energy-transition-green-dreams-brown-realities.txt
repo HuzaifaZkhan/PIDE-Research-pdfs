@@ -1,0 +1,51 @@
+The world energy landscape is transitioning from fossil fuels to renewables to address energy and environmental challenges.
+
+The 2021 energy crisis triggered by the Russian-Ukraine war has accelerated this transition. Developments in the world energy market have disrupted Pakistan’s energy market too. Since March 2022, imported coal and gas prices have doubled in Pakistan. Due to this, electricity costs and load shedding are rising, fueling Pakistan’s existing economic and social woes.
+
+Pakistan is endowed with huge renewable energy resources waiting to be harvested. The potential for solar, wind, hydro, biomass, waste to energy, and geothermal is 2,900,000MW, 340,000MW, 53100MW, 5000MW, 1000MW and 1000MW, respectively. Despite this tremendous indigenous potential, Pakistan heavily relies on imported fossil fuels to meet its energy demand.
+
+By 2030, the country’s energy demand is expected to reach 108-126 million tons of oil equivalent (TOE). A substantial increase in renewable capacities is necessary to meet this growing energy demand and reduce reliance on expensive foreign resources.
+
+The competitiveness of renewable energy in Pakistan is hindered by the vested interests of certain groups and the desire for immediate solutions. Coordinated planning is required for the power sector to achieve the best energy supply mix from imported fuels and local resources.
+
+In Pakistan, fossil fuels such as coal, oil, and gas have been the primary energy sources for a long time. Over 40% of the capacity for generating energy involves imported fuels.
+
+Pakistan currently has 41,000MW of installed electricity capacity, of which thermal has a 58.8% share, whereas the share of hydel, nuclear, and renewables is 25.8%, 8.6%, and 6.8%, respectively. While the country has been able to harness its substantial hydropower potential in the past, the installed generation capabilities currently consist of only a small fraction of variable renewable energy (VRE) sources.
+
+Power Sector: An Enigma with No Easy Solution, a book by the Pakistan Institute of Development Economics (PIDE), informs that refined furnace oil percentage in our generation mix has dropped from 47% in FY1998 to just 13% in FY2022; it is replaced by RLNG, another imported fuel, which has seen a rise in its share from 0.7% in FY2015 to 25% in FY2022. Coal’s share in the power generation mix has risen from 0.5% in 2014 to 13% in FY22, and it will quadruple in the current decade with the completion of the projects in the pipeline.
+
+Furthermore, the coal projects under CPEC (China Pakistan Economic Corridor) have long-term agreements with sovereign guarantees of 30 years or more. Thus, without an energy market and comprehensive planning for the future, coal and RLNG plants will keep Pakistan reliant on expensive imported fuels in the coming years and slow down the transition process.
+
+To fully realize the renewable energy potential, it is crucial to address generation, transmission, and distribution in a coordinated manner. On the contrary, Pakistan’s focus has always remained on generating capacity. Pakistan’s renewable energy growth is concentrated in a few geographical areas. While the primary solar energy source is Quaid-e-Azam Solar Park in southern Punjab, wind power plants are mostly found in Sindh in the wind corridors of Jhimpir and Gharo.
+
+These large clusters necessitate proactive grid planning and extensive infrastructure upgrades. Dedicated substations and allied transmission lines are required to evacuate power from wind/solar stations. However, the transmission infrastructure in Pakistan remains deficient. The national grid can dispatch a maximum power of about 17,000MW, far less than its current generation capacity.
+
+To support new power projects, both renewable and nonrenewable, grid reinforcement and enhancement are needed.
+
+The leading causes of this sector’s weakness are a lack of private-sector investment and restricted government funding.
+
+A study by USAID has shown that Pakistan’s national grid can accommodate up to 9332MW of VRE (Variable Renewable Energy) if the necessary grid and transmission capacity are established.
+
+However, according to National Electric Power Regulatory Authority (Nepra), the National Transmission and Dispatch Company (NTDC) would require US$ 9 billion to fund the development plans. Investing such a large amount of money presents a major challenge for a country like Pakistan with limited resources.
+
+The most critical challenge in developing VREs in Pakistan is a non-supportive regulatory environment in the energy sector.
+
+Another PIDE study, Power Sector: Effective Regulation, not Regulatory Burden, has brought attention to the issue of multiple organizations in Pakistan regulating and monitoring the power sector. This has led to overlapping roles and functions, causing problems. This regulatory burden creates a conflict of interest and inefficiencies.
+
+Several renewable energy projects could not be constructed in the past due to unwelcoming attitudes from relevant authorities and a failure to conduct proper bidding and tariff determination. As a result, consumers are purchasing electricity from costlier sources at the expense of the precious foreign exchange reserves of the country.
+
+In the past, twelve solar and wind power projects with a total capacity of 616MW couldn’t be commissioned, although NEPRA has granted them generation licence and determined tariffs during 2019 and 2020. In the same way, 27 bagasse-based power plants with a cumulative capacity of 940MW got an upfront tariff, but only eight projects could be developed. Some projects have fallen prey to the non-encouraging behavior of relevant entities.
+
+The completed projects have supplied electricity at a cost of about Rs 13/kWh during FY 2021-22. These indigenous renewable energy projects save billions of rupees for electricity consumers and foreign exchange reserves of the country. Additionally, these projects create local economic activities by utilizing locally sourced components in their development.
+
+In conclusion, when it comes to making solar energy widely available and accessible across Pakistan’s vast geographic landscape, distributed generation is the most suitable approach.
+
+In September 2015, Nepra introduced the Distributed Generation and Net-Metering Regulations. Investment under Net-Metering Programme (NPM) is crowdfunding, allowing consumers to become energy producers, so it is an ideal approach for a country like Pakistan.
+
+The government can save up to US$1.5 billion by installing 1GW capacity under NPM by 2025. However, distributed solar energy systems have not significantly penetrated Pakistan’s residential and commercial sectors. Nepra’s State of Industry Report 2022 noted that Discos’ attitude towards net-metering connections is unfavorable.
+
+Merely following global trends and setting ambitious targets for energy transition is insufficient, given the current state of affairs. Addressing ground realities to provide the enabling environment for transition is essential.
+
+Copyright Business Recorder, 2023
+
+Newspaper Link

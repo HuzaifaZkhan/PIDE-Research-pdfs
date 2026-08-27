@@ -1,0 +1,223 @@
+Introduction
+
+Pakistan consistently ranks among the top ten countries on the Global Climate Risk Index (Eckstein et al., 2021). The high vulnerability (ND-GAIN score 0.515) and low readiness of Pakistan (ND-GAIN score 0.273) urge a great need for investment and a great urgency for action. Extreme floods, heatwaves, and droughts have caused frequent losses, threatening national stability and development. The need is to contextualize Pakistan’s climate challenges within the global agenda to outline the justification for prioritizing climate resilience and to inform policy engagement at COP30.
+
+The extreme weather conditions have threatened Pakistan’s food security, economy and social stability (World Bank, 2022). The national-level statistics (Table 1) show Pakistan’s climate-related damages and losses. The climate change has caused the extreme monsoon rainfall, which as one report was ~21% above normal across Pakistan in August, 2022 [1] . Due to flood, about 892,075 hectares of cropland was potentially damaged[2], which would result in food basket shock .
+
+Table 1: Losses from Natural Disasters in Pakistan
+
+Events
+Indicator
+Figures
+
+2025 Flash Flood[3]
+Total Deaths
+922
+
+Total Injuries
+1,047
+
+Homes Damaged
+7851
+
+Livestock Lost
+6184
+
+Roads Damaged (km)
+671.58
+
+Bridges Damaged
+239
+
+Rescue Operations
+4594
+
+People Rescued
+2.414,129
+
+Relief Camps
+1,631
+
+People Sheltered
+93,886
+
+Medical Camps
+704
+
+Patients Treated
+224,870
+
+2024 Heatwave[4]
+Fatalities
+568+
+
+Hospitalizations
+7,900+
+
+2022 Flood [5]
+Population affected
+33 million
+
+Damages
+$14.9 billion
+
+Economic Losses
+$15.2 billion
+
+Need for rehabilitation & reconstruction
+$16.3 billion
+
+Housing
+$ 5.6 billion
+
+Agriculture & Livestock
+$ 3.7 billion
+
+Transport & Communications
+$ 3.3 billion
+
+Fatalities
+1730
+
+Health crisis Displaced people
+8 million
+
+Loss in GDP of FY 2022
+2.2%
+
+Climate Finance
+
+To support developing countries financially to address climate impacts, the recent Conferences of the Parties (COPs) have made significant strides. At COP27, the Loss and Damage Fund has been established. Subsequently, at COP28 an agreement to create a funding mechanism for L&D has been made. The L&D funding mechanism has been finalized at COP29 (Figure 1). In this respect, the New Collective Quantified Goal on Climate Finance ( NCQG) has been formally agreed upon at COP29 to replace the previous financial target under the Paris Agreement. The NCQG sets an annual finance target of US $300 billion by 2035 for adaptation, mitigation, and resilient development in developing nations. An additional layer of up to US $1.3 trillion per year by 2035 , primarily anticipated from private sources will support the most vulnerable countries.
+
+Figure 1: Evolution of Loss & Damage Funds at COPs
+
+The NCQG has not yet disbursed any funds, as the disbursement modalities and mechanisms are likely to be negotiated at COP30. It is the peak time for Pakistan to present its case at COP30. Pakistan’s high vulnerability and low readiness raise the need to voice for climate justice embedded in equity and human rights. Pakistan is one of the least contributors of emissions, but still suffers the most. This makes Pakistan legitimate for Loss and Damage claims and concessional finance and grants. The Fund for Responding to Loss and Damage (FRLD) operationalized at COP28 offers an institutional forum for countries confronting climate-induced damage like Pakistan. The current flash flood statistics (Table 1) show that Pakistan has faced severe humanitarian and infrastructure losses and macroeconomic disruptions. This makes Pakistan’s case urgent and entitled for the initiation of rapid-access windows under the FRLD to get finance for recovery and resilient rehabilitation. Pakistan should develop its negotiation capacity regarding Loss and Damage claims (Doelle, 2019). To serve this purpose, Pakistan should invest in legal and technical expertise to harness its negotiation capacities to build its case around climate justice. Given its climate vulnerability, framing negotiation capacity for Loss and Damage (L&D) at COP30 (2025, Belém, Brazil) is crucial for Pakistan. At national level, Pakistan Climate Change Act 2017 should be consistent with the global commitments such as the Paris Agreement (UNFCCC, 2015).
+
+Climate Resilience and Finance: Empirical Evidence
+
+To achieve climate resilience, Pakistan needs adaptation finance and mitigation plans (Khan et al., 2020). According to World Bank (2022), Pakistan’s financing gap for adaptation is about $7–14 billion annually. In the face of its vulnerability to climate change impacts such as floods and droughts, Pakistan’s need for climate finance is crucial to mobilize its limited resources for climate action. Pakistan’s financial capacity for climate action is limited. In FY2024–25, only 7.7% of the Running of Civil Government (ROCG ) and 15.3% of the Public Sector Development Programme (PSDP) have been allocated climate-sensitive initiatives (Dawn, 2024). Though in the fiscal framework, still this allocation is disproportionate keeping in view Pakistan’s estimated investment need of $348 billion till 2030. Pakistan’s limited financial capacity[6] hinders its ability to implement large-scale climate initiatives, highlighting the urgency of securing climate finance at COP30. The existing financing mechanisms often fail to achieve the goals of adaptation, mitigation, and sustainable development of developing countries for many reasons. For instance, Pakistan has faced $30 billion economic losses and damages after 2022 floods, but international climate finance received has been in the form of loans not grants, exacerbating Pakistan’s debt crisis. Another structural obstacle is the bureaucratic complexity of availing funds like the Green Climate Fund. This necessitates innovative approaches to channel resources effectively and equitably toward climate-resilient pathways. In case of Pakistan, green finance initiatives hold significant potential to drive investments in sustainable projects critical for Pakistan’s transition to a low-carbon economy (Ullah & Ullah, 2024).
+
+The total investment to tackle climate challenges till 2030, Pakistan needs around $348 billion; $196 billion (56%) for de-carbonization and $152 billion (44%) for adaptation and resilience. A shocking eight times gap of the average annual total climate finance needs for Pakistan until 2030 brings Pakistan at a disadvantageous position as compared to other countries (Table 2). Though Pakistan is the second highest deserving country for adaptation finance in terms of GDP per capita, yet receives lesser international public adaptation finance flows than many countries such as Bangladesh and Philippines with stronger GDP per capita profile (Akhtar & Khawaja, 2024). Pakistan is obviously underserved in terms of climate financing gap (Table 2). Besides, the gap for mitigation financing needs is five times as compared to adaptation financing needs at sixteen times (Akhtar & Khawaja, 2024).
+
+Table 2: Country Peer Group Climate Finance Flows & Gap Comparison
+
+South Africa
+Kenya
+India
+Pakistan
+Indonesia
+Nigeria
+
+Absolute financing flows (US$ billion)
+3
+2
+44
+4
+5
+2
+
+Flows per capita (US$)
+56
+46
+32
+17
+17
+9
+
+Absolute financing flows gap (US$ billion)
+17
+7
+170
+34
+27
+20
+
+Gap (expressed as multiple of flows)
+5x
+3x
+4x
+8x
+6x
+10x
+
+Gap (expressed as % of GDP)
+5%
+7%
+6%
+8%
+3%
+5%
+
+Source: Akhtar & Khawaja (2024) Note: Based on climate financing gap as per National NDCs and CPI country reports (2018–2021)
+
+The point of contemplation is that how can Pakistan afford not to be proactive, when the estimated cost of climate inaction can hit $250 billion by 2030 and $1.2 trillion by 2050 (FCDO, 2024). The textile can face 250,000 jobs lost due to climate induced disasters, while 70% annual GDP loss in upstream cotton production and 35% loss in downstream in textile value chain by 2050 is estimated (FCDO, 2024). An up to 47% drop by 2050 in crops yields resulting in an annual 8% loss in agriculture crops GDP by 2030, and an 18% annual loss of livestock GDP by 2030 are estimated (FCDO, 2024). Approximately 90 million people by 2030 and 400 million people by 2050 across Pakistan would be displaced by floods and the cost of displacement would be $80 billion by 2050 (FCDO, 2024). This estimation will aggravate Pakistan’s socio-economic fragility, showing that cost of inaction is more than cost of prevention.
+
+Multilateral and bilateral climate funds play significant role in Pakistan to support climate resilient development trajectories. For instance, Green Climate Fund (GCF) has been financing 2 multi-countries ($300 million) and 8 direct country projects. GCF finances 25% of Pakistan projects of $1 billion value. The Karachi Green BRT with a project value of $583 million is the largest project where GCF is sharing 10% finance. Similarly, the Global Environment Fund (GEF) has been financing 12 projects in Pakistan with a grant value of approximately
+
+$37 million and a co-financing value of approximately $200 million. Though Pakistan has a substantial share in GCF and GEF, however, its per capita GCF financing is low than those of many countries such as Bangladesh, Kenya etc. and its GEF per capita financing is also very less i.e. $0.16 (Akhtar & Khawaja, 2024).
+
+Pakistan’s disadvantageous position shown in comparison with other countries necessitates the need to make its advocacy and policy stringent to get optimal share. In 2023 ADB’s loan and grant amount to $1.6 billion for Pakistan in 2023. While in 2024, ADB has approved a $500 million policy-based loan to support climate change and disaster risk reduction and resilience in Pakistan (ADB, 2024). However, the international climate finance through multi-lateral agencies reduces ownership of recipient countries over climate financing.
+
+Pakistan should prioritize its strategic areas to be well geared towards leveraging climate financing sources. To adopt ESG[7] standards and Zero Emissions[8], Pakistan can incentivize the investors and businesses. Given Pakistan’s fastest solar adoption rate, it can attract technology transfer and financing. In 2024, the solar’s share in Pakistan’s power generation has been 14.3% as compared to those of China (8.4%) and India (7.4%)[9]. Pakistan needs to reap more from the low hanging strategies targeting climate financing. Rapid solarization in Pakistan is one of the strategic areas that can attract more funding. A drastic hike in electricity tariffs by 155% over the last few years has created a substantial shift towards off-grid solar solutions, notably in the residential sector. A 227%[10] YoY jump in solar panel imports (16GW) has been observed in FY24 from 4.9 GW in FY23. While, during the first nine months of FY25, net metering capacity has reached 4.9 GW[11], indicating a significant spike in this transition. These figures show that the fast rate of solarization in Pakistan is an emblem of energy transition and if fully-utilized can create global carbon market opportunities.
+
+To achieve the targets of climate resilience in Pakistan, indigenous solutions can be integrated into national adaptation strategies. For instance, National Adaptation Plan (NAP) (2023–2030) underscores the significance of developing climate-smart irrigation, strengthening agroforestry, empowering rainwater management, and conserving plant genetics in vulnerable regions (Dawn, 2023). To achieve this purpose, the state has taken concrete initiatives such as the GLOF-II Project, supported by $36.96 million from the Green Climate Fund aims to install early-warning systems, stabilize slopes to establish safe havens across 24 valleys and rehabilitate irrigation schemes to benefit around 700,000 people (Dawn, 2025). Besides, the Public Sector Development Program (PSDP) has earmarked 20% (≈ Rs 925 billion) of new schemes in FY 2023–24 as “green”, to ensure systemic resilience investments estimated at US $348 billion through 2030 (Planning Commission, 2023). Similarly, it is commendable that for food security, climate-smart agriculture can be scaled up and indigenous knowledge can be harnessed (FAO, 2021). These initiatives can substantiate the argument that embedding indigenous and locally tailored adaptation solutions into national strategies can help achieve Pakistan’s resilience targets.
+
+Conclusion
+
+This study makes Pakistan a strong case for climate financing to transform vulnerabilities into opportunities. Now is the time to shift Pakistan from a victim narrative to strategic engagement to position the country on the road to achieve sustainable climate adaptation. For this, the need is to identify the priorities areas Pakistan needs to target strategically to be a leader in climate resilience. The priority areas such as renewable energy expansion, climate-resilient agriculture, water management, and urban resilience should be focused to get a transformational impact.
+
+At COP30, climate finance stands as the core agenda, with Pakistan’s case underscoring the need for accessible and accountable mechanisms. However, persistent regulatory gaps, limited financial capacities, and lack of expertise continue to restrict the deployment of green and innovative finance. Although recent COPs have advanced funding instruments, financial targets, and frameworks for adaptation and carbon markets, significant challenges remain in translating these commitments into practice. As the way forward, Pakistan should strategically reposition itself as a leader in climate resilience rather than a passive recipient of aid. To get this end, Pakistan should strategically frame its COP30 agenda around these pillars. Pakistan should strengthen its negotiation capacity to secure just access to Loss and Damage funding. To achieve this purpose, Pakistan should ensure effective use of climate funds and build its institutional readiness through transparent governance and regulatory reforms. Besides, Pakistan should mobilize blended finance and technology partnerships to scale renewable energy and resilience-building projects. For Pakistan, the trajectory to climate-resilient development depends on bridging financial gaps and strengthening collaboration at both national and international levels. COP30 provides Pakistan a decisive arena to manifest its climate diplomacy that aims to position Pakistan as a policy leader driving equitable, innovative, and scalable climate finance solutions.
+
+References
+
+Asian Development Bank (ADB), Pakistan and ADB , September 2024.
+
+Dawn (2023). Retrieved from https://www.dawn.com/news/1766922/federal-cabinet-approves-national-adaptation-plan-to-boost-climate-resilience
+
+Dawn (2024). Retrieved from https://www.dawn.com/news/1839555
+
+Dawn (2025). Retrieved from https://www.dawn.com/news/1890339
+
+Doelle, M. (2019). Loss and Damage under the Paris Agreement: The Role of Legal and Normative Frameworks . Climate Policy, 19(8), 1–10.
+
+Eckstein, D., Künzel, V., & Schäfer, L. (2021). Global Climate Risk Index 2021 . Germanwatch.
+
+FAO. (2021). Climate-smart agriculture for sustainable food systems . Rome: Food and Agriculture Organization.
+
+Foreign, Commonwealth & Development Office. (2024, November 18). Bridging Pakistan’s adaptation financing gap: Developing evidence-based climate adaptation and resilience solutions [Corporate report]. GOV.UK. https://www.gov.uk/government/publications/bridging-pakistans-adaptation-finance-gap
+
+IPBES. (2019). Global Assessment Report on Biodiversity and Ecosystem Services . Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services.
+
+Khan, S. et al. (2020). Climate Change and Development in Pakistan: Vulnerabilities and Opportunities . Climate and Development, 12(6), 463–478.
+
+Planning Commission, Government of Pakistan. Retrieved from https://www.pc.gov.pk/web/press/get_press/1107
+
+Shamshad, A. & Khawaja, M. (2025). UN Common Country Analysis (CCA) 2024 update: Climate financing and policy recommendations – Policy brief. Islamabad: United Nations Pakistan. Available at https://pakistan.un.org/sites/default/files/2025-03/CCA%202024%20update_UN%20Pakistan_climate%20financing_CLEAN_ed_26feb25_.pdf
+
+Ullah, H., & Ullah, A. (2024). Towards Green Finance: A Framework for Sustainable Economic Development in Pakistan.
+
+UNFCCC. (2015). The Paris Agreement . United Nations Framework Convention on Climate Change.
+
+World Bank. (2022). Pakistan Climate and Development Report . Washington, DC: World Bank. https://www.worldbank.org/en/news/press-release/2022/10/28/pakistan-flood-damages-and-economic-losses-over-usd-30-billion-and-reconstruction-needs-over-usd-16-billion-new-assessment
+
+Dr. Anjeela Khurram is an Assistant Professor at the Pakistan Institute of Development Economics. Her primary interest and expert areas include Carbon Neutral Economy, Climate Governance, and Environmental Economics
+
+[1] https://reliefweb.int/organization/wfp
+
+[2] Advanced Disaster Analysis & Mapping – Flood Impact Analysis – Pakistan – 29 August 2025 – Pakistan | ReliefWeb .
+
+[3] As on Sep 9, 2025 retrieved from https://www.ndma.gov.pk/sitrepm
+
+[4] “PDMA Sindh: Situation Report for heatwave 2024 (as of 25 June 2024) – Pakistan” . ReliefWeb . 26 June 2024. Retrieved 16 Sep, 2025
+
+[5]https://pc.gov.pk/web/press/get_press/1264#:~:text=The%20Post%2DDisaster%20Needs%20Assessment,7%20million%20to%2014.6%20million.
+
+[7] ESG standards and ethical practices in terms of Environment, Social and Governance.
+
+[8] Zero Emissions means production of no harmful greenhouse gases (GHGs) or pollutants into the atmosphere.
+
+[9] https://www.reuters.com/business/energy/pakistans-solar-revolution-leaves-its-middle-class-behind-2025-04-29/
+
+[10] Renewables First & Herald Analytics, “The Great Solar Rush in Pakistan”, 2024, www.renewablesfirst.org
+
+[11] Renewables First, “Pakistan Electricity Review”, 2025, https://renewablesfirst.org/

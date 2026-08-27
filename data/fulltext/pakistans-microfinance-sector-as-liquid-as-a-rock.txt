@@ -1,0 +1,51 @@
+As the dust settles on the devastation caused by the Pandemic, the sector faces another sustainability challenge caused by the recent floods.
+
+Pakistan’s Microfinance sector has done exceptionally well when it comes to increasing outreach. Currently, the sector serves around 8.5 million people with a gross outstanding loan portfolio of PKR 449 billion[1].
+
+The primary contribution to scale of the otherwise donor-dependent model of microfinance has been from the Microfinance Banks (MFB). These institutions comprise around 76 percent of the sector’s total lending[2] and being the only deposit-taking entity in the sector enables them to channel greater resources towards increasing outreach.
+
+However, the past couple of years has been very challenging for the microfinance sector in general and MFBs in particular. When the pandemic hit in 2020, those belonging to the lowest economic strata were affected the most by the lockdowns and subsequent economic downturn. Unfortunately, these people were also the main borrowers for the sector and their ability to pay back loans was severely compromised. Thus, the sector was faced with an unprecedented liquidity crunch and the vulnerability of its business model was exposed through deteriorating portfolio quality.
+
+The sector, still struggling from the aftershocks of the pandemic, is now faced with a greater challenge in the shape of recent flash floods. The devastation caused by the calamity would have a greater impact on the institutions compared to Covid as around 60 percent of the microfinance lending portfolio is for Agri inputs and livestock in rural parts of the country[3].
+
+In absence of regulatory cover like the central bank’s discount windows and having SBP as the lender of last resort, a luxury that commercial banks have, many commercial players operating in the segment are likely to go bust. Therefore, it is worthwhile to understand the intricate details which cumulatively lead to a massive liquidity problem for those operating in the sector.
+
+Firstly, there is a need to understand the liquidity being referred to. The MFBs, governed by the State Bank of Pakistan (SBP), are required to maintain a certain ratio between capital invested and risk exposure of different asset classes. This is called the Capital Adequacy Ratio (CAR).
+
+Microcredit being a high-risk asset class means that whenever an MFB is trying to increase lending it has to inject more capital to meet statutory liquidity requirements. But, isn’t there any other way to not breach CAR and still expand? Of course, there is. The banks can secure the portfolio against collateral.
+
+But, here comes the regulatory limitation. The primary form of collateralization allowed to the MFBs is by securing loans against gold and to add to it, there is also a cap of 35 percent of the total portfolio on such collateralization[4]. Therefore, if an MFB is to enter high ticket price lending like tractors etc., it would be suffocated by regulatory requirements.
+
+Another, classic example of policymakers stifling liquidity of the sector is the Kamyab Pakistan Program (KPP). As per the framework[5], trillions of rupees were to be disbursed in microloans with help of the microfinance sector. However, the flaw in this scheme was that it did not provide regulatory cover against increased risk exposure (provided only a 10 percent first loss guarantee)[6] which meant that MFBs had to inject significant capital to maintain liquidity if the scheme was implemented to its full scale.
+
+Further, the amount being provided to the sector for carrying out the groundwork was well below their operational cost which is north of 20 percent[7]. In addition to this, there were concerns about the timely disbursement of funds which is somewhat fair as the banks already have amounts piling up on their balance sheets against receivables for SBP. Therefore, in this case, operational liquidity would have also been a concern.
+
+Still, it is important to mention that the regulator and policymakers are not completely oblivious to the issues at hand. They have a keen interest to reach out to the excluded segment and the aforementioned scheme is an example. SBP did revise lending limits for the sector to support microenterprise and housing finance. Further, the criteria for the classification of non-performing loans (NPL), a major drag on liquidity, was also relaxed[8]. However, the relief would be short-lived as once the International Financial Reporting Standard (IFRS) 9 is implemented there is going to be a significant impact on NPLs[9].
+
+Therefore, some serious regulatory intervention is required to ensure that the sector not only sustains but also thrives. As the financial impact of flood unwinds, assistance would be required from the regulator to keep the sector afloat, similar to the rescheduling that was permitted during Covid. Additionally, the revision of stringent liquidity and collateralization requirements on the basis of portfolio type can incentivize the sector to increase productive and Micro Small and Medium Sized Entity (MSME) lending. Also, enabling digital financial services can be a solution in the long run but the absence of sophisticated data for credit scoring and relatively lower mobile broadband penetration as well as financial literacy presents a strong case for holding onto the brick-and-mortar model.
+
+Yet, there needs to be some serious deliberation between the stakeholders involved to devise a commercially viable model of operating in the sector. This is the only way that scale can be achieved and the market penetration of the microfinance sector can be increased from the current 41%[10] to a substantially higher figure.
+
+The author is a Business Journalist for Profit Magazine and a Finance professional with experience working with various microfinance institutions.
+
+________
+
+[1] https://pmn.org.pk/
+
+[2] PACRA Research – Microfinance – Sep’22_1664198723.pdf
+
+[3] https://pmn.org.pk/
+
+[4] https://www.sbp.org.pk/
+
+[5] https://www.finance.gov.pk/
+
+[6] https://www.sbp.org.pk/
+
+[7] https://pmn.org.pk/
+
+[8] https://www.sbp.org.pk/
+
+[9] https://profit.pakistantoday.com.pk/
+
+[10] https://pmn.org.pk/

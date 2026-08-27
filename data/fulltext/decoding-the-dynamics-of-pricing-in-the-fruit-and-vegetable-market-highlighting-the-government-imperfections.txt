@@ -1,0 +1,69 @@
+The fruit and vegetable (F&V) market in Punjab, Pakistan, is a critical component of the region’s agricultural economy, yet it remains plagued by volatile prices that affect both consumers and producers. Despite the government’s regulatory efforts like Punjab Agricultural Produce Markets (PAPM) Ordinance, 1978 and Rules framed there under 1979, and recent Government intervention, i.e., the establishment of the Punjab Agriculture Marketing Regulatory Authority (PAMRA), price stabilization remains elusive. This persistent instability not only strains household budgets but also undermines the financial viability of producers. The underlying reasons for this inefficiency are multifaceted, ranging from supply chain disruptions to inadequacies in regulatory enforcement, raising important questions about the effectiveness of current government interventions.
+
+Now, the question arises, Who sets the prices – farmers, markets, commission agents, retailers, management, transporters, or cold storage owners? The answer is none of them. While all these players are integral parts of the supply chain, prices are determined purely by the dynamics of demand and supply.
+
+The production costs borne by farmers for fruits and vegetables include expenses for seeds, fertilizers, pesticides, diesel/electricity, labor, and other inputs. Although these costs significantly influence prices, they do not determine the market price of fruits and vegetables. For instance, farmers sometimes sell potatoes at prices lower than their production costs. One farmer, for example, brought a trolley of cauliflower to the market only to find the market rate so low that it didn’t even cover the transportation fare, prompting him to discard the produce. Conversely, an efficient farmer might sometimes earn more than double the profit due to a shortage of a specific commodity in the market. This highlights the inherent uncertainty and volatility in the price mechanisms.
+
+When a farmer brings produce to the market, they must contact a middleman (commission agent) who has to take a license to sell their agricultural produce from the local Market Committee of the notified area that is governed by the PAMRA at the provincial level. In this system, farmers cannot sell directly to consumers within the premises of public Fruit and Vegetable Markets in the province. The middleman conducts an auction in the presence of Market Committee officials. Any customer can give a bid but in most cases wholesalers (Pharria) and large retailers place bids based on the quality, demand, and availability of the produce. For example, high-quality potatoes will fetch a good price, but if many farmers bring potatoes, the excess supply will drive prices down due to competition. Similarly, if there is low demand for potatoes, prices will fall regardless of supply levels. The middleman retains a commission, and the farmer receives the auction bid amount. Pharria then sells the produce to retailers at a profit, setting the auction price for fruits and vegetables. The Market Committee issues a rate list based on the retailer’s profit margin at this auction price, updated daily to prevent abnormal profits. The following are the two main reasons for market inefficiency in local fruit and vegetable markets.
+
+Dependence of the Fruit and Vegetable Supply Chain on Pharria
+
+Most fruits and vegetables brought to markets by farmers or intermediaries (beopari) are non-graded and not packed to meet customer needs. Here, Pharria plays a crucial role in the fruit and vegetable supply chain by providing essential services such as grading and sorting and facilitating bulk breaking. Pharria charges for these services and incurs several associated/hidden costs. Notably, there is no proper dedicated space for Pharria in fruit and vegetable markets. Furthermore, under the new PAMRA system, an annual registration fee for Pharria has also been introduced by the respective Market Committees of the notified area. This PAMRA regulation adds further costs, which are ultimately passed on to consumers.
+
+In my opinion, the services provided by Pharria are often neglected in the markets of Punjab, Pakistan, causing discrepancies between the retail rate lists and prevailing market rates. This neglect underscores the inefficiencies within the supply chain and the need for systemic reforms to support Pharria’s role and reduce costs for consumers. The only way to minimize the role of Pharria is to improve post-harvest practices at the farm level, such as sorting, grading, waxing/washing, and packing.
+
+Impact of Post-Harvest Losses
+
+Post-harvest losses not only reduce the overall supply but also lower the quality of fruits and vegetables. For example, if 100 tons of potatoes are produced in Sahiwal, poor post-harvest handling might leave only 70 tons of good-quality potatoes, with 30 tons deteriorating due to mishandling during digging, packaging, and transportation. Consequently, the overall price decreases because the market includes lower-quality products, leading farmers to feel they do not receive fair compensation. Meanwhile, the supply of high-quality potatoes diminishes, driving up their price and causing consumers to perceive prices as higher than expected.
+
+To mitigate post-harvest losses, it is imperative to adopt better handling practices, improve storage facilities, and invest in technologies that enhance the longevity and quality of produce. By addressing these issues, the supply chain can become more efficient, ensuring better prices for farmers and more reasonable prices for consumers.
+
+Current System Performance
+
+Controlling prices within this system necessitates maintaining a delicate balance between supply and demand to prevent abnormal profits. Achieving this balance is a complex task that requires coordinated efforts across various levels of the supply chain. There are following key measures to enhance current system performance in the short run
+
+Facilitating Pharria to reduce costs by providing dedicated spaces and minimizing additional fees imposed by Market Committees.
+
+Minimizing the role of Government in fruit and vegetable markets. All types of registration fees (commission agent, Pharia, broker) may be avoided to minimize the gap between the producer’s price and the consumer’s price.
+
+Ensuring accurate crop reporting or statistics to estimate seasonal demand and production accurately.
+
+Allocating cultivation areas and production targets to farmers based on demand analysis.
+
+Arranging imports ahead of time if local demand for a vegetable cannot be met to prevent shortages and price spikes.
+
+Policy Level Interventions
+
+To further improve the system in the long run, several policy-level interventions can be implemented:
+
+Maintain a Comprehensive Dataset : Develop a rich and accurate dataset of farmers by commodity. Crop reporting should provide real-time data on acreage within districts and across provinces, leveraging satellite imagery (SUPARCO) instead of manual surveys. This will help in making informed decisions and planning better.
+
+Utilize Climate Data: Use climate data from the Pakistan Meteorological Department (PMD), Islamabad, for accurate climate projections. This information is crucial for anticipating and mitigating the impacts of climate change on agricultural yields.
+
+Model Yield Estimates: Engage agricultural economists and researchers to model yield estimates considering all factors, including climate change. By understanding the expected yield, it is possible to identify the gap between estimated supply and demand before each season, guiding import and export policies.
+
+Adopt Advanced Technologies: Embrace the latest technologies to minimize post-harvest losses and deterioration of fruit and vegetable quality. This includes investing in better storage facilities, transportation, and handling practices.
+
+These measures will enhance market efficiency, stabilize prices, and ensure fair compensation for farmers while maintaining reasonable prices for consumers. By addressing both the supply chain inefficiencies and the broader systemic issues, the fruit and vegetable market can achieve a more sustainable and equitable balance, benefiting all stakeholders involved.
+
+The Role of Government Policy in Supporting the Fruit and Vegetable Markets
+
+Government policy plays a crucial role in stabilizing the fruit and vegetable market. Effective policies can help manage supply and demand, regulate pricing, and ensure fair practices throughout the supply chain. The following policy recommendations aim to enhance the efficiency and fairness of the market:
+
+Keeping Prices Open/Free : The fruit and vegetable market in Punjab serves as a quintessential example of pure competition, characterized by the presence of a vast number of buyers and sellers. In such a highly competitive environment, no single buyer or seller has the power to influence market prices, as the forces of supply and demand naturally determine them. Given this extensive participation, the necessity for external price notifications or regulations by the Market Committee or District Government significantly diminished market efficiency. The market’s inherent dynamics ensure that prices remain fair and reflective of current conditions, making additional interventions largely redundant.
+
+Farmer Registration and Data Management : Establish a comprehensive registration system for all farmers. This database should be integrated with real-time crop reporting and statistics to monitor production levels, predict market trends, and manage supply more effectively.
+
+Accurate Demand Forecasting: Invest in advanced analytics and data modeling to predict seasonal demand accurately. This involves collaboration with meteorological departments, agricultural economists, and research institutions to develop reliable yield estimates and demand forecasts.
+
+Regulated Import Policies: Develop flexible import policies that can be adjusted based on real-time supply and demand analysis. This will help prevent shortages and surpluses, stabilizing prices and ensuring a steady supply of essential commodities.
+
+Support for Pharria and Market Infrastructure: Provide dedicated spaces for Pharria within markets and reduce unnecessary fees. Improving market infrastructure, including storage and transportation facilities, will help reduce costs and enhance the efficiency of the supply chain.
+
+Technological Advancements : Promote the adoption of modern technologies in post-harvest handling, storage, and transportation. This includes investing in cold storage facilities, efficient packaging solutions, and advanced logistics to minimize losses and maintain product quality.
+
+By implementing these policy recommendations, the government can create a more resilient and efficient fruit and vegetable market. This will benefit farmers by ensuring fair compensation, protecting consumers by stabilizing prices and enhancing the overall sustainability of the agricultural sector.
+
+The writer is an Assistant Professor, at the Department of Agricultural Business & Marketing,
+
+Bahauddin Zakariya University, Multan

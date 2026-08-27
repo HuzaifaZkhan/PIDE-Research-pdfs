@@ -1,0 +1,287 @@
+Abstract
+
+Electronic waste (e-waste) and its effects is an international issue. Globally, Asian developing countries are the most vulnerable countries in terms of e-waste. Informal recycling and crude processing of e-waste cause environmental humiliation and effects human health. Therefore, the study analyzes the effects of e-waste on human health and environment in Pakistan. Moreover, it identifies asthma, respiratory, pulmonary, skin, eye, lungs and inflammatory bowel diseases are induced by e-waste. Furthermore, it analyzes consumer awareness about e-waste effects on human health and environment with mean comparison analysis based on primary data with 312 sample size, meanwhile the study notifies the correlation of e-waste generation with gross domestic product (GDP), population and electrical and electronic equipment (EEE) put in Pakistani market. Lastly, it discusses other pollutants putting burden on human lives and environment.
+
+1. Introduction
+
+Electrical and electronic equipment (EEE) includes all types of products that are used in business, transportation, household, health, security, and power generation system. In short, “any household or business item with circuitry or electrical components with power or battery supply is called EEE” (Step Initiative, 2014). E-waste is abbreviation of “electronic waste”. “E-Waste is a term used to cover items of all types of EEE and its parts that have been discarded by the owner as waste without the intention of re-use.” (Step Initiative, 2014).
+
+Globally, 40,634,930 still counting tons of e-waste is thrown out in 2021 (The world counts, 2021). In 2019, about 53.6 million metric ton (Mt) of e-waste was produced and it is expected to exceed 74Mt in 2030 (Forti et al., 2020). E-waste is slightly different from other wastes. E-waste carries harmful substances (lead, mercury, flame retardants, arsenic, etc.) and valuable metals (silver, copper, gold, etc.) that need special recycling techniques to protect environment and human health (Sepúlveda et al., 2010). E-waste is composed of 30% organic material (flame retardants, polymers, and glass fiber), 40% inorganic materials (non-ferrous and ferrous) and 30% ceramics material (alumina, mica and silica) (Rautela et al., 2021). Inorganic metals contain base metals (tin, aluminum, copper and iron), valuable metals (palladium, gold and silver), heavy metals (cadmium, nickel, zinc, chromium, mercury, lead and beryllium), and earth metals (tantalum, gallium and platinum groups) (Kaya and Martin, 2016).
+
+Heavy metals contaminates environment with low concentration by biomagnification in animals and plants or chemical concentration in food cycle (Fu et al., 2008; Luo et al., 2011). Plants absorb heavy metals through soil and water, whereas humans and animals intake heavy metals via air, water and food ingestion (Zhao et al., 2010).
+
+E-waste possess many hazardous substances like brominated flame retardants, cadmium, polychlorinated biphenyls, lead and mercury that pollutes environment and jeopardize human health without direct exposure to environment (Wong et al., 2007). Normally, the processing of e-waste retrieves precious metals (copper, gold and silver) by using simple techniques like open burning, acid leaching, melting, and incineration. These processes release a vast range of poisonous gases and heavy substances into the environment which pollutes atmosphere, terrestrial and aquatic ecosystem (Grant et al., 2013). Moreover, improper disposal and crude processing of e-waste are proven to be chronic and lethal for human health (Patil and Ramakrishna, 2020). Furthermore, human health issues are for both workers involved in unrefined processes of e-waste and general population surrounded by polluted environment (Huo et al., 2007; Caravanos et al., 2011).
+
+In developing and poor countries usually the opportunity cost of treating and recycling e-waste is human health and environment (UNEP, 2010). In comparison with other continents, Asia is at the top in generating e-waste with 24.9 Mt (Forti et al., 2020). In Asia, Pakistan generated 433 kilotons (Kt) of e-waste in 2019 (Forti et al., 2020). National Environment Policy (NEP) in Pakistan covers air, water, ozone, climate change, agriculture, and import/export of hazardous chemicals or waste products (NEP, 2005). On June 28, 2022, National Hazardous Waste Management Policy (NHWMP) is approved by Pakistan’s federal cabinet which cater e-waste trade, generation, dumping and discuss transboundary movement of hazardous wastes. With a great sigh, NHWMP fails to elaborate e-waste management in the country (NHWMP, 2022). Regretfully, so far, no policy implementations are observed on private or public level.
+
+Therefore, based on qualitative data (interviews) the study aims to assess e-waste effects on human health and environment in Pakistan. Moreover, according to quantitative data (survey) of 312 respondents, the study analyzes consumer awareness on e-waste effects on human health and environment. Astonishingly, results show e-waste impacts human health and environment. Moreover, the study depicts e-waste generation in Pakistan. For better analysis, the study investigates e-waste correlation with gross domestic product (GDP), population, and EEE put on Pakistani market, which are strongly corelated. Basically, the study provides a notion of diseases induced by e-waste and how e-waste contributes to environmental degradation. Lastly, the study incorporates a slight overview of other pollutants humiliating environment and affecting human health. According to best of authors knowledge, it is the first and preliminary study in Pakistan based on empirical data on the areas mentioned above.
+
+2. Literature review
+
+2.1. E-waste in global context
+
+The rapid growth of EEE industry with information technology, aid in generating e-waste globally and impose threat to human health and environment (Duan et al., 2009; Song et al., 2013). In 2009, Robinson (2009) estimated the global e-waste production range from 20 – 25 million tons annually. World generated around 44.7 Mt e-waste in 2016 and it is estimated that it will surpass 53 Mt in 2021 (Baldé et al., 2017). Worldwide e-waste quantity is growing exponentially at the rate of about 2 Mt yearly (Forti et al., 2020).
+
+2.2. E-waste in Asian context
+
+In Asia, 24.9 Mt e-waste was generated of which 2.9 Mt e-waste was properly collected and recycled (Forti et al., 2020). Some of the largest e-waste generating Asian countries are given in Table 1.
+
+Despite the existence of Basel Convention – controls international flow of harmful wastes. E-waste is exported from United States (US), Australia, Canada, European Union (EU) countries, Kuwait, Singapore, United Arab Emirates (UAE), Japan and Korea to India, China and Pakistan (Cobbing, 2008; Li et al., 2013). Where Singapore and UAE plays a role of intermediary for distributing e-waste from US and EU countries to South Asian countries (Cobbing, 2008). Over a period of 9 years (2005 – 2014), the quantity of generating e-waste is doubled in South-East Asian countries (Iqbal et al., 2015).
+
+Besides world’s largest manufacturing country, China is considered as e-waste dumping hub (Chi et al., 2011). Moreover, China receives e-waste in large quantity from developing countries (Shinkuma and Huong, 2009).
+
+India is considered as highly polluted and populated country. The rapid industrialization in India has cause threats to environment and human health (Parikh, 2012). India is trying to deal with its e-waste in eco-friendly manner because e-waste is ruining ecological system (Maheshwari et al., 2013).
+
+Pakistan import approximately all major EEE which means the entire EEE sector is depended on importation (Bashar, 2000). The extensive growth in EEE imports elucidates the increasing trend of e-waste generation in near future (Iqbal et al., 2015). In 2014, Pakistan’s mobile phone subscriptions were 138 million, indicating the threat of increasing e-waste (PTA, 2014). In 2021, Pakistan’s total mobile phone subscriptions increased from 138 to 185 million (PTA, 2021). Pakistan is considered as one of the prime location for e-waste dumping where e-waste is treated illegally and informally (Puckett, 2002; Iqbal et al., 2015).
+
+2.3. E-waste impact on human health
+
+E-waste recycling processes contains top 10 chemicals which has adverse effects on human health (WHO, 2021). The chemicals include heavy metals like cadmium, dioxins, mercury, lead, fine particles (particulate matter 2.5) and other air pollutants (WHO, 2021).
+
+The studies have found crude processing, recycling and disposing of e-waste is related to adverse health effects (Forti et al., 2020). These include effects on children height (Zheng et al., 2008), thyroid stimulating hormone (TSH) (Yuan et al., 2008), increases oxidative stress biomarkers (Chung et al., 2008), unfavorable birth results (Zhang et al., 2017), affect neurodevelopment (Huo et al., 2019), affect cognitive skills (Soetrisno and Delgado-Saborit, 2020), damage DNA (Alabi et al., 2012), heart diseases (Cong et al., 2018), affect respiratory system (Amoabeng Nti et al., 2020), affect immune system (Huo et al., 2019), affect hormonal system (Maheshwari et al., 2013), skin diseases (Decharat and Kiddee, 2020), hearing loss (Xu et al., 2020), and cancer (Davis and Garb, 2018). For details see Table 2.
+
+2.4. E-waste impact on environment
+
+Disposing e-waste by landfills contains hazardous metals which contaminate land, soil and other biodegradable waste (Patil and Ramakrishna, 2020). Dumping e-waste fragments in rivers may leach harmful substances into groundwater, drinking water and irrigation system through which heavy metals enter into the food chain (Patil and Ramakrishna, 2020). Toxic e-waste pollutants may enter the food chain by plant roots through contaminated groundwater and soil (Maheshwari et al., 2013).
+
+Incineration of e-waste fragments like wires and cables containing polyvinyl chloride (PVC) for extracting valuable materials contains harmful chemicals like acid fumes and dioxins (Patil and Ramakrishna, 2020). The remaining fly ashes of burned e-waste in the vicinity are also very dangerous for environment (Leung et al., 2008).
+
+Globally, there is a lot of research on e-waste effects on human health and environment. However, in Pakistan there is no/less research on similar topic which creates a literature gap. Therefore, the study fills the gap by assessing e-waste effects on human health and environment gleaned from primary and secondary data.
+
+3. Methodology
+
+3.1. Primary and secondary data
+
+For primary data, ten doctors were interviewed from diverse medical specialties. Along with six e-waste dealers, six private waste management officials were interviewed and a survey of 312 consumers was conducted to see consumer awareness about e-waste effects on human health and environment. All interviews were conducted in semi-structured way because the study intended to explore the treatment of e-waste and how it effects human health and environment. For survey a questionnaire was designed and distributed among metropolitan cities i.e., Islamabad [*] , Lahore, Rawalpindi, Multan, and Faisalabad. Initially 400 questionnaires were circulated, with a response rate of 78% the study included 312 responses for the analysis which were considered to be sufficient for population representation. Moreover, for analysis mean comparison was used to assess consumer awareness about e-waste effects on human health and environment in STATA (version 16.1). All primary data was collected from metropolitan cities of Punjab (province in Pakistan). For geographical sampling distribution please (refer to Table A1 in appendix).
+
+For secondary data, a systematic literature review of e-waste effects on human health and environment was conducted with a comprehensive search of existing literature from published journal articles, institutional reports, and official websites. Moreover, secondary data comprises time series data of Pakistan from 2015 to 2019. E-waste generated and EEE put on market data were collected from “The Global E-waste Statistics Partnership”, gross domestic product (GDP) and population related data were collected from “World Bank”. All secondary data was compiled in MS Excel and exported to STATA (version 16.1). As mentioned by Kusch-Brandt and Hills (2017) and Perkins (2014) GDP and population are associated with e-waste generation. Therefore, based on data, Pearson Correlation test was conducted to see the relationship between variables in the context of Pakistan. For the strength of Pearson correlation (refer to Table A2 in appendix).
+
+3.2. Mean comparison
+
+Since mean comparison is a method for measuring variables effectiveness. Therefore, on primary data of 312 respondents, mean comparison analysis was conducted to assess variables. Precisely, under the umbrella of mean comparison, t-test was conducted to measure consumer awareness about e-waste effects on human health and environment.
+
+3.3. Explanation of variables for Pearson correlation
+
+E-waste generation
+
+Overall e-waste produced in Pakistan
+
+E-waste generated per capita in Pakistan
+
+EEE put on market
+
+Overall EEE put on Pakistani market
+
+EEE put on market per capita in Pakistan
+
+Population
+
+Population living in Pakistan
+
+Gross domestic product (GDP)
+
+GDP of Pakistan in terms of purchasing power parity (PPP) in united states dollar (USD)
+
+4. Results and discussion
+
+Pakistan is a developing country with weak and pliable laws leading to illegal import, informal recycling, crude processing and dumping of e-waste (Iqbal et al., 2015; Sajid et al., 2018). E-waste generation in Pakistan is growing exponentially because it imports secondhand EEE and e-waste in large quantity. Over time Pakistan is becoming a prime location for e-waste recycling and dumping. The site areas of metropolitan cities (Karachi, Hyderabad, Peshawar, Lahore, Rawalpindi, Multan, Gujranwala and Faisalabad) of Pakistan are dumping and recycling points for e-waste.
+
+E-waste recycling, crude processing and dumping cause serious human health issues. E-waste incineration contaminate air, e-waste land dumping cause soil pollution and disposing e-waste in river pollute water leading to overall environmental degradation. Resultantly, people inhale polluted air, drink adulterated water, eat compromised seafood and land grow tainted crops. Considering the process, heavy metals are included in our food chain through crops ingestion and seafood ingestion. A causal loop between e-waste and its effects on human health and environment is shown in Figure 1.
+
+4.1. Results and discussion on primary data
+
+4.1.1. Doctors’ interviews
+
+According to interviews with doctors majorly asthma, pulmonary diseases, inflammatory bowel diseases, lower respiratory infections, upper respiratory infections, skin diseases, diarrhea, gastritis, eyes infections and lung diseases are induced by e-waste, mostly the labor in direct contact with informal recycling are victims. One of the doctor quoted “Chemicals released from open burning of e-waste cause asthma problems, skin allergy, and eye allergy. Mostly children who are exposed to these sites are victims of skin allergy more precisely scabies.” Moreover, the other doctor retorted “asthma and skin allergies are more prevalent in children because of their lower immunity level.” Majorly lower class are victims of these diseases because they are deprived from clean drinking water, hygienic food and exposed more to chemicals and hazardous pollutants.
+
+One of the lady doctor stated “whenever heavy metals are in contact with human body it harms body cells.” This contact induces changes in developing and rapidly regenerating cells, which can lead to cancerous cells. Moreover, she added “some of the prominent diseases caused by e-waste are skin diseases, eye infections, and fertility issues leading to abnormality in newborn babies.” E-waste includes both toxic and valuable materials but the cost of extracting valuable material is human life.”
+
+Majority of the doctors stressed upon “whenever human body ingest heavy metals (released from e-waste) through contaminated food chain or adulterate water it causes inflammatory bowel diseases, digestive intestinal tract issues, gastrointestinal problems, diarrhea and intestinal worms. When human body inhale toxic substances (released from e-waste) via polluted air it causes pulmonary diseases, upper and lower respiratory infections and asthma attacks. Moreover, skin diseases and eye allergies are induced when humans are directly involved in e-waste incineration or crude processing.”
+
+4.1.2. E-waste dealers’ interviews
+
+E-waste dealers draw the real pathetic picture of e-waste in Pakistan. Respondents retorted “ Pakistan is a major importer of e-waste and used electronic items, it imports e-waste and used electronic items from UK, USA, Canada, Australia, Dubai, Germany, Spain, Korea and Thailand .” Initially, e-waste or used EEE lots are docked in Karachi (city in Pakistan) dry port, where its duty is paid and then e-waste containers are distributed to other cities of Pakistan. Respondents added “ mostly used computers, laptops, and tablets are imported on “testing working” condition.” In “testing working” all imported electronic products are checked either they can be further used or not. Based on assessment all used electronic items are divided into four categories A, B, C, and D. Furthermore, A and B categories include fully functioned devices which are sold in the same condition as they are imported. Category C includes devices that need some repairing like LCD, Ram, Hard Disk, Screen, Touchpads, Speakers and other repairable items. Category D includes devices that are nonrepairable, from those devices some valuable items like Ram, Hard Disk, LED, Batteries, Speakers, and other fully functioning items are extracted and the rest of the plastic, silver, and copper is sold to the scrap dealers. The residual plastic from e-waste is considered as “black plastic” which is further used to manufacture clothing hangers, motorbike meter heads, and other cheap plastic items.
+
+Moreover, obsolete electronic equipment like desktop computers, TV, video cassette player (VCR), DVD/CD players, MP3/MP4, roll camera and other broken electronic devices like laptops, tablets, mobiles phones, Walkman, and other hand handles are sold to big scrap dealers, those scrap dealers own e-waste extraction foundries.
+
+There are several extraction foundries in Karachi, Peshawar, Faisalabad and Gujranwala (cities in Pakistan). In the foundries, all the electronic waste is stoked in the furnace where valuable materials are extracted through incineration and remaining ashes are dumped into the land and rivers. With a great sigh, people living in the vicinity are living worst of their lives. As they use river water for their livelihood. Moreover, children indulge themselves in collecting and burning batteries for the sake of enjoyment. Adults work for the factories on minimum wages with no/less safety/health measures. Lastly, majority of the population living near these areas are not (very) well. Most of the e-waste workers are patients of asthma, skin allergies, eyes infections, and lungs disorder. People living near these areas are victims of lower and upper respiratory diseases, skin allergy, and stomach problems. Children who are directly involved in collecting and burning e-waste are the prime sufferer of eyes infection, skin allergies, asthma and neurodevelopment.
+
+Apart from all, e-waste dealers added, “ the underlining reason for importing used electronic items in Pakistan is consumers demand cheap electronic products” and this electronic import is a byproduct of e-waste in Pakistan.
+
+4.1.3. Private waste management officials’ interviews
+
+Private waste management officials focused on e-waste infiltration and roles of different stakeholders in generating e-waste in Pakistan. All the respondents stated Pakistan needs an exclusive e-waste policy with strict implications. If designing exclusive e-waste policy is difficult then should expand the scope of national environment policy of Pakistan by including e-waste aspect. One of respondent quoted “e-waste importers and exporters are the major contributor to e-waste generation in Pakistan and government of Pakistan (GoP) is adding fuel to the fire by not restricting e-waste flow in the country.”
+
+One of the interviewees responded, ‘major reasons for e-waste in Pakistan is developed countries because they export their e-waste to developing countries like Pakistan, India, Indonesia, and China.” He added “ the dynamic shift in technological advancement has led to exponential growth in demand of EEE .” Moreover, he quoted “EEE manufacturers, e-waste importers and general public don’t comply with the environmental policy of Pakistan, dealing with e-waste in Pakistan is a responsibility of EEE manufacturers, government, and consumers, because demand creates supply. If consumers will be more aware about e-waste, they will demand less electrical and electronic equipment which will ultimately lead to less production of EEE. Government of Pakistan can contribute by setting strict laws and regulations.”
+
+Moreover, other participant responded, “electronic entertainment (e-entertainment) industry has given a peak to electronic devices because e-entertainment has added a new experience to the gaming industry.” And “government is least active or interested in showing concern towards e-waste. There are many developing countries (India, China, Thailand, Iran, Japan, South Korea) that are victim of e-waste but at least they have an e-waste policy, unlike Pakistan.” All the respondents suggested that initially government of Pakistan can adopt e-waste management policies and practices from India and China. Lately, it can adopt best practices from Singapore for efficient management of e-waste in Pakistan.
+
+4.1.4. Mean comparison analysis
+
+According to the survey, about 271 (87%) among 312 were concerned about environment. Around 237 (76%) participants were aware about “ e-waste typically contains hazardous materials that can harm human health and the environment .” Among 312 respondents 271 (87%) responded that everyone should contribute to sustainable environment.
+
+In mean comparison, the study explored. Females are more aware about e-waste effects on human health and environment as compared to males. As compared to the people above 53 age, respondents from age bracket of 18 to 32 are more aware, with the increase in age after 32 the awareness is declining. The respondents earning below 70,000 per month in PKR are less aware as compared to the respondents earning more than 70,000 per month in PKR. Moreover, the results show awareness is directly proportional with income. Consumer awareness is increased with the increase in level of education. Students, entrepreneurs and employed respondents were more aware about e-waste effects on human health and environment as compared to unemployed. In chronological order from least to most aware metropolitan cities of Punjab are Rawalpindi, Lahore, Multan, Islamabad and Faisalabad. For details, please refer to Table 3 and 4.
+
+Note: Table 3 represents the mean comparison of consumer awareness in terms of gender, age, income, and occupation. Consumer awareness means that how much consumers are aware about e-waste effects on human health & environment. The results shows that females are more aware about e-waste effects with 0.042 mean difference, even though the results are insignificant but still we can observe difference. Respondents from age group of 18 to 52 are more aware as compared to the respondents above 52 with mean difference (0.408), which means young, tricenarian and quadragenarian consumer are more aware than quinquagenarian consumers. With a mean difference of (0.165), consumers earning more than Rs70,000 per month are well aware about e-waste effects on human health and environment compared to the consumers earning less than Rs70,000 per month. Respondents those who were unemployed are less aware as compared to the respondents who were employed, students and entrepreneurs with a mean difference of (0.405).
+
+Note: Table 4 shows mean comparison of demographics i.e., city, education, and income. Respondents from Rawalpindi with 0.167 mean are least aware about e-waste effects on human health and environment. Whereas Lahore, Multan, Islamabad and Faisalabad are significantly aware with 0.789, 0.814, 0.819 and 0.917 mean respectively. Consumers having education level of bachelor, master and PhD are relatively more aware than primary & secondary and intermediate & DAE. Consumers earning less than Rs70,000 per month are relatively less aware than consumer earning more than Rs70,000 per month. Interestingly, consumer awareness about e-waste effects on human health and environment slightly decreases when person earn more than Rs150,000 per month.
+
+Standard errors in parentheses
+
+*** p<0.01, ** p<0.05, * p<0.1
+
+4.2. Results and discussion on secondary data
+
+4.2.1. Pearson correlation
+
+According to Kusch-Brandt and Hills (2017) e-waste generation is linked with GDP. Likewise, our study confirms that e-waste generation is strongly correlated with GDP see Table 5.
+
+As GDP is considered as a standard parameter for economic development of a country. Pakistan’s economic growth is highly associated with population’s standard of living. As people grow economically their lifestyle changes and their preference towards spending on advanced EEE increases. Therefore, an increase in economic development of population leads to an increase in demand for EEE ultimately leading to e-waste generation. In the world of globalization as individuals purchasing power parity increases, they tend to spend more on electronic items because majority wants to become tech-savvy, which is why e-waste generation per capita and GDP per capita are strongly correlated. Broadly, the trend shows people spend comparatively more on EEE due to the need of time (professional/personal requirements). For economic analysis and material flow of e-waste, the GDP measure is a good parameter because the scrap of one country is a resource for other country, but unfortunately the cost of bearing e-waste in a country is lethal.
+
+Population growth is highly associated with e-waste generation (Perkins et al., 2014). Similarly, our study affirm that e-waste is strongly correlated with population growth. Population growth itself is a major problem. The exponential growth of population in Pakistan serves other problems like unemployment, health coverage, poverty, etc. Due to the lack of employment opportunities, low income and affordability people from Pakistan demand cheap electronic items. Therefore, Pakistan imports e-waste in a form of used EEE for selling and recycling which ultimately renders economic benefit at the expense of human life and environmental humiliation. Moreover, nowadays infants, toddlers and preschool children are more charmed with electronic gadgets than toys, which gives another aspect of looking how population is generating demand for electronic items.
+
+Pakistan is one of the largest importers of branded, secondhand and wasted electronic items. Therefore, e-waste generation and EEE put on market in Pakistan are strongly correlated. The branded products are treated as new EEE put on Pakistani market, second hand electronic items are repaired and further kept into the market for selling and wasted EEE are solely used to extract valuable material like copper, silver and gold. Under the name of recycling, extraction process is performed through incineration and crude processing which cause serious health and environmental hazards in the country. Today majority of youth prefers to play electronic-indoor games as compared to physical-outdoor games. The attitudinal and behavioral shift in adolescents and adults is giving a rise to the e-entertainment industry causing early obsolesces of previous electronic products with increasing demand for new electronic gadgets, ultimately leading to a vicious cycle of generating e-waste see Figure 2 and 3 for e-waste trend in Pakistan.
+
+4.3. Other contributing factors
+
+Along with e-waste, industrial waste, plastic waste, solid waste and household waste are other contributing factors in environmental degradation and human health hazards. Globally, air pollution is one of the biggest health hazard to human life. According to World Air Quality Report air pollution cause 7 million premature deaths yearly (IQAir, 2020). Nowadays, one of the most prevailing issue is Smog (smoke-fog). In industrialized countries and cities, smog is a type of intense air pollution; it consists of nitrogen oxides and other air pollutants to form ground level ozone (not the ozone which protects earth from ultraviolet radiation) when in contact with sunlight. The major sources of smog are emissions from vehicles, powerplants, factories, construction, wood burning, burning fossil fuels, chemical solvents, plastic products and charcoal starter fluid (GoC, 2020; West, 2021). Smog causes serious human health issues like eyes, nose and throat irritation, heart diseases, emphysema, asthma, lungs infection, chronic bronchitis and other respiratory infections. Moreover, it impacts the environment by inhibiting plant growth and causing damage to forests and crops (GoC, 2020; West, 2021).
+
+Globally, Asian countries are the most polluted countries in the world, especially China, India, Pakistan and Bangladesh (IQAir, 2020). As discussed above, all types of wastes emit harmful gases either in their production, usage or recycling. E-waste seems to have a small portion of other wastes, but it has significant effects on human health and environment.
+
+Pakistan is the second highest country with particulate matter (PM) 2.5 concentration in its air (IQAir, 2020). In 2020, Lahore (city in Punjab) is ranked as 18th most polluted city in the world (IQAir, 2020). During winter season Lahore experiences highest level of air pollution due to temperature/thermal inversion (a reversal of the normal behavior of temperature in the troposphere), biomass burning and agriculture burning in Pakistan and India.
+
+4.4. limitations and future work
+
+Punjab a province of Pakistan is highly populated province among other provinces (PES, 2018). Therefore, the study includes the respondents (interviews and survey) from metropolitan cities of Punjab. The primary results are specific to Punjab and there is a broad scope of similar research to be conducted in other provinces of Pakistan.
+
+5. Conclusion
+
+The study attempts to investigate e-waste effects on human health and environment. There are many diseases which are induced by e-waste and cause serious damage to human health. Mainly, asthma, respiratory, pulmonary, skin, eye, lung and inflammatory bowel diseases are induced by e-waste. Consumer awareness towards e-waste effects on human health and environment is significant and are willing to contribute towards sustainable environmental practices. Interestingly, e-waste generation is strongly correlated with gross domestic product (GDP), population and electronic products. Lastly, e-waste is not only the factor contributing to environmental degradation, but there are other influencing factors like solid waste, industrial waste, organic waste, plastic waste and so on. E-waste is a part of these wastes which plays a significant role in contaminating environment and effecting human lives.
+
+The major reason for negative effects of e-waste on human health is e-waste treatment in Pakistan. Broadly, government of Pakistan, e-waste dealers, electrical and electronic manufacturer and consumers are responsible for quadrupling e-waste in Pakistan. Therefore, government of Pakistan may design an exclusive e-waste management policy with significant implementation, describing e-waste treatment, transboundary movement, and controlling mechanism with proper guidelines for all the stakeholders. Besides e-waste policy, national environment policy needs to have strong implementation for environmental assessment to mitigate the effects of solid waste, industrial waste, organic waste, and plastic waste. Moreover, labor policy needs a strict compliance to restrict child labor and increase safety standards for adult workers in toxic work environment. If the problems are not addressed timely sooner Pakistan will face dreadful consequences on ecological system.
+
+Ethical compliance
+
+The authors declare that they have no conflicts of interest.
+
+All interviewees’ consent was taken to use their insights without quoting their names for confidentiality reasons.
+
+The survey conducted in Pakistan was abide by the Institutional Review Board (IRB) of Pakistan Institute of Development Economics (PIDE) and Lahore University of Management Sciences (LUMS).
+
+Protocol Number: LUMS-IRB/12032021Exten/SZ-00019408
+
+References
+
+Alabi, O., Bakare, A., Xu, X., Li, B., Zhang, Y., Huo, X., 2012. Comparative Evaluation of Environmental Contamination and DNA Damage Induced by Electronic-Waste in Nigeria and China. The Science of the total environment 423, 62–72. https://doi.org/
+
+Amoabeng Nti, A.A., Arko-Mensah, J., Botwe, P.K., Dwomoh, D., Kwarteng, L., Takyi, S.A., Acquah, A.A., Tettey, P., Basu, N., Batterman, S., Robins, T.G., Fobil, J.N., 2020. Effect of Particulate Matter Exposure on Respiratory Health of e-Waste Workers at Agbogbloshie, Accra, Ghana. International Journal of Environmental Research and Public Health 17. https://doi.org/
+
+Baldé, K., Forti, V., Gray, V., Kuehr, R., Stegmann, P., 2017. The Global E-waste Monitor 2017 Quantities, Flows, and Resources. United Nations University (UNU), International Telecommunication Union (ITU) & International Solid Waste Association (ISWA), Bonn/Geneva/Vienna.
+
+Bashar, 2000. Electronics industry threatened by tariff discrepancies, corruption and smuggling. Pakistan and Gulf Economist 19–25.
+
+Caravanos, J., Clark, E., Fuller, R., Lambertson, C., 2011. Assessing Worker and Environmental Chemical Exposure Risks at an e-Waste Recycling and Disposal Site in Accra, Ghana. Journal of Health and Pollution 1, 16–25.
+
+Chi, X., Streicher-Porte, M., Wang, M., Reuter, M., 2011. Informal Electronic Waste Recycling: A Sector Review with Special Focus on China. Waste management (New York, N.Y.) 31, 731–42. https://doi.org/
+
+Chung, C.-J., Huang, C.-J., Pu, Y.-S., Su, C.-T., Huang, Y.-K., Chen, Y.-T., Hsueh, Y.-M., 2008. Urinary 8-hydroxydeoxyguanosine and urothelial carcinoma risk in low arsenic exposure area. Toxicol. Appl. Pharmacol. 226, 14.
+
+Cobbing, M., 2008. Toxic Tech: Not in Our Backyard Uncovering the Hidden Flows of e-Waste. Greenpeace International, Amsterdam The Netherlands.
+
+Cong, X., Xu, X., Xu, L., Li, M., Xu, C., Qin, Q., Huo, X., 2018. Elevated biomarkers of sympatho-adrenomedullary activity linked to e-waste air pollutant exposure in preschool children. Environment international 115, 117–126. https://doi.org/
+
+Davis, J.-M., Garb, Y., 2018. A strong spatial association between e‐waste burn sites and childhood lymphoma in the West Bank, Palestine. International Journal of Cancer 144. https://doi.org/
+
+Decharat, S., Kiddee, P., 2020. Health Problems Among Workers Who Recycle Electronic Waste in Southern Thailand. Osong Public Health Res Perspect 11, 34–43. https://doi.org/
+
+Duan, H., Eugster, M., Hischier, R., Streicher-Porte, M., Li, J., 2009. Life cycle assessment study of a Chinese desktop personal computer. The Science of the total environment 407, 1755–64. https://doi.org/
+
+Forti, V., Baldé, C.P., Kuehr, R., Bel, G., 2020. The Global E-waste Monitor 2020 120.
+
+Fu, J., Zhou, Q., Liu, J., Liu, W., Wang, T., Zhang, Q., Jiang, G., 2008. High Levels of Heavy Metals in Rice (Oryza sativa L.) from a Typical E-Waste Recycling Area in Southeast China and Its Potential Risk to Human Health. Chemosphere 71, 1269–75. https://doi.org/
+
+Garcia Asuero, A., Sayago, A., González, G., 2006. The Correlation Coefficient: An Overview. Critical Reviews in Analytical Chemistry – CRIT REV ANAL CHEM 36, 41–59. https://doi.org/
+
+GoC, G.G. of C., 2020. Smog and your health.
+
+Grant, K., Goldizen, F.C., Sly, P.D., Brune, M.-N., Neira, M., van den Berg, M., Norman, R.E., 2013. Health consequences of exposure to e-waste: a systematic review. The Lancet Global Health 1, e350–e361. https://doi.org/
+
+He, X., Jing, Y., Wang, J., Li, K., Yang, Q., Zhao, Y., Li, R., Ge, J., Qiu, X., Li, G., 2015. Significant accumulation of persistent organic pollutants and dysregulation in multiple DNA damage repair pathways in the electronic-waste-exposed populations. Environmental Research 137, 458–466. https://doi.org/
+
+Huang, J., Nkrumah, P., Anim, D., Mensah, E., 2014. E-Waste Disposal Effects on the Aquatic Environment: Accra, Ghana. Reviews of environmental contamination and toxicology 229, 19–34. https://doi.org/
+
+Huo, X., Dai, Y., Yang, T., Zhang, Y., Li, M., Xu, X., 2019. Decreased erythrocyte CD44 and CD58 expression link e-waste Pb toxicity to changes in erythrocyte immunity in preschool children. Science of The Total Environment 664, 690–697. https://doi.org/
+
+Huo, X., Peng, L., Xu, X., Zheng, L., Qiu, B., Qi, Z., Zhang, B., Han, D., Piao, Z., 2007. Elevated Blood Lead Levels of Children in Guiyu, an Electronic Waste Recycling Town in China. Environmental Health Perspectives 115, 1113–1117. https://doi.org/
+
+IQAir, 2020. World Air Quality Report 2020.
+
+Iqbal, M., Breivik, K., Syed, J.H., Malik, R.N., Li, J., Zhang, G., Jones, K.C., 2015. Emerging issue of e-waste in Pakistan: A review of status, research needs and data gaps. Environmental Pollution 207, 308–318. https://doi.org/
+
+Kaya, Y., Martin, N.D., 2016. Managers in the Global Economy: A Multilevel Analysis. null 57, 232–255. https://doi.org/
+
+Kusch-Brandt, S., Hills, C., 2017. The Link between e-Waste and GDP—New Insights from Data from the Pan-European Region. Resources 6, 15. https://doi.org/
+
+Leung, A.O.W., Duzgoren-Aydin, N.S., Cheung, K.C., Wong, M.H., 2008. Heavy Metals Concentrations of Surface Dust from e-Waste Recycling and Its Human Health Implications in Southeast China. Environ. Sci. Technol. 42, 2674–2680. https://doi.org/
+
+Li, J., Lopez N., B.N., Liu, L., Zhao, N., Yu, K., Zheng, L., 2013. Regional or global WEEE recycling. Where to go? Waste Management 33, 923–934. https://doi.org/
+
+Lin, X., Xu, X., Zeng, X., Xu, L., Zeng, Z., Huo, X., 2017. Decreased vaccine antibody titers following exposure to multiple metals and metalloids in e-waste-exposed preschool children. Environmental Pollution 220, 354–363. https://doi.org/
+
+Luo, C., Liu, C., Wang, Y., Liu, X., Li, F., Zhang, G., Li, X., 2011. Heavy metal contamination in soils and vegetables near an e-waste processing site, south China. Journal of Hazardous Materials 186, 481–490. https://doi.org/
+
+Maheshwari, R.K., Rani, B., Singh, U., Bal, S.K., Mirdha, R., 2013. Dribble of E-Waste: It’s Impact on Human Health & Management Strategies for Sustainable Development.
+
+Parikh, K., 2012. Sustainable development and low carbon growth strategy for India. Energy 40, 31–38. https://doi.org/
+
+Patil, R.A., Ramakrishna, S., 2020. A comprehensive analysis of e-waste legislation worldwide. Environmental Science and Pollution Research 27, 14412–14431. https://doi.org/
+
+Perkins, D.N., Brune Drisse, M.-N., Nxele, T., Sly, P.D., 2014. E-Waste: A Global Hazard. Annals of Global Health 80, 286–295. https://doi.org/
+
+PES, 2018. Pakistan Economic Survey 2017-18. Chapter 12: Population, Labour Force & Employment. Pakistan.
+
+PTA, 2021. Pakistan Telecommunication Authority.
+
+PTA, 2014. Annual Cellular Subscribers, 2014 ed.
+
+Puckett, Jim., Smith, Theodore C.,. Basel Action Network.,. Silicon Valley Toxics Coalition.,. Toxics Link (Organization :. India), SCOPE (Pakistan), Greenpeace China.,., 2002. Exporting harm : the high-tech trashing of Asia [WWW Document]. URL http://www.ban.org/
+
+Rautela, R., Arya, S., Vishwakarma, S., Lee, J., Kim, K.-H., Kumar, S., 2021. E-waste management and its effects on the environment and human health. Science of The Total Environment 773, 145623. https://doi.org/
+
+Robinson, B.H., 2009. E-waste: An assessment of global production and environmental impacts. Science of The Total Environment 408, 183–191. https://doi.org/
+
+Sajid, M., Syed, J.H., Iqbal, M., Abbas, Z., Hussain, I., Baig, M., 2018. Assessing the generation, recycling and disposal practices of electronic/ electrical-waste (E-Waste) from major cities in Pakistan. Waste Management 84. https://doi.org/
+
+Sepúlveda, A., Schluep, M., Renaud, F.G., Streicher, M., Kuehr, R., Hagelüken, C., Gerecke, A.C., 2010. A review of the environmental fate and effects of hazardous substances released from electrical and electronic equipments during recycling: Examples from China and India. Environmental Impact Assessment Review 30, 28–41. https://doi.org/
+
+Shinkuma, T., Huong, N.T.M., 2009. The flow of E-waste material in the Asian region and a reconsideration of international trade policies on E-waste. Environmental Impact Assessment Review 29, 25–31. https://doi.org/
+
+Soetrisno, F.N., Delgado-Saborit, J.M., 2020. Chronic exposure to heavy metals from informal e-waste recycling plants and children’s attention, executive function and academic performance. Science of The Total Environment 717, 137099. https://doi.org/
+
+Song, Q., Wang, Z., Li, J., Zeng, X., 2013. The life cycle assessment of an e-waste treatment enterprise in China. Journal of Material Cycles and Waste Management 15, 469–475. https://doi.org/
+
+Step Initiative, 2014. Solving the E-waste Problem (Step) White Paper: One Global Definition of E-waste. Bonn.
+
+The world counts, 2021. Global Challenges – Tons of electronic waste thrown out.
+
+UNEP, 2010. Regional Workshop on E-Waste/WEEE Management – GEC. United Nation Environment Program.
+
+West, L., 2021. The Causes and Effects of Smog.
+
+WHO, W.H.O., 2021. Children and digital dumpsites: e-waste exposure and child health. World Health Organization, Geneva.
+
+Wong, M.H., Wu, S.C., Deng, W.J., Yu, X.Z., Luo, Q., Leung, A.O.W., Wong, C.S.C., Luksemburg, W.J., Wong, A.S., 2007. Export of toxic chemicals — A review of the case of uncontrolled electronic-waste recycling. Environ. Pollut. 149, 131.
+
+Xu, L., Huo, X., Liu, Y., Zhang, Y., Qin, Q., Xu, X., 2020. Hearing loss risk and DNA methylation signatures in preschool children following lead and cadmium exposure from an electronic waste recycling area. Chemosphere 125829.
+
+Yu, Y., Lin, B., Liang, W., Li, L., Hong, Y., Chen, X., Xu, X., Xiang, M., Huang, S., 2018. Associations between PBDEs exposure from house dust and human semen quality at an e-waste areas in South China–A pilot study. Chemosphere 198, 266–273. https://doi.org/
+
+Yuan, J., Lan, Chen, D., Guo, H., Bi, X., Ju, Y., Jiang, P., Shi, J., Yu, Z., Yang, J., Li, L., Jiang, Q., Sheng, G., Fu, J., Wu, T., Chen, X., 2008. Elevated Serum Polybrominated Diphenyl Ethers and Thyroid-Stimulating Hormone Associated with Lymphocytic Micronuclei in Chinese Workers from an E-Waste Dismantling Site. Environ. Sci. Technol. 42, 2195–2200. https://doi.org/
+
+Zady., M.F., 2000. Correlation and simple least squares regression.
+
+Zhang, Y., Xu, X., Chen, A., Davuljigari, C., Zheng, X., Kim, S., Kim, N., Ho, S.-M., Reponen, T., Huo, X., 2017. Maternal urinary cadmium levels during pregnancy associated with risk of sex-dependent birth outcomes from an e-waste pollution site in China. Reproductive Toxicology 75. https://doi.org/
+
+Zhao, K., Liu, X., Xu, J., Selim, H.M., 2010. Heavy metal contaminations in a soil–rice system: Identification of spatial dependence in relation to soil properties of paddy fields. Journal of Hazardous Materials 181, 778–787. https://doi.org/
+
+Zheng, G.J., Leung, A.O.W., Jiao, L.P., Wong, M.H., 2008. Polychlorinated dibenzo-p-dioxins and dibenzofurans pollution in China: Sources, environmental levels and potential human health impacts. Environment International 34, 1050–1061. https://doi.org/

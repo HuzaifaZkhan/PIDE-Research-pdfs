@@ -1,0 +1,61 @@
+Pakistan is heading towards crucial general elections scheduled for February 2024. The significance of these elections cannot be overstated, particularly considering the nation’s precarious economic circumstances. The country grapples with low economic growth, soaring inflation rates, widespread unemployment and an environment characterised by policy uncertainty. The outcome of these elections holds the potential to shape Pakistan’s economic trajectory in the years to come. Evidence suggests that political instability significantly and substantially reduces economic growth 4 to 7 percent[1]. Political strikes and protests cost up to 3% of GDP per year in Pakistan. This direct economic loss is three times greater than the total expenditure on social protection (only 1 percent of GDP)[2].
+
+Economic Challenges :
+
+Low Growth : Pakistan faces the challenge of low economic growth (-0.6 percent in 2022)[3], underscoring the urgency of a robust and stabilising governance framework.
+
+High Inflation : With inflation rates surpassing 27%[4], there is a pressing need for economic policies that can effectively curb rising prices and ensure the affordability of essential goods and services.
+
+Massive Unemployment : The country confronts a severe unemployment crisis (8.5 percent in 2023)[5], requiring comprehensive strategies to stimulate job creation and provide livelihood opportunities. This estimated ‘jobs gap’ grew to 2.4 million in 2023 (ILO, 2023)
+
+Policy Uncertainty : A climate of policy uncertainty prevails, hampering investor confidence and hindering long-term economic planning and development.
+
+PIDE MacroPolicy Lab conducted an X-Poll, posing the question: ‘Do you believe the upcoming elections in Pakistan will contribute to restoring macroeconomic stability?’ Around 55 percent respondents expressed skepticism, citing a lack of trust in the electoral process as a primary concern. Participants emphasised the critical link between free and fair elections and political stability, asserting that the nature of the elections would significantly impact macroeconomic outcomes. One respondent stated, ‘Depends on the nature of elections; free and fair elections certainly provide political stability, which is paramount for macroeconomic stability.’ Another respondent emphasised, ‘Depends on elections.’ The sentiment echoed by many underscores the pivotal role of transparent and equitable elections in fostering economic stability, with one participant succinctly noting, ‘If the elections aren’t free and fair, then it is impossible to restore stability.’
+
+Public Expectations . Given this backdrop, the upcoming general elections are met with exceptional expectations and concerns from the public. The electorate anticipates a transformative leadership that can navigate the complexities of the economic landscape, instill confidence, and enact policies that foster stability and growth.
+
+Survey Findings . The PIDE Macro Policy Lab (MPL) conducted an online poll on the social media platform X to gauge public sentiments regarding the forthcoming elections and their perceived impact on macroeconomic stability. The survey revealed noteworthy insights:
+
+Trust Deficit in Electoral Process : Only 25% of respondents believe that the elections will contribute to macroeconomic stability, signaling a significant trust deficit. A substantial 55% of respondents expressed skepticism, emphasizing concerns about the fair representation of their preferences in the electoral process.
+
+Expectations and Economic Decision-Making : Respondents underscored the pivotal role of fair elections in shaping economic decisions, highlighting the interconnectedness of political credibility and economic stability.
+
+Way Forward
+
+Considering the poll results, it is imperative for the government, the Election Commission of Pakistan (ECP), and other relevant stakeholders to take strategic measures to rebuild trust in the electoral process. This includes short term measures described below:
+
+Transparency in Electoral Processes : Implementing transparent and technology-based solutions in the voter registration process to enhance openness, robustness and accessibility.
+
+Preventing Intimidation and Fraud : This can be achieved by establishing robust measures such as establishing an online portal for complaints, developing a code of conduct for contesting candidates and deploying the presiding officers for the elections two weeks before the elections to identify any potential for malpractice and plug it thereby preventing voter intimidation and fraud to foster a secure and fair electoral environment.
+
+Civil Society and International Oversight : Engaging civil society organisations, media, and international observers to monitor the entire electoral process not just on election days but days leading to it as well is crucial in ensuring accountability, transparency, and acceptability in the masses.
+
+Communication by Election Commission of Pakistan : There is a dire need of improving communication with the public about measures taken to ensure free, fair, timely, and transparent elections. ECP needs to broaden its focus from just the candidates and parties and include the masses as well in terms of how the system works, what are the responsibilities of the stakeholders and finally how representation can be optimal only if participation is maximised.
+
+Caretaker Setup’s Stance : Those at the helm of affairs should articulate a clear and unequivocal stance on the importance of free and fair elections for the country’s economic future. Only a representative government can make structural changes in laws and institutions and this need should be communicated frequently to the masses.
+
+Besides these short-term measures PIDE has been working on Electoral Reforms[6] and broadly the long-term road map for reforms should include:
+
+Introduce Staggered Elections : Every year must be an election year in the form of staggered elections i.e. federal and provincial elections must not be held at the same time, while local government elections must be constitutionally mandated after regular intervals as well.
+
+Direct Elections for Senate : The members for the upper house of Parliament must also be elected directly by the people to ensure that the members of the senate remain accountable to the public instead of just their political party’s interest.
+
+All seats must be contested: The reserved seats must not be allotted through nominations by parties based on their general seat victories. Instead, the candidates for the reserved seats must also be voted upon by the public.
+
+Use of technology for transparent process: Ensuring voting transparency is an important part for free and fair elections. E-voting procedures through EVM or otherwise must be tested and introduced for the purpose.
+
+Conclusion : As Pakistan approaches the critical juncture of the upcoming general elections, addressing the concerns of the masses, also highlighted by the survey, becomes paramount. By implementing these measures, the government and the ECP can pave the way for a more stable and prosperous economic future, reassuring the public and fostering a positive environment for the impending electoral process.
+
+The author is an Associate Professor at the Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+[1] https://www.econstor.eu/bitstream/10419/269231/1/1838864911.pdf
+
+[2] https://pide.org.pk/blog/economics-of-political-strikes/
+
+[3] https://www.imf.org/en/Countries/PAK
+
+[4] https://www.sbp.org.pk/publications/Inflation_Monitor/2023/Oct/IM_Oct_2023.pdf
+
+[5] https://www.ilo.org/wcmsp5/groups/public/—asia/—ro-bangkok/—ilo-islamabad/documents/briefingnote/wcms_893724.pdf
+
+[6] https://pide.org.pk/research/electoral-politics-in-pakistan-law-parties-and-the-need-for-innovation/

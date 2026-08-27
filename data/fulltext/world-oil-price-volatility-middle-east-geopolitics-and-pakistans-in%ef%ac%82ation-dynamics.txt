@@ -1,0 +1,245 @@
+Key Message: A three-month Hormuz closure is predictable to increase the oil price between $120 to $150 per barrel, potentially rising Pakistan’s monthly petroleum import bill to about $3.5–4.5 billion, and driving CPI from 7% to 17%. Given Pakistan’s around 80-85% dependence on Gulf oil and the absence of large strategic reserves, urgent measures including immediate oil hedging, energy import diversification, and a temporary ban on the export of essential household goods, are critical to insulate the economy from crippling inflationary pressures.
+
+EXECUTIVE SUMMARY
+
+Global oil prices have been increased due to the escalation of the US–Israel war with Iran, influenced by amplified geopolitical risk around the Strait of Hormuz, a corridor which transports about 20 percent of global seaborne oil trade. Due to this uncertainty crude oil prices rise by about 30 percent in early March 2026[1], demonstrating a growing geopolitical war premium rather than purely market fundamentals.
+
+Due to heavy reliance on imported energy, Pakistan remains highly vulnerable. Petroleum products account for around 30 percent of total imports, and data-based estimates suggest that every $10 per barrel rise in the price of oil increases Pakistan’s annual oil import bill by almost $1.8–2.0 billion. The price shock also passes directly into domestic inflation mainly through higher transport, the prices of food and energy. A three-month closure of the Strait of Hormuz can temporarily increase global oil prices to $120–150 per barrel. Under these circumstances, monthly oil import bill of Pakistan can triple to about $3.5-4.5 billion, whereas inflation could climb toward 15% to 17% from 7% recorded in February 2026.
+
+1. Introduction
+
+“Pakistan’s energy lifeline is under siege.” Pakistan faces immediate risks of skyrocketing import bills, surging inflation, and widening trade deficits due to its heavy dependence on imported crude oil from Gulf countries shipped via the Strait of Hormuz. Recent discussions with Saudi Arabia on an alternative supply route through the Red Sea and the port of Yanbu signal proactive steps, yet this arrangement is limited by constrained capacity, higher transport costs, and longer delivery times, making it a short-run but costly solution. Combined with limited domestic strategic reserves and heavy reliance on imported petroleum, Pakistan’s macroeconomic stability remains highly exposed to short-term supply shocks and price spikes. This policy viewpoint examines these vulnerabilities and proposes actionable measures to safeguard energy security, mitigate inflationary pressures, and protect external balances in the face of escalating Middle East tensions.
+
+2. Comparative Perspective: Regional Peer Countries
+
+Pakistan’s import vulnerability is highly exposed as petroleum products account for about 30% of total imports among the regional peers, due to limited export diversification and weaker external buffers. India gains from strong foreign exchange reserves, strategic petroleum reserves (SPR), and a diversified export base, which helps cushion external shocks. Bangladesh depend on comparatively stable foreign exchange earnings. Sri Lanka demonstrates the risks of weak buffers, where high oil dependence contributed to severe macroeconomic instability during its recent crisis.
+
+Table 1: Regional Oil Vulnerability Comparison
+
+Country
+Oil Import Share (%)
+FX Reserves Strength
+Shock Absorption
+
+India
+22
+Strong
+Relatively High
+
+Bangladesh
+25
+Moderate
+Moderate
+
+Pakistan
+30
+Weak–Moderate
+Low
+
+Sri Lanka
+28
+Weak
+Very Low
+
+Source : Compiled by author from PBS, SBP, IMF, and World Bank data (2026)[2].
+
+Note: Color Coding: Light Green (India: best-in-class), Yellow (Bangladesh: moderate), Light Red Pakistan/Dark Red Sri Lanka: high vulnerability).
+
+These comparisons highlight the significance of strengthening Pakistan’s energy security and macroeconomic resilience. On the other hand, India has stayed comparatively insulated in the short term after getting a temporary one-month waiver from the United States to import Russian oil, permitting it to become stable supplies and manage volatility in prices. Pakistan maintains petroleum stocks adequate for about 10–14 days of consumption, while India holds significantly larger buffers of around 65–70 days, giving it far larger capacity to withstand global oil supply disruptions.
+
+For Pakistan, mitigating the risk of severe oil shortages needs urgent diversification of supply routes and sources, containing enhanced energy cooperation with Saudi Arabia, the UAE, and alternate shipping corridors. For the meantime, broader global trade dynamics are more tilting the balance in India’s favor. U.S. tariff policies and the emerging India–EU trade partnership are strengthening India’s export competitiveness and external sector resilience, while Pakistan’s limited export diversification and constricted foreign exchange constraints leave it more bare to external shocks and increasing energy costs.
+
+3. Global Oil Price Dynamics and Forward Markets
+
+Pakistan imports roughly 80-85% of its total petroleum requirements, with the majority sourced from a small group of Middle Eastern countries. Pakistan’s major crude oil import sources include:
+
+United Arab Emirates: ~50–56% of crude imports
+
+Saudi Arabia: ~30–35%
+
+Kuwait: ~4%
+
+Others: minor shares from Oman, Russia, and spot market purchases
+
+Transport Route Vulnerability: Nearly all of Pakistan’s oil imports follow a single maritime route: Persian Gulf → Strait of Hormuz → Arabian Sea → Karachi / Port Qasim.
+
+Saudi, Kuwaiti, and most UAE oil exports originate in the Persian Gulf basin, tankers must pass through the Strait of Hormuz before reaching Pakistan’s ports. Subsequently, any blockade, military confrontation, or shipping disruption in the strait directly disturbs Pakistan’s energy supply chain. Under current war between US-Israel and Iran, disruptions could occur through:
+
+Reduced tanker traffic or naval blockades
+
+Higher shipping insurance and freight costs
+
+Delays in cargo loading and delivery
+
+Temporary suspension of exports from Gulf terminals
+
+Even short-term interruptions could delay shipments by 2-3 weeks and force alternative routes like Saudi Yanbu (Red Sea), increasing transport costs by 150-200% and delivery time from 2-3 to 4-6 days due to longer routes and Red Sea congestion.
+
+Implications for Pakistan; Pakistan relies on a single region and a single maritime corridor for most of its oil imports, the current conflict creates four immediate risks:
+
+Physical supply disruptions due to halted tanker movement.
+
+Sharp price increases from geopolitical risk premiums.
+
+Higher freight and insurance costs, raising Pakistan’s import bill and widening the trade deficit.
+
+Direct Impact on the Petroleum Import Bill, 10$ per barrel increase the annual import bill by approximately $1.8–2.0 billion, accounting for crude, refined products, and associated shipping and insurance costs. (State Bank of Pakistan, 2025)
+
+This structural reliance on Gulf oil transported through the Strait of Hormuz makes Pakistan one of the most visible energy-importing economies to the ongoing Middle East conflict.
+
+Table 2: Key Historical Peaks and Events
+
+Date/Event
+Brent Price ($/bbl.)
+Trigger / Impact
+
+Jul 2008 (Financial Crisis)
+147 (peak)
+Demand surge/supply fears
+
+Apr 2011 (Arab Spring)
+120 (peak)
+Libya disruptions
+
+2014 Oil Crash
+115 → <50
+Oversupply; relieved Pakistan imports
+
+2020 COVID Shock
+< 20 (brief)
+Demand collapse
+
+Mar 2022 (Russia-Ukraine)
+120 (peak)
+Sanctions/invasion, globally inflation
+
+Mar 2026 (Hormuz Tensions)
+92 (ongoing)
+US-Israel-Iran conflict
+
+Figure 1. World Crude Oil Prices (Jan 2004 – March 2026)
+
+3.1. Tightening Global Supply and Domestic Energy Risks
+
+Oil futures markets reveal heightened uncertainty over short-term supply among escalating Middle East tensions, reflecting past geopolitical crises. Spot prices now float around $92, though three-month futures close $110, indicating an emerging contango and raised risk premiums due to tighter supply expectations. Pakistan’s vulnerability is serious, given its reliance on Gulf suppliers for 80-85 percent of crude imports and inadequate strategic reserves covering just 10–14 days of consumption. While alternative pipelines and bypass routes exist, their combined capacity of roughly 5 million barrels per day falls far short of the 17–20 million barrels normally transiting the strait of Hormuz, meaning even a brief disruption could severely affect supply predictability and market stability in Pakistan.
+
+Table 3. Projected Brent Price Ranges by Duration
+
+Disruption
+Brent Peak Estimate
+Key Drivers
+
+1-2 Weeks
+$82-110/bbl
+Insurance hikes; partial rerouting
+
+1 Month
+$110-120/bbl
+Reserves depletion; spare capacity locked
+
+3 Months
+$120-150/bbl
+Supply shock triples 1970s-embargo impact
+
+Source : Global Forecasts Bloomberg, CNBC, U.S. Energy Information Administration. (2025). Short-term energy outlook (March 2026): Global crude oil price projections; Capital Economics scenarios
+
+4. Fuel Shock Alert: Pakistan Economy on the Brink of Inflation Surge
+
+4.1 Inflationary Transmission
+
+Previous Patterns: Global oil price spikes have historically been linked with sharp inflationary pressures in Pakistan. During major oil shocks in 2008, 2011, and 2022, when Brent crude prices jumped to approximately $147, $120, and $120 per barrel, respectively Pakistan’s consumer price inflation (CPI, YoY) climbed to about 25 percent, 14 percent, and 24.5 percent. These episodes highlight the strong pass-through of global energy price shocks to Pakistan’s domestic price levels.
+
+Current 2026 Risks: Domestic fuel prices have already increased PKR 55 per liter, demonstrating a 20–24% increase, which intensifies inflation through higher transport, logistics, and production costs. Ongoing geopolitical tensions, particularly potential Strait of Hormuz disruptions less than three months, could push Brent crude to $100–110 per barrel can more push CPI toward 7–17%.
+
+Policy Implications: The inflationary outcome depends on supply disruption duration and intervention of government. Strategic measures, comprising targeted subsidies, tax adjustments, and careful pricing policy, are critical to mitigating second-round inflation, which might otherwise replicate or exceed previous energy crisis levels.
+
+4.2. Direct Impact on the Petroleum Import Bill
+
+Pakistan’s petroleum import bill is highly sensitive to global crude price variations. Pakistan imports roughly 130,000–150,000 barrels per day of crude oil, whereas overall petroleum demand exceeds 450,000 barrels per day, signaling a high dependence on imported energy supplies. According to State Bank of Pakistan data, petroleum imports totaled $12.8 billion in the first 10 months of FY2025-26, marking a 3% year-on-year increase. Further geopolitical tensions in the Persian Gulf are also rising shipping insurance cost and freight costs, which could add approximately $120–160 million annually to Pakistan’s petroleum import expenses.
+
+Table 4: Oil Price Transmission to Pakistan’s Import Costs
+
+Global Brent Price Change
+Estimated Annual Import Cost Impact
+
++$5 per barrel
+$0.8–1.0 billion
+
++$10 per barrel
+$1.8–2.0 billion
+
++$20 per barrel
+$3.6–4.0 billion
+
+Source: State Bank of Pakistan (SBP) 2025 and author’s calculation.[3]
+
+4.3 Impact on Current Account
+
+Geopolitical tensions in the Persian Gulf and potential disruptions in the Strait of Hormuz could push Brent crude from $92 per barrel toward $100–110 or higher, whereas domestic fuel prices have already increased by PKR 55 per liter. Even moderate price increases can add $1.8–2.0 billion annually to Pakistan’s petroleum import bill.
+
+In a severe three-month disruption scenario, global prices could spike more, growing monthly import costs and considerably widening the current account deficit. This would intensify domestic inflation, weaken foreign exchange buffers, and drive the current account deficit up by $5–7 billion or by 20–30 percent of fiscal deficit under prolonged supply shocks. Given that Pakistan’s FX reserves currently cover only about two weeks of oil imports, the economy remains highly exposed to sustained energy price volatility, underscoring the urgent need for strategic reserves, diversification, and policy measures.
+
+Table 5: Macroeconomic Effects of Oil Price Increases Across Scenarios
+
+Indicator
+Moderate Price Shock ($10/bbl. increase)
+Current scenario 2026 ($92-110+/bbl. PKR 55
+Severe Shock (3-Month Hormuz Disruption)
+
+Inflation
++0.5–0.6 pp
++10–15%
++15–18%
+
+Oil Import Bill
++$1.8–2.0 B annually
++$8–10 B annually
++$18–36 B annually
+
+Current Account Deficit
+Moderate Widening
++$5-7 B
++10-13 B (20-30% rise)
+
+Total Imports-FY26
+~$66 B
+Rising Import Pressure
+Significant Trade Deficit
+
+Source: Author-compiled projections based on SBP trade data, PBS inflation metrics[4],
+
+5. Policy Recommendations
+
+Short-Term Actions – Immediate Supply Protection
+
+Daily PSO Monitoring: Track tanker arrivals,
+
+Stocks (target >14 days), activate Red Sea/Yanbu routes for Saudi/UAE cargoes
+
+Fuel Rationing: Mandatory work-from-home (50% office capacity), odd-even vehicle rules in major cities if stocks <10 days
+
+Source Diversification: Oil import from other countries e.g., Russia, for short-term (just like India)
+
+Expected Impact: Saves $1-1.5B import bill, limits CPI to +8-10% vs 17%+
+
+Medium-Term Actions- Structural Resilience
+
+Strategic Reserves: 60-day target (add 20M barrels via $2B Saudi facility)
+
+Hedging Program: PSO hedges 20% volume at $90/bbl. cap via SG/Dubai exchanges (save $800M/year)
+
+Expected Impact: Cuts import bill 15-20% ($3-4B savings), CPI pass-through halved to 0.3pp/$10 rise
+
+5. Conclusion
+
+Pakistan’s dependence on Gulf oil, reliance on the Strait of Hormuz, and inadequate strategic reserves leave its economy highly exposed to global oil shocks and Middle East tensions. A potential three-month disruption could abruptly rise import costs, increase inflation from 7% to 17%, and widen the current account deficit, threatening macroeconomic stability. Immediate actions—strengthening strategic reserves, diversifying supply routes, implementing targeted hedging, and short-term fiscal measures are vital to alleviate these risks.
+
+Having just begun economic stabilization under the IMF program, Pakistan faces the challenge of protecting growth and fiscal space from unexpected oil supply shocks. In the medium to long term, expanding renewable energy, improving energy efficiency, and developing alternative import channels can progressively reduce vulnerability. With timely and coordinated policy action, Pakistan can turn this exposure into an opportunity to enhance energy security, stabilize the economy, and build resilience against future disruptions.
+
+[1] $76 to $94/bbl. in early march 2026.
+
+[2] Pakistan Bureau of Statistics (PBS), Annual Analytical Report on External Trade Statistics FY2023–24; State Bank of Pakistan (SBP) Balance of Payments data 2025; World Bank Commodity Markets Outlook (2026). Reuters 2026a 2026b, 2026c, 2026d and international datasets (EIA/BP/Worldometer). European Commission. (2026). EU-India trade agreement.
+
+[3] Data extract from Oil Companies Advisory Council, latest Jul-Jan FY26 data via reports and sectoral sales, Oil & Gas Regulatory Authority, petroleum reports, Trade Commissioner GC.ca, CEIC 2025/26 data, Trade Development Authority of Pakistan. (2022). Trade analyses.
+
+[4] State Bank of Pakistan. (2025). Balance of payments: Import payments by commodities FY2025 (Jul-Apr). Pakistan Bureau of Statistics. (2026). Monthly economic indicators: Trade data and inflation pass-through (Feb 2026). Trade Development Authority of Pakistan, Govt. of Pakistan.

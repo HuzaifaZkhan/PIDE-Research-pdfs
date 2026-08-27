@@ -1,0 +1,21 @@
+Executive Summary
+
+Electricity billing irregularities are common among distribution companies (DISCOs) in Pakistan. The electricity system has faced a financial deficit for about 18 years, mainly due to high technical and non-technical losses, and outdated infrastructure affects electricity supply reliability.
+
+Energy is a complex field that requires smart solutions. Utilities worldwide are adopting smart billing systems to reduce losses, enhance accuracy, and improve reliability. Experience shows that smart meters can help minimise losses and inform consumers about their electricity usage.
+
+The study outlines the existing manual billing system, highlighting its inconsistencies, challenges, and costs. Based on a survey of 2,000 consumers, including households, businesses, and industries in Rawalpindi, Islamabad, Lahore, Multan, Faisalabad, and Sukkur, the study found that 79 per cent of the respondents were willing to switch to an advanced metering system and pay for this transition.
+
+In another survey of 800 consumers—400 from LESCO and 400 from MEPCO—the study found that smart meters were ineffective where consumers’ consent and opinions were overlooked. Effective outcomes require prior knowledge of smart meters.
+
+In regions where these conditions are fulfilled, consumers tend to be significantly more satisfied as their billing discrepancies diminish, electricity supplies become increasingly reliable, and they can lower their electricity consumption. The study found that consumers using smart meters and increased awareness can achieve an average electricity savings of up to 17 per cent.
+
+If consumers assume responsibility for the initial costs associated with smart meters, the study estimated that the payback period for various types of smart meters will remain within two years. In other words, there are potential net benefits in the remaining life of the smart meter. Improving the Efficiency of the Electricity Billing System in Pakistan From the utilities’ perspective, LESCO’s projected savings with smart meters (AMR) from FY2016-17 to FY2023-24 on three loss-making 11KV feeders (Ali Hajvari, Madina Town, and Sabzi Mandi) were found to be PKR 960 million. Similarly, MEPCO generated PKR 2.2 billion of extra revenue in 11 months with 150,000 smart meters.
+
+The study suggests that a smart meter is the solution for checking billing irregularities, reducing power sector losses, and improving grid reliability. Consumers are willing to invest in smart electricity meters provided they are aware of their potential benefits. They should have the option of selecting between one-time payment or monthly instalment plans on their electricity bills.
+
+Significant variations exist in the prices of imported smart meters compared to those sold by local vendors. An open market for smart electricity meters should be established, mirroring the framework of the smartphone market. Consumers must be free to choose the smart meter that best meets their preferences and system specification standards.
+
+As the nationwide deployment of smart meters commences and market competition intensifies, economies of scale are expected to drive down their prices.
+
+Empowering consumers is critical for unlocking smart meters’ full potential. This objective can be achieved by integrating a mobile application that operates in conjunction with smart meters.

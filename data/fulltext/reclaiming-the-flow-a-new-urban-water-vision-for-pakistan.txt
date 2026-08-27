@@ -1,0 +1,203 @@
+Decentralized Solutions for Urban Resilience
+
+Executive Summary
+
+Pakistan is continuously oscillating between urban ﬂooding and water supply shortages. The declining groundwater levels, coupled with rising population pressures, changing weather patterns, and ineﬃciencies of centralized piping systems, increase this stress on water resources.
+
+In this brief, we examine decentralized water management systems, speciﬁcally rainwater harvesting and greywater reuse, and showcase their viability in enhancing water security. Studies show that these systems are capable of meeting up to 50% of the urban water demand. In the case of Nawabshah, a catchment area of 13,431m² demonstrated a 1,062m³ annual rainwater harvesting potential. These systems help boost climate resilience as well. In Cairo, a greywater treatment plant showed a remarkable reduction of more than 90% in pollutants such as chemical oxygen demand (COD) and biochemical oxygen demand (BOD).
+
+Although promising, the adoption of such systems in Pakistan is unfortunately stagnant. Proven pilots exist but lack scaling. In order to realize true urban water sustainability, we need to start embedding these decentralized systems into our urban planning frameworks. Their successful adoption requires a coherent governance structure with strong regulations, uniﬁed building codes, incentives for compliance, and rigorous monitoring.
+
+Introduction
+
+Pakistan’s urban sustainability revolves around the issue of water security. The situation has worsened over the decades, with per capita water availability dropping from over 5600m³ since independence to 1000m³ by 2010 (UNDP, 2017). A rising urban population (projected to increase to 52.2% by 2050) has placed additional pressure on water supplies (Maqbool, 2025).
+
+In addition, infrastructure weaknesses also worsen the situation, with Karachi reportedly losing 43% of the supplied water due to leaks and theft (Tabassum, 2020). Even positive eﬀects of traditional and centralized solutions (dams) have been oﬀset by negative social, economic, and environmental impacts (Purvis & Dinar, 2020). Moreover, changing climate and weather patterns also disrupted the supply of fresh water.
+
+Under these conditions, Pakistan is forced to ﬁnd alternative approaches to help alleviate its water scarcity. Decentralized approaches of rainwater harvesting (RWH) and greywater reuse (GWR) can provide ﬂexible, cost-eﬀective, and scalable solutions (Mancy et al. 2025).
+
+These systems can signiﬁcantly relieve the pressures on central utilities and provide better climate resilience (Water Care Services, 2025). Such technologies help minimize supply costs by storing and treating water close to where its eventually used (Ecosoftt, 2025).
+
+In this brief, we look into numerous RWH and GWR trial initiatives, piloted by various private, donor, and government bodies. We see whether these systems are feasible and what needs to work for potential large-scale adoption.
+
+We also identify the barriers to the successful broad-scale implementation of these types of systems in the future, and highlight success stories of other countries to better understand what is possible. By accessing both national and international examples we identify key gaps in current water management policies (regulatory aspects, ﬁnancial aspects, and institutional mechanisms), and recommend diﬀerent steps to mainstream the future use of decentralized water management systems.
+
+Theoretical Foundations
+
+Decentralized water management systems store and use water close to points of consumption. Due to the nature of such setups, households and institutions become proactive agents in water management (Khan, 2025). As such they help lower cities’ reliance on traditional supply (large dams) or treatment systems reducing pressure on municipalities (Water Care Services, 2025).
+
+R ainwater harvesting (RWH) involves collecting rainwater for direct usage or recharge of groundwater through rooftop tanks or inﬁltration pits. This system reduces risks of urban ﬂooding by reducing runoﬀ: a positive externality (Farreny et al., 2011). A study in Indonesia recorded a
+
+58% runoﬀ reduction within a 7,095m² catchment area (Hardanto et al. 2023). Moreover, rainwater was studied to be of better quality than groundwater (Tabassum, 2025).
+
+G re ywater reuse (GWR) works by re-using the slightly treated household water for non-potable purposes (ﬂushing toilets and watering gardens). This approach reduces wastewater volumes and treatment costs. Studies indicate that GWR can supply 30–50% of non-potable urban demand (Eriksson et al., 2002). Being less contaminated than black-water, treated greywater can be used without risking hygiene (Sree, 2021). Further, Xue et al. (2022) noted that on-site greywater treatment can reduce overall energy consumption by over 50%.
+
+Empirical Evidence from Pakistan
+
+At the urban scale , Pakistan’s water balance is under severe stress. Per-capita availability is already past the scarcity level and further decreasing at an exponential rate (UNDP 2017). Furthermore, Pakistan treats only 1-2% of wastewater before discharge (Parveen et al., 2023). The following table summarizes current water management systems for major cities.
+
+Table 1. Water Management for Major Urban Centers
+
+Sources: Author’s compilation based on data from PCRWR (2023); UNDP (2023); WASA Karachi/Lahore 2024 reports; Murtaza et al. (2023).
+
+This outlook shows a very poor wastewater treatment infrastructure in Pakistan. This lack of attention is reﬂected when water prices don’t include these costs (Ecosoftt, 2025).
+
+However, these gaps are being realized and concepts of RWH and GWR have moved beyond theory. Multiple government agencies, NGOs, and private actors have piloted a range of decentralized initiatives.
+
+Table 2. Pilot Evidence of Decentralized Water Initiatives in Pakistan
+
+Sources: Author’s compilation based on data from UN-Habitat & CDA (2024), Pakistan Council of Research in Water Resources (PCRWR) (2023), Urban Unit Punjab (2023). Government of Punjab EPA (2025), WWF-Pakistan (2023), Water Care Services(WCS) Case Studies (2023), Kumar, V., et al. (2022), Mahmood, K., Qaiser, A., & Farooq, S. (2022).
+
+This evidence indicates that such systems are practical and technically feasible. Eﬀorts such as those by UN-Habitat show positive returns as the CDA report’s improved groundwater levels (Khan, 2025). Similarly, small-scale projects (WWF-Pak) also indicate their suitability. Furthermore, private bodies and independent research also strengthen the argument. However, the uptake is still slow due to weak government regulations and lack of incentives. Monitoring gaps further cause hurdles for replication and scaling.
+
+Knowledge Gaps
+
+Among the critical shortcomings, institutional clarity and overlap are most prominent. Pakistan suﬀers from up to 17 diﬀerent federal and provincial agencies with overlapping mandates, resulting in up to 42% duplication of projects and eﬀorts (Begum & Ali, 2025). A snapshot of diﬀerent dimension gaps is as follows.
+
+Table 3. Key Operational Gaps in Scaling RWH and GWR in Pakistan
+
+Source: Author’s synthesis based on interviews with UN-Habitat and WCS (2025); Institutional mapping from CDA, WASA, and EPA frameworks; and secondary sources including UNDP (2023) and WWF Pakistan (2023).
+
+Next section highlights how countries around the world have tried and succeeded overcoming these challenges of institutional regulation and social adaptability.
+
+International Perspectives
+
+Many countries that had faced water crises before have overcome them by expanding their national frameworks to include decentralized water management systems. The success of these systems lies in their adaptive governance, ﬁscal incentives, and institutional clarity.
+
+Table 4. International Models of Decentralized Urban Water Management: Lessons for Pakistan
+
+Source: Author’s compilation based on data from Government of India (2022), Sarkar, D. (2023), Patel, M. et al. (2023), FAO (2020), PUB (2023), Tortajada, C., & Bindal, I. (2020), OECD (2015), Abdel-Shafy, H. et al. (2024), Lam, M. et al. (2022), Lanchipa-Ale, T. et al. (2024), Domènech, L., & Saurí, D. (2011), and Schramm, E., & Felmeden, J. (2012).
+
+Implications for Practice and Policy
+
+These examples showcase the importance of coordination, targeted ﬁnancing, and accountability for ensuring urban water resilience. The following steps can help translate pilots into mainstream practice.
+
+Source: Authors’ estimation through extrapolation based on HIES datasets (2015-16 and 2018-19).
+
+Conclusion
+
+Water security, if left unchecked poses a great threat to Pakistan’s national security and stability. The exponential decrease in groundwater levels indicate that if this trend continues we might cross the absolute water scarcity threshold level (500m3 per capita). In addition, changing climate, outdated infrastructure, and urban sprawl all erode water availability.
+
+The urgency of this situation is being realized and eﬀorts are being made. Innovative decentralized approaches of rainwater harvesting and greywater reuse have been employed and tested throughout the country. Findings from these pilots indicate movement in the right direction, with global cases reinforcing the narrative.
+
+Such systems seem to shrink the demand-supply gap while providing scalable, reliable, and cost-eﬀective solutions to urban water shortages. They also increase resilience against climate variability and reduce demand pressures on central utilities.
+
+However, to fully realize their potential, the policy approach will require a set of clearly sequenced interventions, instead of broad commitments. We can begin by establishing a nationally mandated coordination mechanism (through the Ministry of Climate Change) to align institutional roles for monitoring and maintenance of existing pilot programs. In addition, uniform building codes across all provinces should require rainwater harvesting and greywater reuse systems for the approval of their layout plans (LOPs) and no objection certiﬁcates (NOCs). Finally, green ﬁnancing instruments, compliance linked incentives, and a national water data system could support improved aﬀordability, accountability, and sustained adoption of interventions over the long term.
+
+References
+
+Abdel-Shafy, H., Makki, A., & Mansour, M. (2014). Greywater treatment via hybrid integrated systems for unrestricted reuse in Egypt. Journal of Water Process Engineering, 1, 101–107. https://doi.org/10.1016/j.jwpe.2014.04.001
+
+Ahmed, A., Mustafa, U., & Khalid, M. (2011). Rooftop rain water harvesting technology and women time allocation in District Bagh and Battagram Pakistan. The Pakistan Development Review, 50(4),
+
+459–470. http://www.jstor.org/stable/23617712
+
+Ahmed, A., & Farooq, A. (2018). Study of rainwater harvesting potential in an industrial area using stormwater management model (SWMM V 5.0) – A case study of Quaid-E-Azam Apparel Park, Sheikhupura, Punjab, Pakistan. International Journal of Environmental Engineering, 9(2). https:/ /www.scribd.com/document/432513140/IJEE090207-AHMED-193769
+
+Begum, S., & Ali, A. (2025). Water Scarcity in Pakistan: Analyzing Its Political, Social, And Economic
+
+Impacts. Indus Journal of Social Sciences, 3(2), 431–440. https://doi.org/10.59075/ijss.v3i2.1275
+
+Bhanu Sree, N. (2021). A low-cost decentralized grey water recycling system for toilet ﬂushing. In
+
+Al Khaddar, N. D. Kaushika, S. Singh, & R. K. Tomar (eds.), Advances in energy and environment
+
+142, 95-102. https://doi.org/10.1007/978-981-33-6695-4_9
+
+Debasis, S. (2023). Life cycle costing analysis of grey water recycling systems for commercial and residential projects of Ahmedabad, India. Materials Today: Proceedings, 77(1), 254–259. https://doi.org/10.1016/j.matpr.2022.11.298
+
+Domènech, L., & Saurí, D. (2011). A comparative appraisal of the use of rainwater harvesting in single and multi-family buildings in the metropolitan area of Barcelona. Journal of Cleaner Production, 19(6–7), 598–608. https://doi.org/10.1016/j.jclepro.2010.11.010
+
+Eriksson, E., Auﬀarth, K., Henze, M., & Ledin, A. (2002). Characteristics of grey wastewater. Urban
+
+Water, 4(1), 85–104. https://doi.org/10.1016/S1462-0758(01)00064-4
+
+Farreny, R., Gabarrell, X., & Rieradevall, J. (2011). Cost-eﬃciency of rainwater harvesting strategies in dense Mediterranean neighbourhoods. Resources, Conservation and Recycling, 55(7), 686–694. https://doi.org/10.1016/j.resconrec.2011.01.008
+
+Government of India. (2021). Jal Shakti Abhiyan: Annual report 2020–2021. Ministry of Jal Shakti. https://master-jalshakti-ddws.digifootprint.gov.in/static/uploads/2024/02/Annual-report-2020-2
+
+021-eng.pdf
+
+Hardanto, A., Mustofa, A., & Ardiansyah. (2023). Rain water harvesting technology: Drinking water fulﬁllment and water conservation nearby landﬁll area. In Proceedings of the 4th International Conference on Sustainable Agriculture and Environment (IOP Conf. Ser.: Earth Environ. Sci., Vol.
+
+1155, 012011). IOP Publishing. https://doi.org/10.1088/1755-1315/1155/1/012011
+
+Irvine, K., Chua, L., & Eikaas, H. (2014). The Four National Taps of Singapore: A holistic approach to water resources management from drainage to drinking water. Journal of Water Management Modeling, 22. https://doi.org/10.14796/JWMM.C375
+
+Kumar, V., Mukwana, K. C., Jatoi, A. R., Hassan, M., Jakhrani, A. Q., Siyal, A. A., Zaman, K. U., & Kumar, L. (2022). GIS-based analysis of a rainwater harvesting system in the multipurpose hall of Quaid-e-Awam University of Engineering, Science, and Technology. Engineering, Technology & Applied Science Research, 12(4), 8837–8842. https://doi.org/10.48084/etasr.4995
+
+Leigh, N., & Lee, H. (2019). Sustainable and resilient urban water systems: The role of decentralization and planning. Sustainability, 11(3), 918. https://doi.org/10.3390/su11030918
+
+Mahmood, K., Qaiser, A., Farooq, S., et al. (2020). RS- and GIS-based modeling for optimum site selection in rain water harvesting system: An SCS-CN approach. Acta Geophysica, 68, 1175–1185. https://doi.org/10.1007/s11600-020-00460-x
+
+Mancy, H., Ghannam, N. E., Abozeid, A., & Taloba, A. I. (2025). Decentralized multi-agent federated and reinforcement learning for smart water management and disaster response. Alexandria Engineering Journal, 126, 8-29. https://doi.org/10.1016/j.aej.2025.04.033
+
+Maqbool, N. (2025). Pakistan’s urban water challenges and prospects. The Pakistan Development
+
+Review, 63(3), 449–462. https://doi.org/10.30541/v63i3pp.449-462
+
+McGranahan, G., Walnycki, A., Dominick, F., Kombe, W., Kyessi, A., Limbumba, T., Magambo, H., Mkanga, M., & Ndezi, T. (2016). Universalising water and sanitation coverage in urban areas: From global targets to local realities in Dar es Salaam, and back. https:/ /www.iied.org/10812iied National Water Conservation Strategy for Pakistan (2023–2027). (2023). Pakistan Council of Research in Water Resources. https://pcrwr.gov.pk/wp-content/uploads/2023/02/National-Water-Conservation-Strategy-for- Pakistan-2023-27.pdf
+
+Organization for Economic Co-operation and Development (OECD). (2015). Water and cities: Ensuring sustainable futures. OECD Publishing. http://dx.doi.org/10.1787/9789264230149- en Parveen, F., & Khan, S. J. (2023). Wastewater treatment in Pakistan: Issues, challenges and solutions. In M. Ahmad (Ed.), Water policy in Pakistan: Issues and options 30, 323-349. https://doi.org/10.1007/978-3-031-36131-9_12
+
+Punjab State of Environment Report. (2024). Punjab Environmental Protection Department. https://epd.punjab.gov.pk/system/ﬁles/Final%20Draft%20of%20SoE%20%2818-07-2025%29%
+
+20edited%20%282%29.pdf
+
+Purvis, L., & Dinar, A. (2020). Are intra- and inter-basin water transfers a sustainable policy intervention for addressing water scarcity? Water Security, 9, 100058. https://doi.org/10.1016/j.wasec.2019.100058
+
+Rainwater harvesting for groundwater recharge in Islamabad: Fact sheet. (CDA). Pakistan Council of Research in Water Resources & Capital Development Authority. https://pcrwr.gov.pk/wp-content/uploads/2023/08/Rainwater-Harvesting-for-Groundwater-Rec harge-in-Islamabad-1.pdf
+
+Shah, S. A., Khan, D. M., Qayuum, I., & Ashar, M. (2020). Assessment of rain water harvesting system: Case study Sheikhul Bandi Abbottabad. Sir Syed University Research Journal of Engineering & Technology, 9(2). https://sirsyeduniversity.edu.pk/ssurj/rj/index.php/ssurj/article/view/132
+
+Siddiqui, R., Javid, K., & Ahamad, M. I. (2023). Identiﬁcation of suitable sites for rainwater and stormwater harvesting through spatial analysis and smart sustainable urban water infrastructure in Lahore, Pakistan. Water Science and Technology, 88(12), 3119–3128. https://doi.org/10.2166/wst.2023.372
+
+Tabassum, R., Arsalan, M. H., Mumtaz, F., et al. (2020). Sustainable urban water conservation strategy for a planned city of a developing country: A perspective from DHA City Karachi. Arabian Journal of Geosciences, 13, 1203. https://doi.org/10.1007/s12517-020-06180-2
+
+Tortajada, C., & Bindal, I. (2020). Water reuse in Singapore: The new frontier in a framework of a circular economy? In Water reuse within a circular economy context (pp. 55–67). UNESCO P u b l i s h i n g . https:/ /www.researchgate.net/publication/345641720_Water_Reuse_in_Singapore_The_New_Fr ontier_in_a_Framework_of_a_Circular_Economy
+
+United Nations Development Programme (UNDP). (2023). Development advocate Pakistan. https://ﬁles.acquia.undp.org/public/migration/pk/553334d9b60c67a75df68de0f287e9349f5a7
+
+3edf42e2c971fa8f708af5dd08b.pdf
+
+United Nations Development Programme (UNDP). (2017). The vulnerability of Pakistan’s water sector to the impacts of climate change: Identiﬁcation of gaps and recommendations for action (pp.
+
+120–124). https://ﬁles.acquia.undp.org/public/migration/pk/Report.pdf
+
+Urban Grey Water Recycling at a District-Scale – A case study at Anderson Road Quarry site development, Hong Kong. (2022). https://doi.org/10.3850/IAHR-39WC252171192022817
+
+Urban Unit. (2024). Pilot study: Rooftop rainwater harvesting in Murree. Planning & Development Board, Government of Punjab. https://urbanunit.gov.pk/Download/Procurement/1100%20HH%20RWH%20MURREE%20-%2
+
+0BID%20DOCUMENT%20FINAL%2010082024.pdf
+
+Water Care Services. (2022). Sustainable wastewater management in the beverage industry: A case study. https://watercareservices.org/pharmaceutical-eﬄuent-treatment-case-study/
+
+Water Care Services. (2023). Pharmaceutical eﬄuent treatment: A case study. https://watercareservices.org/pharmaceutical-eﬄuent-treatment-case-study/
+
+Water Care Services. (2022). The textile industry eﬄuent challenge in Pakistan. https://watercareservices.org/textile-industry-eﬄuent-treatment/
+
+World Health Organization (WHO). (2006). Guidelines for the safe use of wastewater, excreta and greywater (Vol. 4). https:/ /www.who.int/publications/i/item/9241546859
+
+World Wide Fund (WWF) & Australian Aid. (2023). Knowledge series: Ablution water reuse system (Issue no. 5). https://wwfasia.awsassets.panda.org/downloads/knowledge-series-issue—ablution-water-reuse
+
+-system.pdf
+
+World Wide Fund for Nature (WWF) & PepsiCo. (2023). Community water stewardship: Replenishing groundwater resources in Lahore and Multan.
+
+https: /wwfasia.awsassets.panda.org/downloads/project-brief—replenishing-ground-water-reso urces_1.pdf
+
+World Wide Fund for Nature Pakistan (WWF). (2023). Water stewardship leaﬂet. https://wwfasia.awsassets.panda.org/downloads/wwf-pakistan-water-stewardship-leaﬂet.pdf
+
+Acknowledgments
+
+We gratefully acknowledge the following individuals for their insights, shared through interviews conducted between July 10–20, 2025:
+
+Mr. Javaid Ali Khan, Project Manager, UN-Habitat
+
+Mr. Abdul A. Khurram, Director Technical, Water Care Services
+
+Mr. Johnson Paul, Mr. Zhon Keong Tan, and Mr. Yiing Siong Bong, Meinhardt Group
+
+Mr. Marcus Lim, Co-Founder & CEO, Ecosoftt Singapore
+
+Dr. Rabia Tabassum, Assistant Professor, FAST Karachi

@@ -1,0 +1,233 @@
+Preface
+
+Due to concerns over carbon emissions and volatility in fossil fuel prices, there has been a renewed interest in nuclear energy worldwide as a solution to growing energy demands (Vegel and Quinn, 2017). Currently, fossil fuels comprise 63% of Pakistan’s commercial energy supplies, while the remaining 37% is derived from renewables (including hydro)(28%) and nuclear power(9%) (GOP, 2023).
+
+Global Nuclear Energy Expansion
+
+For centuries, fossil fuels remained the dominant source of energy globally. It was in the 1950s that commercial nuclear power stations started operations. With this, an avenue for nuclear energy opens, reducing oil and gas import dependency in many countries. Several countries embarked on nuclear power programs after the 1970s energy crisis (dramatic surge in global oil prices). Most Nuclear Power Reactors (NPRs) were constructed from 1970 to 1985.
+
+As of August 16, 2023, nuclear energy meets around 10% of global energy demand, with 408 currently operational NPRs with a capacity of 366736 MW in 31 countries (Figure 1). In addition, 57 new NPRs are under construction (IAEA, 2023).
+
+France stands out among 31 countries, generating 63% of its electricity through nuclear power. It began expanding its nuclear power industry in the 1970s to reduce dependence on foreign oil and lower emissions[2]. Ukraine and the Slovak Republic follow France for depending on NPRs for more than 50% of electricity generation (Figure 1).
+
+____________
+
+[1] The author thanks Dr. Nadeem ul Haque, Vice Chancellor PIDE, for reviewing the document.
+
+[2] By increasing its reliance on nuclear power, France reduced its fossil-based CO2 from the power industry from 112 MtCO2/year in 1980 to 34.7 Mt CO2/ year in 2021 (Crippa et al., 2022).
+
+____________
+
+Dependability
+
+Nuclear power plants can operate for up to 18 months without refueling. Additionally, they can store fuel on-site for an additional 18 months without incurring extra costs (GOP, 2023). Due to this, nuclear power plants are less susceptible to price fluctuations and supply chain disruptions. Furthermore, they minimize the risks of grid disruptions caused by weather events. Nuclear power also has the highest reliability or capacity factor. For example, in 2021, nuclear power in the US had a capacity factor of over 92%, compared to coal (49.3%), natural gas (54.4%), wind (34.6%), and solar (24.6%)[3].
+
+Eco-Friendly
+
+It is not a renewable energy source because of its dependence on a chemical – uranium. While uranium can be found in rocks worldwide, power plants need a specific type, uranium-235, which has limited supplies (Patapati, 2022). However, it is a clean energy source with negligible greenhouse gas emissions. Its CO2 equivalent emissions are even less than some renewable energy sources (Figure 2).
+
+_________
+
+[3] https://www.energy.gov/ne/articles/what-generation-capacity#:~:text=The%20Capacity%20Factor&text=It%20basically%20measures%20how%20often,of%20the%20time%20in%202021.
+
+_________
+
+A primary environmental concern regarding nuclear power is creating radioactive waste, including uranium mill tailings, used reactor fuel, and other radioactive materials. However, the radioactivity of nuclear waste decreases over time through a process called radioactive decay. Radioactive waste with a short half-life[4] is often temporarily stored before disposal to decrease potential radiation doses to personnel handling and transporting the waste while reducing radiation levels at disposal sites[5].
+
+Additionally, although nuclear plants produce toxic nuclear waste, the amount produced is negligible. The amount of nuclear waste produced in 70 years equals what coal plants produce in an hour. Nuclear fuel is highly dense and contains enormous energy in a small amount (Perch Energy, 2022).
+
+Compared to solar and wind, nuclear power plants require significantly less land. One estimate suggests that a wind farm needs 360 times more land to generate the same energy as a nuclear power plant, while solar requires 75 times more land area (cited from Perch Energy, 2022).
+
+________
+
+[4] The time duration for the radioactivity of radioactive material to reduce to half its original level is referred to as the radioactive half-life.
+
+[5] https://www.eia.gov/energyexplained/nuclear/nuclear-power-and-the-environment.php
+
+________
+
+Economics of Nuclear Power Plant
+
+Nuclear power plants are expensive to build (CAPEX) but cheap to run. Safety costs, including waste disposal and decommissioning costs, are included in their operating costs[6]. Nuclear energy is even more economical than fossil fuels when considering social, health, and environmental costs. System costs for nuclear power are much lower than for intermittent renewables[7].
+
+Repaying the initial investment each year is more expensive due to the technical complexity of these plants and the strict licensing and design requirements they must meet. Building a new nuclear power plant involves hiring highly qualified specialists, which can take many years and add to financing costs. Delays caused by design changes or lawsuits can further increase financing charges, which may even exceed the actual construction costs in some cases.
+
+Over the past few decades, the costs of nuclear plants have increased. Many of these costs result from the indirect expenses of constructing plants, such as engineering, management, and supervision. In addition, these costs have risen due to increased safety regulations. However, the cost constraints have been reduced through the small modular nuclear reactors (SMRs) ((Box 1).
+
+Box 1. Small Modular Reactors (SMRs)
+
+· SMRs can produce up to 300 MW of electric power.
+
+· Cost-effective for smaller electricity grids.
+
+· Easy to transport and install to meet demand in the market at any remote or distant location; specific SMR designs can replace diesel generators in small islands or remote regions.
+
+· It can be deployed as a single or multi-module plant with advanced safety measures.
+
+· Provides flexible power generation for a broader range of users and applications (even for non-electrical use, providing heat for industrial processes, hydrogen production, or seawater desalination).
+
+· Can be replaced with aging fossil-fired units.
+
+· Has improved safety performance.
+
+· Moderate financial commitment compared to large nuclear power reactors.
+
+· Can achieve improved thermal efficiencies through cogeneration, resulting in better returns on investment.
+
+· SMRs have lower fuel requirements. Unlike traditional plants that require refueling every 1 to 2 years, SMRs may only need to be refueled every 3 to 7 years. Some SMRs are designed to operate for up to 30 years without refueling.
+
+While SMRs have lower upfront capital cost per unit, their economic competitiveness is yet to be proven.
+
+Source: IAEA, 2020,
+
+https://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs
+
+___________
+
+[6] Nuclear power expenses consist of capital and operating costs. Capital expenses comprise site preparation, engineering, manufacturing, construction, commissioning, and financing while operating expenses include fuel costs (from uranium mining to fuel fabrication), maintenance, decommissioning, and waste disposal.
+
+[7] Source: World Nuclear Association
+
+___________
+
+Despite having large capital investment, the levelized cost of electricity generated through nuclear power plants is less than coal or gas power plants.
+
+Pakistan Nuclear Power Capacity
+
+Pakistan has six nuclear power reactors (NRPs) with a capacity of 3,530 MW, contributing about 27 percent of the total electricity generation in the national grid in December 2022. All these plants are pressurized water reactors (PWR), the technology mainly used worldwide. China has assisted Pakistan’s civil nuclear energy program since the late 1970s by helping construct nuclear power plants (Khalid, 2020).
+
+Box 2. History Of Pakistan’s Nuclear Power Industry
+
+· 1955: The Pakistan Atomic Energy Committee was established.
+
+· 1956: To develop nuclear technology and regulate the use of radioactive substances, the Atomic Energy Council was established. It was tasked with procuring, supplying, manufacturing, and disposing of radioactive materials. The Council also conducted surveys for radioactive minerals. They created comprehensive plans to explore and mine uranium, construct nuclear research and power reactors, and utilize other applications of nuclear technology.
+
+· Pakistan started its nuclear program in 1965 with a 5 MW research reactor at the Pakistan Institute of Nuclear Sciences and Technology (PINSTECH). The construction of this research complex was initiated in 1961. The project was designed by Edward D. Stone and won the 1966 American Society of Landscape Architects (ASLA) Professional Award for design excellence.
+
+· In 1961, the Pakistan Atomic Energy Commission (PAEC) created a nuclear minerals division to aid in Pakistan’s geological surveys. During that same year, the search for uranium began. This search was for nuclear minerals and to establish milling processing facilities. The survey concluded that the Siwaliks of Suleiman Range (Dera Ghazi Khan)_ uranium favorable .
+
+· 1964, aerodynamic surveys were conducted.
+
+· 1965, the Pakistan Atomic Energy Commission (PAEC) was given a legal cover by promulgating the PAEC Ordinance.
+
+· Pakistan established a nuclear safety division within PAEC, which became the Directorate of Nuclear Safety and Radiation Protection after the Pakistan Nuclear Safety and Radiation Protection Ordinance 1984. The Pakistan Nuclear Regulatory Authority was created to oversee regulatory affairs and separate promotion and regulatory functions by promulgating the Pakistan Nuclear Regulatory Authority Ordinance in 2001.
+
+Source: Sultan et al. (2015); https://inis.iaea.org/collection/NCLCollectionStore/_Public/21/020/21020770.pdf#page=11 ; and https://www.pnra.org/history.html
+
+Pakistan constructed its first nuclear power plant, KANUPP, in Karachi in 1972[8]. After its shutdown in August 2021, KANUPP’s infrastructure and knowledge supported the development of reliable nuclear power reactors in Pakistan. KANUPP, a Pressurized Heavy Water Reactor (PHWR), was built with Canada’s assistance. However, all six new generations of nuclear plants in Pakistan are Pressurized Water Reactors (PWR) designed and constructed with the help of China (Government of Pakistan, 2023).
+
+__________
+
+[8] In 1959, Canada and Pakistan signed an agreement for nuclear cooperation that included the installation of a 137 MW CANDU-style power reactor named KANUPP. Later, in 1969, a deal was struck between Canada, Pakistan, and the IAEA, with the IAEA being responsible for safeguarding the KANUPP reactor. The reactor commenced commercial operations in 1972 (Sultan et al., 2015).
+
+__________
+
+NPRs accounted for only 8.6% of Pakistan’s installed generation capacity from July to March FY2023. However, due to the high-capacity factor of NRPs, they generated 21% of the country’s electricity in the same period (Figure 4). In December 2022, nuclear was the leading source of electricity generation, with a share of 27%, followed by hydro (20.4%) and coal (18.1%) (Table 3). Nuclear has the highest capacity utilization rate. In FY2021, the average capacity utilization rate of nuclear energy was at 72%, followed by hydro (45%), thermal (38%), wind (27%), solar (19%), and Bagasse (15%) (PBS, 2022).
+
+Nuclear energy is significant in Pakistan’s electricity generation mix due to its dependable nature and consistently low energy costs (Table 3a). Most of the cost of nuclear power comes from capital costs, which are fixed, so nuclear plants are usually operated continuously to supply baseload power, as was the case in Pakistan in December 2022. No doubt, the capacity costs of nuclear plants are higher than those of local coal and gas power plants (Table 3b), but they have much lower energy costs and a much larger operating life.
+
+Over the decades, the nuclear power industry has significantly improved its performance and operational safety worldwide. In addition to developing reactor technology in Pakistan, the nuclear power industry is also focused on improving regulations and learning from past events. The Pakistan Nuclear Regulatory Authority (PNRA) is an independent national regulator responsible for implementing these regulations. The Pakistan Atomic Energy Commission (PAEC)[9] conducts Periodic Safety Reviews with the help of experts from the nuclear industry and international peers. Furthermore, the PAEC regularly organizes courses to promote and ensure a safety culture at all levels[10].
+
+__________
+
+[9] The Pakistan Atomic Energy Commission was established in March 1956 to develop nuclear technology, regulate, procure, supply, and manufacture all radioactive substances, and conduct surveys for radioactive minerals. It became a lawful entity following an act of parliament in 1965.
+
+[10] https://paec.gov.pk/Parameters/Safe/
+
+__________
+
+Pakistan Trade Potential in Nuclear Energy
+
+Pakistan has developed its civil nuclear fuel cycle with the support of China, independent of its nuclear weapons. Due to its weapons program, Pakistan is not a member of the Nuclear Non-Proliferation Treaty[11], limiting its potential to trade or access nuclear materials (uranium) and hindering indigenous development of civil nuclear energy[12].
+
+Over the past three decades, China has installed four nuclear power generation units in Chashma, with a net generation capacity of 1230MW, and began the construction of a fifth one with a capacity of 1200MW (Table 1). C-5 will be Pakistan’s largest generation-III plus nuclear power project (Box 3).
+
+Despite not being a significant player in the global uranium market, Pakistan has plans to increase the use of nuclear energy in power generation significantly; the availability of uranium will play a key role in Pakistan’s nuclear future (Sultan et al., 2015).
+
+Between 1993 and 2005, the production of weapons-grade uranium (enriched to 90 percent uranium-235 or greater) in Pakistan increased (Akhtar et al., 2015). However, despite this increase and ongoing efforts, the evidence suggests Pakistan is experiencing a uranium shortage. Based on assessments of only Khushab reactors in Pakistan, four reactors operating at about 70% efficiency may need 70 tU per year. Hanhum et al. (2018) cited that Pakistan only mines about 45 tU annually. It means Pakistan already uses more uranium than it produces to operate its four Khushab reactors. Adding Chashma nuclear reactors means Pakistan’s demand for uranium is much more. Enriched fuel for the power reactors is currently imported from China[13].
+
+The shortage of uranium has prompted the Pakistan Atomic Energy Commission (PAEC) to initiate costly exploration drilling projects in the Kirthar mountain range, the Kohat plateau, and the Potwar plateau. To aid in this effort, the PAEC signed a technical cooperation contract with the China National Nuclear Corporation (CNNC) in July 2017 for uranium resource exploration and development (Hanhum et al., 2018).
+
+Box 3. Evolution of C-5 and its Challenge
+
+· In April 2015, the Strategic Plans Division signed a framework agreement for C-5.
+
+· PAEC and their Chinese counterparts signed a commercial agreement in November 2017.
+
+· Due to the strategic nature of the project, the C-5 was included in the committed projects in IGCEP 2019 and 2022.
+
+· The IGCEP (2022-31) was primarily based on the least cost principle. Therefore, C-5 was labeled a candidate project because of its high upfront cost. The plan did not fully consider other factors, such as the lower operational costs and longer lifespan, to support the baseload.
+
+· In June 2023, China began its construction with advanced safety and foolproof security features.
+
+· It is estimated to cost a minimum of US$ 3.7 billion, with roughly 85% Chinese credit. Cost has escalated by more than 50 % since its planning. China’s Import and Export Bank is expected to provide a major part of the financing.
+
+· The location of C-5 is strategically important due to its proximity to load centers; its transmission costs are lower than other baseload options, such as Thar coal plants or large hydro projects (with similar CAPEX) (Dasu and Diamer Bhasha).
+
+· Being eco-friendly, it is a better baseload option.
+
+· However, the only challenge is that the system’s existing capacity is surplus. If the existing capacity remains underutilized, it escalates the capacity cost component in the consumer-end tariff. For FY2024, these costs will be around Rs 2 trillion. C-5 addition may offset plans to include renewable power plants in the system to keep the capacity burden under control. By the time C-5 is completed and added, with all other factors constant, this will further increase the capacity challenge.
+
+Source: IGCEP 2022, Ghumman (2023), and NEA (2023)
+
+Note: Tariff details are not publicly available
+
+_________
+
+[11] The Treaty aims to facilitate the use of nuclear technology for peaceful purposes by constraining the development and production of nuclear weaponry.
+
+[12] https://world-nuclear.org/information-library/country-profiles/countries-o-s/pakistan.aspx#ECSArticleLink1
+
+[13] https://world-nuclear.org/information-library/country-profiles/countries-o-s/pakistan.aspx
+
+_________
+
+Key Takeaways
+
+Pakistan desires to join the Nuclear Supplies Group (Khalid, 2020). After completing this task, harnessing the potential for nuclear energy trade will be easier. Pakistan has developed significant expertise in building, operating, and designing nuclear reactors, resulting in a safe and reliable nuclear power industry that meets global standards. However, diplomatic efforts are needed to join the Nuclear Supplies Group.
+
+In Pakistan, 25% of the population still has no access to electricity, and more than 90% of the rural population relies on non-commercial energy sources. Per capita energy consumption is one of the lowest in the world, at only 17.1 gigajoules per capita, higher than only Bangladesh and some African countries. The biggest challenge in improving access to energy is the need for more infrastructure, particularly in rural areas where grid coverage is limited and connecting to the grid can be expensive. In locations where transmission lines and grid capacity are inadequate or without access to the grid, SMRs can be a good option for providing reliable baseload support to renewable energy resources.
+
+Microreactors are more efficient, cost-effective, safer, and offer greater process control than traditional reactors. They also produce reactions more quickly and with better yields. In addition, SMRs can be produced on-site and on-demand, making them an ideal solution for delivering clean electricity to industry or other economic activities and the population in remote areas.
+
+Constructing large nuclear plants can be costly despite their dependability, safety, and low energy costs. Even if energy prices remain low, the capacity purchase price will rise with any new addition, such as C-5. However, notwithstanding the high capacity costs, nuclear plants have an operation life of almost 60 years, longer than fossil fuel and other renewable power plants, except for hydro plants. At the same time, it is crucial to be transparent when finalizing any new power purchase agreement by clearly defining the tariffs or incentives provided. This will allow for an independent assessment to be conducted beforehand.
+
+Pakistan currently has sufficient electricity generation capacity, but the costs of generating electricity have increased due to a reliance on imported fuels, dollar-denominated payments, rising interest rates, and financial difficulties. This has led to higher consumer tariffs, frequent power outages, and mounting circular debt. Boosting energy use in productive activities is crucial to alleviate the burden of capacity payment challenges in the coming years.
+
+In the future, Pakistan can augment its nuclear energy production while concurrently integrating renewable sources to promote a greener future.
+
+References
+
+Akhtar, S., Yong, Y. X., and Yue, W. F. (2015). Uranium Deposits and Resources Potential in Pakistan: A Review. Sci. Int. Lahore, 27(2), 1293-1296.
+
+Crippa, M. et al. (2022). CO2 emissions of all world countries – 2022 Report, EUR 31182 EN, Publications Office of the European Union, Luxembourg, 2022, ISBN 978-92-76-55802-6, doi: 10.2760/07904, JRC130363.
+
+Ghumman, M. (2023). $5bn Chasma-5 N-plant to produce power at Rs 20 per unit: Country has swallowed a bitter pill? https://www.brecorder.com/news/40252138 .
+
+GOP (2023). Pakistan Economic Survey 2022-23, Finance Division, Government of Pakistan.
+
+Hanham, M., Liu, G., Rodgers, J., McIntosh, B., Rowlan, M., Best, M., Milne, S., and Lepinard, O. (2018). Monitoring Uranium Mining and Milling in India and Pakistan through Remote Sensing Imagery. CNS Occasional Paper No. 41. James’s Martin Center for Nonproliferation Studies.
+
+IAEA (2020). Advances in Small Modular Reactor Technology Developments. IAEA Advanced Reactors Information System (ARIS) http://aris.iaea.org .
+
+IAEA (2023). Power Reactor Information System (PRIS). www.iaea.org.
+
+Igini, M. (2023). The Advantages and Disadvantages of Nuclear Energy. https://earth.org/the-advantages-and-disadvantages-of-nuclear-energy/#:~:text=While%20nuclear%20energy%20may%20be,tens%20of%20thousands%20of%20years .
+
+Khalid, A. (2020). China-Pakistan Nuclear Energy Cooperation: History and Key Debates. https://southasianvoices.org/china-pakistan-nuclear-energy-cooperation/
+
+MIT (2018). The Future of Nuclear Energy in a Carbon-Constrained World. MIT Energy Initiative.
+
+Moghal, M. Y. (n.d.). Current Uranium Activities in Pakistan. https://inis.iaea.org/collection/NCLCollectionStore/_Public/33/003/33003346.pdf?r=1&r=1
+
+NEA (2023). Uranium 2022: Resources, Production and Demand. No. 7634, a joint report by Nuclear Energy Association in collaboration with International Atomic Energy Agency, OECD.
+
+Patapati, S. (2022). Is Nuclear Energy A Renewable Resource? http://large.stanford.edu/courses/2022/ph241/patapati1/
+
+PBS (2022). Trends in Electricity Generation. Pakistan Bureau of Statistics, Ministry of Planning, Development, and Special Initiatives, Government of Pakistan.
+
+Perch (2022). Is Nuclear Energy Renewable Or Sustainable? Pros & Cons. Perch Energy. Can be accessed at https://www.perchenergy.com/blog/energy/is-nuclear-energy-renewable-sustainable .
+
+Sultan, M., Jaspal, Z.N., Riaz. M., Hashmi, J., Hashmi, J., and Hassan, . (2015). DIIS Report 2015:08.
+
+Vegel, B. and Quinn, J. C. (2017). Economic Evaluation of Small Modular Nuclear Reactors and the Complications of Regulatory Fee Structures. Energy Policy, 104, 395-403.

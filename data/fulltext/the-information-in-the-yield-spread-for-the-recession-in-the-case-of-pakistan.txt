@@ -1,0 +1,7 @@
+ABSTRACT
+
+Yield spread is positively linked with future economic expansion to a certain extent, and it has been observed that an inverted yield curve is an indication of recession. The primary purpose of this study is to investigate the effect of yield spread (calculated as the difference between the weighted average rates of return on 5-year deposits and the 3-month rates of return) on the economic activity of Pakistan while incorporating other macroeconomic factors as well.
+
+To measure recession and expansion probabilities Hamilton’s (1989) Markov switching model has been used. After that, the impact of yield spread on recession is analysed by applying the ARDL bounds testing approach, based on 40 years of data ranging from 1980 to 2020. The result shows that the yield spread is positively associated with the probability of a recession. Therefore, whenever there is an increase in yield spread, we expect a recession rather than economic growth. In contrast, the control variables like migration and foreign direct investment reduce the chance of a recession in an economy. Moreover, price level increases the probability of a recession in the country.
+
+For Full Text Download PDF

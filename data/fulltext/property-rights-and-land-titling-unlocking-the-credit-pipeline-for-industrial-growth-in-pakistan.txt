@@ -1,0 +1,83 @@
+Every industrial growth requires investment, and investment, in turn, requires security of asset ownership. The security of ownership requires a functioning land titling system that guarantees rights to the property. The first is an aspiration that largely remains unfulfilled in Pakistan, the second is structurally nonexistent and the third has never been legislatively or institutionally addressed in the country. The system in Place not only deters investment but also prevents access to the collateral required for manufacturing expansion, which is the primary mechanism through which developing economies achieve sustainable structural transformation.
+
+In the fiscal year 2025, the industrial activities contributed 18.07 percent to the GDP of Pakistan, a figure that has stagnated and has barely moved over more than a decade. Manufacturing, which can be regarded as an engine of every successful industrial economy, share in GDP is 11.79 percent, again barely moving, see figure 1 below. And even though Pakistan possesses a young and growing labor force, strategic geographic positioning, along with decades of industrial tradition in several industries. The country failed to achieve manufacturing-led industrialization that has visibly transformed economies in South and Southeast Asia.
+
+The standard policy diagnoses are well known, which include high energy tariffs, macroeconomic volatility, political instability, low factor productivity, and a business environment that is not conducive to the survival of firms, let alone growth. All of these, coupled with the weak rule of law, inadequate intellectual property rights, and taxation that changes every now and then, act as a primary deterrent of investment in the country. The constraints are real, but they are second-order constraints imposed on a first-order institutional deficiency that the country could never succeed in addressing in mainstream policy discourse or otherwise: the country does not have a working land titling system.
+
+Figure 1
+
+Source: Pakistan Economic Survey, 2024-2025
+
+Issue with Rights
+
+Pakistan does not operate a land titling system, but rather a land record apparatus, which was designed by the British colony to extract revenue, not to confer rights. The patwari system was a fiscal instrument, the record of rights, the mutation registrar, and the transfer deed regime currently in place were all conceived in the revenue paradigm. Even all the reforms are aimed at the digitization of the current system without changing its legal status.
+
+Entries in the record of rights “Shall be presumed to be true until the contrary is proved”[1]. In a similar fashion, deed registration does not equate to registration of title[2]. The third instrument in the current system is even weaker, mutation entries, since they are not part of the record of rights, and they don’t even provide a presumption of truth[3]. Hence, revenue records are not title documents and resultantly, the country at present is devoid of title registration of property[4].
+
+Missing credit pipeline
+
+Across the globe in almost every industrialized economy, land serves as the primary form of collateral. The collateral function requires that the title can be verified by the lender and easily liquidated in the event of default. However, this condition cannot be reliably exercised in Pakistan. Since the titles are not guaranteed by the state, requires an extensive scrutiny exercise for validation and are not insured. Unclear titles mean that the banks won’t provide credit against the titles, and hence, the land can not be used in the credit markets to raise capital.
+
+The credit constraint may limit manufacturers’ investment[5], which is not only due to insufficient supply but also due to the absence of bankable collateral. When firms are unable to pledge land as collateral, the reliance is on unsecured credit or credit backed by current assets. Which in turn bifurcates the credit markets, the credit is then mostly short-term and is secured at high cost against working capital assets (i.e., inventory, receivables, etc.). The manufacturing sector absorbed 54 percent[6] of all private sector loans outstanding in February 2026. The industry is clearly not shut out by the banks; banks do lend to manufacturers. The composition of this lending is where the problem reveals itself, most of the lending is dominated by short-term facilities that are against receivables, inventory financings, bill discounting, and letter of credit against trade flows. All of these are secured against current assets. None of these requires land titles. What land unlocks is categorically different: long-term investment credit. It is basically the credit that would finance industrial capacity expansion, technological upgrading, new plant construction, etc. This is the credit market failure that would be addressed by reforming the land titles and ensuring property rights. International evidence shows this mechanism, where secure land titles unlocked significant long-term credit for industrial investment. In China, the government rolled out land certification programs, and the impact on entrepreneurship and firm investment was substantial. Where business creation in treated counties increased by 4 percent compared to untreated counties. The business created in response to this reform showed higher quality, which was measured by survival rates and job creation, showing that the credit channel led to more productive investments. Moreover, rural enterprises significantly improved their ability to access land-backed credit, which was followed by the titling reform[7]. The result of industrial investment is severe. Without access to long-term credit collateralized by land. Firms may either self-finance through retained earnings or access expensive short-term credit, which is not suitable for long-term assets or forgo investment entirely.
+
+The real estate credit data makes this gap visible, where the loans to real estate activities only account for 0.39 percent, and for the construction sector it is 1.97 percent of total loans to the private sector, and this hasn’t moved much over the years, see figure 2 below.
+
+Figure 2
+
+Source: State Bank of Pakistan
+
+Since land is Pakistan’s single largest asset class by value, and in any functioning land titling economy with clear property rights, it is one of the largest credit categories. Given the scale of the real estate market, its almost disappearance from the formal credit market is what an absent collateral mechanism suggests. Pakistan’s mortgage to GDP ratio is 0.3 percent, one of the lowest in the region, against South Asia’s average of 3.4 percent[8]. The share in Malaysia is 44% and that of Thailand is 20 percent[9].
+
+Mortgage loan to GDP ratio
+
+Pakistan
+India
+Bangladesh
+Indonesia
+Singapore
+Malaysia
+
+0.20%
+11.20%
+1.90%
+5.10%
+33%
+44.40%
+
+Source: House Building Finance Company Limited. (2025).[10]
+
+Disputes and Investment
+
+Investment in any industrial activity starts with land, and all land related investments ought to be legally certain and insurable, which is currently a risky exercise in Pakistan. Since no guaranteed rights are provided, the investment is susceptible to litigation and can be easily challenged. The issuance of a stay order in these events locks the investment and halts the activity for decades, on average an inheritance case takes more than 4.25 years, and inland courts take 6 years[11]. In the present state, the country finds it hard to attract long-term investment when the foundational instruments of industrial investment are unavailable.
+
+The litigation tax that this imposes on the economy affects almost everything; courts are consumed by disputes. The scale and scope of land related litigation in Pakistan is unmatched. Lower courts and high courts have a significant stock and flow of land related litigations, the backlog of which will take years to fade away. Land related litigation in the country accounts for 60 to 70 percent of all civil litigation in the courts and gives rise to almost 40 to 50 percent of all litigation in the country[12]. Even 90 percent of criminal disputes are due to land and water related disputes in the country[13]. This significantly weakens the enforcement of contracts in the country, adding huge opportunity costs.
+
+The consequences of litigation and dispute environment are beyond those that are directly incurred and are severe for the industry. Every dispute that arises imposes three costs simultaneously. First is the foregone economic activity on the land during the period of litigation, the period during which a factory or plant remains idle or underutilized. Second is the time and fees which is required for litigation, which otherwise would have been invested in economic activity, and third is the risk discount that may be applied by rational investors on land in the country. The last cost is what affects the most and is the least measurable for Pakistan. In capital budgeting, investors discount future cash flows by the risk-free rate and a risk premium for market risk, along with a country-specific risk premium that shows institutional quality and enforcement reliability. The possibility of disputed titles introduces an additional discount, which is the probability of losing all or part of the investment due to adverse judicial outcomes. This is different from normal business risk, and it is the institutional risk stemming from weakness of the property rights system, deterring investment[14].
+
+[1] West Pakistan Land Revenue Act, 1967
+
+[2] Registration Act, 1908
+
+[3] Aslam, A. M., & Qasim, A. W. (2024). Land titles: A missing basic elemental of the real estate market (Knowledge Brief No. 2024:125). Pakistan Institute of Development Economics.
+
+[4] Ibid
+
+[5] Gelos, R. G., & Werner, A. M. (2002). Financial liberalization, credit constraints, and collateral: investment in the Mexican manufacturing sector. Journal of Development Economics , 67 (1), 1-27.
+
+[6] State bank of Pakistan, credit and loans classified by borrowers.
+
+[7] Bu, D., & Liao, Y. (2022). Land property rights and rural enterprise growth: Evidence from land titling reform in China. Journal of Development Economics , 157 , 102853.
+
+[8] World Bank (2021). Pakistan housing finance: Is there a business case for financial institutions? International Finance Corporation.
+
+[9] House Building Finance Company Limited. (2024). Mortgage matters: Exploring housing finance in Pakistan along with Asian countries
+
+[10] House Building Finance Company Limited. (2025). Why mortgage foreclosure remains a struggle in Pakistan .
+
+[11] Haque, N. U. & Qasim, A. W. (2024). Pide Sludge Audit Vol 3 (No. 2024: 1). Pakistan Institute of Development Economics.
+
+[12] Siddique, O. (2020). The Economic Analysis of Law in Pakistan. The Pakistan Development Review, 121-127
+
+[13] Khan, S. S., Ashfaq, A., Imtiaz, M., & Imtiaz, I (2023). Critical Appraisal Of Legal-Institutional Structure Of Reve nue Courts In Pakistan: Minimizing Sludge In Agricultural Property Cases.
+
+[14] Besley, T. (1995). Property rights and investment incentives: Theory and evidence from Ghana. Journal of political Economy , 103 (5), 903-937.

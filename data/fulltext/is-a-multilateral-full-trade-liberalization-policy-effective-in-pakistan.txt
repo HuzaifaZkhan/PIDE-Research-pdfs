@@ -1,0 +1,53 @@
+Muhammad Zeshan[1]Research Fellow, PIDE
+
+The national tariff policy in Pakistan emphasizes on the gradual elimination of tariffs on imported raw materials, and intermediate products. Moreover, the cascading principle suggests a lower import tariff rate on raw materials compared to the final output. However, this principle deviates in Pakistan, where a product is used as input in a sector but is considered an output in another sector. Various factors add to this distortion such as favoritism in protection policy, political economy and rent-seeking behavior by many firms (Nasir, 2020).
+
+Haque and Siddiqui (2017) find that Pakistan shifted towards a free trade regime in 1981 through a tariff rationalization policy, however, there is still a high level of protection on international trade in Pakistan. The high tariff rates adversely affect trade competitiveness in Pakistan (Qadir, 2020). On the other hand, the country earns a small trade surplus but bears a huge trade deficit with all other major trading partners (Figure 1).[2]
+
+______
+
+[1] Email: zeshan@pide.org.pk , muh.zeshan@gmail.com
+
+[2] Major trading partners are United States (USA), Great Britain (GBR), China (CHN), Germany (GER), United Arab Emirates (UAE), Indonesia (IDN), Kingdom of Saudi Arabia (KSA), and the Netherlands (NLD).
+
+______
+
+To examine the effects of different trade liberalization policies in Pakistan, this study runs the following three scenarios:[3]
+
+S1) Partial trade liberalization in Pakistan only – 25% reduction in all the import tariffs in Pakistan
+
+S2) Full trade liberalization in Pakistan only – 100% reduction in all the import tariffs by Pakistan
+
+S3) Full trade liberalization in Pakistan and in its major trading partners – 100% reduction in import tariffs by Pakistan and by its major trading partners
+
+The gains from international trade are mainly distributed in accordance with the level of trade liberalization in a country. However, there are many other important factors which affect the pattern of gains from international trade such as technological innovations, scale of economy, and level of protection on domestic and international trade, etc. When these factors add up, the level of trade liberalization do not necessarily produce linear results. Moreover, the dependence of different trading partner through importing intermediate commodities produce a complex economic situation.
+
+The key research findings are: Partial trade liberalization in Pakistan slightly reduce domestic production (S1), but exports surpass the imports resulting in a trade surplus (see Box 1). In case of full trade liberalization in Pakistan only, most of the domestic production sectors show losses (S2). Imports surpass exports resulting in a huge trade deficit. In case of full trade liberalization in Pakistan and in its major trading partners, domestic production suffers the most compared to all other scenario (S3). Trade gap is slightly positive but domestic production losses are very high compared to the gains from international trade.
+
+_______
+
+[3] It uses the standard GTAP model for the Computable General Equilibrium (CGE) analysis, and employs the most recent GTAP multi-regional social accounting matrix version 11.
+
+_______
+
+Key findings and takeaways
+
+At the moments, there should be a fair implementation of cascading tariffs, but these tariffs should be reduced over the time for trade competitiveness. It will help the domestic industry to compete in the international market.
+
+Apparently, Pakistan’s economy is not fully ready for a 100% reduction in import tariff. Although partial trade liberalizations show minor production losses but there are gains from international trade. A positive trade surplus portrays favorable terms of trade for Pakistan. Hence, reducing import tariffs below 25% in the highly protected sectors is a win-win situation for Pakistan.
+
+This study finds that the multilateral trade agreements are not much effective in the trade policy, and there is a need to explore the impact of import tariff in bilateral trade agreements.
+
+The way forward
+
+There is a need to identify the nominal and effective rates of protection in different sectors. This will identify priority sectors where Pakistan can move towards a more liberalized trade with its trading partners.
+
+This study focuses on the multilateral trade agreements, however, there is a need to highlight the effectiveness of the different bilateral trade agreement by the government.
+
+Reference:
+
+Nasir, J., 2020. The tariff tripod of Pakistan: protection, export promotion, and revenue generation. The Pakistan Development Review , 59(3), pp.517-551.
+
+Qadir, U., 2020. Analysing the National Tariff Policy. The Pakistan Development Review , 59(1), pp.143-149.
+
+Haque, Nadeem Ul and Siddiqui, Rizwana, 2017. Nominal and Effective Rates of Protection by Industry in Pakistan: A Tariff Based Analysis . NUST Journal of Social Sciences and Humanities. Vol.3 No.1 pp.1- 45.

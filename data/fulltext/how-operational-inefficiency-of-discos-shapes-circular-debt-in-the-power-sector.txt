@@ -1,0 +1,37 @@
+The circular debt of the power sector accumulates when power distribution companies fail to fully pay for the purchased electricity. In other words, circular debt is a cash shortfall across the power supply chain. If this debt keeps growing, it becomes a serious problem because the companies producing electricity might not have enough money to buy fuel, for maintenance, and make necessary upgrades. This can jeopardise the effectiveness of the entire energy system.
+
+In Pakistan, the issue of circular debt remains unresolved, reaching a total of Rs 2.63 trillion by April 2023. This circular debt is growing, mainly because of pending subsidies that were supposed to be given and unreleased. Further interest charges owed to independent power producers (IPPs) for late payments are adding up. Another concealed factor of circular debt is the operational inefficiency of electricity distribution companies.
+
+Source: State of Industry Report NEPRA and Today Pakistan
+
+Documented Contributors to Power Sector Circular Debt
+
+To comprehend the factors accumulating power sector circular debt, let’s analyze the surge in circular debt from July 2022 to April 2023. During this period, circular debt rose from Rs. 2253 billion to Rs. 2631 billion, an increase of 378 Rs. billion, as shown in the given Table.
+
+Source: Today Pakistan and atmospheric conditions, resulting in a 20 percent loss of energy.
+
+The circular debt crisis is exacerbated by the fact that K-Electric has not paid Rs. 102 billion in dues, and distribution companies (DISCOs) are causing losses due to inefficiencies of Rs. 93 billion and under-recovery of Rs. 204 billion. The total expenses for generating electricity, which cover Quarterly Tariff Adjustment (QTA) and Fuel Cost Adjustment (FCA), reached Rs. 94 billion between July and April.
+
+A budgeted subsidy of Rs. 108 billion for the fiscal year 2023 (April) has not been released, and there are also unbudgeted subsidies worth Rs. 30 billion. This is putting pressure on the energy sector. Furthermore, interest charges due to delayed payments to independent power producers (IPPs) surged to Rs. 76 billion from July to April in FY23. Additionally, an amount of Rs. 56 billion has been utilised from IPPs’ claims for FY23 to offset markups for Public Holding Limited (PHL).
+
+The government’s attempts to lessen the impact of the circular debt crisis involve setting aside Rs. 35 billion to repay the principal amount to the PHL. There are also anticipated stock payments of Rs. 180 billion in the fiscal year 2023. The power sector faces a continuous challenge for technical reasons. such as poor conductors aging grids, outdated transmission and distribution infrastructure, lack of regular maintenance, and losses caused by resistance
+
+Operational Inefficiency of DISCOs
+
+The installed power generation capacity remains underutilized in any power system owing to the seasonal power generation. Nonetheless, the present capacity can be employed effectively. The chart illustrates the disparity between the present capacity, peak demand, and its contribution during a high-demand hour within the day. Power was not generated despite the presence of demand and capacity.
+
+The above situation arises from inefficiencies incurred by DISCOs through demand-management practices. To demonstrate improved performance, DISCOs have either completely or partially halted power supply to certain regions during peak hours, rather than improving recovery. However, GENCOs continue to assert capacity charges based on their designated capacities. In this scenario, capacity charges accrue even without power generation, despite the present capacity and existing demand for electricity. The burden of such inefficiency has been accumulated in the form of capacity charges rather than in the DISCOs account.
+
+Source: State of Industry Report NEPRA and NPCC
+
+Solving the circular debt issue is essential to alleviate supply limitations. However, the challenge is daunting, as it demands resolving the accumulated circular debt before preventing the further accumulation of outstanding debt. The Pakistan Economic Survey 2022 indicates that if these technical and non-technical issues are not effectively addressed, Pakistan’s circular debt could potentially increase to Rs. 4 trillion by 2025. Therefore, it is crucial to address this persistent issue in the power sector. While the government’s primary solution remains increasing tariffs, this approach does not prove effective, as circular debt continues to grow.
+
+Conclusion and Recommendations
+
+In this technologically advanced age, addressing the circular debt problem should not pose a challenge for policymakers. Nonetheless, in Pakistan, the primary hurdles arise from the absence of reforms within the energy sector and the consistent implementation of policies with limited political interference.
+
+The government’s inability to reduce transmission and distribution losses can be attributed to insufficient emphasis on infrastructure upgrades and a predominant focus on power generation. Despite Pakistan having achieved surplus generation capacity, the priority should shift towards enhancing the transmission and distribution sectors within the power industry. The dilapidated transmission and distribution infrastructure requires modernisation.
+
+To sum up, two key objectives must be achieved: minimizing both technical and non-technical losses and ensuring effective utilisation of generation capacity by collecting nearly the full billed amount. These goals can be realised through a competitive energy market that operates based on economic principles, rather than navigating complex regulations, subsidies, and additional charges. It is crucial for the government to discontinue support for deceptive practices and corruption under the guise of subsidies, and instead take a role in developing a competitive energy market. This shift will contribute to a more transparent and efficient power sector.
+
+The author is an MPhil research scholar at the Pakistan Institute of Development Economics (PIDE), Islamabad – specializing in Energy Economics and Policy.

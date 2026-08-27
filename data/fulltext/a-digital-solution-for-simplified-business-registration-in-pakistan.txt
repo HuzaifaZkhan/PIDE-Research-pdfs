@@ -1,0 +1,49 @@
+This policy introduces a fully digitalized solution to streamline business registration in Pakistan, addressing the challenges of complexity, inefficiency, and inaccessibility faced by micro, small, and medium enterprises (MSMEs). By simplifying the registration process, integrating key authorities, and ensuring mobile-first access, the platform will empower entrepreneurs, promote formalization, and drive economic growth. There are many examples of other countries that have successfully developed the platforms for e-registration of businesses and other purposes (Box 1).
+
+Box 1: Examples of other Countries
+
+Many countries have successfully implemented e-registration platforms, enhancing business incorporation and regulatory compliance. Estonia’s e-Business Register and Serbian Business Registers Agency enables e-registration of a company, while Singapore’s BizFile+ integrates business with tax and licensing services. The UK’s Companies House and New Zealand’s Companies Office offer seamless online incorporation and compliance filing. In the US, various states provide digital registration linked to tax systems. India’s MCA21 and UAE’s DED e-Services simplify business setup, licensing, and compliance tracking, promoting entrepreneurship and investment. These models showcase the efficiency and transparency of digital business registration.
+
+Box 2: PITB Business Registration Limitations
+
+The PITB business registration process, while digitalized, has several limitations. First, the registration process is slow, requiring a minimum 2 to 7 days to complete registration. Second, for the registration on the portal, companies must first register with SECP and FBR. Third, the platform is not fully integrated with regulatory authorities , meaning businesses must still visit multiple government offices to obtain necessary permits and approvals. Fourth, the complexity of the registration process disproportionately affects informal businesses–proof of business address is mandatory, which limits the registration of informal and unorganized business such as street vendors etc. and only for organized businesses. Fifth, after the registration there is still need of physical activity to complete the registration process of a business for permits etc.
+
+1. Introduction
+
+Business registration in Pakistan remains a major challenge for small and informal sector[1] businesses due to a complex, inefficient, and inaccessible system, especially in rural areas. This hinders business formalization, restricting access to financial services, tax benefits, and growth opportunities. There is no mechanism in Pakistan to register the informal business registration, as a result, a large portion of MSMEs remains in the informal sector. Punjab Information Technology Board (PITB) developed a business e-registration portal with the help of the World Bank in Punjab and integrated it with NADRA and SECP. This platform has limitations and challenges (see Box 2).
+
+A fully digital business registration platform is essential to streamline the process, reducing time and effort while promoting formalization. By enabling quick and easy registration, this system will empower MSMEs with access to banking, financing, and government services critical for expansion. Lack of awareness and bureaucratic hurdles further discourage entrepreneurs, as the current process involves long queues, extensive paperwork, and multiple government offices. A user-friendly, digital solution will simplify registration, making it more accessible and efficient, fostering SME growth, and strengthening Pakistan’s formal economy. Pakistan has simplified the cross border trade process through single digital portal, called Pakistan Single Window (PSW). While, this proposed e-registration system will complement PSW by streamlining domestic business registration and licensing, completing the broader digital business facilitation ecosystem. PSW has replaced 155 paper-based documents with electronic submissions and eliminated 55 documents during import/export clearances, leading to significant reductions in paperwork and processing times. [1]
+
+2. Proposed Solution
+
+The proposed solution is a fully digital platform that simplifies the business registration process in Pakistan. This platform will allow entrepreneurs to register their businesses in just a few simple steps. The flow of the registration process:
+
+i. Account Creation : To create an account on the platform, an entrepreneur can use a valid Computerized National Identity Card (CNIC)/Passport/Driving License number, along with their country of residence and mobile number.
+
+ii. Business Type Selection : The user will choose the type of business they wish to register (e.g., sole proprietorship, partnership, or limited company).
+
+iii. Bank Account Linking/Creation :
+
+If the Entrepreneur Already Has a Bank Account: The entrepreneur will simply link their existing bank account to the registration platform by providing the bank’s details. The account will be automatically verified using the CNIC/Passport/Driving License information.
+
+If the Entrepreneur Does Not Have a Bank Account: The system will display a list of nearby banks in a dropdown menu based on the user’s location. The user can select a bank, and the system will automatically open a bank account based on the verified CNIC/Passport/Driving License, ensuring the account is linked to the registration process.
+
+iV. AI-Based Verification : The system will use artificial intelligence (AI) to verify the provided information, including matching the CNIC/Passport/Driving License with government databases and verifying the bank account details. The AI-based system will verify the provided information against official records to ensure the accuracy and authenticity of the data. For instance, the system will match the CNIC/Passport/Driving License details with records held by government authorities to confirm identity and verify the bank account details against financial records maintained by regulatory bodies to ensure legitimacy and compliance using the Citizen-Centric and Business-Centric databases.
+
+V. Unique Business Number (UBN): Upon successful verification, the system will assign a Unique Business Number (UBN) to the registered business. This UBN will serve as the business’s official identification and will be used for tax filings and regulatory compliance. Alongside the UBN, a Business Name will also be assigned to the business. Both the business Name and Business Number will be mapped to each other, ensuring their uniqueness and clear association with the specific business entity. Both the Business Number and Business Name will be securely stored in the business registry, which will be publicly accessible and searchable online. This online registry will allow businesses and individuals to easily verify the legal status of a business, promoting transparency and facilitating trust during business interactions.
+
+VI. Payment : A nominal registration fee can be paid through the integrated payment gateway (credit card, mobile wallets, etc.).
+
+VII. Final Approval : Once the business has been verified and payment is processed, the registration is completed. The entrepreneur will receive their registration certificate and UBN, which will be automatically linked to tax and regulatory systems like FBR and SECP. Additionally, a Digital Vault will be available for every business or individual that is authorized and validated by the government to hold such a vault. This vault will securely archive the registration certificates, along with other important documents, ensuring data integrity and security. The Digital Vault will also provide provenance capabilities, allowing for the tracking of documents’ history and ownership, ensuring transparency, accountability, and non-repudiation.
+
+3. Key Features:
+
+i. Multilingual Interface: The platform will offer a multilingual interface (Urdu, English, and regional languages) to ensure accessibility across linguistic groups.
+
+ii. Mobile-First Design: The platform will be optimized for mobile devices, enabling entrepreneurs to register from smartphones, even in areas with limited internet infrastructure.
+
+iii. Seamless Integration with FBR and SECP: The system will integrate with the Federal Board of Revenue (FBR) for tax registration and compliance and the Securities and Exchange Commission of Pakistan (SECP) for corporate governance and regulatory processes.
+
+iv. Bank Account Linking: Entrepreneurs can link their existing bank account or create a new one with automatic verification based on their CNIC, ensuring seamless financial integration for business operations.
+
+v. Data Security: The platform will ensure robust data protection through encryption, multi-factor authentication, and compliance with Pakistan’s data protection laws.

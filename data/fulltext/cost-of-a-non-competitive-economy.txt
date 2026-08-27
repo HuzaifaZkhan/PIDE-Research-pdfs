@@ -1,0 +1,132 @@
+While tariffs and subsidies can help vulnerable infant industries, they incur massive economic costs. In Pakistan, many industries are heavily supported by high import tariffs and inefficient export subsidies, as illustrated in Figure 1.
+
+Import Tariffs and Export Subsidies in Pakistan (%)
+
+Import Tariffs
+Export Subsidy
+
+Agriculture
+5.7
+0.0
+
+Electricity
+0.3
+0.0
+
+Other Energy
+2.7
+0.0
+
+Energy Intensive industry
+7.7
+5.2
+
+Computer & Electronics
+6.6
+6.7
+
+Machinery
+9.4
+3.7
+
+Electrical
+12.0
+6.7
+
+Vehicles & parts
+34.4
+2.0
+
+Transport Equipment
+6.0
+8.0
+
+Transport
+0.0
+0.0
+
+Textiles
+11.3
+0.0
+
+Other industry
+11.3
+2.9
+
+Author’s calculations
+
+Import Tariffs
+
+Import tariffs distort domestic industries more than export subsidies.
+
+Broader analysis of trade industries in Pakistan shows that high import tariffs most negatively affect:
+
+Vehicles & Parts: PKR 240 billion
+
+Energy Intensive Industry: PKR 230 billion
+
+Despite zero import tariffs in other service sectors, these sectors face high costs due to the use of imported raw materials burdened by high import tariffs.
+
+Export Subsidies
+
+Export subsidies heavily distort the textiles and agriculture sectors, reducing their competitiveness.
+
+Non-competitive market structures prevent competitive firms from thriving, costing over PKR 219 billion.
+
+Subsidies harm both exporting and domestic industries.
+
+Cost of Non-Competitive Economy
+
+Pakistan: Approx. PKR 1.67 trillion[i] annual cost .
+
+Exporting industries pay most of the overall cost compared to domestic industries.
+
+Cost of non-competitive economy (in PKR Billion)[ii]
+
+Import Tariffs
+Export Subsidy
+
+Domestic Industry
+365
+155
+
+Exporting Industry
+731
+406
+
+Author’s calculations
+
+Turbocharging Growth: The Economic Gains of Policy Reform
+
+Removing distortions from import tariffs and export subsidies will boost productivity, increasing domestic production by 2.4% , exports by 4.9% per annum , and tax revenues by PKR 278 billion in the long run.
+
+Annual growth of domestic industry and exports in Pakistan (%)
+
+Domestic industry
+Exports
+
+Removing distortions
+2.4
+4.9
+
+Author’s calculations
+
+Recommendations
+
+A smooth transition is essential to minimize disruption, maintain competitiveness, and support growth.
+
+Phased Reduction Plan
+
+1 st (3-year) phase: Reduce import tariffs on subsidized raw materials and export subsidies until rates converge to averages.
+
+2 nd (1-year) phase : Maintain uniform tariffs and subsidy rates.
+
+3 rd (1-year) phase : Eliminate all tariffs and subsidies.
+
+Comprehensive Reform
+
+Streamline non-tariff barriers and bureaucratic processes to enhance trade and strengthen institutions.
+
+[i] All figures which were initially calculated in US dollars were converted to Pakistani Rupees (PKR) using exchange rate PKR 277.61 = 1 USD. The total annual cost in US dollars was 6 billion.
+
+[ii] Results of 2 simulation scenarios to quantify through the CGE framework, the cost of non-competitive economic activities like export subsidies and import tariffs via utilizing a social accounting matrix incorporating the latest Pakistan input-output table (Zeshan, 2022), aggregated to 15 sectors for simplicity.

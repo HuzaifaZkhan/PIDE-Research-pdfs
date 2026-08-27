@@ -1,0 +1,53 @@
+After the National Electric Power Regulatory Authority (Nepra) tariff determination for FY25, the issue of capacity payments and independent power projects (IPPs) profits has re-emerged.
+
+The per-unit capacity payments have increased from Rs16.22 per kWh in FY24 to Rs17.31 per kWh in FY25. Social media alleged that IPPs are making enormous profits, so their power purchase agreements (PPA) must be re-negotiated to convert them to take-and-pay or merchant plants.
+
+About 52 per cent of the installed capacity is owned by the government. In the projected capacity purchase price (CPP) of FY25, the government’s share is 49pc, followed by the China-Pakistan Economic Corridor (CPEC) projects (36pc), and the remaining 15pc is of private projects (commissioned under 1994, 1995, 2002, and 2006).
+
+Old private projects (15pc of CPP) are owned, as talked about in the media, by 40 business groups . After the Power Sector Inquiry Report 2020, 46 IPPs (excluding CPEC projects) formally signed new PPAs with the government. The debt of these projects has been paid off. Therefore, their capacity payments are low.
+
+Furthermore, the projects commissioned under 1994 are either retired or about to retire in a few years. The impact of this group will be reduced even further unless their contracts are renewed, as has happened with some IPPs in the past.
+
+Moreover, these IPPs agreed during PPA renegotiations that once the Competitive Trading Bilateral Contracts Market (CTBCM) is implemented, they will transition towards the business-to-business market.
+
+However, despite several announcements, CTBCM is not expected to materialise in the near future. The problem lies in determining a reasonable wheeling cost. It is self-evident who is blocking this — whose inefficiencies and interests are at risk.
+
+CPEC projects, mainly imported coal power plants with dollar indexation, substantially contribute to the total CPP burden. The unit cost of these plants is much higher than that of local coal-fired plants, leading to lower positioning on the Economic Merit Order (EMO) and increased pressure on the CPP part of the tariff.
+
+A higher installed capacity than system demand is a financial burden on the government and consumers
+
+The argument for re-contracting all IPPs as merchant plants is not simple. We must remember our history in international arbitrations. Once the PPA is signed, renegotiation negatively impacts future investments, especially for countries like Pakistan with weak macroeconomic environments.
+
+PPAs are crucial in any project — outlining contractual terms such as project costs, tariffs, plant efficiency, technology, and location. It’s important to draft these terms carefully, considering possible implications and including remedial measures.
+
+The crafting of PPAs is a task that demands expertise, a resource that is unfortunately lacking in the bureaucratic circles (responsible for drafting these PPAs in Pakistan). This deficiency has been a recurring theme in the history of private energy projects, be it under the 1994, 2002, or 2015 generation policy.
+
+Project selection has been marred by transparency issues influenced by pressure groups (local or international) and political patronage. Decisionmakers have always opted for tariff ceilings instead of competitive bidding.
+
+Currently, all generation plants (public or private) are designed with capacity payments, but there is hardly any monitoring (Nepra’s responsibility) of actual capacity (as per capacity payments) and availability. There is no verification of IPP power supply claims and what they supplied.
+
+As highlighted in the Inquiry Report 2020, most issues stem from inaccurate invoicing by the IPPs and misinterpreting PPAs and specific clauses, leading to inflated invoicing. Unfortunately, the Central Power Purchasing Agency-Guarantee (CPPA-G) (single buyer) has never scrutinised these issues, neither in the past nor does it currently.
+
+Although Nepra does not review or approve PPAs, it sets a generation tariff for power plants, which the PPAs must adhere to. Many times, its incapacity leads to higher tariffs, eg, higher upfront tariffs for imported coal power plants or determining build, own, operate (BOO) projects under the build, own, operate and transfer (BOOT) tariff regime. The absence of regulatory oversight is a serious concern.
+
+The 2020 Report found irregularities committed by the IPPs. This is not the first time such irregularities have surfaced — the government initiated investigations against Hub Power Company (Hubco) and other IPPs (1994 Power Policy). After a protracted litigation by the Hubco sponsors, the government re-negotiated the PPAs of 16 IPPs. The detailed operational and financial audit of all IPPs should have been undertaken after the 2020 inquiry but never happened.
+
+Another question often raised is why capacity payments are given to government-owned projects. In the pre-Nepra days, the tariff setting for the Water and Power Development Authority and the erstwhile Karachi Electric Supply Company was mainly for recovering the cash costs of the whole supply chain (generation, transmission, and distribution) — cost-plus working capital of existing and future facilities. There was no concept of capacity payments in a vertically integrated system.
+
+After the Nepra Tariff Rules 1998, the generation tariff for the licensee under a single buyer regime allows a two-part tariff: a capacity charge and an energy charge. The capacity charge includes project debt payments (including interest and principal), return on equity over the project life, a fixed element of the operating and maintenance cost, and the insurance cost for the plant.
+
+However, every project has a life. Generation companies (Gencos) built in the early 1980s have completed their lives and operate at low-efficiency levels. These plants are economically unviable and should have been retired. Their workforce is already on the higher side and remains idle due to non-operation. Instead of retiring, Gencos are still in the system and eligible for capacity payments. Whose fault is this?
+
+Coming to another discussion around how much capacity is required. One argument is that we need the capacity to cater to different loads, even if it is unutilised most of the year. This sounds a little naïve. While it is true that countries secure the capacity to maintain real-time balance, this practice has limits. In advanced energy markets, peak load plants differ from take-or-pay power plants.
+
+After Kot Addu Power Company Ltd’s (Kapco) retirement, the total installed (take-or-pay) capacity is still over 41,000MW, much higher than the baseload (12,000-12,500MW). Despite being inactive most of the year, over half of this existing capacity earns capacity payments. A higher installed capacity than the system demand is only a financial burden. Focusing only on additions to cater to the summer peak rather than efficiency in the cash-starved sector does not make sense.
+
+Now that the capacity has been installed, reprofiling the debt of newly commissioned projects, including nuclear plants, may reduce the burden on consumers for a few years. However, the underutilisation of contracted capacity or non-optimal capacity utilisation from operational plants will remain a burden on electricity consumers.
+
+Expanding the consumer base through new tariff designs, developing a competitive market, and efficient system operations may help reduce the negative impact of capacity payments on end-consumers.
+
+The writer is a Senior Research Economist at the Pakistan Institute of Development Economics. X: [ @malikafia2021 ] 5
+
+Published in Dawn, The Business and Finance Weekly, July 29th, 2024
+
+Newspaper Link

@@ -1,0 +1,189 @@
+Pakistan stands at the frontline of the global climate crisis. Ranked among the top 5 most climate-vulnerable nations despite contributing less than 1% to global greenhouse gas (GHG) emissions, it faces recurring economic shocks from floods, droughts and heatwaves. The 2022 super-floods, followed by the recent 2025 monsoon floods, have reaffirmed how climate extremes can undo years of development gains. According to “A Preliminary Assessment of Flood Damages in the Economy of Pakistan (2025)”, the cumulative damages from the 2022-25 floods have exceeded Rs. 822 billion (US$2.9 billion) across key sectors, with agriculture, power and transport suffering the heaviest losses.
+
+Findings from the Post-Disaster Needs Assessment (PDNA) 2022 estimated total damages at US$14.9 billion and economic losses at US$15.2 billion, equating to approximately 6% of GDP . Flood-induced supply disruptions pushed inflation up by 4% while national poverty rates rose by an estimated 3.7-4.0%. The agriculture sector alone accounted for 25% of total damages and 36% of total losses , underscoring the vulnerability of rural livelihoods.
+
+These extreme weather events have intensified Pakistan’s fiscal burdens. Recovery needs and reconstruction now demand US$16-17 billion, while annual climate adaptation and mitigation costs are projected to surpass US$40-50 billion[1]. As of 2025, Pakistan’s climate finance architecture continues to evolve, comprising public institutions, international donors, and private investors; yet, general weaknesses persist in project readiness, fund absorption and coordination.
+
+Simultaneously, Pakistan’s submission of its latest NDC framework (NDC 3.0) marks a turning point in aligning national ambition with global climate goals. It raises Pakistan’s mitigation ambition to reduce GHG emissions cumulatively by up to 50% by 2035 (of which 17% will be conditional) and deepens adaptation commitments, signaling a stronger linkage between high-impact disasters (like floods) and climate-finance mobilization.
+
+Policy Framework for Climate Finance
+
+Pakistan’s climate finance governance has matured over the past decade through overlapping yet integrated policy instruments. These policies from the institutional core:
+
+National Climate Change Policy (NCCP) 2021,
+
+Framework for Implementation of Climate Change Policy (2022-2030),
+
+National Adaptation Plan (NAP 2024),
+
+Pakistan Carbon Markets Policy, and
+
+National Climate Finance Strategy (NCFS)
+
+The Climate Finance Unit under the Ministry of Climate Change & Environmental Coordination (MoCCEC) acts as the national coordination hub for multilateral and bilateral funding, mainly the Green Climate Fund (GCF), Global Environment Facility (GEF) and Adaptation Fund (AF).
+
+Provincial governments, especially Sindh & Punjab, have established Climate Change Authorities (CCAs) with Provincial Climate Finance Frameworks (PCFFs) to align local projects with national and global goals. Under IMF’s Resilience and Sustainability Facility (RSF), Pakistan introduced the Climate Budget Tagging (CBT) tool in FY26, requiring all PSDP projects to be categorized under adaptation , mitigation , or support . This reform aims to improve fiscal transparency and ensure consistency between climate goals and budgetary allocations.
+
+Climate Budget FY26: Allocations and Contradictions
+
+The Federal Budget 2025-26 marks Pakistan’s first comprehensive climate-tagged budget under IMF supervision (the breakdown of allocation is signified in the table below). However, despite a climate-forward narrative, contradictions remain between rhetoric and resource allocation.
+
+Table 1 : Climate-Tagged Budget Allocations for FY26
+
+Category
+Allocation (FY26)
+
+Rs billion
+Focus Area
+
+Adaptation (Resilience)
+85.43
+Flood resilience, agriculture, food systems
+
+Mitigation (Clean Energy)
+603
+Hydropower, solar, wind, EV transition
+
+Supporting Areas
+28.33
+Capacity, research, institutional reform
+
+Energy Subsidies (Green)
+529
+Renewable energy and clean fuel support
+
+Industry Sector
+9.0
+Cleaner production, efficiency upgrades
+
+Transport Sector
+7.3
+E-vehicles, public transport
+
+MoCCEC Budget
+2.7
+Climate coordination, research capacity
+
+Environment Protection
+3.1
+Pollution abatement, waste management
+
+Source: Ministry of Finance (Budget in Brief FY26); Dawn (2025)
+
+However, the Ministry of Climate Change’s budget saw a reduction from Rs. 3.5 billion to Rs. 2.7 billion, while funds under environment protection dropped from Rs. 7.2 billion to Rs. 3.1 billion. Former Climate Minister, Malik Amin Aslam, called the budget “a repackaging of old spending in new climate language,”[2] nothing that adaptation (the country’s most pressing need) remains grossly underfunded.
+
+Despite the adoption of climate tagging, the allocation pattern reveals skewed priorities, with adaptation (critical for resilience) receiving only 12% of total climate-related allocations. Experts have also highlighted policy contradictions, including the imposition of a carbon levy on fossil fuels and taxation on solar panels and hybrid EVs, which offset climate-friendly transitions.
+
+International Climate Financing Flows
+
+Pakistan received US$533 million roughly in climate-related financial flows through multilateral and bilateral sources (Table 2). However, the inflows remain modest compared to the US$348 billion requirement identified in the updated NDCs 3.0 for mitigation and adaptation up till 2030.
+
+Table 2: Major Climate Finance Inflows to Pakistan
+
+Mechanism
+Amount
+
+(US$ million)
+Funding Type
+Category
+
+Green Climate Fund (GCF)
+331.7
+Grants & Loans
+Adaptation & Mitigation
+
+World Bank (IDA/IBRD)
+13.9
+Concessional Loans
+Adaptation
+
+Asian Development Bank (ADB)
+43.4
+Loans & TA Grants
+Mitigation
+
+Global Environment Facility (GEF)
+34.8
+Grants
+Adaptation
+
+Adaptation Fund (AF)
+16.0
+Grants
+Adaptation
+
+Bilateral Donors (Japan, Germany, UK, USA)
+93.0
+Grants & Co-financing
+Adaptation & Mitigation
+
+Source: MoCCEC[3], Transparency International Pakistan[4], ADB[5], World Bank[6] and GCF Data Library[7]
+
+Cumulative trends show that around 54% of total climate finance supports adaptation projects, mainly in agriculture, water, and resilience, while 46% targets mitigation, focused on renewable energy (RE) and transport. Despite these gains, Pakistan’s access to global climate funds remains constrained by limited project readiness , limited fiduciary systems and pipeline development capacity , slowing progress under the NDC 3.0 (2025) framework.
+
+Pakistan’s GCF Portfolio with Regional Comparison
+
+As of 2025, the Green Climate Fund (GCF) has approved over US$13 billion in projects globally, with developing countries in South Asia actively leveraging the fund to support their climate resilience and mitigation efforts. Pakistan, despite being among the climate-vulnerable nations, has received comparatively modest financing of around US$ 331.7 million for 11 projects, routed primarily through intermediaries like UNDP, ADB, FAO, JS Bank, and WWF. While, nations like India and Bangladesh have secured larger allocations owing to stronger institutional capacity, coherent climate policies, and proactive engagement with the GCF secretariat. The table below provides a comparative outline of GCF-funded projects and total approved financing for selected South Asian economies.
+
+Table 3 : Pakistan’s GCF Projects & Financing: Countries’ Comparison
+
+Countries
+No. of Projects
+Targeted Themes
+Financing
+
+2025 (US$)
+
+Bangladesh
+10
+Adaptation, Mitigation, Cross-cutting
+464.3 million
+
+India
+15
+Adaptation, Mitigation, Cross-cutting
+1.0 billion
+
+Pakistan
+11
+Adaptation, Mitigation
+331.7 million
+
+Sri Lanka
+5
+Adaptation, Cross-cutting
+106.1 million
+
+Source: GCF, Data Library
+
+Domestic Climate Finance Mechanisms and Emerging Instruments
+
+Pakistan’s domestic climate finance ecosystem has gradually diversified over the past decade, evolving from scattered project funding to a structure portfolio of sovereign, market, and other concessional instruments. These include green bonds and sukuk, central bank refinance schemes, and pooled climate funds that blend domestic and global resources. The State Bank of Pakistan’s green refinance & taxonomy initiatives, Ministry of Finance’s Sustainable Financing Framework (2025), and the undergoing request of Pakistan Climate Change Fund (PCCF) under the MoCCEC together mark a shift toward institutionalizing green finance. They reflect an emerging ecosystem that integrates fiscal policy, financial regulation, and private sector mobilization to scale climate investments aligned with Pakistan’s NDC 3.0 targets.
+
+Figure 1 : Major Domestic Climate-Finance Instruments in Pakistan
+
+Source: Profit Pakistan Today[8], The News[9], SBP and Finance Division
+
+The Way Forward
+
+To bridge the climate finance gap, Pakistan must focus on institutional and financial reforms. Establishing a Climate Finance Taxonomy and operationalizing the National Climate Investment Platform (NCIP) will help streamline funding flows and improve project alignment. The Climate Finance Unit (CFU) should serve as a central coordination body for donor engagement and provincial integration. Mobilizing private investment through green Sukuk, EESG incentives, and carbon market frameworks under Article 6 can significantly expand financing sources. Firming up transparency through digital MRV systems, standardized reporting, and provincial capacity building will ensure efficient tracking and accountability.
+
+Ms. Namra Saleem is associated with the Policy Research & Advisory Council (PRAC), Karachi as a Research Associate
+
+[1] Profit Pakistan Today. (2025). https://profit.pakistantoday.com.pk/2025/08/13/pakistan-needs-40bn-50bn-annually-to-tackle-climate-risks-says-oicci-report/
+
+[2] Article by Zaki Abbas in Dawn. (2025). Analysis: Budget 2025-26 – Climate budget a ‘walking contradiction’. Available at https://www.dawn.com/news/1917401/analysis-budget-2025-26-climate-budget-a-walking-contradiction
+
+[3] MoCCEC. https://mocc.gov.pk/Detail/YjIxNjFmNzAtYjUxOS00MTY2LWIzN2ItNDlkZmFiYTYzYmQz
+
+[4] Financing Climate Action. https://transparency.org.pk/PUBLICATION/Financing-Climate-Action-Enhancing-Effectiveness-And-Transparency-In-Pakistan%27s-Climate-Governance-Frameworks.pdf
+
+[5] ADB. https://www.adb.org/where-we-work/pakistan/overview
+
+[6] WB. https://ida.worldbank.org/en/country/pakistan
+
+[7] GCF. https://data.greenclimate.fund/public/data/countries
+
+[8] Profit. (2025). https://profit.pakistantoday.com.pk/2025/03/22/pakistan-launches-first-pkr-denominated-green-bond-to-boost-climate-finance/
+
+[9] The News. (2025). https://www.thenews.com.pk/print/1316514-pakistan-launches-first-sovereign-green-sukuk

@@ -1,0 +1,175 @@
+Start with the individual
+
+Begin with one person. A twenty-three-year-old in Faisalabad who repairs air-conditioners. He is skilled and entirely invisible to the state: no record, no pension, no insurance, and no way for a customer across town to find him or for a bank to lend against income he cannot prove. He is one of tens of millions. Today, the state’s only message to him is a warning: get documented so we can tax you. He hears it and retreats further into the shadows.
+
+Now change the message. He opens an app, taps his national identity card once, and within minutes he is registered. That single tap gives him a pension that follows him from job to job, accident and health cover, a skills voucher, a line of credit he can draw against his recorded earnings, and a place on a national marketplace where the family three streets away can find him by name and rating. In return, he pays a small levy on what he earns, and nothing else. No notice, no inspector, no fear. He is no longer hiding; he is in business. And he will remember which government put him there.
+
+The scheme: incentive-based registration of the individual
+
+The design is deliberately simple, and it rests entirely on rails the state already owns.
+
+Register in minutes. Any individual, a worker, a self-employed tradesperson, a small shopkeeper, registers on one national portal through NADRA, SECP and Raast in four minutes. Free. No lawyer, no agent, no office visit.
+
+Registration is the reward, not the cost. Registering switches on the benefits the moment it is done: the benefit wallet (pension, health and accident cover, skills vouchers), subsidised credit against documented earnings, a reserved share of public procurement, and a listing on a public marketplace where demand can find them. The incentive to register outweighs the cost of staying hidden, which is precisely why people will choose to register.
+
+One levy, one percent, nothing else. The registered individual pays a single turnover levy of around one percent, collected automatically through Raast, that replaces the entire stack of taxes, withholdings and harassment a small operator faces today. One rate, one rail, no assessment, no discretion, no dispute. The transaction itself is the tax, so there is no officer to negotiate with and no shadow to retreat into.
+
+This is the whole of it. There is no new bureaucracy, no new institution, and no enforcement drive. The reform works because it makes the rational choice and the right choice the same choice.
+
+Why it works: incentives, not enforcement
+
+Every documentation drive in Pakistan’s history has failed because it relied on fear and willpower, both of which ran out. Register to Earn relies on neither. It works as a self-sustaining flywheel: the individual registers to gain protection, credit and customers; documented earnings make formal hiring and lending cheaper; that pulls more individuals onto the portal; the tax base, the jobs and the data all grow together, voluntarily and at once.
+
+It also locks itself in. Once a Pakistani is drawing a pension, holding a health card, and winning work through the portal, de-registration means surrendering all of it. Registration becomes an asset the holder will defend, and a reform that millions depend on is one no future government can quietly reverse. The scheme is designed to become irreversible the moment it begins to deliver.
+
+What the world has already proved
+
+This is not an experiment; it is a proven playbook. In every country that has formalised its informal economy, the same three ingredients recur: a simple turnover-based levy, registration that unlocks real benefits, and a digital identity rail that makes it instant. Pakistan already owns that rail in NADRA.
+
+Brazil. Since 2009, its Microempreendedor Individual scheme has formalised roughly 16.8 million self-employed Brazilians through a single low monthly payment that bundles tax with a pension and sickness and maternity cover. Registration is free and takes minutes online, and it unlocks a tax ID, a business bank account, credit, and the right to sell to government.
+
+India. The closest peer to Pakistan, built on the same kind of biometric identity rail. Its e-Shram portal has registered around 316.9 million informal workers, more than half of them women, on a simple self-declaration basis, each given a universal account number linked to pension, insurance, and welfare. Alongside it, Udyam registers enterprises paperlessly with little more than an identity number, unlocking collateral-free credit, faster loans, statutory payment protection, and procurement access. This is precisely the model Register to Earn proposes, on infrastructure Pakistan already has.
+
+Indonesia. Has taxed small firms at a flat 0.5 percent of turnover since 2018, deliberately simple and explicitly designed to draw operators into the formal net and broaden the base. Its one cautionary lesson, that a flat turnover rate can tempt firms to stay small on paper, is exactly why this scheme builds in an eligibility ceiling and an automatic graduation rule.
+
+Georgia. Its small-business regime taxes turnover at around one percent, among the simplest in the world, and is widely credited with bringing micro-operators into the system. The one-percent rate proposed here is not a guess; it is a proven number.
+
+The verdict is consistent: formalisation is won through incentives and simplicity, not fear. Register to Earn takes that proven design, one low turnover levy, benefits on registration, and a national identity rail, and runs it on infrastructure Pakistan already owns.
+
+The route to the trillion-dollar economy
+
+URAAN Pakistan sets the destination: a trillion-dollar economy by 2035, built on the 5Es. Register to Earn is how two of those pillars, Equity & Empowerment and E-Pakistan , move from vision to delivered, visible reality. You cannot tax, bank, or grow an economy you cannot see; every individual brought onto the register is a unit of GDP made visible, a worker protected, and a firm made bankable. This is the documentation engine on which the trillion-dollar target quietly depends.
+
+It is also a jobs machine, speaking directly to URAAN’s pledge of a million new jobs a year: formal, visible work that can be counted, protected and grown. The Planning Commission is its natural home, with the scheme monitored through the National Economic Transformation Unit alongside the Prime Minister’s Delivery Unit, so it sits within the government’s own delivery architecture rather than beside it. For the Planning Ministry, Register to Earn is the operational proof that the 5Es are not a document on a shelf but a machine that runs, with a number that climbs in public every day.
+
+The fiscal case
+
+One percent of a vastly broadened base raises more than punitive rates on the narrow base, the established result on informality and optimal tax structure (Gordon & Li, 2009). The instrument is revenue-positive from year one, because these individuals paid almost nothing before, and the benefit wallet is funded by the levy itself and by retiring the untargeted subsidies the state already wastes. It is, in IMF terms, the cleanest base-broadening instrument available to Pakistan, and fully consistent with the primary-surplus path.
+
+The arithmetic is simple: direct revenue equals registered individuals × average recorded turnover × one percent. The table below is an illustrative Year-One ready-reckoner; the figures are of the order of magnitude and should be calibrated to PBS and FBR data before circulation.
+
+Scenario
+Individuals registered (Yr 1)
+Avg recorded turnover
+Levy
+Direct collection
+
+Conservative
+1.0 million
+PKR 1.5 m
+1%
+PKR 15 bn
+
+Base case
+2.0 million
+PKR 2.0 m
+1%
+PKR 40 bn
+
+Stretch
+3.0 million
+PKR 2.5 m
+1%
+PKR 75 bn
+
+The direct levy delivers modest, immediate gains. The larger prize is the tax-to-GDP lift that builds over the medium term as documentation, supply chain visibility, digital payments, and the graduation of firms into the regular system compound; a +0.3 to +0.5 percentage-point path, treated as a medium-term target subject to FBR validation, is the realistic ambition.
+
+Why it belongs in this budget, now
+
+A scheme of this kind cannot be launched by circular. The single one-percent levy that replaces the withholding stack, and the presumptive regime that carries it, can only be created in the Finance Act. The Budget is therefore not the occasion for Register to Earn; it is the instrument. Announcing it on Budget Day is what turns the idea into law, and signals to the markets and the Fund that the government is serious about broadening the base rather than squeezing those already in it.
+
+Three things go into this budget, and no more. First, a clause in the Finance Act establishing the Single Minimal Levy, a presumptive one-percent turnover regime for registered individuals and micro-enterprises, with an eligibility ceiling and an automatic graduation rule. Second, a modest allocation to fund the Phase-1 pilot, a few hundred million rupees, trivial against the base it unlocks and revenue-positive within the year. Third, a line in the Budget Speech naming Register to Earn as the government’s signature formalisation-and-jobs scheme, delivered under URAAN Pakistan.
+
+The timing is the argument. The IMF programme already requires Pakistan to broaden its tax base; this is the one way to do it that the public will welcome rather than resist. It costs the budget almost nothing to begin, it raises revenue from the first year, and it hands the Prime Minister a reform he can announce on Budget Day and celebrate every quarter thereafter. There is no fiscal reason to wait, and every political reason to lead with it.
+
+The first year: targets the Prime Minister can celebrate
+
+Set the bar in public on Day One and let the country watch it being cleared. These are the twelve-month milestones, round, visible, and owned at the top.
+
+Milestone
+Day 1
+12-month target
+
+Individuals & micro-enterprises registered
+0
+2.0 million
+
+First-time entrants to the tax net
+0
+1.5 million
+
+Workers with a benefit wallet
+0
+3.0 million
+
+Formal jobs made visible on the portal
+0
+1.0 million
+
+Direct levy collected
+PKR 0
+PKR 40 billion (base)
+
+SME credit unlocked against earnings
+PKR 0
+PKR 100 billion
+
+Tax-to-GDP contribution
+—
++0.3 to +0.5 ppt (medium term)
+
+The implementation framework
+
+No new institution is created. A single delivery owner, the Planning Commission through its National Economic Transformation Unit, steers the scheme, with the Prime Minister’s Delivery Unit monitoring against published targets. Every other institution already exists and is simply wired in. The framework below assigns each piece an owner, the instrument that authorises it, and the number it must hit in the first year.
+
+Workstream
+Lead institution
+Authorising instrument
+Year-1 KPI
+
+Identity & one-tap registration
+NADRA + SECP
+Shared registration API; SRO
+2.0 m registered
+
+Single 1% levy
+FBR
+Finance Act 2026 clause; presumptive regime
+Levy live; PKR 40 bn
+
+Collection rail
+SBP + Raast
+Auto-deduction on recorded turnover
+Fully digital; no officer
+
+Benefit wallet
+EOBI + BISP
+Auto-enrolment on registration
+3.0 m wallets active
+
+Credit access
+SBP refinance line
+Lending against documented earnings
+PKR 100 bn unlocked
+
+Marketplace & jobs
+MoITT + NADRA
+Public two-way portal
+1.0 m jobs visible
+
+Governance & delivery
+Planning Commission (NETU) + PMDU
+Quarterly review; public dashboard
+Dashboard live, Day 1
+
+How we launch it: pilot, then phased national rollout
+
+The credibility of the scheme rests on not over-promising the build. We do not switch on every system nationwide at once; we prove the model first, then scale it.
+
+Phase 1 (Months 0–3). A minimum viable version in one or two districts, wiring NADRA, SECP, FBR and Raast with a basic benefit wallet, and the levy collected live on a capped cohort.
+
+Phase 2 (Months 3–9). Test, fix, and add credit, procurement, and the marketplace; validate take-up, cost, and net revenue against real pilot data.
+
+Phase 3 (Months 9–24). National rollout, province by province, with the Year-One targets recast as the pilot-and-scale trajectory.
+
+Launch it as the Prime Minister’s own. Inaugurate Register to Earn as a national event, not a circular, with a young worker completing the country’s first live registration on screen and receiving the first benefit wallet from the Prime Minister’s own hand. From that hour, a single public dashboard, hosted by the Prime Minister’s Office, shows the numbers climbing live, including registrations, levies collected, wallets activated, and jobs matched. Make it the figure in every speech and the screen on every channel. A live number the public can see turns a policy into a scoreboard the government cannot abandon, and that visibility is the scheme’s lock-in.

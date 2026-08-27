@@ -1,0 +1,493 @@
+Pakistan has a long history of emigration with brain drain having emerged as a major issue, as talented individuals increasingly relocate abroad, owing to economic insecurity and restricted job possibilities. While emigration has advantages, it also has drawbacks, most notably the loss of qualified workers.
+
+By 2020 , around 3 million Pakistanis lived abroad, representing an 86 % increase from 2000 (UNDESA, 2023). Migration from Pakistan has been picking up pace in recent years, with 862,625 people having emigrated in 2023 alone, up from 832,339 in 2022 (BE&OE, 2024).
+
+This trend is predominantly evident among highly skilled people who are pursuing education and seeking employment opportunities in countries like the United States, the United Kingdom, and Australia.
+
+This study aims to explore the various dimensions of talent loss in Pakistan. First, it quantifies the economic impact by considering both explicit costs & implicit costs. Additionally, it examines the productivity loss in the origin country. Second, this study also provides insights on designing effective strategies to retain and utilize talented individuals within Pakistan.
+
+Estimation Procedure
+
+Per student expenditure, both public and household, varied dramatically across the three educational levels: 12 years of education (Intermediate), 16 years of education (Graduate), and 18 years (post-graduate).
+
+Skilled and semi-skilled individuals: cost per student for 12 years of education was PKR 1,293,122.94.
+
+The cost of educating High-skilled individuals (students with 16 years education)
+
+was PKR 1,724,163.92 .
+
+The cost of educating Highly qualified individuals (students with 18 years education) was PKR 1,939,684.40 .
+
+Table 1: Per student expenditure (Public and Private)[1][2]
+
+Average Household Income per Month 2018-19[3]
+41545
+
+Private expenditure is 57 % of income per month
+23680.65
+
+Private expenditure per school year (9 Months)
+213125.85
+
+Private expenditure per enrolled child in an HH
+91079.42
+
+Govt; Average annual cost per student
+16680.82
+
+Govt exp
+12 years of education (Inter) per student cost
+200169.86
+
+Govt exp.
+16 years of education (Grad.) per student cost
+266893.15
+
+Govt exp.
+18 Years (Post-Grad.) per student cost
+300254.79
+
+Private exp.
+12 years of education (Inter) per student cost
+1092953.08
+
+Private exp.
+16 years of education (Grad.) per student cost
+1457270.77
+
+Private exp.
+18 Years (Post-Grad.) per student cost
+1639429.62
+
+Skilled +Semiskilled
+12 years of education (Inter) per student cost
+1293122.94
+
+High skilled
+16 years of education (Grad.) per student cost
+1724163.92
+
+High qualified
+18 Years (Post-Grad.) per student cost
+1939684.40
+
+Source: Authors calculations
+
+Explicit and Implicit Costs[4]
+
+Of all emigrants, while 54% go to the Gulf, 44% were estimated to go to Western countries per UNDESA data.
+
+Explicit cost of education : Number of migrants × per student/migrant (public and private (household) expenditure on education)
+
+Implicit cost of education: Number of migrants × Cost permigrant (foregone income during schooling)[5]
+
+Utilizing the minimum threshold of the BPS 18, 17, and 10 for highly qualified, high-skilled, and skilled and semi-skilled individuals, respectively.
+
+Cost of highly Qualified Emigrants
+
+The explicit costs of individuals with postgraduate education (highly qualified emigrants) amount to 92 billion PKR .
+
+Moreover, considering that the working age begins at age 16 and postgraduate education concludes at age 23 in Pakistan[6], and given that the lost monthly income due to education equals the average gross salary in Pakistan for 2023, estimated at 56,000 rupees per month , we arrive at an annual loss, for 2023, of 85 billion PKR .
+
+The total costs were 78 billion PKR for 2023 only.
+
+Table 2. Cost of highly Qualified Emigrants
+
+Highly Qualified Emigrants
+Cost in Billion (PKR)
+
+Year
+Gulf
+West
+Total
+Explicit
+Implicit
+Total
+
+2014
+14647
+5566
+20213
+39.21
+108.66
+147.87
+
+2015
+17484
+6644
+24128
+46.80
+129.71
+176.51
+
+2016
+16510
+6274
+22784
+44.19
+122.49
+166.68
+
+2017
+16029
+6091
+22120
+42.91
+118.92
+161.82
+
+2018
+16105
+6120
+22225
+43.11
+119.48
+162.59
+
+2019
+15525
+5900
+21425
+41.56
+115.18
+156.73
+
+2020
+5121
+1946
+7067
+13.71
+37.99
+51.70
+
+2021
+7396
+2810
+10206
+19.80
+54.87
+74.67
+
+2022
+17976
+6831
+24807
+48.12
+133.36
+181.48
+
+2023
+22760
+8649
+31409
+60.92
+168.85
+229.78
+
+Total
+149553
+56830
+206383
+400.32
+1109.52
+1509.83
+
+Source: Author calculations
+
+Cost of High Skilled Emigrants
+
+Graduates incurred explicit costs of 108.71 billion PKR , with implicit costs of 204.28 billion with total costs amounting to 312.98 billion PKR in 2023 .
+
+Table 3. Cost of High-Skilled Emigrants
+
+Highly Skilled Emigrants
+Cost in Billion (PKR)
+
+Year
+Gulf
+West
+Total
+Explicit
+Implicit
+Total
+
+2014
+6216
+2362
+8578
+14.79
+27.79
+42.58
+
+2015
+7853
+2984
+10837
+18.69
+35.11
+53.80
+
+2016
+8172
+3105
+11277
+19.44
+36.54
+55.98
+
+2017
+9886
+3757
+13643
+23.52
+44.20
+67.72
+
+2018
+9770
+3713
+13483
+23.25
+43.68
+66.93
+
+2019
+9899
+3762
+13661
+23.55
+44.26
+67.81
+
+2020
+3745
+1423
+5168
+8.91
+16.74
+25.66
+
+2021
+6563
+2494
+9057
+15.62
+29.34
+44.96
+
+2022
+20865
+7929
+28794
+49.65
+93.29
+142.94
+
+2023
+45687
+17361
+63048
+108.71
+204.28
+312.98
+
+Total
+128656
+48889
+177545
+306.12
+575.25
+881.36
+
+Source: Author calculations
+
+Cost of skilled-semi-skilled emigrants
+
+In 2023 , the intermediate qualified incurred explicit costs of 53 billion PKR and implicit costs of 240.04 billion PKR , totaling 956.56 billion PKR .
+
+The increase in costs from highly qualified to skilled and semi-skilled emigrants is attributed to the rise in the number of emigrants transitioning from highly qualified to skilled and semi-skilled emigrants.
+
+Excluding skilled and semi-skilled labor (intermediate qualified), total costs amount to 76 billion PKR for 2023, approximately 0.64 % of GDP .
+
+However, when all emigrant costs, including skilled and semi-skilled labor, are considered, the total cost rises notably to 32 billion in PKR, accounting for 1.77 % of GDP in 2023.
+
+Net effect of emigration : roughly 77 %, indicating a positive impact when considering the money emigrants send back home. Emigrants contributed approximately 8 % of GDP through remittances in 2023.
+
+Table 4. Cost of skilled-semi-skilled emigrants
+
+Skilled-Semi-skilled Emigrants
+Cost in Billion (PKR)
+
+Year
+Gulf
+West
+Total
+Explicit
+Implicit
+Total
+
+2014
+407853
+154984
+562837
+727.82
+243.82
+971.64
+
+2015
+548953
+208602
+757555
+979.61
+328.17
+1307.78
+
+2016
+487906
+185404
+673310
+870.67
+291.68
+1162.35
+
+2017
+274431
+104284
+378715
+489.72
+164.06
+653.78
+
+2018
+198694
+75504
+274198
+354.57
+118.78
+473.35
+
+2019
+350860
+133327
+484187
+626.11
+209.75
+835.86
+
+2020
+120510
+45794
+166304
+215.05
+72.04
+287.09
+
+2021
+159732
+60698
+220430
+285.04
+95.49
+380.53
+
+2022
+432393
+164309
+596702
+771.61
+258.49
+1030.10
+
+2023
+401525
+152580
+554105
+716.53
+240.04
+956.56
+
+Total
+3382857
+1285486
+4668343
+6036.74
+2022.33
+8059.07
+
+Source: Author Calculations
+
+Productivity Loss
+
+The productivity loss due to emigration from Pakistan is computed utilizing the ratio method based on the studies by Woetzel et al. (2016) and Radonjić & Bobić (2021). They argue that origin countries, on average, receive 8.7 percent of the GDP that migrants produce elsewhere, sent through remittances.
+
+Net effect of emigration: Acounting for 1.77 % of GDP in 2023, indicating a positive impact when considering the money emigrants send back home. Emigrants contributed approximately 8 % of GDP through remittances in 2023
+
+When incorporating productivity loss [7] , the origin countries received, on average, 8.7% of the GDP that migrants produced elsewhere and sent through remittances.
+
+Assuming a similar scenario for Pakistan, migrants’ net contribution to the global GDP in 2023 is estimated at Pakistan received 286.49 billion USD [8] . Subtracting remittances (27.3 billion USD in 2023) received (286.49-27.3= 259.19 ). This accounts for 85% of Pakistan’s GDP ( 303.43 billion USD) in 2023 [9] constituting a productivity loss.
+
+However, the cost to the country of origin becomes significantly high when productivity loss is considered. Immigrants often contribute to the GDP of destination countries through their work and productivity, resulting in considerable economic losses at origin countries.
+
+Table. 5: Talent Drain: Opportunities and Challenges
+
+Positive Impacts of Return of Talent (Brain Gain)
+Negative Impacts of Permanent Settlement Abroad (Brain Drain)
+
+Return of qualified workers brings new knowledge and expertise back to the country, leading to increased productivity and innovation within the country.
+The departure of highly skilled professionals, such as doctors, engineers, and IT professionals, creates shortages in key sectors of the economy.
+
+Qualified workers often play crucial roles in advocating for transparency and the absence of trained professionals in governmental positions impedes efforts toward political reform and efficient public administration.
+
+The emigration of qualified educators/researchers lowers academic standards and research capacities, reducing the country’s potential to build a professional workforce.
+
+Talent Retention Strategies[10]
+
+Objective: assess whether attracting Pakistani talent offers a cost advantage in comparison to hiring foreign citizens for similar roles in Pakistan.
+
+Retaining Pakistani Experts
+Hiring Foreign Citizens
+
+Retain top-notch local talent
+High likelihood of attracting average talent
+
+Social Dividends by filling key shortages (eg. healthcare, education, etc)
+Higher salaries compared to home country
+
+Higher innovation and productivity
+Risk premium for relocating to Pakistan
+
+Overall, there is a net benefit to Pakistan of retaining Pakistani professionals over hiring foreign citizens for analogous positions.
+
+Recruiting Pakistani professionals for analogous positions in Pakistan can result in considerable cost savings compared to hiring foreign citizens. In this example, the cost difference is $85,000 annually, emphasizing the potential economic advantage of retaining local talent.
+
+Recommendations
+
+Outflows of qualified people could impede Pakistan’s economic, social, and scientific progress and development. Hence, there is an urgent need to retain, or rather incentivize talent return of qualified workforce and entrepreneurs.
+
+A holistic strategy for managing emigration effectively such an approach should recognize the benefits of remittances while addressing potential long-term challenges, particularly concerning the loss of productivity.
+
+[1] Adjusted the per school year household expenditure on education, assuming nine months, for the number of enrolled children within a household, about 2.34 currently enrolled children per household in Pakistan
+
+[2] Using estimations being based on various editions of the Pakistan Economic Survey from 2014 to 2023
+
+[3] Household Integrated Economic Survey (HIES-2018-19) and the Global Education Monitoring Report (GEM 2021-22) by UNESCO
+
+[4] To quantify talent loss, we aggregate the number of individuals departing the country within the defined talent pool. We collectively refer to the highly qualified, highly skilled, and skilled as metrics for talent. Similarly, we also analyze distinguishing highly qualified, highly skilled, and skilled. Data for migrants was sourced from BE&OE data and UN-DESA International Migrant Stock dataset
+
+[5] As given in the BE&OE data
+
+[6] Considering the individual’s lost income for eight consecutive years, calculated as the total number of emigrants multiplied by the basic pay for grade 18 and further multiplied by 12 months and eight years (or 96 months) (see Table 2).
+
+[7] As shown in the studies by Woetzel et al. (2016) and Radonjić & Bobić (2021)
+
+[8] Assuming similar scenario for Pakistan
+
+[9] Subtracting remittances received (286.49-27.3= 259.19) suggests that
+
+[10] Assumptions:
+
+Pakistani experts match or exceed the skills of foreign citizens, particularly in fields like economics.
+
+Hiring foreign citizens in Pakistan includes their standard wage (W F ) and a relocation risk premium (R).
+
+Social capital (SC PK ) reduces the overall cost of hiring Pakistani professionals by leveraging their familiarity with local conditions, customs, and networks.

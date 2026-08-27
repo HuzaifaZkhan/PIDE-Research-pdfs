@@ -1,0 +1,54 @@
+Major factors that are making a difference in the country’s progress in the twenty-first century are the country’s overall environment and its people’s ability to navigate a rapidly changing world. In Pakistan, a large youth force graduates every year, and young people are indeed a valuable asset to a country, but only if they are equipped with the latest skills and provided with opportunities to use them. Unfortunately, Pakistan is lagging on all these fronts, as a significant gap exists between what people learn in their studies and what is demanded by the labor market.
+
+Furthermore, Pakistan has the lowest productivity per worker among its neighboring countries. Why are such things happening? Why aren’t we producing young adults capable of grabbing their share of the international market, and why are we lagging behind our regional neighbors? The Global Talent Competitiveness Index (GTCI) 2025 may provide the answers to these questions.
+
+Fig: Labor Productivity across Region (GDP per worker in US $)
+
+GTCI is an index that captures a country’s ability to attract, retain and nurture talent by providing an enabling environment and was introduced and developed by INSEAD in 2013. The index could serve as a mirror and compass for countries’ policymakers, providing them with information on where their country stands in global competitiveness and what they can do to improve it in a rapidly changing world, driven by global phenomena such as climate change and artificial intelligence (AI). The index comprises 77 indicators collected across 135 countries, thus collectively representing over 97% of global GDP and 93% of the world’s population.
+
+The latest issue of the GTCII in 2025 shows that Pakistan ranks 124 th , quite low compared to even its regional neighbors, India, Bangladesh, and Sri Lanka. The concern is that Pakistan’s position has steeply declined over the last few years, from 109 th in 2023 to 124 th in 2025.
+
+Table: GTCI Regional Comparison
+
+Country
+GTCI 2025 Rank
+Key Strengths
+Key Weaknesses
+
+India
+65
+Strong IT sector, innovation hubs
+Inequality, rural skill gaps
+
+Sri Lanka
+82
+Higher literacy, vocational training
+Political instability
+
+Bangladesh
+98
+Textile industry skills
+Weak higher education
+
+Pakistan
+115
+Youth potential, digital startups
+Informality, low productivity
+
+The GTCI is, in fact, a six-pillar input-output model that determines how a country’s enabling environment helps leverage its human capital for competitiveness and innovation. The four input pillars (enable, attract, grow and retain) represent the institutional setup of a country i.e. it’s institutional policies and regulatory measures, market landscape and the other key determinants of it’s talent eco system and two output pillars represent the Vocational and Technical Skills (VT Skills) and Generalist Adaptive Skills (GA Skills) which are the result of four input measures. The four input pillars are comprised of ten sub-pillars, and the two output pillars are comprised of four sub-pillars.
+
+Fig: The GTCI 2025 Model
+
+The “Enable” pillar, which is the first main pillar, is supported by three sub-pillars: regulatory framework, market landscape, and business and labor landscape. It shows that Pakistan ranks 126 out of 135 countries. The sub-pillar regulatory framework shows Pakistan’s low performance across parameters such as government effectiveness, political stability, rule of law, regulatory quality, and corruption. It’s no secret that political stability, which ensures policy continuity, has remained a dream in Pakistan. In the last 79 years, only a few democratic governments in Pakistan have completed their tenures. Further political stability is often disrupted by unnecessary protests and sit-ins, which sometimes lead to unmanageable violence.
+
+Regarding governments’ effectiveness, measured by people’s perceptions of the public services offered by civil service departments and the quality of policy formulation and implementation, Pakistan is ranked 100 th out of 135 countries. Though new policies are introduced from time to time to increase process efficiency, implementation of such policies remains poor, which could be one of the main reasons Pakistan lags on this important indicator.
+
+Regarding corruption, despite the introduction of institutions like the National Accountability Bureau (NAB), corruption remains rampant in Pakistan, especially in the public sector, due to selective accountability, which is mostly targeted toward dissidents. So, one should not be surprised when we are listed at 107 th position on the corruption sub-index. Regarding the rule of law, there’s a general perception among the public that the weak are punished by the courts, while the strong easily manipulate the judicial system.
+
+The score for the sub-pillar “Market Landscape” is calculated using parameters such as market dominance, domestic credit to the private sector, cluster development, R&D expenditure, population covered by at least a 3G mobile network, internet access in schools, and urbanization.
+
+The parameter extent of market dominance is measured through an interesting question posed to market players: whether, in their opinion, market share is equally distributed among many firms or only a few players dominate the market. Pakistan ranks at 111 on this parameter. The score on this parameter is quite in line with the prevailing opinion, as people generally feel that it is very difficult to do business in Pakistan and that most businesses are controlled by a few influential families.
+
+Further regarding “credit availability for private sector,” Pakistan’s low ranking (124) on this parameter indicates limited availability of loans, trade credits, and financial resources to the private sector from financial institutions. Though Pakistan performed a little better on “Cluster development,” it ranks too low on R&D expenditure, access to the internet and urbanization.
+
+The business and labor landscape subpillar is calculated by evaluating a country’s performance on parameters such as labor rights, management practices, and firm technology adoption. Pakistan is one of the countries with the poorest enforcement of labor laws, and despite clear announcements by the government, many people remain unable to receive their minimum wages and are deprived of benefits promised by law. Slow technological adoption in businesses is mainly due to additional costs and perhaps due to reluctance to document transactions to avoid tax liabilities.

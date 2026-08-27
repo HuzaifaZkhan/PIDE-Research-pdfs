@@ -1,0 +1,119 @@
+Land Titles in Punjab – Overview, Problems and Suggestions
+
+Omer Siddique and Abida Naurin [1]
+
+1. Background
+
+In the 13th and 14th centuries, Alauddin Khilji began keeping land records, which is when the history of land records in the Subcontinent began (Ali, 2013). Successive rulers kept on amending land revenue records. For instance, Sher Shah Suri implemented fixed crop rates in the 16th century, greatly enhancing the measuring of land records (Thakur, et al., 2005). The Mughal Empire’s most powerful 17th-century ruler, Akbar, made significant changes to how the land was administered. He registered holdings according to several land classifications and income estates (Ali, 2013). One thing that stands out in the history of land administration in the Subcontinent is that the system focused more on revenue maximization than on establishing the titles.
+
+The British introduced changes to the land management system during their rule which led to an increase in land income (Marshall, 1975). The British established state-specific rules, which also kept on changing throughout 90 years of British rule, due to the difficulties in the consistent application of laws throughout the Subcontinent. The state-specific rules also differed according to the class of land, i.e., agriculture or non-agriculture (Cheema, 2006), which is noted to be a significant intervention by the British Government in India (Ullah, et al. 2021).
+
+________
+
+[1] Omer Siddique and Abida Naurin are Senior Research Economist and Research Fellow, respectively, at the Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+________
+
+2. Current Framework
+
+Although minor amendments have been made over time, even after independence in 1947 the laws and rules of the British era serve as the basis for Pakistan’s entire system of land administration (UN-Habitat, 2012). For instance, legislations governing the land administration of the British government, namely, the Transfer of Property Act of 1882 and the Punjab Tenancy Act of 1887, are still in effect. The current Punjab Land Revenue Act of 1967 replaced the Land Revenue Act of 1887. According to the Act, each local patwari is required by the Act to keep a record of land rights and to separately record mutations for changes in ownership. The underlying rationale for the 1967 Act is to assist the state with tax administration, levying, and collection.
+
+Although there have been some changes in how land titles and revenue are managed, the system is still reminiscent of the British era. One can argue that the political dominance of the landowning elite, which has resisted any improvements in the land tax system, is to blame for Pakistan’s antiquated and rigid land tax system. Moreover, more than 40% of Pakistani voters are landowners, and due to their influence over agricultural labourers, who are tenants or without property, their participation in elected bodies has historically exceeded their numbers (Herring and Chaudhry, 1974). Landlords’ political influence was noticeable from the very beginning of Pakistan’s independence and has not changed much since then.[2] Given this political scenario, it is not surprising that no new legislation has been introduced to change the land tax structure or successfully implement any formal agricultural revenue[3] (Qureshi and Khan, 1986).
+
+In 2017, the Government of Punjab, in collaboration with the World Bank (WB), launched the Punjab Land Record Management Information System (PLRMIS) overseen by the Punjab Land Record Authority. The PLRMIS aimed to improve land administration and land market operations, with the overarching objective of improving the overall governance and administration. This system’s objectives were to make it easier for the public to purchase land and to increase the visibility of property records. In Punjab, the initiative was first introduced in 18 districts in late 2013 before being expanded to the entire region in late 2016. Even though the system has become relatively efficient and effective, there are still certain inefficiencies (inaccessibility of the relevant officials when required, lack of service with informal payment and lengthy process, absence of monitoring system, inefficiency, incompetent employees, the absence of accurate knowledge about service, and distance), which causes meaningless litigation.
+
+_______
+
+[2] For an interesting assessment of the political significance of the landed class, see Alam (1974).
+
+[3] For an argument that the similar force have hampered land reform, see Herring, R. and Chaudhry, G.M. (1974).
+
+_______
+
+Interaction and focused group discussions (FGDs) with patwaris and lawyers showed the complexity and tediousness of the procedure. The potential buyer must approach the local patwari of the relevant region to initiate the procedure. The first step is to identify the land they want to acquire and get its associated land identification number under the present legal framework for rural regions. The potential buyer can learn more about the land and its existing owner by searching for this identifying number in the patwari’s extensive, manual, and paper-based registry.
+
+The interaction further revealed that the buyer must verify the “chain of title” by performing the requisite due diligence to make sure that the current owner has a strong root of the title because the record of patwari only has presumed value. To do this, he must independently visit the local registrar of the region and inquire about the validity of the sale document that the current owner uses to acquire his title. Repeating this is necessary for every transaction carried out during the previous 15 years.
+
+Based on FGDs, two main findings follow from the tedious, cumbersome, and presumptive procedure. The absence of a centralised land registry that definitively documents all land rights is one problem that stands out right away. Therefore, the potential buyer is unable to simply check the title and look for any impediments in one place. In Punjab, Pakistan, computerization of land records causes farmers more difficulties than convenience. To obtain these services, the department officials are difficult to reach. The digitization of land record services is expensive, time-consuming, lacks services, and requires informal payment. Therefore, these factors increase the transaction costs[4] and people are compelled to operate extra-legally.
+
+Second, the title is not protected by the state in Pakistan. Buyers are required to perform due diligence by examining the title of the seller and assume liability in the case that the title is found to be flawed. To put it another way, the state does not even ensure the validity of its property record. Therefore, the state would not pay the buyer in cases where the buyer purchased a plot of property in reliance on official documents and it was later discovered that the title of the seller was flawed. Instead, legal action would be taken to resolve the situation. This leads to excessive litigation and discourages foreign investors from making investments in Pakistan.
+
+An examination of the land legal system shows that it is now the result of two parallel systems that overlap. The Land Revenue Act of 1967, which exclusively relates to rural regions, is the first. According to the aforementioned Act, each local patwari is required to keep a record of rights for property and specifically record mutations for transfers in ownership. The Act’s main goal was to assist the state in imposing, managing, and collecting taxes (Dawn, 2002).
+
+_______
+
+[4] Transaction costs include search costs, bargaining and decision costs, contracting costs, and policing and enforcement costs. When there are frictions in the markets, excessive regulations, and uncertainties regarding property rights, transaction costs increase. Due to uncertainties and insecurity of property rights, litigations also increase. These factors impede economic activity in an economy.
+
+_______
+
+Box 1: Shortcomings in Land Title – A Summary
+
+High incidence of disputes concerning land: Uncertainties like land interests and the position of ill-defined boundaries)
+
+The Patwari system is isolated from the rest of the system: The record does not capture attributes such as size, location, structure, covered area, and right-of-way. Land registry information is either entirely lacking or inconsistent with actual conditions.
+
+Government hesitance and negligence regarding the expense and duration of the operation: Land registration is a long-term investment, which policymakers must understand.
+
+Property rights and property boundaries are not recognizable and definable
+
+The property rights are vested in claimants. In this regard, physical demarcation of boundaries by hedges and fences can make the system more efficient and less prone to frivolous litigation.
+
+The Incompetency of staff.
+
+The record that was first kept by the revenue authorities for fiscal objectives grew in increased relevance over time and gradually came to be acknowledged as proof of the title due to the absence of alternative keeping records practises. The courts have never been ready to accept revenue records as conveying anything more than an assumption of truth because the patwari consolidated power, as well as the corruption and absence of transparency in the process.
+
+The second is the structure established by the Registration Act of 1908, which requires that every sale that is intended to transfer rural land or urban land be registered with the registrar of that area. The main goal of registering the sale deed under the aforementioned Act was to publicly announce that the transaction was properly conducted and that the ownership of the land had changed. Although the Act only relates to the registration of papers, not transactions, the courts have frequently held this to be the case. Such an approach violates the intent of the Act and makes oral land purchases possible. As a result, a change in land ownership may have already occurred without being noted in the records of the state.
+
+3. Some Suggestions
+
+We urgently need to reform our system of private property. Although the issue of information availability has recently been addressed by the provincial computerization of land records, the difficult transaction procedure still remains. Land sales and purchases are still difficult since the state is unable to secure the title. We should now take it a step further and adopt the Torrens System of Land registration and Transfer (Massie, 1900), which is distinguished by a central land record, title conferral through registration, and governmental assurance of title, to allow a more investment-friendly Pakistan.
+
+Box 2: Advantages of Advanced Land Titling System
+
+Greater tenure security
+
+Greater access to credit
+
+Dealing in land more expeditions, reliable and inexpensive
+
+Establishment of a land market
+
+Improvement of land administration
+
+Improves basis for land tax
+
+A sale deed works as the record of title under our legislation, which is still based on the ancient deeds registration system that the British left behind. However, the UK adopted The Land Registration Act in 2002, replacing the previous system with the Torrens registration system of Australia. The state currently maintains a land registry that unambiguously records all land titles. A potential purchaser can browse the online register, look up ownership information, and verify the title.
+
+The title is granted through registration, not by the execution of the sale deed, under the Torrens system that the UK has implemented. This would guarantee that the register always contains information on land ownership. Furthermore, the state is now the guarantee of title: it ensures that the data in the land registry is accurate and indemnifies any damage sustained because of relying on its contents.
+
+Box 3: Measures to develop a Land Registration System
+
+Surveys that involve measurement and mapping
+
+The description of land parcel and tenure rights
+
+A reworking and putting into action the initiatives for tenure reform and land redistribution that were tried in the 1970s and 1980s.
+
+Encourage the development and improvement of institutions and practises for both customary and civil land adjudication and dispute resolution.
+
+References
+
+Alam, M. S. (1974). Economics of the Landed Interests: A case study of Pakistan. Pakistan Economic and Social Review , 12 (1), 12-26.
+
+Ali, Z. (2013). Developing a framework to apply Total Quality Management concepts to land administration: the case of Islamic Republic of Pakistan . [Doctoral thesis, University of Twente]. Researchgate. https://www.researchgate.net/profile/Dr-Zahir-Ali/publication/257247287_Developing_a_framework_to_apply_Total_Quality_Management_concepts_to_land_administration_the_case_of_Islamic_Republic_of_Pakistan/links/0deec524b967e9cce5000000/Developing-a-framework-to-apply-Total-Quality-Management-concepts-to-land-administration-the-case-of-Islamic-Republic-of-Pakistan.pdf
+
+Dawn (July 22, 2002). Guaranteeing title to land. https://www.dawn.com/news/48964/guaranteeing-title-to-land
+
+Herring, R. and Chaudhry, M.G. (1974). The 1972 land reforms in Pakistan and their economic implications: A preliminary analysis. The Pakistan Development Review , 13(3): 245-279.
+
+Marshall, P. J. (1975). British expansion in India in the eighteenth century: A historical revision. History , 60(198): 28-43.
+
+Massie, E. C. (1900). The Torrens System of Land Registration and Transfer. The Virginia Law Register , 6(4): 215-221.
+
+Qureshi, S. K. and A. Khan (1986). Political Economy of Land Tax in Pakistan . The Pakistan Development Review , 25(4): 839-853.
+
+Thakur, V., et al. (2005). Social Impact of Computerisation of Land Records . Adopting e-governance . New Delhi, India: Computer Society of India Publications.
+
+Ullah, I., Hussain, S., Akhoubzi, W., Hussain, S., Riaz, M. K., Jamil, S., & Parveen, A. P. (2021). Impact Evaluation of the Land Record Management Information System in the Punjab Province, Pakistan . KDI School of Pub Policy & Management Paper.
+
+Un-Habitat (2012). Enhancing urban safety and security: Global report on human settlements 2007, Routledge.

@@ -1,0 +1,33 @@
+ABSTRACT
+
+Reforming Pakistan’s Tax Policy is one of the key instruments to make URAAN Pakistan’s goal of a trillion-dollar economy happen through internal resource mobilization. It is widely discussed that Pakistan’s tax policy suffers from a narrow base, relying heavily on regressive indirect taxes while elites evade payments. Weak enforcement allows widespread informality (50 percentof GDP) to escape taxation. Complex federal-provincial overlaps and frequent ad-hoc changes deter compliance and investment. Low progressivity (only 2 percentfile income tax) worsens inequality instead of redistributing wealth. Given such limitations of tax system, there is a dire need for conducting a study to gather evidence based on widespread literature available for Pakistan’s tax policy. The underlying piece of research maintains focus on two objectives: (i) evaluating the Pakistan’s tax system whether it is effective and flexible through a comprehensive literature review, and (ii) to reveal the contributions and research gaps by local researchers and organisations. The overall findings of the all- reviewed research papers demonstrate that in the short run, the estimates of elasticity and buoyancy were greater than unity for overall taxes and tax heads. Nonetheless, in long- run, all estimates went declining and characteristics of the system to work automatic stabilisers failed to work. Due to the system’s inability to respond positively and lowering resilience power, the country drowned in the vicious trap of debt and unsustainable economic growth.
+
+1. INTRODUCTION
+
+1.1 Objectives of the Study
+
+The Pakistan’s tax system has been experiencing numerous reforms which have the objective of raising tax revenues to fund economic development. The fruits of such reforms went vain because our tax system was unable to generate a sufficient amount of revenues to fulfill financing requirements of incumbent governments, resulting in a vicious cycle of fiscal deficits. This leads the government to hugely depend on internal and external financing such as commercial banks, International Monetary Fund (IMF), World Bank (WB), and Asian Development Bank (ADB), which are not considered as a sustainable solution of financing. Thus, it is very crucial to develop an efficient tax system which enhances the government’s ability to finance public services without heavily depending on external financing, while devising an efficient tax system has been a challenging task for developing countries. Formulating a tax policy devoid of having the knowledge of percentage change in tax revenues at its base would distort the expectations of the decision makers regarding economy’s ability to generate and enhance tax revenues, which would bring about fiscal imbalances. In the light of aforesaid discussion, it is significantly important to evaluate the level of effectiveness of Pakistan’s tax system and some other pertinent issues.
+
+1.2. Objectives of the Study
+
+The underlying study comes up with bridging up this research gap by setting up two objectives: (i) to evaluate the effectiveness of Pakistan’s tax system by reviewing all available published studies, and (ii) to reveal the contribution and gaps of local (Pakistani) researchers in this regard-to unravel where the local researchers from academia and non- academia stand pertaining to provide evidenced-based feedback in reforming tax system.
+
+The existing literature has employed generally two measures to assess the effectiveness of any tax system such as elasticity and tax buoyancy1 (e.g., Suppannavar & Pujari, 2024; Seydou, 2020; Tanchev and Todorov, 2019; Ashraf & Sarwar, 2016; Belinga, et al. 2014; Cotton, 2012; Skeete, et al. 2003). While measuring the productivity of the tax system, the differentiation between tax elasticity and buoyancy carries its weights because both terms leads to growth in tax revenues, which could either be because of an automatic response or discretionary changes brought about by the concerned authorities. The tax elasticity is considered as a key measure of efficiency of the tax system, which indicates the automatic response, referring the growth in tax revenue collection by setting up tax base, the rules, and tax rates constant. On contrary, the buoyancy indicates the combined influence of the automatic response and discretionary policy changes by the concerned tax authorities. The estimates of these two measures explain that if these are greater than 1, it demonstrates that system is efficient and has the ability to increase the tax collection or growth in tax revenues induced by change in national income, and resulting in reduction in the deficit ratio, vice versa. The greater the elasticity and buoyancy, the more flexible and efficient tax system is to be considered (e.g., Suppannavar & Pujari, 2024; Ashraf & Sarwar, 2016; Belinga, et al. 2014; Cotton, 2012; Skeete, et al. 2003).
+
+2. FRAMEWORK OF THE STUDY
+
+Keeping in view the specified objectives of the underlying research, the framework of paper selection for this review paper is designed as follows.
+
+First, to review of all published studies covering discussion related to Pakistan’s tax policy and system, all research papers and reports are selected by taking into account following steps.
+
+First, I have explored papers published in W-category or higher category journals.
+
+Second, papers published in X-category journals.
+
+Third, papers published Y-category journals.
+
+Fourth, working papers, published reports by international organisations such as IMF, WB, and ADB etc.
+
+Fifth, working papers, published reports by local public or private organisations such as PIDE, FBR, and SDPI, etc.
+
+Second, to reveal the contribution of local researchers regarding Pakistan’s tax policy, I have reviewed all published research papers by presenting the summary of studies in a table.Third, to gather empirical evidence pertaining to the effectiveness and flexibility of Pakistan’s tax policy, I have employed two vastly used measures by the researchers and international organisations: (i) Tax Elasticity, and (ii) Tax Buoyancy. A detailed discussion on the methodology of these two approaches and findings obtained from the reviewed studies are presented through descriptive and tabulation form. For empirical analysis, this review paper only focuses on overall tax system and disaggregation of the tax system into heads such as income tax, sale tax, custom duties, and excise duties, while other taxes such as agriculture tax etc. are not included in the analysis to avoid any complexity.

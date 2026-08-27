@@ -1,0 +1,113 @@
+Background
+
+Most of the economies that have managed to increase their exports have done so on the back of productivity improvements. The following figure shows the TFP growth and export-to-GDP ratios for five countries: Bangladesh, China, India, Pakistan, and Viet Nam. Take the example of Viet Nam. Since 2000, Viet Nam’s total factor productivity (TFP) growth and export-GDP ratio have been on an upward trajectory. The same is the case with India. In short, Figure 1 shows that countries with positive TFP growth also have positive export-GDP ratios, and vice versa.[1] The figure clearly shows a negative correlation between TFP growth and the export-GDP ratio for Pakistan as well.[2] Thus, it can be argued that there is a relationship between an economy’s productivity and export performance.
+
+Figure 1 . TFP growth and exports: comparative picture
+
+Source: Calculations are based on the Asian Productivity Organization (APO) productivity database.
+
+Note: The blue lines, solid and dotted, denote the export-GDP ratio and trends, respectively, while the orange lines, solid and dotted, denote TFP growth and trends, respectively. The data is for 2000–2023.
+
+A Persistent Puzzle
+
+Pakistan’s export performance has been a subject of active discussion ever since its creation. Despite various plans and policies, its export performance has been lackluster, to put it mildly. In other words, it can be termed as an ambition unfulfilled. It is a puzzle of sorts: although the country has a large and young labor force, a sizable manufacturing base, and a strategic geographic location with access to major markets, its export performance has been stagnant, unlike that of a few other comparable-sized economies. As the figure above shows and is documented elsewhere, Pakistan’s export-GDP ratio has declined from an average of 16% in the 1990s to just 10.5% in 2023. These numbers are not only considerably below the averages for low- and middle-income countries, but also trailing behind every major regional peer (World Bank, 2025; PIDE, 2025)[3].
+
+During the same period, Bangladesh’s export performance has been remarkable: it has transformed a narrow garment industry into a USD 33 billion export industry. Similarly, Viet Nam has also evolved from an exporter of textiles and minerals/mineral products into a global hub for electronics, semiconductors, and computers. India has also emerged as a leading exporter of IT services and pharmaceuticals. On the other hand, Pakistan’s exports have remained largely concentrated in a primary and low-value-added basket, such as textiles, apparel, leather, and rice (Mustafa & Hussain, 2023).
+
+Given that Pakistan has all the necessary ingredients to compete with its competitors and peers in the global market, what explains this puzzle? One may be tempted to point out exchange rate, energy costs, or access to finance as fundamental problems. However, although these are genuine constraints, they are not the root of the problem. Productivity is the missing link.
+
+Importance of Productivity for Export Competitiveness
+
+TFP measures how efficiently an economy uses its inputs, i.e., labor, capital, and materials, to produce output. Technically, TFP is that part of economic growth which cannot be explained by the use of inputs. A country with higher TFP growth can produce more with the same inputs, which is precisely what export competitiveness requires: delivering high-quality goods at competitive prices, reliably and at scale. 4
+
+The global evidence in this regard is very strong. Research shows that countries with TFP growth above 3% tend to have GDP growth of 8% or higher. On the other hand, countries with TFP growth below 3% typically grow at between 3 and 7% (Citi GPS, 2018)[4]. Exporters are typically more productive than domestically-oriented firms because exposure to international competition forces them to improve. The causality between exports and productivity operates in both directions: more productive firms enter export markets, which, in turn, further improves productivity growth through learning, technology adoption, and improvements in management practices (Lovo & Varela, 2020).
+
+Pakistan’s economy, on the whole, however, has not shown signs of this virtuous cycle. Pakistan’s average TFP growth has been somewhere between 1.5% and 2% since the 1970s, though it has been erratic and declining in trend (Siddique, 2023; Siddique, 2022[5]; Faraz, Siddique, & Saeed, 2023)[6]. Clearly, this is not the productivity profile of an economy with ambitions to double exports by the end of the decade.
+
+Sectoral TFP
+
+While macroeconomic numbers paint a somber picture, the sectoral picture is even graver. Faraz, Siddique, and Saeed (2023) estimated TFP growth for 61 sectors in Pakistan using firm-level data from 1,321 companies over the period 2010 to 2020. The findings are discouraging. The average TFP growth across all 61 sectors was just 1.5% during the period. The study divided the sectors into three groups: high TFP growth (above 3%), medium/low TFP growth (0 to 2.9%), and negative TFP growth (below 0%). According to the findings, which show a striking pattern, high-productivity sectors are mostly services or technology-based, while most manufacturing falls into the medium/low or negative TFP growth groups.
+
+The implications for exports are not very encouraging, as Pakistan’s export-designated sectors, namely, textile spinning, textile weaving, leather and tanneries, are in the negative TFP growth category. Other export-designated sectors, such as sports goods and textile composites, also exhibit a lackluster TFP growth rate, as they are in the medium/low TFP growth category. In other words, the sectors that Pakistan has been counting on to earn foreign exchange for a long time are precisely those that are lagging in productivity improvements. 5
+
+This trend is reflected in Pakistan’s marginal and declining presence in global export markets. Its share of high-skill and technology-intensive exports increased marginally from 3.6% in 2021 to 6.4% in 2024. Over the same period, Viet Nam reached 33.9% and China reached 41.1% (Mustafa & Hussain, 2023). Viet Nam’s exports of broadcasting equipment exceed the combined merchandise exports of Pakistan and Bangladesh (Pakistan Business Council, 2024)[7].
+
+Protectionism and Subsidization
+
+A critical and consequential finding of the sectoral TFP analysis by Faraz, Siddique, and Saeed (2023) is the relationship between subsidies and productivity. The analysis shows that sectors that receive government subsidies exhibit either medium/low or negative TFP growth. Therefore, rather than enhancing competitiveness, subsidies appear to be associated with productivity stagnation.
+
+This should not come as a surprise, though. These findings reflect a deeper structural problem, viz. Pakistan’s industrial policy has long operated on the principle of insulating domestic producers from competition through tariff protection, sector-specific exemptions, and subsidized inputs. The manufacturing sector, in particular, has been heavily protected in Pakistan. The problem with this strategy is that protectionism, which has been the hallmark of Pakistan’s industrial policy since the 1960s (Haque, 2006)[8], by design removes the competitive pressure that drives firms to innovate, adopt new technology, modernize management, and improve efficiency.
+
+According to an APO study on Pakistan (APO, 2023), Pakistan’s manufacturing sector is dominated by family-owned firms. Such firms resist modern management practices and are slow to adopt new technology. Moreover, Statutory Regulatory Orders (SROs), uncertain and frequently changing tariffs and tax policy, and a highly complex regulatory environment,[9] add to the cost and uncertainty of doing business. Estimates show that the cost of regulations, NOCs, and permissions equal 39% of GDP across just three sectors (PIDE, 2022)[10].
+
+This protection acts as an implicit export tax. Moreover, Pakistan’s cascading tariff structure, which imposes high duties on imported intermediate inputs, makes it more expensive for Pakistani exporters to use imported raw materials and components needed to compete globally (Mustafa & Hussain, 2023)[11]. The result is a counterproductive arrangement in which industrial policy not only protects domestic producers from competition, but also penalizes the export-oriented firms it is supposed to support.
+
+Similarly, according to the IMF’s 2024 Article IV assessment of Pakistan, Pakistan’s export underperformance reflects low productivity of the tradable sectors, limited high-tech and technological sophistication of exports, and the shifting of resources from the tradable sectors to non-tradable sectors due to tariff and non-tariff barriers (IMF, 2024)[12]
+
+The R&D, Skill, and Technology Gap
+
+Apart from a misaligned policy environment, Pakistan’s economy is also beset with several structural constraints that exacerbate its productivity problem. For instance, research and development (R&D) investment is negligible in Pakistan compared to high-productivity economies, such as China. Pakistan spends approximately 0.2% of its GDP on R&D, while China spends 2.4%. Unsurprisingly, therefore, Pakistan ranks 87th out of 132 countries in the Global Innovation Index (APO, 2023). Low R&D expenditure hampers Pakistan’s capacity to develop or adopt new technologies, which are critical for productivity growth.
+
+Furthermore, low skills among the labor force reinforce this problem. In Pakistan, technical and vocational education institutions suffer from outdated curricula, insufficient capacity, and a persistent mismatch between the skills they impart and the labor market’s requirements. Firms that invest in training workers frequently lose them to competitors who offer higher wages after the completion of apprenticeships (APO, 2023)[13].
+
+Pakistan has also failed to attract the kind of foreign direct investment that is typically associated with technology and managerial knowledge transfer. In this regard, Viet Nam’s experience with Samsung is instructive. In 2008, when the electronics giant set up in Vietnam, nearly all its suppliers were foreign. However, by 2020, 50 Vietnamese firms had become first-tier suppliers to Samsung, leading to improvements in productivity and increased sales across the domestic supply chain (Lovo & Varela, 2020). On the contrary, firm-level research in Pakistan finds no evidence of similar ‘horizontal spillovers’ from foreign competitors to domestic firms, which is a reflection of low FDI inflows and weak integration into global value chains (Lovo & Varela, 2020)[14]
+
+Exchange Rate and Productivity
+
+Amidst this discussion on the state of productivity in Pakistan and its link to export growth, it is important to dwell, albeit briefly, on what productivity is not. A common refrain in Pakistani policy discussions is that export competitiveness can be recovered through exchange rate depreciation. The argument is that a weaker currency would make Pakistani goods cheaper abroad. However, the evidence suggests that this is a misdiagnosis.
+
+For example, Bangladesh did not overtake Pakistan in garment exports by depreciating its currency. In fact, it achieved it in a relatively short period by improving firm-level productivity, investing in its workforce, and persisting with consistent export-oriented policies for several years (Minute Mirrow, 2026)[15]. Similarly, Vietnam’s fabled export diversification was achieved on the back of productivity-enhancing polices and integrating into the global value chain. In neither of the two countries was exchange rate management the main policy tool.
+
+Currency depreciation is beneficial for exports in the short term. However, even for that to have a positive effect, productivity at the firm level is required so that the firms can expand output, maintain quality, and absorb the cost increases that depreciation brings through imported inputs and inflation. Frequent devaluation of the Pakistani rupee has shown that in the absence of underlying productivity, a weaker currency mainly results in inflation and profit squeeze rather than long-term growth in exports.
+
+The Way Forward
+
+Experience across many countries, including Bangladesh and Viet Nam, shows that low productivity cannot be tackled. However, raising productivity requires perseverance and a fundamental shift in industrial policy, which incentivizes upgrading and discourages rent-seeking through protectionism. The following are some of the suggested measures.
+
+Incentives are required when an economy is caught in a low-productivity trap. However, incentives must be conditional on performance. The evidence from Pakistan that subsidized sectors exhibit low or negative TFP growth shows that subsidies without performance are a drag on the government’s finances and disincentivize improving competitiveness. Industrial support, in any form, should be strictly linked to measurable outcomes, such as export growth, technology adoption, and productivity improvement (Faraz, Siddique, & Saeed, 2023; APO, 2023).
+
+The inherent anti-export bias in trade policy must be eliminated. High tariffs on imported intermediate inputs are essentially a tax on exporters. Pakistan’s National Tariff Plan, which aims to reduce the simple average tariff from 20.2% to 9.7% by 2030, is a step in the right direction (World Bank, 2025). However, tariff rationalization has to be comprehensive, with a clear commitment to policy stability so that firms can plan long-term investments.
+
+The regulatory burden must be reduced. The ‘regulatory guillotine’ approach, i.e., reviewing and eliminating redundant and cumbersome regulations, has been successfully used by several countries and offers a model for Pakistan (APO, 2023). The current proposals by the Board of Investment for the ease of doing business are another step in the right direction. The objective is not unbridled deregulation but a move toward a predictable, easy, transparent, and business-friendly regulatory environment.
+
+Investment in R&D, skills, and technology adoption must be treated as a pillar of growth policy and not an afterthought. This requires strengthening linkages between academia and industry, adapting technical and vocational education curricula in consultation with industry to meet the industry’s requirements, and creating incentives for firms to adopt new technologies and upgrade management practices.
+
+Pakistan must actively pursue global value chain integration as a strategy to improve its productivity. According to the World Bank estimates, Pakistan’s untapped export potential is approximately USD 60 billion. However, closing this gap requires attracting export-oriented FDI and enabling domestic firms to integrate into international supply chains (World Bank, 2025). This requires, along with the right incentives, competitive energy pricing, reliable infrastructure, trade facilitation, and a stable macroeconomic environment.
+
+Conclusion: Recalibrating the Growth Narrative
+
+To sum it all up, it could be reasonably argued that Pakistan’s perpetual export problem is a symptom of the deeper structural productivity problem. However, unfortunately, for decades, the policy debate has centered on symptoms, such as the exchange rate, the trade deficit, the current account, and the recurring IMF programs. This is not to say that these are not legitimate and pressing concerns, but they cannot be resolved by addressing them in isolation. The root cause is the below-par productivity, especially in export-oriented sectors. However, the industrial policy continues to incentivize low-productivity sectors, which insulates them from competition. Competition, among other things, is the driving force behind productivity improvement.
+
+Vietnam’s economy, before it took off in the early 2000s, was quite similar to Pakistan’s economy in terms of export composition. However, the productive transformation through trade openness, technology, skills, and a policy environment that rewarded performance over the status quo proved to be the game-changer. All this has yet to happen in Pakistan. Anyone can commit to this change, including Pakistan, but the first step is to stop treating productivity as a passing note in the growth debate and bring it to the front and center of the growth and policy debate.
+
+Omer Siddique is a Senior Research Economist at the Pakistan Institute of Development Economics (PIDE)
+
+[1] Interestingly, China’s TFP growth and export-GDP ratio trends are both negative during the period (2000–2023). However, if both these variables are plotted for a longer time series, starting from 1971, both show a positive trend. It may imply that China, as it is progressing, is depending less on exports in relative terms. It can also be inferred that due to the producitivity slowdown, China’s exports-GDP ratio has also taken a hit. A detailed discussion on this matter, nevertheless, is tangential to this article.
+
+[2] It is important to note that a correlation, positive or negative, does not imply causality.
+
+[3] World Bank (2025). Pakistan Export Competitiveness Review. Cited in: Pakistan’s exports underperform by $60 billion, Profit by Pakistan Today, October 2025; and PIDE (2025), Pakistan’s Dismal Export Performance: A Survey of Empirical Literature
+
+[4] Citi GPS: Global Perspectives and Solutions (2018). Securing India’s Growth Over the Next Decade: Twin Pillars of Investment & Productivity.
+
+[5] Siddique, O. (2022). The Determinants of Total Factor Productivity Growth in Pakistan: An Exploration. PIDE Working Papers No. 2022:4. Pakistan Institute of Development Economics, Islamabad.
+
+[6] Faraz, N., Siddique, O. and Saeed, A. (2023). Sectoral Total Factor Productivity in Pakistan. Research Report No. RR-057. Pakistan Institute of Development Economics / Ministry of Planning, Development and Special Initiatives, Islamabad.
+
+[7] Pakistan Business Council (2024). Lessons from the East: Decoding Vietnam’s Growth. Islamabad: PBC.
+
+[8] Haque, N.U. (2006). Beyond Planning and Mercantilism: An Evaluation of Pakistan’s Growth Strategy. Pakistan Development Review 45(1): 3–48.
+
+[9] There are more than 100 federal regulatory authorities in Pakistan.
+
+[10] PIDE (2022). PIDE Sludge Audit Report, Vol I. Pakistan Institute of Development Economics, Islamabad, Pakistan.
+
+[11] Mustafa, G. and Hussain, S. (2023). What Are the Factors Making Pakistan’s Exports Stagnant? Insight from Literature Review. PIDE Knowledge Brief 2023:99. Pakistan Institute of Development Economics, Islamabad.
+
+[12] International Monetary Fund (2024). Pakistan: Article IV Consultation and Request for an Extended Arrangement Under the Extended Fund Facility. IMF Country Report No. 24/311. Washington, D.C.: IMF.
+
+[13] Asian Productivity Organization (2023). Productivity in Pakistan: Estimates, Bottlenecks and the Way Forward. Tokyo: Asian Productivity Organization (APO).
+
+[14] Lovo, S. and Varela, G.J. (2020). Internationally Linked Firms, Integration Reforms and Productivity: Evidence from Pakistan. World Bank Policy Research Working Paper No. 9349. Washington, D.C.: World Bank. [See also: World Bank Blog, March 2024, ‘Global integration can spur productivity growth in Pakistan’.]
+
+[15] Minute Mirror (2026, January). Why Pakistan’s Export Problem Is About Productivity, Not the Dollar.

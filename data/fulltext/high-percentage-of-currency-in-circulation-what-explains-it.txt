@@ -1,0 +1,37 @@
+One of the peculiar features of the Pakistani economy is a high percentage of Cash in Circulation (CIC) of the total amount of Money Supply (M2). Over time, as the accompanying chart depicts [1] , this percentage has increased, eliciting worries from analysts and experts who have long favored the documentation of the informal sector [2] in an effort to bring down this percentage! Moreover, it is higher than even regional peers, let alone industrialized nations.
+
+Since the informal economy mostly operates on a cash basis, analysts believe that documenting the informal economy would bring down the CIC, paving the way for positive spillovers like increased revenue for the federal and provincial governments. Put another way, most observers (especially taxation experts) view the issue as that of tax avoidance.
+
+Granted that tax avoidance, informality, and corrupt practices are a part of the explanation, but deeper introspection and query reveal that there are several issues a play and that the matter cannot simply be put down to the tendency of tax theft/avoidance! Thus, a wider and more plausible explanation in the offing covers other important aspects of this debate. This piece attempts to fill this void. [3] .
+
+We start with the realization that the kinds of economic and financial risks that beset Pakistan’s economy and its population are far greater than one would find in a developed nation. These risks arise not only from the external front (COVID-19 and Russia-Ukraine war’s spillovers are recent examples) but also from the domestic governance apparatus that has historically resulted in low levels of trust between the government and the citizenry. Cash is the most sought-after asset in risky environments, primarily due to its liquidity and easy conversion/acceptance.
+
+This factor is at play in the aftermath of COVID-19’s onslaught. Goodhart and Ashworth (2020)[4] noted that CIC in industrialized nations had increased considerably in the wake of COVD-19 (depicted in the graphs below, with the U.S. on the left and E.U. on the right). While questioning the repeated assertion of ‘death of cash,’ they note the considerable rise in CIC, putting it down to panic-driven hoarding of bank notes. Similarly, Shirai and Sugandi (2019) analyzed rising CIC from 2000 to 2018, concluding that the opportunity cost of holding money and age-related variables were major factors explaining the rise of CIC.
+
+Carrying the argument about low levels of trust between the government and the citizenry forward, Pakistan’s governance mode, historically speaking, has been extractive. An economy that persistently runs on SROs, and where indirect taxes constitute the bulk of taxation, does not instill much confidence in the government. Administrative distinctions like differentiating between filers and non-filers create further complications. For example, last year, the personal account of an opposition politician in a private commercial bank was frozen on government orders despite there being no provision for such an arbitrary, capricious administrative measure. One implication is that many people become weary of putting their cash in formal banking channels.
+
+Closely related to the above are perverse incentives provided by the government policies that encourage cash transactions, especially cash that falls in the ‘black or illegal cash’ category. Nothing reflects this better than the real estate sector and the persistent ‘amnesty’ schemes offered by one government after the other (aside from the regular incentives to this sector). For example, the last government of PTI furnished yet another amnesty scheme. Research upon these schemes has pointed out the flow of whitened money to the real estate sector, where most transactions are cash-based [5] .
+
+From a purely cost-benefit and socio-economic perspective, there is little incentive for parking cash in formal accounts. Aside from the poor service levels and various costs associated with opening and maintaining bank accounts, a major portion of Pakistan’s population remains either poor or lower middle-class. It is either little or no savings from income, or meeting socio-economic obligations ensures that cash at hand remains a much-sought-after resource. Put another way, the benefits of distancing oneself from cash (by keeping it in a bank account or investing in a savings scheme, for example) are considerably outweighed by the requirement to meet socio-economic obligations at hand, requiring disposal through a liquid asset (like cash).
+
+Similarly, poor services by financial institutions imply failure to keep up with the requirements of businesses with high turnover, which makes them prefer keeping cash at hand rather than parking it in formal accounts [6] . Add to this the considerable ‘spread’ between what banks earn on investing deposits in investments like government treasuries and what the depositor gets (very little). There is little incentive to park cash in banks compared to using it or investing in community savings schemes (‘committee’ in common parlance). Put another way, the holding cost of cash is insignificant, thereby incentivizing keeping cash at hand.
+
+Finally, inflation tends to be on the higher side except for brief periods in Pakistan. Coupled with the low savings rate offered by financial institutions that could prove to be a good inflationary anchor, cash in hand is always a preferable option in an economic transaction mostly taking place in cash.
+
+In conclusion, the large percentage of CIC in Pakistan cannot be merely attributed to aversion by various economic actors to documentation efforts! This lazy explanation obviates the need for deeper, careful analysis that brings forth other subtle factors at play in this story.
+
+The author is a Research Fellow at the Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+_________________
+
+[1] Chart courtesy of Business Recorder.
+
+[2] Estimates of the size of the informal economy vary by source, but there is general agreement amongst researchers that the size is quite significant. PIDE, for example, reported the size to be 56 percent of the GDP in 2019 (‘Pakistan’s Shadow Economy,’ 2022).
+
+[3] ‘The conundrum of rising demand for currency in Pakistan’ by State Bank of Pakistan (SBP) is also recommended to be read in this regard. Though a bit technical, it also delves into various factors that affect CIC.
+
+[4] Ashworth, J., & Goodhart, C. A. (2020). The surprising recovery of currency usage. 62nd issue (June 2020) of the International Journal of Central Banking .
+
+[5] ‘Amnesty scheme- which way will the money flow?’ and ‘Real estate attraction’.
+
+[6] ‘Cash is cash for business.

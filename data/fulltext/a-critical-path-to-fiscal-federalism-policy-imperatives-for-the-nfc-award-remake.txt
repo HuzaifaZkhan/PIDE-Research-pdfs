@@ -1,0 +1,100 @@
+EXECUTIVE SUMMARY
+
+This study presents a comprehensive analysis of Pakistan’s current fiscal federalism framework under the 7th National Finance Commission (NFC) Award and proposes a new, performance-based model to address its inherent shortcomings for the upcoming 11th NFC Award. The 7th NFC Award, despite its historic devolution of resources, has created a “structural trap” of provincial dependency on federal transfers1, disincentivizing own-source revenue generation along with efficient public service delivery.1 The study ’s core thesis, supported by empirical evidence, is that a robust and sustainable fiscal system is a function of public trust which in turn is based on demonstrated performance of federating units.2 By critiquing the current formula, analyzing successful global models from Canada 4 and India 6, and leveraging academic research on tax morale 9, this study proposes a new framework which would nudge the current system for not just better taxes but also improved service delivery. This framework introduces a multi-dimensional Provincial Performance Index (PPI) to a revised horizontal distribution formula.8 The PPI would reward provinces for tangible improvements in revenue mobilization, governance and trust-building, human development outcomes, and fiscal prudence. However, the transition has to be backed by political will and should be gradual. The recommendations also include institutional reforms, such as the creation of a permanent NFC Secretariat 7 and the constitutional devolution of resources to local governments 12, to foster a more equitable, accountable, and ultimately, sustainable path for Pakistan’s national development.
+
+1. INTRODUCTION: THE IMPERATIVE FOR A NEW NFC AWARD
+
+The National Finance Commission (NFC) Award stands as the central pillar of Pakistan’s fiscal and political federalism, defining the mechanism for distributing financial resources between the federal government and its constituent provinces.13 As a constitutionally mandated, five-yearly proramme, its purpose is to address both vertical and horizontal fiscal imbalances.13 The 7th NFC Award, enacted in 2010, marked a significant and historic shift by increasing the provincial share of the divisible pool to
+
+57.5 percent from 47.5 percent 14 and moving away from a single-criterion distribution to a multi-indicator model.15 This landmark reform was a monumental step toward greater provincial autonomy and fiscal decentralization.16
+
+Despite these foundational improvements, the 7th NFC Award, which has continued far beyond its original tenure due to political disagreements, has created significant systemic issues.17 The existing framework has resulted in a “structural trap” of provincial resource needs saturation due to sufficient federal transfers 1, a condition that
+
+fundamentally distorts subnational fiscal behavior and undermines the incentive to generate own source revenues or to substantiate revenue collection efforts of center through improved public service delivery.1 This dependency has led to budgetary volatility and weakening of the social contract between the state and its citizens.1 The stalemate in having a new award since 2010 underscored the political and systemic dysfunction inherent in the current arrangement.18
+
+This study hypothesizes that for fiscal federalism to be effective and sustainable, it must move beyond simple resource distribution to a system that explicitly incentivizes new initiatives and rewards provincial performance.14 The premise, that tax collection and compliance are directly correlated with public trust in government and the perceived fairness of the system, is not merely a theoretical construct but a well-supported conclusion from academic research.2 Therefore, a new framework is needed which must acknowledge and integrate this causal relationship, making a province’s efforts ‘to build public trust and enhance governance’, a key determinant of its resource allocation along with supporting FBR’s efforts for increasing tax bases/compliance.8 This approach would transform the NFC Award from a passive resource-sharing mechanism into a dynamic instrument for national development and accountability.
+
+2. THE 7TH NFC AWARD: A CRITICAL ANALYSIS OF STRUCTURAL FLAWS
+
+The current NFC framework, in effect for over 15 years, has introduced several structural flaws that perpetuate fiscal imbalances and hinder effective governance. A detailed analysis of these issues is crucial to inform a comprehensive reform agenda.
+
+2.1. Formulaic Distribution and its Consequences
+
+The horizontal distribution formula of the 7th NFC Award is a multi-criteria model designed to address various provincial needs. It allocates resources based on four distinct factors: population, poverty, inverse population density, and revenue collection effort. The respective weights assigned to each of these criteria are 82 percent , 10.3 percent, 2.7 percent, and 5 percent.
+
+The overwhelming weight placed on population at 82 percent ensures that the most populous province, Punjab, receives a perpetual majority share of the divisible pool, amounting to 51.74 percent of total transfers.15 This heavy reliance on population, while a simple and easy-to-measure metric, can be viewed as an oversimplification that fails to account for the complex needs of other provinces. For example, the 10.3 percent poverty component, although intended to compensate for socio-economic disadvantages, is insufficient to adequately address the spatial challenges and high costs of service delivery in geographically disadvantaged provinces such as Balochistan.1 This creates a situation where some provinces are perpetually disadvantaged, regardless of their developmental needs. Seriously undermining the equalization component generally observed in fiscal transfers.
+
+A particular point of contention is the 5 percent weight for “revenue collection efforts,” which is intended to incentivize provinces to enhance their own tax base.14 This component is flawed by design. For example, Sindh, a province that generates significant own tax revenue (PKR 676.1 billion), receives a “negligible incremental benefit” from this component in the NFC formula.1 This indicates that the metric’s low weight and ambiguous calculation (some sources say it’s the revenue collected through electricity bills i.e. federal tax) have failed to serve their purpose.1 Revenue collected through electricity bills, are part of the broader federal tax administration and not the provincial efforts. 19 Further the core dysfunction is the method itself which offers no incentive to enhance provincial efforts for exploiting new tax avenues and generate optimal own source revenues. Moreover, it is a fact that the entire revenue effort component is too small to meaningfully alter provincial behavior.1 This structural imbalance ensures that provinces have little reason to invest in politically difficult tax reforms when the returns are so minimal.
+
+Table 1. The 7th NFC Award: Horizontal Distribution Formula
+
+Criteria
+Weight ( percent)
+
+Population
+82.0
+
+Poverty
+10.3
+
+Inverse Population Density
+2.7
+
+Revenue Collection Effort
+5.0
+
+Total
+100.0
+
+Table 2 . Provincial Shares
+
+Province
+Share ( percent)
+
+Punjab
+51.74
+
+Sindh
+24.55
+
+Khyber Pakhtunkhwa
+14.62
+
+Baluchistan
+9.09
+
+2.2. The ‘Structural Trap’ of Fiscal Dependency
+
+The most significant consequence of the current formula is the creation of a “structural trap” of fiscal dependency.1 Provincial government have become overwhelmingly reliant on federal transfers to finance their operations and development prorammes. This reliance has diminished their incentive to develop autonomous fiscal capacity, a key requirement for efficient-governance and political scrutiny.
+
+Data from the fiscal year 2024-25 illustrates this dependency in stark terms. Punjab, the country’s economic powerhouse, generates only 16.8 percent of its total resources from its own tax and non-tax revenues.1 The remaining 83.2 percent flows from federal transfers.1 The situation is even more pronounced in other provinces. Federal transfers constitute 93.6 percent of the resource pool for Khyber Pakhtunkhwa, followed by 87 percent for Baluchistan and 75 percent for Sindh.21 this heavy reliance is a nationwide phenomenon; provincial governments, collectively, generate only about 8 percent of total national resources, while their share of total public spending is 28 percent13 and should have expanded after the 18th amendment.
+
+This substantial reliance on transfers creates a classic problem of “moral hazard.” When provinces are guaranteed a large, unconditional transfer regardless of their own fiscal performance, the incentive to undertake or even shoulder politically challenging but economically necessary tax reforms is virtually eliminated.1 Tax collected at federal tier inherently bring lesser accountability for subnational governments as the people making sacrifice and those getting benefits are not necessarily being the same. Why would a provincial government risk public displeasure by imposing new or higher taxes on agriculture, services, or property when predictable federal transfers offer a much easier path to balancing the budget? Or even campaign and enforce such interventions made by the federal government. The existing system, therefore, rewards political negotiation and lobbying for federal funds over genuine fiscal effort by provinces. This lack of incentive is a primary reason why provincial tax revenues have remained stagnant, comprising a paltry 0.7-0.8 percent of the country’s GDP.14
+
+Table 3. Provincial Fiscal Profiles: Comparison of Own-Source Revenue (FY 2024-25)
+
+Punjab
+16.8 percent
+
+Sindh
+25.0 percent
+
+Khyber Pakhtunkhwa
+6.7 percent
+
+Baluchistan
+13.0 percent
+
+2.3. Volatility and the Erosion of Budgetary Integrity
+
+Beyond dependency, the implementation of the NFC Award introduces significant volatility into provincial budgets.1 this unpredictability undermines the credibility and stability of provincial fiscal planning, turning their budgets into little more than theoretical exercises.
+
+The fiscal year 2024-25 provides clear examples of this dysfunction. Khyber Pakhtunkhwa experienced a massive 11.23 percent transfer shortfall, triggering widespread fiscal disruption.1 Punjab faced a 4 percent cut in the same year, a sharp reversal from the 4.5 percent surplus it had enjoyed just two years prior in 2021-22.1 This volatility is not random but stems from structural flaws, including the absence of statutory disbursement timelines and the federal government’s routine practice of diverting divisible pool funds to meet its own fiscal crises.1 Consequently, provincial budgets are forced to serve as “shock absorbers for federal mismanagement” rather than instruments of local development.1
+
+The real impact of this fiscal instability is most acutely felt at the grassroots level. This systemic failure has tangible human costs. When federal shortfalls occur, development budgets are often the first casualty. In Punjab, development spending, which already constitutes a small portion of total expenditure at 31.4 percent, is jeopardized, leading to the stalling of critical infrastructure projects.1 In Baluchistan, a province already facing significant spatial disadvantages, these fluctuations directly result in “abandoned schools and understaffed hospitals,” demonstrating how fiscal mismanagement at the center has a direct, devastating impact on the quality of life and public service delivery for citizens.1 This breakdown of service provision further erodes public trust, creating a vicious cycle of poor governance and limited tax compliance.
+
+2.4. Legal and Institutional Gaps
+
+The NFC framework is also undermined by significant legal and institutional deficiencies. A major hurdle to reform is the 18th Constitutional Amendment. Its Article 160(3A) stipulates that “ The share of the Provinces in each Award of National Finance Commission shall not be less than the share given to the Provinces in the previous Award ”. While this provision was intended to protect provincial autonomy and prevent the center from unilaterally reducing shares, it has made it politically difficult to reach a new consensus on a revised formula.18 Any proposed changes that might reduce provinces share—even if more equitable overall—are immediately blocked, leading to the current state of perpetual extension of the 7th Award.
+
+Furthermore, the absence of a robust institutional or judicial mechanism to stabilize disbursements or enforce constitutional mandates is a major flaw. The system relies almost entirely on political will, which is often in short supply. The very existence of such a legal challenge highlights the system’s reliance on political negotiation rather than legally binding and enforceable obligations.25 The lack of judicial recourse for transfer shortfalls and other violations leaves provinces with little power to hold the federal government accountable, ensuring that the system’s inherent volatility remains unaddressed.

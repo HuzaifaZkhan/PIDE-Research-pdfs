@@ -1,0 +1,33 @@
+Post COVID-19 Lockdown and Air Quality Analysis in Most Polluted Cities of the Globe
+
+Yahya Khan and Abedullah[1]
+
+The Post – Industrial revolution has promulgated the environment as a key subject of international agreement and policies. In this epoch of globalization world has agreed on the new development path that environment is a key enabler for green and more – Inclusive growth. Every year the countries across the globe come on the common platform of conference of Parties to promote the strategic vision of green, clean and resilient World for All.
+
+Due to excessive use of natural resources instead of preservation, and by releasing the pollutants instead of absorption we have long been setting ourselves ready for disaster to come. The horrible destruction of nature equilibrium in the name of development has drawn nature’s ire and virus appeared as a sort of retribution. Severe acute respiratory syndrome Corona Virus is not new in this world but evolved and repeated in its severe form of COVID-19 since its emergence in 2003. The Corona virus has enforced the entire nations into lockdown mode, terrified citizens and enforced even the diehard laissezz faire economy of United States to take quick measures that can be described as communism. The Virus is putting the global economy into tailspin and is the deathblow for capitalist economy. Many countries were seen heading towards unprecedented recession. The agility, scalability and automation were described as the new words of this era.
+
+______________________
+
+[1] Yahya Khan and Abedullah are respectively, ex-graduate student and Chief of Research at PIDE.
+
+Environment Scenario of Post COVID-19:
+
+The COVID-19 lockdown that have irked billions and economic activities were grind to a halt appeared as a sort of blessing for the environment as people spend less time in vehicles, offices, factories and more bounded to home. The citizens of India have observed the scenic beauty of Himalayas for the first time which was hide by air pollution for 30 years. The governments have imposed stringent lockdown to contain the spread of corona virus through restricted mobility and modern life is in pause as millions of people are cooped up inside the doors. As economic activities is grind to a halt, so environmental quality Index is expected to follow the downward trend in major polluted cities across the globe. In this study we have identified forty cities that were declared the worst polluted cities by World Health Organization. Since after lockdown was imposed, all these cities have recorded unprecedented fall in air pollution. This study is intended to compare the air quality index before and after lockdown based on microscopic particulate matter known as PM 2.5.This pollutant is smaller than 2.5 micrometers in size, but highly dangerous as it can lodge deep into the lungs and pass into other organs and the bloodstream, causing serious health risks. To meet this objective, five worst polluted cities out of forty that shows downward trend in air pollution such as Anyang ,Hotan, Tashkent, Beijing and Karachi is shown graphically.
+
+The above graph shows fall in air pollution as the single greatest positive effect of Lock down on environment using PM2.5 (ug/) concentration data over 40 days before and after lockdown. The government of republic of China enforced the nation into strict lockdown on 23 rd January and Anyang, Beijing and Hotan cities have experienced decline in PM2.5 (ug/) concentration by 26%, 14% and 23% in the early 20 days of lockdown. The possible reason of significant reduction may be that there was no need of educating people about the importance of social distance and limited mobility because the 2003 SARS Pandemic remained in living memory for most people. Secondly government has tightened restrictions on villages and residential compounds, and were not allowing people to enter or leave their home without relevant authorization. At the same time Chinese government have introduced new rules by allowing the vehicles on alternate day depending on their number plates which has contributed toward reduction in air pollution level.
+
+The Karachi city have shown dramatic decline of 24% in PM2.5 (ug/) concentration, once the government imposed stringent lockdown on 13 th march, 2020. Due to significant decline in air pollution, the Karachi city has been placed among the moderate polluters as its Particulate matter concentration fall in the range of 12.1- 35.4 ug/. The National forum for environment and health (NFEH) reported that with public transportation completely halted and limited industrial activity, Karachi’s air pollution problem had been eased for the time being.
+
+The Uzbekistan Capital Tashkent saw a decline by 21% in PM2.5 (ug/m3) concentration in the early two weeks of lockdown started on 24 th march 2020. At the beginning of Lockdown government has isolated one lac people at home and started issuing certificates for Personal vehicles to reduce unnecessary mobility which has not only reduced the number of infected Persons but also improved the air quality.
+
+Major Outcomes and Suggestions:
+
+As the COVID-19 lock down is a sort of blessing for the environment, but it will have disrupted the environmental diplomacy with future effects in the form of reduced Investment in green technologies.
+
+Due to outbreak of Corona Virus most of the developing Countries will enter into recession which will shift the attention of Policy makers from environment sustainability project towards economic sustainability Projects.
+
+As this benefits to environment is blessing for a short period of time and once lockdown is withdrawn and economic activities re-emerge, the issue of global warming will again put the challenges to the world. This requires proper re-assessment of our needs for industrial and transportation activities in a socially sustainable manner.
+
+The present situation thought us the lesson about the importance of environmental laws, rules and regulation for promoting environmental Sustainability.
+
+Source: Real Time Quality Index

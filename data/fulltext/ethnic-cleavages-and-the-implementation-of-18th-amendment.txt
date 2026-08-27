@@ -1,0 +1,261 @@
+Introduction
+
+Pakistan, being an ethno-federation, is a classic example of multi-ethnic society where different ethnic groups are characterized by power asymmetries.
+
+[1] In such ethnically-diverse societies, constitution is meant to ensure resource and power sharing mechanisms amongst different groups. In this regard, adherence to the commitments accentuated in the constitution is Pareto superior outcome that not only prevents exploitation by the powerful group but also mitigates the risk of rebellion by the minority groups. A break-down arises when, in the presence of power asymmetries, the dominant coalition has an incentive to renege on commitments by appropriating more than the agreed-upon share of resources. In Pakistan, ethno-nationalism has always been a challenge to Pakistan’s national, political, and even geographical integrity. Alternatively, there has always been contention on the distribution of political power and economic resources between the federating units. This distribution has invariably been skewed in favor of Punjab throughout the country’s history. It has propelled the country into several civil wars and periods of widespread ethnically motivated violence. It has led to a successful secession movement in East Pakistan and quite a few unsuccessful, albeit violent, ones in Balochistan and Khyber Pkhtunkhwa (KPK). The consensus on the 7 th National Finance Commission (NFC) award and 18 th Constitutional Amendment are deemed as steps towards provincial autonomy by bringing greater clarity to the roles and responsibilities of various orders of government and increasing shares of the provinces in the divisible pool of revenue. In this article, I am elaborating on whether the implementation of 18 th Constitutional Amendment and the revised distribution criteria in the 7 th NFC award can ameliorate ethnic cleavages amongst different ethnicities.
+
+Main Points of 18 th Constitutional Amendment and 7 th NFC Award
+
+The 18 th Amendment has been an important constitutional change in the history of Pakistan, bringing several changes to the institutional framework of the county. First, it restored the parliamentary structure of the constitution by enhancing the roles and powers of prime minister and his cabinet, and abolishing Article 58-2(B).[2] Second, it strengthened the provinces in the federation by culminating the Concurrent Legislative List, and enlarging the Federal List part II.[3] Third, the Council of Common Interests (CCI), entrusted with discussions on the newly structured Federal List part II, was restructured to be chaired by the prime minister, with four provincial chief ministers and three federal government nominees as its members.[4] Fourth, the National Economic Council (NEC), a representative body of the country’s economic policies, was reshaped in favor of the provinces by mandating two provincial members each, including the chief ministers of each province, and four federal members appointed by the prime minister.[5] Fourth, the power of provincial governors, representatives of the federal government in provinces, were reduced and the power of upper house (Senate) was enhanced, implying larger say of the provinces in the national matters. Fifth, 17 federal ministries were abolished, including the ministries of food and agriculture, education, health etc. and their functions were devolved to the provinces. All these changes suggest that devolution of functions to provinces, on one hand, and giving them a greater role in running federal affairs, on the other, are greater steps towards provincial autonomy, social cohesiveness, and more inclusivity. An attached institutional change with the 18 th Amendment was the consensus on the 7 th National Finance Commission (NFC) award which increased the shares of the provinces in the federal divisible pool. Prior to the 7 th NFC award, the share of all provinces comprised 45% of the divisible pool; while in the 7 th NFC award, it rose to 57.5%. Moreover, as can be seen from Table 1, inter-provincial distribution of revenues was also revised as criteria broader than population were devised, including contribution to national exchequer, levels of poverty (or backwardness) and inverse population density (especially important for Balochistan). This decreased Punjab’s share by 6.14%, while simultaneously increasing the shares of KPK and Balochistan by 1.12% and 3.79%, respectively.
+
+Table 1: Main Features of 7 Th National Finance Commission (NFC) Award.
+
+Shares of Provinces and Federal Government in the Federal Divisible Pool*
+
+Shares
+Previous Award
+7th NFC Award
+Percentage Change
+
+Federal Government
+55%
+42.50%
+-12.50%
+
+Provinces
+45%
+57.50%
+12.50%
+
+Total
+100%
+100%
+
+Inter-Provincial Distribution Criteria
+
+Indicator
+Previous Award
+7th NFC Award
+
+Population
+100%
+82%
+
+Backwardness and Poverty
+0%
+10.30%
+
+Revenue Generation
+0%
+5%
+
+Inverse Population Density
+0%
+2.70%
+
+Shares of Provinces in NFC Awards
+
+Province
+Previous Award
+7th NFC Award
+Percentage Change
+
+Balochistan
+5.30%
+9.09%
+3.79%
+
+Khyber Pakhtunkhwa
+13.50%
+14.62%
+1.12%
+
+Punjab
+57.88%
+51.74%
+-6.14%
+
+Sindh
+23.28%
+24.55%
+1.27%
+
+Total
+99.96%
+100.00%
+
+Source : 7 th National Finance Commission (NFC) Award 2010, Government of Pakistan.
+
+Notes : * All Duties and Taxes included in the Divisible Pool such as Income Tax, Wealth Tax, Capital Value Tax, Sales Tax, Export Duties, Custom Duties, any other Tax collected by Federal Government, Royalties on Crude Oil, Gas Surcharge etc.
+
+Pakistan’s Province-Wise Economic and Demographic Indicators
+
+Pakistan has been characterized with larger economic and social disparities, especially, across the provinces. As is shown in Table 2, per capita income in Balochistan and Khyber-Pakhtunkhwa is only 71% and 79%, respectively, of the national per capita GDP.[6] Similar is the case in terms of the Human Development Index (HDI) of UNDP. In particular, Balochistan’s HDI is only 64% of the national HDI, reflecting stark inequalities.[7] Moreover, according to middle income poverty line (US$3.65/day 2017 PPP), poverty in Bolochistan and Khyber-Pakhtunkhwa stands at 71.4% and 45.62%, respectively, compared to only 23.39% in Punjab. Similarly, literacy and labor force participation rates are low while the percentage of out of school children is high in Balochistan and Khyber-Pakhtunkhwa. Further, in terms of other characteristics such as use of electricity for lighting, wood and gas for cooking, toilet facilities, immunization, availability of water and food security, Balochistan and Khyber-Pakhtunkhwa are worse off compared to the other two provinces (see Table 2 for details). Finally, societal and institutional frameworks are fragile in both Balochistan and Khyber-Pakhtunkhwa as is reflected in higher percentages of the incidents of political violence in the two provinces.[8] This, in other words, implies that persistent incidents of political violence is a clear reflection of a sense of marginalization across the two provinces.
+
+Table 2: Pakistan’s Province-Wise Economic and Demographic Indicators (in Percentage)
+
+Indicator
+Pakistan
+Balochistan
+Punjab
+Khyber-Pakhtunkhwa
+Sindh
+
+Per Capita Income as Percent of National Per Capita GDP
+100.00
+71.00
+98.69
+79.00
+122.20
+
+HDI as Percent of National HDI
+100.00
+64.00
+109.00
+93.00
+92.00
+
+Percent of Population Living below Middle Income Poverty Line
+40.10
+71.40
+23.39
+45.62
+37.82
+
+Out of School Children aged 6-16
+24.41
+47.20
+19.60
+34.60
+25.30
+
+Labour Force Participation Rate
+32.26
+27.23
+34.86
+27.63
+30.86
+
+Literacy Rate for Persons Ten Years Old and Above
+58.91
+43.58
+64.01
+54.02
+54.57
+
+Percent of Households using Electricity for Lighting
+87.87
+69.62
+93.95
+89.89
+80.44
+
+Use Wood for Cooking
+58.44
+75.07
+57.85
+72.70
+49.50
+
+Use Gas for Cooking
+37.86
+21.43
+37.92
+25.52
+47.39
+
+No Toilet
+15.02
+20.63
+13.69
+12.15
+17.99
+
+Toilet: Pit with Slab
+21.47
+31.88
+22.59
+29.76
+13.80
+
+Moderate or Severe Food Security
+16.44
+23.36
+15.66
+14.44
+17.52
+
+Tap as main Source of Drinking Water (2014-15)
+27.00
+18.00
+33.00
+35.00
+41.00
+
+Full Immunization (2014-15)
+82.00
+51.00
+90.00
+78.00
+73.00
+
+Incidents of Political Violence as percent of Total in Pakistan
+100
+30.92
+19.40
+35.60
+14.08
+
+Sources: Fair et al. (2024); Human Development Report 2023-24; Annual Status of Education Report (ASER) 2023; Pakistan Economic Survey 2023-24.; Bueno de Mesquita et al. (2015).
+
+Discussion and the Way Forward
+
+Fourteen years have been passed since the enactment of 18 th Amendment and 7 th NFC award but ethnic cleavages, triggered mostly by huge inter-provincial disparities, have not been ameliorated yet. Does it make 18 th Amendment and changes in the inter-provincial distribution criteria of the 7 th NFC award redundant? I would like to posit, no. A step in the right direction is, nevertheless, more desirable than apathy. In fact, it is the proficient utilization of the enlarged resources combined with effective implementation of the 18 th Amendment that can rectify both the inter-provincial and intra-provincial inequities. Here, I highlight the steps that are needed as threshold conditions to reap the potential benefits of this huge institutional change. First, devolution of powers to local governments is an integral part of 18 th Amendment as is envisaged in Article 140A of the constitution. Alternatively, devolving political, administrative and financial responsibility along with authority to the elected representatives of the local governments can make 18 th Amendment a success in its true sense.[9] Second, it is generally perceived that there are capacity issues in the fragile provinces but I would postulate that let the provinces resolve their capacity issues in their own way. In other words, why are there still governors, chief secretaries, and federal bureaucracy in the provinces, which all are representing federal government in the provinces? Complete autonomy with regard to the operating frameworks can lead to effective utilization of the increased resources. Third, controlling elite capture at intra-provincial levels is another necessary condition for achieving the true benefits of provincial autonomy. In this regard, effective Provincial Finance Commissions (PFCs) with functional inter-district decentralization within the provinces can trickle down the benefits to the common populace. Fourth, civil rights precede democratic institutions as democracy only works when there is social cohesion in the societal structure. Alternatively, we have to shape our behavioural structure such that it can eliminate biases against social identities like ethnicity, race, gender, religion, or caste, among others. Such a culture of empathy would be able to prevent people, who are discriminated against, from realizing their true potential and, in turn, would have mitigating effects on inequalities. Finally, we have to make our laws and policies such that they are in line with the principles of social justice. One such measure would be to make the Ehsaas Program, the largest and most systematic social protection initiative in the country, efficient by eliminating the inclusion and exclusion errors in identification. All these measures would go a long way in the success of 18 th Amendment and 7 th NFC award and would, thereby, mitigate inequities by ensuring distributive justice.
+
+Conclusion
+
+Pakistan experienced a significant institutional change in the forms of 18 th Constitutional Amendment and broadening the resources distribution criteria in the 7 th NFC award. However, despite a significant time lapse of 14 years, it couldn’t make provincial autonomy effectual. I postulate that, in order to reap the potential benefits of provincial autonomy, effective Provincial Finance Commissions (PFCs) with inter-district decentralization within the provinces; enacting civil rights laws within the provinces; establishing provincial capacities by eliminating federal intervention in the bureaucratic structure are of up most importance. This will ensure more equitable access to resources within the provinces and would pacify grievances and disparities that have divided this country since its inception.
+
+References
+
+ASER, Pakistan (2023). Annual Status of Education Report: ASER-Pakistan 2023. National Report , Islamabad.
+
+Bueno de Mesquita, E., Fair, C. C., Jordan, J., Rais, R. B., & Shapiro, J. N. (2015). Measuring political violence in Pakistan: Insights from the BFRS Dataset. Conflict Management and Peace Science , 32 (5), 536-558.
+
+Fair, C. C., Patel, P., & Maheshwari, G. (2024). Looking for Individual-Level Evidence for the Ethnic Security Dilemma Revisited: A Study of Balochistan. Studies in Conflict & Terrorism , 1-34.
+
+Government of Pakistan (2010). 7 th National Finance Commission (NFC) Award 2010. Ministry of Finance, Islamabad.
+
+Government of Pakistan (2024). Pakistan Economic Survey 2023-24. Ministry of Finance, Islamabad.
+
+Javed, S. A., & Ahmed, V. (2019). NFC award: devising formula for horizontal distribution . Working Paper. Sustainable Development Policy Institute, Islamabad.
+
+Khan, K. & Sherbaz, S. (2020). 18th Amendment and Deprivation, The Express Tribune, March 13.
+
+Khan, K. (2021). Inequality and Inter-Provincial Marginalization in Pakistan, The Express Tribune, April 24.
+
+Rana, M. A. (2020). Decentralization experience in Pakistan: the 18th constitutional amendment. Asian Journal of Management Cases , 17 (1), 61-84.
+
+Shah, A. (2012). The 18th constitutional amendment: glue or solvent for nation building and citizenship in Pakistan? The Lahore Journal of Economics , 17: SE (September 2012): pp. 387–424.
+
+United Nations Development Programme (UNDP). (2024). Human Development Report 2023-24. New York.
+
+[1] Ethno-federation is a form of federal system in which the federated regional or state units are defined by ethnicity. Usually, ethnic federations are instrumental in ensuring ethnic autonomy or managing inter-ethnic tensions within a state.
+
+[2] Article 58-2B gave the President the power to dissolve assemblies which was, in fact, established by military president Zia.
+
+[3] Concurrent List implied the list of functions on which both the federal government and provincial governments could do legislations which had created larger institutional ambiguities. The abolition of this list brought greater clarity to the roles of both orders of government.
+
+[4] The CCI, with a permanent secretariat, was mandated with at least one meeting every quarter to supervise and make decisions with regard to the Federal Legislative List Part II.
+
+[5] Previously, though chaired by the prime minister, the NEC membership had been left to the president’s discretion, provided that at least one member from each province was represented.
+
+[6] Pakistan’s current per capita GDP is US$1680.
+
+[7] Pakistan ranks low on the Human Development Index (HDI), with ranking of 164th out of 193 countries and 2023-24 national HDI of 0.699.
+
+[8] Data on political violence is taken from the BFRS Data set which contains incident-level data on political violence in Pakistan from January 1988 to December 2010 based on press reporting.
+
+[9] Along with inter-provincial disparities, there are also intra-provincial disparities, especially in Balochistan.
+
+Dr. Karim Khan is an Associate Professor and Dean (Academics) at the Pakistan Institute of Development Economist, Islamabad

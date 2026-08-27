@@ -1,0 +1,49 @@
+The Constitution of Islamic Republic of Pakistan, 1973 is the third Constitution in the country’s history and has just completed 50 years since its enactment. It is also one of the longest constitutions in the world.[1] While Article 25 of the Constitution talks about equality of citizens, including prohibiting sex based discrimination, all the while allowing for affirmative action for “women and children”[2], one of the Principles of Policy states that the state will “ensure full participation of women in all spheres of life”.[3] While the Principles of Policy stipulated in Articles 29 to 40 of the Constitution are not justiciable,[4] these are long term goals or objectives placed in the Constitution by its framers and are often used by constitutional courts in Pakistan[5] as a tool or aid for constitutional interpretation.[6] However, the question we need to ask at this juncture is whether the Constitution has been able to work constructively towards promoting gender-based rights in Pakistan? Pakistan currently ranks 145 th amongst 146 countries in the Global Gender Gap Index, and 161 st amongst 191 countries last year in terms of Gender Inequality Index.[7] The purpose of this piece is to delve into a textual analysis of the Constitution and link it to various seminal precedents to show that the Constitution in itself entails some jaded notions, which are further bolstered by the various social and cultural biases that stand in the way of seeking gender parity across most sectors in Pakistan.
+
+Throughout the vast text of the Constitution, unless women are expressly being discussed, the pronouns used to address posts and figures are male. While Article 263(a) clarifies that usage of masculine terms includes females as well, the text has proven problematic in multiple ways. First, since male pronouns are used for all constitutional positions like President, Prime Minister, judges, and so on, women’s eligibility to contest or be appointed in those seats has been contested repeatedly. We see this in the challenges raised during Benazir Bhutto’s candidature as Prime Minster with the petition even contesting that women ought not to be allowed to be members of the legislatures;[8] or the repeated challenges brought to courts against ability of women to serve as judges in Pakistan,[9] something that is also apparent from the fact that no woman was able to make it as a judge of the Supreme Court till 2022, 75 years after the creation of Pakistan. The number of women serving across the five High Courts in Pakistan also remains abysmally low. While one woman served as a Prime Minister twice, Pakistan has still never had a woman serve as President.
+
+In addition to the confusion caused by the reliance on masculine pronouns, there are several gendered terms which bolster various gender stereotypes across the Constitution. The mention of “women and children” in Articles 25(3) and 35 collectively when talking about affirmative action denotes a similar level of vulnerability, often also understood as incompetence by various judges. Other gendered terms used in the Constitution include mother,[10] maternity,[11] widow and unmarried female children,[12] and prostitution.[13] Furthermore, the Constitution also has reserved seats for women in the National Assembly,[14] Senate,[15] and the provincial assemblies.[16] One problem that arises from this simple textual reading is that while positions of authority are being attributed masculine language; women are only being portrayed in vulnerable and limited socially constructed roles. The mention of women alongside children denotes a similar level of vulnerability, which is often bolstered by usage of terms like widow, alongside having quotas as the form of affirmative action measure that is often viewed as tokenism and going against the spirit of meritocracy, as opposed to constructively improving women’s participation. To get more women to serve as legislators, the state must remove barriers to their entry by, for instance, providing adequate maternity leave and daycare centers so women can rejoin the workforce even when they have young children. It must also be noted that while the Constitution grants pension rights to widows of judges, the same right is not extended explicitly to widowers further giving rise to the notion that the Constitution only envisages male judges of constitutional courts. This further shows that the Constitution is not merely talking about sex,[17] but also gender roles of a woman only.
+
+Another problematic aspect evident from a textual reading of the Constitution is that the Constitution only entails a binary understanding of sex and gender, which has led to the exclusion of trans persons and gender-fluid/non-binary persons in Pakistan, whose personhood and citizenship rights were not even acknowledged until the Supreme Court passed multiple short orders in Aslam Khaki v SSP Rawalpindi in 2009. While this series of short orders also entailed usage of rather problematic terminology and failed to recognise the historical marginalisation and victimisation of this community initiated by the British Raj,[18] the Transgender Persons (Protection of Rights) Act, 2018 was a major step forward in granting basic rights such as education, health, and right to gender identity. Unfortunately, the recent Federal Shariat Court judgment earlier this year declared most of the law void on the incorrect perception that the Act was promoting homosexuality in Pakistan. It must be noted that not only is homosexuality still an offence in Pakistan,[19] the Aslam Khaki judgment and the 2018 Act did not provide any marital rights to gender non-binary persons. We hope that the appeal in the Supreme Court will recognise the misinformation the Federal Shariat Court based their judgment on, and rectify the situation. One also hopes that the state will deploy strategic affirmative action measures for gender non-binary citizens of Pakistan.
+
+As is evident from the discussion above, the constitutional framework of Pakistan encompasses some of the social and cultural biases which stand in the way of ensuring gender equality in Pakistan, but at the same time it does provide a broad enough framework to work towards eliminating the gender gaps that exist. While it will be ideal for future governments to rectify constitutional language to make it more gender inclusive, the acceptance of wide affirmative action measures does open gates for the state to step in, even using the Constitution as it currently stands.
+
+The author is an Assistant Professor at the Shaikh Ahmad Hassan School of Law, Lahore University of Management Sciences.
+
+[1] The Constitution comprises of 280 Articles, a preamble, annex, and five schedules.
+
+[2] Article 25(3) of the Constitution, 1973.
+
+[3] Article 34 of the Constitution, 1973.
+
+[4] This implies that one cannot go to court seeking enforcement or against infringement of Principles of Policy.
+
+[5] Constitutional Courts in Pakistan are the Supreme Court, five High Courts, and the Federal Shariat Court.
+
+[6]
+
+[7] UNDP, Development Advocate Pakistan, Volume 9 Issue 4, available at < chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.undp.org/sites/g/files/zskgke326/files/2023-01/genderequality_in_pakistan-climate_politico-economic_stressors.pdf>.
+
+[8] See Azizudin, Secretary Pakistan Inquilabi Party v. Federation of Pakistan 1993 SCMR 1563 .
+
+[9] See Ansar Burney v Federation of Pakistan, 1993 FSC 73; Mian Hammad Murtaza v Federation of Pakistan 2011 PLD SC 117)
+
+[10] Article 34 of the Constitution, 1973.
+
+[11] Article 37 of the Constitution, 1973.
+
+[12] 5 th Schedule of the Constitution, 1973.
+
+[13] Article 37 of the Constitution, 1973.
+
+[14] Article 51 of the Constitution, 1973.
+
+[15] Article 59 of the Constitution, 1973.
+
+[16] Aticle 106 of the Constitution, 1973.
+
+[17] Mentioned in Articles 25, 26, 27, 37 and 38 of the Constitution, 1973.
+
+[18] Asad Ullah Khan, Gendered Justice: Constitutions, Transgenders, and Equality, available at < https://sahsol.lums.edu.pk/node/12820>.
+
+[19] “Unnatural sexual offences”, Section 377 of the Pakistan Penal Code.

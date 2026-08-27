@@ -1,0 +1,152 @@
+EXECUTIVE SUMMARY
+
+Pakistan facilitated the US–Iran ceasefire of 8 April 2026 and was cited by President Trump personally. Islamabad continues to host negotiations. The 45-day conflict imposed an estimated $4–8 billion in direct economic losses on Pakistan, pushed 4–7 million additional people below the poverty line, and raised food insecurity by 5–12 million, all without Pakistan choosing sides or firing a shot. The ceasefire reduces the forward risk. It does not reverse the damage already absorbed. Five actions that require political authorization at the highest level.
+
+01. Convert Diplomatic Standing into Economic Protection
+
+Use the Islamabad negotiation channel to secure three concrete bilateral commitments: zero-toll Hormuz passage for Pakistani cargo with Iran; a government-to-government crude oil supply arrangement at Iranian domestic prices; and US endorsement of Pakistan’s IMF primary balance adjustment request. The KSA $3 billion long-term SBP deposit signals the bilateral goodwill environment. That goodwill should be deployed as analytical evidence, not merely acknowledged as a confidence signal.
+
+02. Protect the Current Account Before FY27
+
+Direct SBP to sign mobile wallet interoperability MoUs with Saudi SAMA, UAE Central Bank, and Qatar QCB within 30 days, zero-fee remittance corridors with no SWIFT dependency. Simultaneously activate the Cabinet-approved Russia barter framework: textiles and rice for crude oil, rupees for rubles, Hormuz route bypassed entirely. Both measures can be implemented by executive direction with no new legislation.
+
+03. Correct the Energy Structure, Not Just the Emergency
+
+Renegotiate the Qatar LNG contract from 60 to 40 mandatory cargoes with a seasonal flexibility provision. Scale Russian crude imports from 0.5 to 2–3 million barrels per month under the existing IGC framework. Table the Iran–Pakistan gas pipeline formally within the Islamabad talks. Pakistan’s 34 GW distributed solar base insulated the power sector during the war. That insulation was accidental. Converting it into a deliberate energy security strategy requires three specific grid and battery storage decisions described in Section IV.
+
+04. Build a Worker Protection Mechanism During the Ceasefire
+
+Register Pakistan’s 3.2 million GCC workers on the OPF-NADRA Gulf Worker ID now, while conditions allow. One registration unlocks SME credit, formal remittance corridors, and return support if needed. PIDE PV-54 estimates that a full-year GCC disruption would return one million workers to KPK and Punjab. Building the reintegration architecture during the ceasefire is faster, cheaper, and more dignified than building it during the next emergency.
+
+05. Protect Vulnerable Households Through Existing Systems
+
+Gazette a war-shock supplement on the existing Rs 14,500 BISP quarterly transfer for households whose Gulf remittances drop by 30% or more, detectable via SBP inflow data cross-referenced with NADRA household records, requiring no new enrolment. Award the emergency DAP fertilizer contract for Kharif within 14 days. Fast-release Rs 50 billion in approved PSDP infrastructure in KPK and Punjab on labor-intensive contracts in the highest Gulf-migration districts.
+
+1. The Ceasefire: Context, Cost, and Uncertainty
+
+Pakistan’s facilitation of the 8 April 2026 US–Iran ceasefire is a significant diplomatic achievement. President Trump credited “conversations with Prime Minister Shehbaz Sharif and Field Marshal Asim Munir” for the agreement, and US and Iranian delegations have since met in Islamabad. Pakistan has not seen this level of international recognition in two decades. What remains less certain is how durable the ceasefire is and how effectively Pakistan will translate its diplomatic standing into economic gains before the moment passes.
+
+The 45-day conflict imposed real costs that the ceasefire did not reverse. Pakistan absorbed an estimated $4–8 billion in direct economic losses through higher oil import costs, emergency energy procurement premiums, remittance compression, and Gulf export channel disruption. These losses fell on Pakistan without warning and without consent. The ceasefire reduces the probability of further losses in FY27. It cannot restore what was spent in Q3–Q4 FY26. The KSA $3 billion long-term deposit in SBP, announced in April 2026, is a significant bilateral signal, adding approximately 0.4 months of import cover and demonstrating that Pakistan’s Gulf relationships have held. It does not, however, substitute for the structural reforms that the conflict exposed as overdue.
+
+Oil markets partially normalized after the ceasefire announcement, with Brent declining from its wartime peak of approximately $126 per barrel to roughly $95–102 by 13 April 2026. On 12 April, Islamabad talks failed to produce a comprehensive agreement and oil prices firmed again on the same day, a clear illustration of how sensitive price levels remain to negotiation headlines. The Strait of Hormuz remains under constrained and actively managed access conditions. Reports point to tightly regulated tanker movement, elevated transit-related costs, and continuing pressure on Gulf energy infrastructure including reported reductions in Saudi production capacity. The ceasefire is narrow: two weeks in duration, Lebanon is excluded from its terms, and early violations were reported. Planning for a prolonged stalemate, ceasefire extended week by week without a comprehensive settlement, is more realistic than planning for a peace deal.
+
+THREE SOURCES OF MATERIAL UNCERTAINTY
+
+First, ceasefire durability: the two-week agreement has a fragile structural foundation, Iran is seeking sanctions relief and nuclear recognition that the US has not offered; Lebanon operations by Israel continue outside the arrangement; and the 12 April Islamabad round did not produce agreement. Second, oil price path: Brent at $95–102 on 13 April is sensitive to daily headlines in ways that make any single projection unreliable, a breakdown in talks could return prices above the $126 wartime peak. Third, Gulf infrastructure damage: Saudi Arabia’s production capacity reduction of approximately 600,000 barrels per day means that even a full Hormuz reopening would not immediately restore Gulf energy supply to pre-war levels.
+
+2. What the Ceasefire Has Delivered: Four Gains to Consolidate
+
+Energy Price Relief
+
+The decline in Brent from its $126 peak to the $95–102 range reduces Pakistan’s projected FY27 annual petroleum import bill by approximately $4–6 billion compared to the full-war trajectory. This relief is real but conditional: it holds only if the ceasefire does not break. Every $10 movement in Brent translates to approximately $700 million in Pakistan’s annual import bill at current consumption volumes. The structural risk premium embedded in markets, roughly $25–30 above pre-war levels, is unlikely to dissipate until a comprehensive settlement is reached. Pakistan’s energy policy must therefore plan for Brent staying above $90 for most of FY27 regardless of ceasefire outcome.
+
+Remittance Outlook: FY26 Secure, FY27 the Test
+
+SBP has confirmed cumulative home remittances of $30.3 billion through July–March FY26, at an average monthly pace of $3.37 billion. With three months remaining in the fiscal year, the full FY26 outturn will land between $39 and $41 billion under any realistic ceasefire scenario, above FY25’s record of $38.3 billion and well above the Scenario B collapse of $35.7 billion that the war risked. FY26 is, in this respect, largely secured.
+
+FY27 is a different challenge. If the ceasefire holds and GCC labor markets stabilize within two quarters, FY27 inflows could approach $41–44 billion on a recovering migration pipeline. If the ceasefire breaks and a full year of disruption follows, FY27 remittances could fall to $30–34 billion, the sharpest single-year decline since 2020 and sufficient to eliminate Pakistan’s current account surplus. The policy actions in Section VIII address FY27 rather than FY26, because FY26 no longer requires emergency intervention.
+
+Pakistan’s Diplomatic Standing
+
+Pakistan’s position as ceasefire facilitator creates simultaneous leverage with Washington, Riyadh, Tehran, and the IMF — a combination no other country in the region currently holds. That leverage is valuable and time-limited. It depreciates as the ceasefire normalizes into the background of diplomatic routine. Sections V and VI outline the specific economic asks that should be tabled while that leverage is at its peak.
+
+Hormuz Access: The Informal Is Not the Durable
+
+Reporting suggests that some Pakistani vessels have been able to secure Hormuz passage even under conflict conditions. This informal access should not be confused with a durable arrangement. Formalizing it, through a bilateral protocol within the Islamabad negotiation channel that guarantees Pakistani-flagged vessels and Pakistani-destined cargo zero-toll passage for the duration of any ceasefire or subsequent agreement, would transform an informal accommodation into a legally operative protection, saving an estimated $48–120 million annually in transit costs and eliminating one significant source of supply chain uncertainty.
+
+3. The Fiscal Picture: Managed Discipline Under External Pressure
+
+Pakistan enters this period of external volatility from a materially stronger fiscal base than in any of its recent crisis episodes. The IMF’s April 2026 Fiscal Monitor projects Pakistan’s fiscal deficit at approximately 3.2% of GDP in the current fiscal year, with the primary surplus peaking at 2.5% of GDP before moderating in FY27. Fitch’s affirmation of Pakistan’s ‘B–’ rating with a Stable Outlook in April 2026 explicitly cites progress on fiscal consolidation and the rebuilding of external buffers as providing a meaningful cushion against the regional conflict’s economic effects.
+
+This progress is genuine and deserves recognition. It reflects sustained expenditure discipline, continued adherence to the IMF program framework without seeking a formal reopening of targets, and a policy posture that has maintained credibility precisely when it was most needed. The government has managed a significant external shock without resorting to broad fuel subsidies, which the IMF explicitly cautioned against.
+
+Three caveats apply. First, FBR revenue collections show a meaningful shortfall against targets, a risk that is currently being managed through expenditure curtailment rather than revenue recovery, which carries diminishing room. Second, Fitch expects the primary surplus to come in slightly below the official target due to pressure from non-interest current spending. Third, the IMF program’s conditionality on broadening the tax base and addressing contingent liabilities remains only partially met. The ceasefire reduces the external shock. It does not relax the underlying fiscal reform agenda.
+
+The following scenario table reflects PIDE’s recalibrated estimates as of 21 April 2026, updated to incorporate the KSA $3 billion deposit and the partial Hormuz reopening under ceasefire conditions.
+
+Scenario
+Oil Price
+Primary Surplus
+Fiscal Deficit
+Inflation
+IMF Risk
+
+Ceasefire → Peace
+$80–90
+Rs 1,400bn (1.1%)
+Rs 6,800bn (5.2%)
+8–9%
+Low
+
+Ceasefire Holds
+$95–100
+Rs 1,100–1,300bn
+Rs 7,000bn (5.4%)
+9–11%
+Managed
+
+Ceasefire Breaks
+$115–125
+Rs 821–900bn
+Rs 7,200bn (5.5%)
+>12%
+Elevated
+
+Full War Resumes
+$130+
+<Rs 781bn
+Rs 7,517bn (5.8%)
+>14%
+Critical
+
+Source: PIDE ‘Managing Oil Shocks’ (Iqbal, Nawaz & Riaz, March 2026). Scenario recalibrated 21 April 2026. Brent crude: $95–102/bbl. KSA $3bn long-term SBP deposit incorporated in reserve projections. Estimates are PIDE working ranges, not point forecasts.
+
+PROBABILITY ASSESSMENT (PIDE, APRIL 2026)
+
+Ceasefire holds, peace deal follows: 30–35%. Ceasefire holds, stalemate persists (most likely): 35–40%. Ceasefire breaks, limited resumption: 15–20%. Full war resumes: 10–15%. The most analytically defensible planning base is a prolonged stalemate: a ceasefire extended piecemeal without comprehensive settlement. Pakistan should build its policy architecture for this scenario while maintaining the capacity to respond quickly under the tail outcomes.
+
+4. Energy Security: The Structural Vulnerabilities and What Can Be Fixed
+
+Pakistan’s energy exposure to this crisis was not bad luck. Approximately 70–80% of petroleum imports flow through the Gulf corridor. The gas sector carries a circular debt of Rs 3.3 trillion ($11 billion). Qatar’s long-term LNG contracts, designed to provide energy security, generated a financial liability when Pakistan had surplus gas before the war (diverting 45 excess cargoes as recently as January 2026) and then created an acute supply vulnerability when the Strait closed (arrivals fell from 12 cargoes per month in January to 2 in March). Pakistan’s 34-gigawatt distributed solar base insulated the electricity sector during the conflict, but that insulation was a consequence of falling Chinese panel prices rather than deliberate energy security planning. It could not substitute for transport fuels, which constitute the larger portion of the petroleum import bill.
+
+Three structural vulnerabilities can be partially addressed within the current ceasefire window. The fourth, the gas circular debt, requires a longer reform horizon but cannot be deferred indefinitely.
+
+E-1
+
+Ministry of Energy + MoFA + OGRA [30 Days]
+
+Formalize Hormuz Passage Protocol
+
+Table a bilateral protocol with Iran within the Islamabad talks guaranteeing Pakistani-flagged vessels and Pakistani-destined cargo zero-toll Hormuz passage for the duration of any ceasefire or peace agreement. Iran has already accommodated informal Pakistani vessel access. Formalizing this removes a significant source of supply-side uncertainty and saves $48–120 million annually in transit costs and emergency routing premiums.
+
+E-2
+
+Ministry of Energy + QatarEnergy [60 Days]
+
+Renegotiate Qatar LNG Contract: Volume Flexibility
+
+The 2016 long-term Qatar contract, 60 cargoes at $9/MMBtu, generated the pre-war LNG surplus and simultaneously created the post-war supply risk. Qatar is a direct beneficiary of Hormuz reopening. Pakistan should use its ceasefire standing to accelerate the renegotiation: reduce mandatory offtake from 60 to 40 cargoes with a 10-cargo seasonal flex provision. The price review due under the 2016 agreement should be advanced as part of the same renegotiation.
+
+E-3
+
+Ministry of Energy + Russia-Pakistan IGC [60 Days]
+
+Activate Russia Crude and LNG Frameworks at Scale
+
+MoUs on oil and gas cooperation were signed at the 10th Pakistan–Russia IGC in November 2025. Test crude shipments have been running since 2023. Activating this framework at scale, targeting 2–3 million barrels per month of Russian crude versus the current 0.5 million, under the approved barter arrangement with rupee/ruble settlement provides a supply corridor entirely insulated from Hormuz disruption.
+
+E-4
+
+Ministry of Energy + AEDB [90 Days]
+
+Convert the Solar Buffer into a Deliberate Energy Security Instrument
+
+Fast-track grid connection of 9 GW of currently off-grid distributed solar. Deploy battery storage at key substations to shift the solar surplus from midday to the evening peak demand window. Gazette a preferential industrial tariff for users shifting consumption to the 10am–3pm solar window. Together, these three steps reduce LNG-to-power demand by an estimated 1–1.5 mmcfd on a permanent basis.
+
+E-5
+
+Ministry of Energy + MoFA [Ceasefire Window]
+
+Table the Iran–Pakistan Gas Pipeline Framework
+
+The IP pipeline framework exists and Pakistani-side infrastructure is partially constructed. Formally tabling it within the Islamabad talks — with a joint implementation committee and a 24-month construction timeline, converts Pakistan’s geographic and diplomatic position into a concrete energy security asset. Even a partial 200 mmcfd supply at Iranian domestic prices saves $400–600 million annually against spot LNG rates.

@@ -1,0 +1,143 @@
+Pakistan’s energy sector has faced profound structural issues over the years, primarily due to its reliance on a single-source, state-owned energy system that later transitioned into a privately invested, fossil fuel-based framework. This shift led to serious challenges in energy availability, affordability, and sustainability. Compounded by a devalued currency, a weak balance of payments, high import dependence, subsidy-driven policies, and dollar-indexed agreements with power producers, these factors contributed to an unsustainable energy ecosystem (Arzhaev et al., 2024; Abdul Rehman & Deyuan, 2018; Shahzad, 2022).
+
+From 2008 to 2013, Pakistan’s energy system started to feel the intensity of the impacts of inconsistent policies, lack of indigenous resources-based infrastructure investment, and huge economic losses in terms of circular debt. This was primarily caused due to investment in huge hydro projects that were primarily focused on water and were producing electricity as a biproduct. These were hard to operate and maintain structures and with an unbundled electricity governance system made the availability, affordability and sustainability of energy a big question mark. In the 1990s efforts towards de-bundling of Water and Power Development Authority (WAPDA) and creation of several entities that will result in this de-bundling including but not limited to National Electric Power Regulatory Authority (NEPRA), National Transmission and Despatch Company (NTDC), Central Power Purchaser Authority (CPPA-G), and Private Power Infrastructure Board (PPIB) came into the picture (Amir-ud-Din, 2014; Narejo, Azeem, & Zardari, 2017; Sajid & Javaid, 2018; Zulfiqar, Nazir, & Khalid, 2022).
+
+This started off with a policy for development of independent power producers (IPPs) in the 1990s focusing on the development of imported fossil fuel-based power plants which were focused on dollar indexed payments. These steps were taken to make the environment conducive for the investors but in reality, it created issues with regards to affordability, availability and sustainability of the energy and also created issue in a decentralized grid planning in long term. The confidence of the government to perform in the energy sector was further reduced by non-response of the policy that came out in 1998 which had tried to create IPPs that were based on PKR based payments (Maka & Alabid, 2022; Mengal, Harijan, Uqaili, Mirjat, & Shah, 2017; Turi et al., 2022).
+
+Similarly, dollar indexed, and high-capacity payments-based plants were further developed in the 2000s and the 2010s as well. Similar issues and external pressures, global recession created an impactful issue in 2008 where Pakistan became unable to import fuel for the powerplants and suffered through a huge energy crisis with impacts amounting to around USD 3 billion based in the next 5 years. This was the worst time in terms of power outages and the increase in tariff. This formed basis for a cooperation agreement between Pakistan and China which was supposed to support Pakistan get out of the crisis (Anwar, 2010; Asad, Mahmood, Baffo, Mauro, & Petrillo, 2022; Hussain & Hassan, 2019; Sajid & Javaid, 2018).
+
+The China-Pakistan Economic Corridor (CPEC) represents a broader strategic initiative under the Belt and Road Initiative (BRI), designed to enhance regional connectivity, trade facilitation, and economic integration between China and the global economy. Launched in 2015 with an initial USD 46 billion investment, later expanding to USD 62 billion, CPEC has played a transformative role in Pakistan’s infrastructure development, with a core focus on energy and transportation networks. At its heart, CPEC aims to strengthen energy connectivity, ensuring both the supply-side stability and demand-side expansion necessary for long-term economic growth (Ashfaqur Rehman, Hakim, Khan, & Khan, 2018).
+
+Energy Crisis and CPEC’s Role in Recovery
+
+CPEC was initiated at a time when Pakistan was facing severe energy shortages, leading to economic disruptions. The country struggled with load shedding, unreliable power supply, unaffordable electricity, and unsustainable fuel dependency. The high reliance on imported fossil fuels, capacity payment obligations, and dollar-indexed agreements exacerbated the problem, leading to an alarming circular debt exceeding PKR 2.5 trillion, which contributed to an annual GDP loss of 2–3%. The CPEC energy projects, particularly during 2015–2017, played a crucial role in stabilizing power supply, promoting economic growth, job creation, and export expansion, while also reducing Pakistan’s import bills through an increased renewable energy share in the national grid (Pasha, 2018).
+
+CPEC’s Energy Portfolio and Project Implementation
+
+CPEC’s energy projects have significantly transformed Pakistan’s power generation landscape by adding a cumulative 12 GW[1] of installed capacity across coal, hydropower, solar, wind, and transmission infrastructure. This ambitious investment has reshaped the country’s energy mix, reducing the dependency on expensive imported fuels and improving supply reliability. The breakdown of these projects highlights the strategic approach taken under CPEC, aligning with Pakistan’s long-term energy security objectives.
+
+Coal-based power plants remain the dominant contributor, accounting for 8.2 GW of total installed capacity. Among these, 6.6 GW is fully operational, while an additional 1.6 GW is under development. Key projects such as the 1320 MW Sahiwal Coal-Fired Power Plant, 1320 MW Port Qasim Coal Power Plant, and 1320 MW China Hub Coal Power Project have been instrumental in mitigating Pakistan’s severe power shortages. These plants operate on supercritical technology, which enhances efficiency and reduces emissions compared to traditional coal plants. Additionally, the Engro Thar Coal Power Plant (660 MW) is significant as it utilizes indigenous lignite coal reserves, reducing reliance on imported fuels and strengthening local energy autonomy.
+
+Hydropower projects, a crucial component of CPEC’s sustainability-driven approach, contribute 3.4 GW to the national grid, with 1.6 GW already commissioned and 1.8 GW under development. Notable projects include the 720 MW Karot Hydropower Project and the 870 MW Suki Kinari Hydropower Plant, both of which employ run-of-the-river technology, minimizing environmental disruption while providing clean, renewable energy. These projects align with Pakistan’s goal of increasing renewable energy’s share to 60% by 2030, ensuring a gradual transition from fossil fuel reliance.
+
+Renewable energy initiatives under CPEC have expanded Pakistan’s portfolio in solar and wind power. The 600 MW Quaid-e-Azam Solar Park, Pakistan’s first major solar project, has set the foundation for future expansion, with an additional 100 MW in the pipeline. Similarly, wind energy projects totaling 300 MW, concentrated in the Jhimpir Wind Corridor, provide sustainable alternatives to conventional energy sources. The integration of renewable energy into the national grid has been a pivotal step towards reducing Pakistan’s carbon footprint and promoting climate resilience.
+
+A critical milestone in transmission infrastructure has been the Matiari-Lahore High Voltage Direct Current (HVDC) Transmission Line, the first of its kind in Pakistan. This 660 kV transmission line has a transfer capacity of 4,000 MW, significantly reducing transmission losses and improving power flow stability. The state-of-the-art technology employed in this project ensures efficient electricity transfer from generation hubs in Sindh and Balochistan to major demand centers in Punjab, addressing Pakistan’s long-standing transmission bottlenecks.
+
+From a financial perspective, these projects have been executed under various investment models, including Chinese concessional loans, independent power producer (IPP) arrangements, and public-private partnerships (PPP). The financing terms, particularly for coal and hydropower projects, include long-term repayment structures with sovereign guarantees, ensuring bankability and sustained investor confidence. However, challenges such as capacity payments to power producers, tariff adjustments, and circular debt accumulation remain critical issues requiring policy reforms.
+
+As Pakistan transitions from CPEC Phase 1.0, which prioritized base-load power generation, to CPEC Phase 2.0, the emphasis has shifted towards grid modernization, distribution efficiency, and renewable integration. Future investments are expected to focus on smart grid technologies, decentralized energy systems, and increased private sector participation, ensuring that energy security objectives are met while fostering economic and industrial growth. The ongoing evolution of CPEC’s energy sector remains a testament to its long-term strategic vision, balancing economic development with sustainability imperatives.
+
+The Need for Demand-Side Development and Policy Coherence
+
+While these supply-side projects were implemented effectively through bilateral cooperation, a significant gap in demand-side initiatives has hindered Pakistan’s energy sector from realizing its full potential. The inconsistent policy environment post-2018, particularly in the relocation of Chinese industries and the operationalization of Special Economic Zones (SEZs), has created an imbalance between supply and demand. The failure to fully capitalize on industrial relocation opportunities resulted in surplus electricity generation, leading to higher capacity payments to power producers without adequate industrial consumption. This structural mismatch has intensified circular debt accumulation, further straining foreign exchange reserves and energy affordability (Abrar & Farzaneh, 2021).
+
+The post-COVID economic slowdown exacerbated this crisis, leaving the excess power supply unutilized, while rising import dependence, a weakening currency, and declining foreign exchange reserves continued to undermine affordability and sustainability. The recent solar energy boom, marked by over 10 GW of imported solar equipment, poses another challenge, as unregulated expansion may destabilize grid balance without adequate transmission and storage infrastructure.[2]
+
+Strengthening Transmission, Distribution, and Market Competitiveness
+
+For Pakistan to build a sustainable and resilient energy framework, a holistic energy value chain approach is imperative. While significant progress has been made in expanding generation capacity, the real challenge lies in modernizing transmission and distribution infrastructure. The national grid continues to suffer from chronic inefficiencies, leading to high transmission and distribution losses. According to reports from the National Transmission and Despatch Company (NTDC) and the National Electric Power Regulatory Authority (NEPRA), transmission and distribution losses in Pakistan range between 17 and 19 percent, far exceeding international benchmarks. In some inefficiently managed distribution companies, these losses even surpassed 30 percent, straining the financial viability of the power sector and exacerbating circular debt (Falcone, 2023; Nazir, Mahmood, & Hameed, 2022).
+
+Addressing these inefficiencies requires a strategic focus on grid modernization, investment in advanced monitoring technologies, and regulatory reforms to enhance accountability. Many countries have successfully reduced losses through targeted transmission upgrades. For instance, India implemented high-voltage transmission networks and smart grid systems in key industrial regions, resulting in a measurable reduction in technical losses and improved system reliability. Similarly, Brazil modernized its power grid by adopting automated substations and digital monitoring, which significantly improved energy efficiency and reduced theft. These examples highlight the potential benefits of adopting a comprehensive modernization strategy tailored to Pakistan’s needs (Archana, 2022; Bhattarai et al., 2023).
+
+China, through its extensive experience in energy infrastructure development, can play a critical role in upgrading Pakistan’s transmission and distribution networks under the CPEC framework. China has been at the forefront of smart grid deployment, integrating artificial intelligence, data analytics, and real-time monitoring to enhance grid reliability. The adoption of such technologies in Pakistan can lead to more efficient demand-side management, minimize voltage fluctuations, and optimize electricity distribution. Moreover, high-voltage direct current (HVDC) transmission, which China has implemented successfully in its own power sector, could significantly reduce transmission losses in Pakistan and improve power supply stability (Haque, Hussain, Ali, Khan, & Halim, 2023).
+
+A key policy initiative to support this modernization is the privatization of state-owned Distribution Companies (DISCOs), a reform that aims to introduce competition, improve financial discipline, and enhance service delivery. Currently, the inefficiencies within government-controlled DISCOs contribute to revenue shortfalls and unsustainable tariff structures. By allowing private sector participation, Pakistan can attract foreign investment, improve regulatory compliance, and benefit from technology transfer in the distribution sector. China, having successfully privatized and modernized portions of its own power grid, could facilitate this transition by providing technical expertise, infrastructure investment, and capacity-building programs for local stakeholders (Solat, Aminifar, & Shayanfar, 2023).
+
+In addition to large-scale grid modernization, the integration of micro and mini-grids presents a viable solution for rural electrification and decentralized power distribution. These localized grids can enhance energy access, particularly in remote areas, while also reducing dependency on the national grid. China’s extensive experience in rural electrification through distributed energy networks offers a model that Pakistan can adopt, ensuring cost-effective and sustainable energy solutions (Hartvigsson, Ahlgren, & Molander, 2020; Zhou et al., 2021).
+
+A long-term approach to Pakistan’s energy challenges must incorporate lessons from global best practices, targeted policy interventions, and strategic foreign collaborations. By prioritizing grid modernization, embracing smart technology, and leveraging China’s expertise under CPEC, Pakistan can establish a more efficient, reliable, and financially sustainable power sector, ultimately fostering economic stability and industrial growth.
+
+The Future of CPEC 2.0: Enhancing the Energy Value Chain
+
+CPEC 2.0 represents a transformative phase in Pakistan’s energy sector, expanding beyond power generation to prioritize solar and wind energy development. Future investments will focus on off-grid solar solutions for rural electrification, providing low-cost, sustainable electricity and reducing dependence on diesel generators. Several planned solar and wind projects will diversify the renewable energy mix, supporting Pakistan’s Nationally Determined Contributions (NDCs) and the 2030 Agenda, which aim for 60 percent renewable energy-based power generation (Aized, Shahid, Bhatti, Saleem, & Anandarajah, 2018; Ashfaq & Ianakiev, 2018; Turi et al., 2022).
+
+Beyond generation, energy storage solutions are critical for managing the intermittency of solar and wind power. Incorporating battery storage systems, particularly lithium-ion and flow batteries, and pumped hydro storage will enhance grid stability by balancing peak demand fluctuations and storing excess electricity. These technologies will help stabilize the national grid and improve the reliability of renewable energy sources (Kamal, 2024).
+
+CPEC 2.0 also provides an opportunity to modernize Pakistan’s transmission and distribution infrastructure. High-voltage transmission projects, such as the Matiari-Lahore HVDC Transmission Line, have improved power evacuation. Further investment in long-distance corridors will ensure surplus renewable energy from Sindh and Balochistan reaches demand centers. Leveraging China’s expertise in smart grid technology, Pakistan can implement real-time monitoring, automated fault detection, and AI-driven load management to minimize technical losses and outages (Almasoudi, 2023; Laninga, Nasr Esfahani, Ediriweera, Jacob, & Kordi, 2023).
+
+China’s advancements in energy digitalization present another avenue for transformation. Integrating artificial intelligence, the Internet of Things (IoT), and predictive analytics can optimize electricity distribution, improve demand forecasting, and enhance grid efficiency. AI-driven platforms will promote dynamic pricing, encouraging efficient electricity use, while predictive analytics can prevent grid failures through proactive maintenance. On the distribution side, Pakistan can adopt China’s expertise in loss reduction, revenue collection, and grid modernization. Smart meters, automated billing, and AI-assisted theft detection will strengthen financial sustainability for distribution companies (DISCOs). Digitized payment systems and prepaid metering will improve revenue transparency and mitigate circular debt accumulation (Jiang, Niu, Ru, Tong, & Wang, 2023; Zhao, Xia, Zhang, Hu, & Wu, 2021).
+
+Policy Direction and Energy Market Reforms
+
+A strategic shift in Pakistan’s energy policy is necessary to ensure long-term stability and efficiency. Policymakers should prioritize a diversified energy mix, placing greater emphasis on renewables and hybrid energy solutions. This transition must be complemented by a proactive investment strategy, promoting private sector participation and regulatory transparency to enhance ease of doing business.
+
+A crucial policy consideration is the de-bundling of the National Transmission and Despatch Company (NTDC), enabling multiple stakeholders to share grid infrastructure costs. This could reduce power wheeling charges, improve grid efficiency, and accelerate the transition toward a competitive multi-buyer, multi-seller electricity market. Coupled with DISCO privatization, these reforms can foster a dynamic, competitive, and technology-driven power sector, ultimately ensuring greater affordability and reliability for consumers.
+
+The role of technology transfers and investment in emerging digital infrastructure cannot be overstated. AI-powered forecasting tools, drone-based grid monitoring, and data-driven energy management systems can revolutionize Pakistan’s electricity sector, reducing losses, curbing electricity theft, and enhancing grid resilience.
+
+Conclusion
+
+CPEC has been instrumental in reshaping Pakistan’s energy landscape, playing a critical role in resolving the 2014 and 2022 energy crises. With continued technological collaboration, strategic planning, and sustainable policy implementation, CPEC’s second phase has the potential to not only secure Pakistan’s energy future but also strengthen regional integration, paving the way for a reliable, affordable, and sustainable power sector.
+
+References
+
+Abrar, S., & Farzaneh, H. (2021). Scenario analysis of the low emission energy system in Pakistan using integrated energy demand-supply modeling approach. Energies, 14 (11), 3303.
+
+Aized, T., Shahid, M., Bhatti, A. A., Saleem, M., & Anandarajah, G. (2018). Energy security and renewable energy policy analysis of Pakistan. Renewable and Sustainable Energy Reviews, 84 , 155-169.
+
+Almasoudi, F. M. (2023). Enhancing power grid resilience through real-time fault detection and remediation using advanced hybrid machine learning models. Sustainability, 15 (10), 8348.
+
+Amir-ud-Din, R. (2014). From energy blues to green energy: options before Pakistan. The Pakistan Development Review , 309-325.
+
+Anwar, J. (2010). An analysis of energy security using the partial equilibrium model: the case of Pakistan. The Pakistan Development Review , 925-940.
+
+Archana. (2022). Modelling Barriers for Smart Grid Technology Acceptance in India. Process Integration and Optimization for Sustainability, 6 (4), 989-1010.
+
+Arzhaev, F., Abramov, V., Shchukina, T., Mamedov, T., Sadriddinov, M., Morkovkin, D., . . . Zvereva, A. (2024, 2024). Defining of the energy poverty of the state through the analysis of Belt and Road influence on its alleviation in the context of sustainable development .
+
+Asad, M., Mahmood, F. I., Baffo, I., Mauro, A., & Petrillo, A. (2022). The Cost Benefit Analysis of Commercial 100 MW Solar PV: The Plant Quaid-e-Azam Solar Power Pvt Ltd. Sustainability, 14 (5), 2895.
+
+Ashfaq, A., & Ianakiev, A. (2018). Features of fully integrated renewable energy atlas for Pakistan; wind, solar and cooling. Renewable and Sustainable Energy Reviews, 97 , 14-27.
+
+Bhattarai, T. N., Ghimire, S., Mainali, B., Gorjian, S., Treichel, H., & Paudel, S. R. (2023). Applications of smart grid technology in Nepal: status, challenges, and opportunities. Environmental Science and Pollution Research, 30 (10), 25452-25476.
+
+Falcone, P. M. (2023). Sustainable energy policies in developing countries: a review of challenges and opportunities. Energies, 16 (18), 6682.
+
+Haque, A., Hussain, M. N., Ali, M. S., Khan, M. Y. A., & Halim, M. A. (2023). Technical and Economic Challenges and Future Prospects of a Smart Grid-A Case Study. Control Systems and Optimization Letters, 1 (3), 186-193.
+
+Hartvigsson, E., Ahlgren, E. O., & Molander, S. (2020). Tackling complexity and problem formulation in rural electrification through conceptual modelling in system dynamics. Systems Research and Behavioral Science, 37 (1), 141-153.
+
+Hussain, J., & Hassan, S. (2019). Global energy transition and the role of energy mix in creating energy crisis in Pakistan. Pakistan Journal of Humanities and Social Sciences, 7 (2), 219-232.
+
+Jiang, L., Niu, H., Ru, Y., Tong, A., & Wang, Y. (2023). Can the digital economy promote the development of the energy economy? Evidence from China. Frontiers in Energy Research, 11 , 1257794.
+
+Kamal, M. (2024). Optimal Planning of Standalone Rural Microgrid With Effective Dispatch Strategies and Battery Technology. Energy Storage, 6 (8), e70092.
+
+Laninga, J., Nasr Esfahani, A., Ediriweera, G., Jacob, N., & Kordi, B. (2023). Monitoring technologies for HVDC transmission lines. Energies, 16 (13), 5085.
+
+Maka, A. O. M., & Alabid, J. M. (2022). Solar energy technology and its roles in sustainable development. Clean Energy, 6 (3), 476-483.
+
+Mengal, A., Harijan, K., Uqaili, M. A., Mirjat, N. H., & Shah, S. M. A. (2017). Cost estimation and comparison of carbon capture and storage technology with wind energy. Mehran University Research Journal of Engineering & Technology, 36 (2), 373-384.
+
+Narejo, G. B., Azeem, F., & Zardari, S. (2017). An Energy Policy Analysis and Proposed Remedial Actions to Reduce Energy Crises in Pakistan. Mehran University Research Journal of Engineering and Technology, 36 (2), 401-406.
+
+Nazir, S., Mahmood, N., & Hameed, G. (2022). Energy Substitution Effect in Major Energy Consumption Sectors of Pakistan: Translog Cost Function. Review of Economics and Development Studies, 8 (2), 167-181.
+
+Pasha, H. A. (2018). Growth and inequality in Pakistan : Friedrich-Naumann-Stiftung für die Freiheit Pakistan.
+
+Rehman, A., & Deyuan, Z. (2018). Pakistan’s energy scenario: a forecast of commercial energy consumption and supply from different sources through 2030. Energy, sustainability and society, 8 , 1-5.
+
+Rehman, A., Hakim, A., Khan, K., & Khan, I. (2018). Role of CPEC in development of trade, transport and economy of Pakistan. Romanian Journal of Transport Infrastructure, 7 (1), 77-92.
+
+Sajid, Z., & Javaid, A. (2018). A stochastic approach to energy policy and management: A case study of the Pakistan energy crisis. Energies, 11 (9), 2424.
+
+Shahzad, S. M. (2022). RENEWABLE ENERGY RESOURCES IN PAKISTAN: PAVING A WAY FORWARD. Pakistan Journal of Science, 74 (4).
+
+Solat, S., Aminifar, F., & Shayanfar, H. (2023). Changing the regulations for regulating the changes: From distribution system operator (DSO) to electricity distribution stakeholders’ organization (EDSO). Energy & Environment, 34 (4), 830-854.
+
+Turi, J. A., Rosak-Szyrocka, J., Mansoor, M., Asif, H., Nazir, A., & Balsalobre-Lorente, D. (2022). Assessing wind energy projects potential in Pakistan: challenges and way forward. Energies, 15 (23), 9014.
+
+Zhao, Y., Xia, S., Zhang, J., Hu, Y., & Wu, M. (2021). Effect of the digital transformation of power system on renewable energy utilization in China. Ieee Access, 9 , 96201-96209.
+
+Zhou, B., Zou, J., Chung, C. Y., Wang, H., Liu, N., Voropai, N., & Xu, D. (2021). Multi-microgrid energy management systems: Architecture, communication, and scheduling strategies. Journal of Modern Power Systems and Clean Energy, 9 (3), 463-476.
+
+Zulfiqar, A., Nazir, A., & Khalid, A. (2022). Examining the Future Direction of Electricity Market in Pakistan: The Case of Competitive Trading Bilateral Contracts Market (CTBCM) : Sustainable Development Policy Institute.
+
+About the Author
+
+Engr. Ahad Nazir is an Associate Research Fellow at the Sustainable Development Policy Institute (SDPI), Islamabad. His expertise include Application Engineering, Business Development, Secondary Designing, Technical and Financial Feasibilities among others.
+
+[1] The data is available at CPEC Authority website https://cpec.gov.pk/energy
+
+[2] This was adapted from several discussions during seminars on energy sector including World Economic Forum https://www.weforum.org/stories/2024/11/pakistan-solar-power-energy-transition

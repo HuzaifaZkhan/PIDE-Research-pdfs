@@ -1,0 +1,91 @@
+Preface
+
+This compilation is a review of the Haque Surveys conducted by Dr. Nadeem Ul Haque on Twitter between 2020 and 2022. The primary purpose of this book is to analyze the opinions of Pakistani Twitter users regarding various socio-economic and political issues prominent in Pakistani society. By reviewing the tweets, we aim to understand how the state of debate among the youth could be fostered. The thought processes of Twitter users have shown significant evolution over time, with an increase in their willingness to engage in healthy discussions and debates. This book not only reflects these changing perspectives but also aims to contribute to the broader discourse on policy and development in Pakistan.
+
+Table of contents
+
+Preface
+
+Introduction
+
+Chapter 1: Research & Development
+
+1.1. Rethinking Education: Quality over Quantity
+
+1.2. State of Research
+
+Chapter 2: Opportunities
+
+Chapter 3: Donor Engagement
+
+3.1. Donor Engagement with Local Think Tanks
+
+3.2. Local Policies & Research vis-à-vis Donors
+
+3.3. Donor Scrutiny
+
+Chapter 4: Policymaking
+
+4.1. Policymaking in Pakistan
+
+4.2. Development Policies
+
+4.3. Growth Policies
+
+4.4. Energy Crisis
+
+Chapter 5: Reforms
+
+Chapter 6: Democracy, State & Government Government
+
+6.1. Democracy
+
+6.2. Government
+
+6.3. Bureaucracy
+
+6.4. Accountability & Transparency
+
+6.5. VIP Culture
+
+Chapter 7: Cities & Urbanization
+
+Conclusion
+
+References
+
+Introduction
+
+In today’s digital age, social media platforms have become powerful tools for gauging public opinion and shaping policy debates. Twitter, in particular, offers a unique window into the collective consciousness of a society. This book leverages data from surveys conducted on Twitter to provide insights into the thoughts and opinions of Pakistanis on key socio-economic and political issues.
+
+The significance of this endeavor lies in its ability to capture real-time public sentiment, which is often overlooked in traditional policy-making processes. By analyzing the responses to these surveys, we can identify prevailing attitudes, misconceptions, and areas where public education or policy intervention is needed.
+
+The number of social media users in Pakistan has been growing exponentially, with the country now boasting 70 million active users on various platforms, driven by a median age of 20.5 years [1] . Twitter, in particular, has seen a steady increase in users, representing a small but growing share of the public who actively express their opinions. Although this series of surveys is by no means representative of the entire Pakistani public, it is noteworthy that an increasing number of people from diverse backgrounds are leveraging social media to voice their concerns and opinions.
+
+Given this trend and the active younger demographic, social media will play an increasingly critical role in the future as a tool for politicians and policymakers to gauge the public pulse. This shift underscores the importance of understanding the dynamics of online discourse and its implications for policy and governance.
+
+This book covers a range of important topics, beginning with research and development. It delves into the quality versus quantity debate in education, the role of research in academia, and the challenges faced by local think tanks. Subsequent chapters address issues related to democracy, governance, bureaucracy, and the intersection of policy and public perception. The insights derived from these surveys provide a valuable resource for policymakers, academics, and anyone interested in understanding the dynamics of public opinion in Pakistan.
+
+Chapter 1: Research & Development
+
+1.1. Rethinking Education: Quality over Quantity
+
+Traditionally, the concept of development has been quantitatively driven. This conventional approach focuses on countable aspects such as the number of poor people, school dropouts, educational institutions, teachers, roads, and so forth (OECD, 2012). However, the recent literature and numerous intensive case studies emphasize that the quality of these elements may be the key driver of growth. (Barbier & Burgess, 2021; Civera et al., 2020; Yilmaz, 2019) As evidenced in various areas such as governance, education, and justice, we often settle for an expansion of quantity at the expense of quality. This emphasis on quantity is thus also reflected to an extent in popular perceptions – as gauged by the survey – with people often assuming that more of something essentially means that it’s better. When asked if Pakistan should build a university in every district:
+
+These results show divided opinion among the respondents, with a slight majority of 54% favoring the idea of building a university in every district across Pakistan. Conversely, 46% of the participants voted against this proposition. This does indicate the prevalence of the belief that the construction of more universities will somehow ameliorate the problems plaguing the education sector, even though such beliefs are contrary to evidence (Ahsan and Khan, 2023).
+
+While these results did show that there is notable support for the building of university campuses, when the questions were framed to gauge the true value of a university, the responses of the participants were starkly different.
+
+According to the overwhelming majority of respondents, the essence of a university should not be measured by its physical expanse but by the intellectual capital it harbors. In Pakistan, the proliferation of universities characterized by expansive campuses has unfortunately not been paralleled by an increase in the quality of education offered. The traditional notion, deeply rooted in the academic philosophies of Plato’s Academy, asserts that the core of any educational institution should be its faculty and the research it fosters, not the size of its infrastructure.
+
+Current practices within Pakistan see universities expanding in physical size across districts, a trend often driven by political motives rather than educational efficacy. This expansion has led to a dilution of academic standards, which shows a distressing shortfall of qualified professors and a lack of robust research programs (Haque et al, 2022).
+
+The emphasis on constructing buildings over cultivating minds leads to an educational environment where quantity overshadows quality. Despite there being more than 200 universities in Pakistan, due to this misalignment does little to prepare graduates for the competitive global market, contributing to high rates of graduate unemployment and underemployment (Chaudhry & Khan, 2020).
+
+To realign the focus towards academic excellence, policies must prioritize the recruitment of distinguished scholars and the development of cutting-edge research facilities. Universities should be seen as think tanks that contribute to the knowledge economy through innovation and scholarly discourse, rather than merely as physical landmarks.
+
+This strategic shift will require a reevaluation of funding allocations, ensuring that investments in education prioritize intellectual enrichment over physical expansion. Such a focus promises to elevate the overall quality of higher education in Pakistan, making it more competitive internationally and more relevant to the country’s development needs.
+
+Inevitably, in light of the fact that universities often fail to provide good quality education and improve the employment and income prospects for their graduates, promises by politicians to build more universities seem – without any commensurate improvement in the standard of education – to ring hollow with the public. So, when polled, the vast majority stated that they perceived the building of universities to show the bankrupt nature of Pakistan’s political system.
+
+[1] https://propakistani.pk/2024/02/23/pta-report-reveals-surge-in-digital-engagement-and-bandwidth-utilization/#:~:text=With%20an%20active%20younger%20demographic,within%20the%20global%20digital%20landscape.&text=PTA%20documents%20reveal%20significant%20traffic,utilization%20reaching%20approximately%2018.03%20Tbps.

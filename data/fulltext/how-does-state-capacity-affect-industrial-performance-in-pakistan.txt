@@ -1,0 +1,97 @@
+Introduction
+
+The persistent decline in Pakistan’s industrial competitiveness vis-à-vis peers cannot be explained solely by conventional macroeconomic variables. Energy prices and shortages, tax policy uncertainty, exchange rate volatility[1], and monetary tightness are proximate symptoms, not root causes. The binding constraints reside deeper, within the state’s institutional architecture and the political economy incentives that shape market actors’ behavior.
+
+This article advances the argument that industrial competitiveness is fundamentally a function of governance quality and state capability. Where institutions are fragmented, rents are allocated discretionarily, and policy credibility is absent, no amount of trade preference or capital subsidy can catalyze sustained industrial upgrading. Drawing on recent diagnostics[2], this analysis systematically unpacks why Pakistan remains trapped in a low-productivity equilibrium. The focus is exclusively institutional and political: competition frameworks, bankruptcy regimes, land markets, regulatory sludge[3], multi-tier governance, elite capture, coordination failures, and the chronic absence of time-consistent policy.[4]
+
+The Conceptual Framework
+
+Industrial competitiveness emerges from the interaction of three institutional domains: market structure, firm dynamics, and state capability.[5] For large-scale manufacturing, the relevant metric is not simply output volume but the intensity of competitive pressure and the ease of firm entry and exit. For micro, small, and medium enterprises (MSMEs), the critical issue is the cost of formality and the predictability of administrative enforcement. Pakistan remains weak on both counts. The conceptual lens adopted here treats the state not as a neutral planner but as a strategic actor whose credibility determines investment horizons. When industrial policy is subject to arbitrary reversal, when regulatory permits are allocated through personal connections, and when incumbent creditors capture bankruptcy procedures, the rational firm responds by remaining small, informal, and liquid. This is not a cultural pathology; it is a rational adaptation to an unpredictable institutional environment. The political economy of industrial policy literature, as applied to South Asia, demonstrates that the divergence between Pakistan and structurally similar economies can be traced to differences in bureaucratic autonomy and judicial enforcement of contracts.[6]
+
+Large Scale Manufacturing: Market Structure and Exit Dynamics
+
+The Quantum Index of Manufacturing published by the Pakistan Bureau of Statistics provides a partial but indicative picture of formal industrial activity. The underlying reality, however, is one of concentrated market power and weak competitive rivalry. Sectoral analysis reveals that a small number of business houses control disproportionate shares of production capacity, often protected by tariff walls, discretionary import licenses, or exclusive access to foreign exchange.[7] This market structure discourages innovation and depresses total factor productivity.[8] The absence of an effective competition framework allows tacit collusion to persist, with the Competition Commission of Pakistan lacking both the investigative capacity and the political insulation to challenge entrenched interests.[9]
+
+More fundamentally, the bankruptcy regime in Pakistan remains dysfunctional. The existing legal framework for corporate insolvency and restructuring is characterized by protracted litigation, low recovery rates for creditors, and the absence of a time-bound resolution mechanism. Inefficient firms are neither restructured nor liquidated; they continue operating with negative value added, sustained by bank forbearance and political patronage. This distortion in firm exit dynamics prevents the reallocation of capital and labour to more productive uses, constituting a silent tax on aggregate industrial efficiency. Public investment is much needed to push for ecosystem improvement in economically backward provinces, but it is weak and sporadic.[10]
+
+Micro, Small, and Medium Enterprises: The Burden of Sludge
+
+If large-scale manufacturing suffers from concentrated market power, the MSME sector suffers from regulatory suffocation. Sludge – defined as administrative friction that imposes compliance costs without corresponding public benefits stifles the long-run competitiveness of formal MSMEs. For a small enterprise, the cumulative burden of registering, obtaining tax status, securing provincial clearances, and registering with the local municipal authority for trade licenses can exceed several months of operating capital. This sludge does not fall evenly; it falls hardest on firms without access to legal or accounting professionals.
+
+The predictable response is informality. Women-led firms are at a greater disadvantage.[11] However, informal enterprises face their own constraints: they cannot access formal credit from commercial banks, bid for government procurement contracts, or participate in export supply chains that require documented invoices. The informal sector thus becomes a reservoir of unproductive entrepreneurship, locked out of scaling opportunities.[12] Critically, the sludge burden is not merely a federal problem. Provincial and local governments impose overlapping inspection regimes for labour, fire safety, sanitation, and zoning, each with its own schedule of unofficial payments.[13] The resulting regulatory fragmentation converts the act of operating a legitimate business into a continuous negotiation with multiple tiers of the state.
+
+Governance across Federal, Provincial, and Local Tiers
+
+The constitutional division of responsibilities after the Eighteenth Amendment created opportunities for devolution but also produced coordination failures. While trade policy, trade taxes, and most overarching regulatory frameworks remain federal, there is a lack of consensus on where the industrial policy should sit. Land, labour, and environmental standards are provincial. Municipal licensing and infrastructure are local. No structured mechanism exists to harmonize these tiers. An investor seeking to establish a manufacturing unit must navigate federal approval for the import of machinery, provincial approval for land use conversion, and local approval for building permits.[14]
+
+The absence of a binding dispute resolution mechanism between tiers means that a conflict at one level can halt the entire venture. The Special Investment Facilitation Council (SIFC) has, to some extent, been trying to address this issue.
+
+Furthermore, the quality of governance varies dramatically across provinces, with some demonstrating higher bureaucratic capacity than others.[15] This unevenness creates an internal arbitrage opportunity for firms to locate in provinces with weaker enforcement, triggering a race to the bottom on labour and environmental standards. The interprovincial mobility of industrial capital remains low, precisely because land markets are provincial and land transfer procedures are opaque, litigious, and vulnerable to capture.[16]
+
+Rent Allocation, Weak Competition, and Policy Credibility
+
+The political economy literature on Pakistan consistently identifies rent allocation as the central mechanism linking state and business.[17] Rather than competing on price or quality, firms compete for preferential access to foreign exchange, local licenses, tariff exemptions, subsidized credit, and government procurement contracts. This system of patronage has produced an industrial structure oriented toward domestic rents rather than export competitiveness.
+
+Even the trade associations are often dominated by a few large members who shape tariff and regulatory policy to their advantage, raising barriers for smaller competitors. Elite capture extends to the bureaucracy as well, where post-retirement placements of senior officials on corporate boards create revolving-door incentives that soften regulatory enforcement. The cumulative effect is a crisis of policy credibility. Investors, both domestic and foreign, cannot distinguish between policy announcements and binding commitments.
+
+Time inconsistency is endemic: an export subsidy announced in one fiscal year is withdrawn the next; a special economic zone granted tariff exemptions is later subjected to retrospective taxation. This unpredictability raises the required rate of return on industrial investment, discouraging long-term capital formation. Most recent diagnostics have repeatedly highlighted that Pakistan’s policy uncertainty indicators rank significantly worse than comparator economies at similar income levels, even after controlling for political instability.[18]
+
+Weaknesses in Public-Private Coordination
+
+Public-private coordination in Pakistan operates through formal councils and informal networks. The former are largely ineffective, characterized by infrequent meetings and non-binding recommendations. The latter, while efficient for individual rent seeking, cannot substitute for collective action on industrial upgrading. The result is a persistent mismatch between the skills produced by the education system and the demands of manufacturing firms, as well as between the infrastructure provided by the state and the logistics needs of exporters.
+
+This coordination failure has direct consequences for trade. Pakistan enjoys preferential market access under the Generalized Scheme of Preferences Plus regime granted by the European Union, as well as free trade agreements with China and other partners. Yet the utilization rate of these preferences remains suboptimal. The reason is internal, not external. Domestic compliance costs, regulatory sludge, and unreliable infrastructure erode the competitive advantage that tariff preferences confer. A firm cannot benefit from duty-free access if it cannot meet the Rules of Origin requirements or if its consignments are delayed at ports due to fragmented documentation. Similarly, the China-Pakistan Free Trade Agreement has delivered limited industrial upgrading because the domestic governance environment does not allow Pakistani firms to integrate into Chinese value chains beyond the most basic assembly operations.[19]
+
+A Theory of Change for Industrial Renewal
+
+The binding constraint is institutional. The theory of change, therefore, must prioritize governance reform over capital provision. The causal pathway proceeds as follows: reducing regulatory sludge and enforcing time-consistent policies lowers the cost of formality; lower formality costs induce firms to register and comply; registered firms gain access to credit, contracts, and trade preferences; and this virtuous cycle raises productivity and employment.
+
+To activate this pathway, A focused but necessarily partial set of governance reforms can help address critical institutional bottlenecks. At the federal level, reforms include legislating a mandatory periodic Regulatory Impact Assessment for all new business regulations to enhance regulatory quality and predictability, strengthening competition policy enforcement, improving judicial efficiency and contract enforcement, and consolidating a unified bankruptcy and insolvency framework independent of political influence to facilitate efficient firm exit and capital reallocation.
+
+At the provincial level, reforms may focus on digitizing and centralizing land (and other immovable property) records and property transfer procedures to secure property rights, enhancing tax administration and compliance systems, improving bureaucratic capability, and institutionalizing mechanisms to resolve jurisdictional disputes within a statutory timeline.
+
+Across both levels, broader measures such as reducing corruption, investing in administrative simplification, and integrating strategic management practices are essential to improve public sector effectiveness. While these governance and institutional reforms are central to shaping the business environment and enhancing industrial competitiveness, they operate alongside other critical drivers, including macroeconomic stability, energy reliability, infrastructure, access to finance, and firm-level productivity. Public investment reform is much needed to promote ecosystem changes and improve infrastructure including energy. Governance improvements should therefore be understood as necessary but not sufficient, forming a foundational component of a comprehensive industrial development strategy.
+
+Conclusion
+
+Pakistan’s industrial constraints are not merely resource constraints. It is a governance constraint. The institutional architecture of the state produces uncertainty, rent seeking, and fragmentation. No trade agreement, subsidy, or monetary easing can compensate for a business environment in which the rules change unpredictably and enforcement is selective. The path forward requires political will to confront entrenched interests and administrative capacity to implement digital governance. The evidence from comparator economies is unambiguous: those that reformed their institutional frameworks saw sustained industrial growth; those that did not remain trapped. The choice for Pakistan is between continuing the cycle of low productivity and undertaking the difficult work of institutional renewal.
+
+Vaqar Ahmed is a Research Fellow at the Partnership for Economic Policy (PEP).
+
+[1] Javed, S. A., Ali, W., & Ahmed, V. (2016). Exchange rate and external competitiveness: a case of Pakistan. Sustainable Development Policy Institute.
+
+[2] Chatha, I.A., Ahmed, V. and Zahid, J., 2026. Is there a case for industrial policy in Pakistan? Working Paper Series – WP 213. Sustainable Development Policy Institute (SDPI), Islamabad.
+
+[3] Haque, N. U., Qasim, A. W., & Khawaja, I. (2022). PIDE Sludge Audit (No. 2022: 1). Pakistan Institute of Development Economics.
+
+[4] Ahmed, S. S., & Ahmed, V. (2022). Supporting Export Competitiveness in Pakistan’s Industrial Sector Amid Covid-19. Global Pakistan: Pakistan’s Role in the International System , 245 .
+
+[5] Ahmed, V. (2023). Evidence and Lessons from BRI The Case of China-Pakistan Economic Corridor. In Belt and Road Initiative and South Asia (pp. 114-129). Routledge.
+
+[6] Ahmed, V., & O’Donoghue, C. (2010). External shocks in a small open economy: A CGE-Microsimulation analysis. Lahore Journal of Economics , 15 (1), 45-90.
+
+[7] Vaqar, A., & Cathal, O. D. (2010). Tariff reduction in a small open economy. Seoul Journal of Economics , 23 (4), 461-489.
+
+[8] Naqvi, W., Hayat, D., Javed, M., & Ahmed, V. (2019). A review of export promotion and exemption schemes. Sustainable Development Policy Institute (SDPI).
+
+[9] Ahmed, V., & Batool, S. (2016). India–Pakistan trade: perspectives from the automobile sector in Pakistan. In India-Pakistan trade normalisation: The unfinished economic agenda (pp. 129-161). Singapore: Springer Singapore. See also, Ahmed, V., & Batool, S. (2016). India–Pakistan trade: a case study of the pharmaceutical sector. In India-Pakistan Trade Normalisation: The Unfinished Economic Agenda (pp. 219-244). Singapore: Springer Singapore.
+
+[10] Shabbir, S., & Ahmed, V. (2015). Welfare impacts of Afghan trade on the Pakistani provinces of Balochistan and Khyber Pakhtunkhwa. Stability: International Journal of Security and Development , 4 (1), 6-6.
+
+[11] Ahmed, V., Suleri, A. Q., & Javed, A. (2015). Strengthening South Asia value chain: Prospects and challenges. South Asia Economic Journal , 16 (2_suppl), 55S-74S.
+
+[12] Shahzad, M. A., Ahmed, V., & Fischer, C. (2021). Status and determinants of other gainful activities by farmers in mountainous rural regions of Gilgit-Baltistan, Pakistan. Journal of Mountain Science , 18 (10), 2520-2539. See also: Ahmed, V., Suleri, A. Q., Wahab, M. A., & Javed, A. (2014). Informal flow of merchandise from India: The case of Pakistan. In India-Pakistan trade: Strengthening economic relations (pp. 47-70). New Delhi: Springer India.
+
+[13] Government of Khyber Pakhtunkhwa. (2023). Khyber Pakhtunkhwa urban policy 2023 . Planning & Development Department. https://pndkp.gov.pk/2023/03/09/kp-urban-policy-2023/
+
+[14] Nazir, A., Afridi, A., Ahmed, V., Gregory, D., Arif, M., & Kazmi, S. M. (2021). Developing inclusive and creative economies: creative and social enterprise in Pakistan. SDPI.
+
+[15] Nazir, A., Maken, A. M., & Ahmed, V. (2018). Streamlining tax harmonisation in Pakistan. Sustainable Development Policy Institute.
+
+[16] Khan, S. A., & Ahmed, V. (2014). Peaceful economies: Assessing the role of the private sector in conflict prevention in Pakistan. Stability: International Journal of Security and Development , 3 (1), 24-24.
+
+[17] Ahmed, V. (2018) Pakistan’s Agenda for Economic Reforms. Oxford University Press.
+
+[18] Ahmed, V. (2023). Evidence and Lessons from BRI The Case of China-Pakistan Economic Corridor. In Belt and Road Initiative and South Asia (pp. 114-129). Routledge.
+
+[19] Manzoor, R., Ahmed, V., & Javed, A. (2020). Addressing non-tariff measures to promote Pakistan’s textile sector (No. 189). ARTNeT Working Paper Series.

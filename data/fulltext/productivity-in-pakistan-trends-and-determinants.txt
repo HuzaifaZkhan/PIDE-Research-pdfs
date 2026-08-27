@@ -1,0 +1,184 @@
+Executive Summary
+
+The chronically low productivity in Pakistan is due to structural issues. Rather than improving productivity, economic growth in Pakistan has historically relied on factor accumulation rather than productivity growth. Total factor productivity (TFP) growth in Pakistan has been on a declining trend since the 1970s, except for a few years, especially in the 1980s and 1990s. Pakistan undertook liberalization and deregulation policies during these decades, which shows that productivity outcomes respond to policy.
+
+At the sectoral level, productivity of the services sector and technology-based activities is higher than that of manufacturing and agriculture, both of which have historically enjoyed protection and various incentives. More alarmingly, however, the sectors that have been designated export-oriented often show low or negative TFP growth. It implies that a protectionist regime has a high cost in terms of lower productivity and lower exports.
+
+The macroeconomic literature on productivity shows that trade openness, financial sector depth, and macroeconomic stability are the primary determinants of productivity growth in Pakistan. On the other hand, IMF programs, which come with stringent conditionalities, and infrastructure dampen productivity growth. At the firm level, using ICT, skills, competition, and quality certification are the main determinants of productivity growth. The main message of the research on productivity by the World Bank, IMF, PIDE, and SBP is that resource misallocation, regulatory burden, and weak capabilities hamper productivity and economic growth in Pakistan.
+
+Addressing these constraints requires a coordinated and firm reform effort. Any reform effort must focus on the removal of distortionary regulatory and energy-sector bottlenecks in the short term, institutional strengthening in state-owned enterprises, agriculture, and services in the medium term, and investment in human capital, R&D, and global value chain integration in the long term. Structural reforms, if introduced, could add approximately 2 percentage points to GDP growth over five years according to IMF simulations.
+
+1. Introduction
+
+Productivity is the fundamental driver of long-run economic growth and living standards. The international evidence clearly shows that economies that sustain high productivity growth over a period of time converge toward higher income levels. On the other hand, the countries that rely on factor accumulation for growth eventually stagnate (Young, 1995; Citi GPS, 2018; Kim & Loayza, 2019). Pakistan’s experience since the 1970s shows that whenever there has been a surge in productivity growth, it has resulted in higher GDP growth. Both TFP and GDP growth have fluctuated with a declining trend, driven by policy distortions, regulatory burden, and import controls (Faraz, Siddique, & Saeed, 2023).
+
+Recent research on productivity and economic growth in Pakistan shows that Pakistan’s weak competitiveness and systemic sectoral misallocation are the main reasons for subpar productivity, export, and employment performance. The World Bank frames this as a “swimming in sand” equilibrium and proposes an ‘ABC’ agenda, i.e., allocative efficiency, business-to-business spillovers, and capability upgrading (World Bank, 2022). According to the IMF estimates, consistent structural reforms of fiscal policy, labour markets, external trade, and state-owned enterprises (SOEs) are likely to generate substantial medium-term growth benefits (IMF, 2024).
+
+What is Total Factor Productivity (TFP)?
+
+• TFP measures the portion of output growth not explained by growth in factor inputs (capital and labour). It captures how eﬃciently an economy or ﬁrm combines inputs to produce output, and is conventionally interpreted as the Solow residual in a production function framework (Solow, 1957).
+
+• More precisely, TFP is deﬁned as the ratio of aggregate output to aggregate inputs: it measures how productively an economy uses its physical inputs (Comin, 2008). Rising TFP signals that the same inputs generate more output — through better technology, organisation, or resource allocation.
+
+2. Empirical Evidence: Pakistan’s Productivity Trajectories
+
+2.1 Aggregate Trends
+
+Since 1972, Pakistan’s average TFP and GDP growth have been on a declining trend (Figure 1). The strongest TFP growth performance was in the 1980s, followed by the 1990s, which were the periods hen liberalization policies were pursued, along with relative political stability. It shows that productivity responds to improved incentive structures.
+
+Figure 1. Pakistan’s TFP and GDP Growth Rates: 1973–2023
+
+Source: Asian Productivity Organization (APO) Productivity Database 2025.
+
+2.2 Determinants of TFP
+
+The empirical literature on productivity in Pakistan shows that trade openness, financial sector depth, macroeconomic stability (proxied by inflation), FDI, capital intensity, innovation, and institutional quality are associated with higher TFP growth, while IMF program, budget deficits, and population growth are associated with lower TFP growth.
+
+However, two factors have mixed results in the literature, namely, human capital and infrastructure. Some studies find positive effects (Adnan et al., 2020; Ahmed & Hyder, 2007; Khan, 2006) while Siddique (2022b) finds negative effects for both. It could be argued that expenditure on human capital and infrastructure is productivity-enhancing only when proper consideration is given to quality and sequence, along with proper institutional support. These conditions in Pakistan, however, are rarely met. Table 1 summarises the evidence.
+
+Table 1. Determinants of TFP in Pakistan — Summary of Studies
+
+Positive
+Study
+Negative/Mixed
+Study
+
+Inflation
+Siddique (2022b); Khan (2006)
+Budget deficit
+Khan (2006)
+
+FDI
+Adnan et al. (2020); Khan (2006)
+Population growth
+Khan (2006)
+
+Financial sector depth
+Siddique (2022b); Khan (2006)
+Employment growth
+Khan (2006)
+
+Domestic investment
+Khan (2006)
+IMF programmes
+Siddique (2022b)
+
+Trade openness
+Adnan et al. (2020); Siddique (2022b); Ahmed & Hyder (2007); Khan (2006)
+Human capital (mixed)
+Positive: Adnan et al. (2020); Ahmed & Hyder (2007); Khan (2006). Negative: Siddique (2022b)
+
+Development expenditure
+Ahmed & Hyder (2007)
+Infrastructure (mixed)
+Ahmed & Hyder (2007): negative earlier, positive 2002-06; Siddique (2022b): negative
+
+Remittances
+Ahmed & Hyder (2007)
+
+Capital intensity
+Siddique (2022b)
+
+Innovation
+Siddique (2022b)
+
+Institutions
+Siddique (2022b)
+
+Source: Author’s compilation.
+
+2.3 Sectoral TFP in Pakistan
+
+Evidence on sectoral productivity reveals some striking trends, which have policy implications. Using granular firm-level data on 61 sectors (composed of 1,321 over the 2010–2020 period), Faraz, Siddique, & Saeed (2023) find that services and technology-based sectors have comparatively better productivity growth. It highlights the importance of tradable services and urban economic activity in modern economies. The results are in line with global evidence, as the OECD (2025) report shows that services drove 60% of TFP growth in OECD economies from 1995 to 2019.
+
+The manufacturing activities, on the other hand, have low or negative TFP growth. More critically, however, export-designated sectors, on which Pakistan’s trade strategy depends, also exhibit low and sometimes negative productivity growth. These sectors have underperformed in terms of productivity despite receiving various exemptions and protection. However, such policies protect these sectors from competition, removing any incentive for efficiency improvement. Agriculture follows a similar pattern, lagging other sectors despite some gains in yields (Afzal et al., 2023).
+
+Using the World Bank Enterprise Survey, Jamal (2025) shows that at the firm level, ICT adoption, skills and training, technology adoption, greater competition, and ISO certification are the main productivity determinants in Pakistan’s manufacturing. Interestingly, smaller firms show higher TFP growth than larger ones. This evidence is consistent with the argument that larger firms enjoy protection that dulls competitive incentives. According to PIDE (2021), this pattern may be attributed to a high government economic footprint (67%), subpar performance of the SOEs, price regulation, and a complex regulatory regime. All these factors combine to distort incentives and raise transaction costs.
+
+3. Diagnosis: Why Is TFP Growth So Low?
+
+The evidence highlights at least three main reasons for low productivity growth in Pakistan. First is the misallocation of resources: capital, labor, and talent are directed toward protected, low-productivity activities rather than dynamic, high-productivity ones (World Bank, 2022). Second is the complicated regulatory regime: regulatory burden increases compliance costs, poses entry and exit barriers, and regulated prices reduce competitive pressure (PIDE, 2021). The third reason is firms’weak capabilities. In Pakistan, the innovation ecosystem is still undeveloped, management practices are outdated, and there is a mismatch between skill programs and the economy’s productivity needs (APO, 2023; SBP, 2025).
+
+These three constraints mutually reinforce each other. Misallocation, due to a perverse incentive structure, concentrates activity in low-productivity sectors with low investment in human resources’ capabilities. Weak capabilities, in turn, reduce the productivity gains from opening markets. Finally, cumbersome regulatory procedures allow low-capability firms to persist, which would otherwise be driven out due to competition. Thus, breaking this vicious cycle requires a sequenced action on all three fronts.
+
+Removing these bottlenecks can bring significant gains. IMF (2024) simulations show that fiscal, labor market, trade, and SOE reforms could increase GDP growth by approximately 2 percentage points over five years.
+
+4. Policy Implications
+
+The analysis of productivity in Pakistan leads to at least four cross-cutting policy priorities:
+
+Competition and deregulation: Regulatory audits to reduce the regulatory burden, ease entry and exit, and simplify tax and trade regimes. Without competitive pressure, there is no incentive for firms to improve efficiency, are absent regardless of other interventions (PIDE RAPID, 2021).
+
+Trade openness and tradable services: Prioritize the services sector’s resilience and tradability; promote competitive manufacturing by removing distortionary incentives; facilitate firm-to-firm learning through clusters and supplier development programs (World Bank, 2022).
+
+SOE and energy reform: Improve governance, disclosure, and contestability. In energy, wheeling arrangements and bilateral contracts can reduce outages and price distortions that directly suppress firm-level productivity (World Bank PDU, 2024 and 2025).
+
+Finance for productivity: Incentivize banks to shift from sovereign to productive lending; expand credit information, secured transactions and export finance linked to productivity upgrading (PIDE RAPID, 2021).
+
+5. A Sequential Reform Agenda
+
+Translating these priorities into action requires sequencing according to feasibility and time frame.
+
+5.1 Short-Term Reforms
+
+The focus in the shot run should be on removing structural distortions that hamper productivity. For identifying and removing regulatory bottlenecks, a systematic audit to reduce the regulatory burden, i.e., simplifying processes and reducing compliance costs, is critical (PIDE, 2021). In manufacturing, the immediate priority should be to remove the anti-export bias created by tariff and exchange rate policies, removing firm-specific subsidies, and supporting ICT adoption and quality certification (World Bank, 2022; Faraz, Siddique, & Saeed, 2023). For energy, which has become the Achilles’ heel of Pakistan’s economy, short-term priorities include distribution reform and cost-reflective tariffs combined with targeted social protection. These measures would help reduce outages and unpredictability, both of which dampen TFP growth (World Bank, October 2024 and April 2024).
+
+5.2 Medium-Term Reforms
+
+In the medium term, there is a need to address structural weaknesses that hurt institutional capacity. The governance and management of SOEs must be improved. Similarly, competition must be encouraged through market liberalization and modernizing the TVET system (World Bank, 2022; APO, 2023). Concurrently, management practices in manufacturing require sustained attention (Faraz, Siddique, & Saeed, 2023). Agriculture, which is characterized by price controls, low-return subsidies, and weak input markets, requires a medium-term reset, such as opening input markets to private sector competition, improving water governance and technology adoption to raise very low water productivity, and investing in post-harvest logistics support and digital advisory services (Afzal et al., 2023; SBP, 2025). For services, which is Pakistan’s largest and fastest-growing sector, it is critical to adopt digital infrastructure and enhance skills through vocational training to sustain TFP growth. It is likely to have positive spillover effects for manufacturing (APO, 2023).
+
+5.3 Long-Term Reforms
+
+The long-term reforms need to address the structural determinants of productivity. Long-term reforms include improving human capital quality and skills, including the shift in agriculture toward farmer education on quality issues rather than fertilizer overuse (Afzal et al., 2023). Pakistan’s R&D and innovation ecosystem, which is currently virtually nonexistent, requires deliberate development through industry-academia linkages. Finally, Pakistan’s limited integration into global value chains (GVCs) must be addressed, as GVC participation is an increasingly important channel for technology transfer and productivity upgrading (APO, 2023).
+
+6. Conclusion
+
+Pakistan’s subpar productivity performance is the main reason for the boom-and-bust long-run growth performance. The evidence reviewed in this brief points to an interconnected, albeit ambitious, reform agenda, which calls for removing the distortions that protect low-productivity sectors, building the regulatory and institutional base for competitive markets, and investing in the capabilities, i.e., human capital, innovation, and digital infrastructure, that convert market openness into sustained productivity growth.
+
+It is important to note that the sequencing of reforms matters. Short-term gains from regulatory and energy reform can generate the fiscal and political space needed for the harder medium-term institutional work on SOEs, agriculture, and TVET. Long-term returns from human capital and R&D investment can be realized only if the short- and medium-term fixes are applied. The evidence clearly shows that there is an urgent need to act. What the country requires is a coherent policy and institutional commitment to follow through.
+
+References
+
+Adnan, M., Khan, M. A., & Tariq, M. (2020). Determinants of total factor productivity in Pakistan: A time series analysis. International Review of Applied Economics, 34(6), 807–820.
+
+Afzal, H., Hassan, S., Bashir, M. K., & Ali, A. (2023). Estimation of Total Factor Productivity Growth of the Agriculture Sector in Pakistan.
+
+Ahmed, S., & Hyder, K. (2007). Determinants of total factor productivity in Pakistan (MPRA Paper No. 16253).
+
+Asian Productivity Organization (2023). Productivity in Pakistan: Estimates, Bottlenecks, and the Way Forward.
+
+Citi GPS: Global Perspectives and Solutions (2018). Securing India’s Growth Over the Next Decade: Twin Pillars of Investment & Productivity.
+
+Comin, D. (2008). Total factor productivity. In The New Palgrave Dictionary of Economics (2nd ed.). Palgrave Macmillan.
+
+Faraz, N., Siddique, O., & Saeed, A. (2023). Sectoral Total Factor Productivity in Pakistan. PIDE Research Report 2023:1.
+
+International Monetary Fund (2024). Pakistan: Selected Issues—Measuring the Gains from Structural Reforms and Climate Adaptation Investment in Pakistan. IMF Country Report No. 24/311.
+
+Isaksson, A. (2007). Determinants of Total Factor Productivity: A Literature Review (Staff Working Paper 02/2007). Vienna: UNIDO.
+
+Jamal, M. (2025). Total factor productivity of manufacturing firms: Pakistan, 2022 scenario (MPRA Paper No. 126733).
+
+Khan, S. U. (2006). Macro determinants of total factor productivity in Pakistan. SBP Research Bulletin, 2, 383–401.
+
+Kim, Y. E., & Loayza, N. V. (2019). Productivity growth: Patterns and determinants across the world (Policy Research Working Paper 8852). World Bank.
+
+Organisation for Economic Co-operation and Development (2025). OECD Compendium of Productivity Indicators 2025. OECD Publishing. https://doi.org/10.1787/b024d9e1-en
+
+PIDE (2021). The PIDE Reform Agenda for Accelerated and Sustained Growth. Pakistan Institute of Development Economics.
+
+PIDE (2022). PIDE Sludge Series, Volume 1. Pakistan Institute of Development Economics.
+
+Siddique, O. (2022a). Total factor productivity and economic growth in Pakistan: A five-decade overview. Pakistan Development Review, 61(4), 583–601.
+
+Siddique, O. (2022b). The determinants of total factor productivity growth in Pakistan: An exploration. PIDE Working Paper 2022:4.
+
+Solow, R. M. (1957). Technical change and the aggregate production function. Review of Economics and Statistics, 39(3), 312–320.
+
+State Bank of Pakistan (2025). Pakistan’s Low Competitiveness: A Case for Investing in Productivity (FY25 Half-Year Report).
+
+World Bank (2023–2025). Pakistan Development Update reports.
+
+World Bank Group (2022). From Swimming in Sand to High and Sustainable Growth: A Roadmap to Reduce Distortions in the Allocation of Resources and Talent in the Pakistani Economy (Country Economic Memorandum).
+
+Young, Alwyn (1995). The tyranny of numbers: confronting the statistical realities of the east asian growth experience. The Quarterly Journal of Economics, 110 (3), 641–680.

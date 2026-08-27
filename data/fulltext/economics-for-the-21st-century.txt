@@ -1,0 +1,19 @@
+PIDE Hosted a webinar with Mr. Paul Ormerod (Visiting Professor in the Department of Computer Science at University College, London (UCL) on the topic of “Economics for the 21st Century” moderated by Dr. Nadeem Ul Haque, Vice Chancellor, PIDE.
+
+TAKEAWAYS FROM THIS WEBINAR
+
+The current position of economics in the world is considered the only general law in the whole social sciences. Social scientists believe that many phenomena are actually challenging to explain. However, in economics, agents react to changes in incentives which gives us an important insight into a given situation. Microeconomics has made substantial scientific progress in the past 50 years. It gives a much more realistic picture of how agents work than it did 50 years ago. But also, in a practical sense, there is no doubt that economics occupies a dominant position within public policymaking.
+
+Economics has faced criticism on the fact that many economists, such as Vernon Smith and Andy Haidane, believe that economics is rather insular, but because it gives a good understanding of the world and occupies a position in making the policy structure, in some ways, it is impervious to ideas from outside. However, it is not entirely impervious to ideas from outside, e.g., Big Data and Machine learning which are new tricks for econometrics and an applied econometric approach, respectively.
+
+The Internet is the great new phenomenon of the 21st century which is making massive changes to how people connect and behave. Therefore the cyber society poses challenges to the rational choice model of economics. Paul talks about information gathering, which seems to be a difficult task to process because the Google search gives thousands of millions of results on a specific search, the social influence which overrides the assumption of independent preferences and contradicts the assumption of economic theory that agents exercise their choices independently, the role of emotion in choice even in financial markets and the nature of preferences which are independent and transitive. These all approve of the fact that the cyber society of the 21st century does influence rational decision-making in Economics.
+
+He also discussed the use of heuristics rules of thumb in which he explained two dimensions: references by which the choices are influenced by the preferences or independently and the attributes that are easy or hard to distinguish. Many decision that we make that results in being beneficial for us in the future comes in the second dimension of this rule of thumb.
+
+Herbert Simon, a Nobel laureate, states that it is impossible for people to gather so much information in an optimal way that is already present. Also, it is often not possible to identify what would have been an optimal choice and introduce an idea that changes the meaning of economics.
+
+He introduced the idea of “Satisficing,” which explains that instead of even trying to be rational, the agents adopt a rule of thumb or behavior that gives them satisfactory results, which at some point stops doing so, and the agents search for another one. That is why agents use reasonable heuristics and rules of thumb.
+
+An experiment was carried out 20 years ago by Dunken Walts, Professor of Mathematics and Sociology at Columbia, where he tried to show the effect of social influence and how this influence is also applicable in economics.
+
+To sum it up, the rational choice theory of economics faces many challenges when networks, social influence, and emotion play an important role in decision-making. So in order to understand this, we need multi-disciplinary work and collaboration with other social scientists to learn the tools in order to use them to the best effect.

@@ -1,0 +1,267 @@
+Introductory Note
+
+In recent years, Pakistan has navigated through various fiscal challenges, prompting shifts in its fiscal policy stances and subsequent implementation of austerity measures. Inspired by Alberto Alesina’s insightful podcast on Fiscal Policy and Austerity,[1] this knowledge brief explores key theoretical aspects of austerity measures, and examining the approaches taken by the Government of Pakistan (GoP) to address fiscal deficits and economic uncertainty, with a concise review of austerity policy in recent years.
+
+Box 1. Basics of Fiscal Policy in Theory
+
+Fiscal policy, originally developed by Keynesians and New Keynesians, serves as a crucial tool for regulating short-term economic fluctuations. In contrast to Classical views, which advocate for minimal government intervention in the economy, fiscal policy recognizes certain market failures that impede the economy from reaching equilibrium. Governments intervene through structured policies and regulations to stabilize the economy, particularly during business cycles. Keynesian economists advocate for increased government spending and lower taxes during recessions to stimulate demand and bolster economic activity, thus preventing recessions from deepening and prolonging. An expansionary fiscal policy involves boosting government spending, investments, consumption, and net exports, while reducing taxes. Conversely, a contractionary fiscal policy entails the opposite measures to address economic imbalances.
+
+For Pakistan, adopting a long-term, sustainable fiscal policy is crucial to effectively address mounting debt and persistent fiscal uncertainties. Historically, the Government of Pakistan (GoP) has relied on short-term fixes to manage these challenges, a pattern that has hindered the nation’s ability to achieve lasting debt relief and financial stability. Moving beyond temporary solutions is essential for creating a resilient economic foundation and reducing the recurring debt burden.
+
+Figure 1 Pakistan’s Total External Debt 1970-2022[2]
+
+Pakistan’s External debt stocks, total (DOD, current US$ Billions)
+
+Fiscal Policy and Austerity in Pakistan; Building the Case
+
+The austerity measures outlined by the Government of Pakistan’s Finance Division in the memorandum dated July 15, 2021, appear to address financial constraints by imposing restrictions on various expenditures.[3] These austerity measures included are explained in Box 2.
+
+Box 2. Austerity Measures in FY21-22; Review of reduced expenditures
+
+1. Complete Ban on:
+
+· Purchase of all types of vehicles for both current and development expenditure, except for motorcycles, student buses, ambulances, and firefighting vehicles.
+
+· Creation of new posts, except those required for development projects and approved by the competent authority.
+
+· Privilege of periodicals, magazines, newspapers, etc., restricted to only one for entitled officers.
+
+2. Rationalized Utility Consumption: Principal Accounting Officers (PAOs) tasked with ensuring rationalized consumption of utilities such as electricity, gas, telephone, water, etc. Expenditure on purchase of assets, repair & maintenance, and operational expenses to be kept at a bare minimum level within the budgetary allocation.
+
+3. Paper Conservation: Use of two sides of paper in all official communications.
+
+4. Restriction on Outstation Meetings: All outstation meetings to be restricted to internet links (Zoom, etc.) unless physical presence is strongly justified and approved by the competent authority.
+
+Those austerity measures include to address fiscal constraints and promote financial discipline in the short-run. However, their alignment with global best practices during severe fiscal deficit and uncertainty is questionable. Firstly, their effectiveness in addressing root causes should have been evaluated, with consideration for long-term economic impact. Secondly, the government should have adopted an input-output framework and ensure that the measures taken are targeted, calculated, and rigorously thought out with input from economic advisors, autonomously. Thirdly, the memorandum lacks explicit measures to address corruption and inefficiencies, crucial for sustainable fiscal consolidation. Finally, traditional austerity measures seem to be emphasized without exploring innovative reforms for more sustainable fiscal management.
+
+Later in February 2022, Government of Pakistan unveiled a series of austerity measures, aimed at saving Rs 200 billion to meet the conditions set by the International Monetary Fund (IMF). The target amount is observed to be low in times when government aimed to reduce expenditures. This amount supplements the Rs 170 billion already collected through a mini-budget to address IMF requirements. [4] However, despite these efforts, Pakistan still faces the challenge of simultaneously reducing the budget deficit and servicing loans, making further measures necessary to appease the IMF and stabilize the economy. Those
+
+Box 3. Austerity Measures in FY22-23; Review of reduced expenditures
+
+1. Complete ban on:
+
+· Purchase of vehicles except for essential utility vehicles
+
+· Creation of new posts except for those required for development projects
+
+· Treatment abroad at government expenses
+
+· Appointment of contingent paid/daily wagers staff except for development projects
+
+· Purchase of office furniture except for development projects
+
+· Purchase of machinery & equipment including air conditioners, microwave, fridge, photocopier, etc.
+
+· Official visits abroad funded by the government except obligatory visits
+
+· Official lunches/dinners/hi-tea except for foreign delegations
+
+· Periodicals, magazines, newspapers, etc.
+
+2. Instructions for Principal Accounting Officers:
+
+· Reduce consumption of utilities by 10%
+
+· Reduce existing entitlement for POL for government functionaries by 30%
+
+· Curtail avoidable travel by promoting the use of zoom/video links
+
+· Abolish vacant/redundant/non-productive posts
+
+3. Additional measures:
+
+· Slash POL usage of ministers’ vehicles by 40% and security vehicles of Cabinet members by 50%
+
+· Reduce expenses related to VIP cavalcades without compromising security
+
+austerity measures include reducing government department expenses by 15%, restricting vehicle purchases, denying plots to officials, serving only one dish to guests, and instituting a single treasury account for military audits. Austerity measures in financial year 2022-2023 aim to rationalize the utilization of public funds and reduce fiscal deficit.[5] The initiatives are summarized in Box 3 above.
+
+Yet, critics argue that these measures are inadequate and insufficient to address the ongoing economic crisis while its implementation has been highly criticized.[6] The IMF had been pressing for an immediate increase in direct taxes on high-income earners to alleviate fiscal strain.[7]
+
+Later on in 2023, The Finance Act of 2023 has introduced specific amendments to the Sales Tax Act of 1990.[8] ,[9] The measures are summarized in Box 4.
+
+Box 4. Austerity measures in FY22-23; Review of raised taxes
+
+1. Sales Tax on Specified Goods Sold Under Brand Names and Trademarks: The Finance Act, 2023 has removed the exemption for certain specified goods sold under brand names and trademarks, making them chargeable to sales tax. These goods include items like red chilies, ginger, turmeric, yogurt, butter, and meat products.
+
+2. Enhancement of Sales Tax Rate for Tier-1 Retailers: Sales tax rate increased from 12% to 15% for Tier-1 retailers dealing in finished fabrics and textile articles.
+
+3. Sales Tax: The general Sales Tax rate was increased to 18% effective 14 February 2023. A 25% higher rate of Sales Tax applies to a wide range of goods imported and supplied in Pakistan and for some locally manufactured vehicles effective 8 March 2023.
+
+4. Increase in Further Tax Rate: Further tax rate increased from 3% to 4% on supplies made to non-registered persons.
+
+5. Imposition of Sales Tax on DAP: 5% sales tax imposed on Diammonium Phosphate (DAP) imports and local supplies.
+
+6. Extension of Sales Tax Exemption in FATA/PATA: Extension of sales tax exemption until June 30, 2024, for plant, machinery, equipment, and electricity in FATA/PATA.
+
+7. Streamlining Exemption on Wheat Bran: Exemption on wheat bran clarified and extended from July 1, 2018.
+
+8. Tax on Electric Power Transmission Services: 15% tax imposed on electric power transmission services within the Islamabad Capital Territory (ICT).
+
+9. Reduced Sales Tax Rate for Digital Payments at Restaurants: Reduced sales tax rate of 5% for digital payments at restaurants compared to the standard rate of 15%.
+
+10. Enhancement of Federal Excise Duty (FED) on Various Items:
+
+· FED on tobacco mixture in electrically heated tobacco products increased from Rs. 5,200 per kg to Rs. 16,500 per kg.
+
+· FED on sugary fruit juices, syrups, squashes increased from 10% to 20% of retail price.
+
+· FED of Rs. 2,000 per energy inefficient fan imposed.
+
+· FED of 5% ad valorem imposed on all types of fertilizers.
+
+· Enhancement of the scope of FED by adding royalty and fee for technical services.
+
+· Enhancement of the scope of FED to cover certain items not previously specified.
+
+In Pakistan, the approach to addressing fiscal deficits has historically leaned towards increasing tax revenues rather than reducing government expenditures. Studies indicate that policymakers often prioritize tax hikes as an immediate solution, partly due to structural inefficiencies and socioeconomic constraints associated with cutting public spending.[10]
+
+However, the implementation of austerity measures has encountered significant challenges. There are also several consequences of raising taxes excessively. Firstly, policies aimed at increasing government revenue directly impact the cost of doing business, potentially affecting investment levels and employment. For example, measures such as raising the petroleum development levy (without any robust plan to redistribute wealth in economy), increasing income tax revenue (excessively burdening the vulnerable income groups), and rationalizing fertilizer exemptions can raise input costs for producers, impacting entrepreneurs’ bottom lines and overall business operations. Additionally, controlling foreign exchange reserves presents a significant challenge to manufacturers, leading to temporary closures and shortages of crucial raw materials and machinery, which in turn result in layoffs and hiring freezes. Secondly, the structural reform policy focused on enhancing the governance, transparency, and efficiency of state-owned enterprises, while reducing their fiscal risks, may also affect employment.[11] Pakistan’s federal state-owned enterprises are reportedly the least profitable in South Asia, as on an annual basis, these SOEs together received over PKR 458 billion in public funds to stay afloat as their combined loans and guarantees increased to almost 10 per cent of GDP PKR 5.4 trillion in FY21 from 3.1 per cent of GDP or PKR 1.05 trillion in 2016.[12] The government has supported these enterprises through subsidies, debt and equity injections, and government-backed loans.[13]
+
+Furthermore, upon examining the Public Sector Development Programme (PSDP) funding of the Government of Pakistan, it becomes evident that despite significant deficit spending during times of substantial debt and fiscal deficit, a multitude of ongoing projects (933) persist alongside the initiation of numerous new projects (286) throughout Pakistan.[14]
+
+Figure 2 Number of PSDP projects in Pakistan
+
+Why Austerity (in terms of reducing spending) is least favorite in Pakistan?
+
+Politicians and policymakers in Pakistan often prioritize spending to attract votes, particularly on infrastructure development, which is popular among the public. Much of this spending is funded through aid. There seems to be little incentive for political parties to become independent of organizations like the IMF or other donors by repaying aid loans and achieving self-sufficiency, as they prefer to continue spending. One reason why it may seem like public don’t learn from political mistakes is that the decision-making process in politics can be influenced by various factors, including short-term political gains, power struggles, and the influence of special interest groups.[15] This can make it difficult to implement long-term policies that address the underlying issues in the economy.
+
+One major flaw in the ‘aid-growth’ studies is their failure to acknowledge that aid is mainly provided to governments. Consequently, the impact of aid on the economy hinges on government actions, especially how aid revenues influence fiscal decisions regarding taxation and expenditure.[16]
+
+The government needs to take a more strategic approach to fiscal policy and austerity measures, with a focus on addressing the root causes of economic issues rather than just making superficial spending cuts. This requires a commitment to long-term planning and a willingness to make difficult decisions based on sound economic analysis, rather than short-term political considerations.
+
+Bureaucracy, elite capture, and corrupt governance practices can indeed hinder effective austerity practices in Pakistan. The powerful elite in the country often uses their influence to manipulate policies in their favor, including during periods of austerity.[17]
+
+This can lead to measures that are not effective in addressing the root causes of economic issues or that unfairly target certain groups. One way in which these groups can exploit austerity measures is by using their influence to protect their interests and avoid cuts to areas that benefit them. For example, they may use their political connections to protect spending in areas such as defense or infrastructure, while other areas such as health or education are left underfunded. This can lead to a situation where the burden of austerity is disproportionately borne by vulnerable groups in society.[18] The government should also prioritize anti-corruption measures to reduce the influence of special interest groups and ensure that austerity measures are implemented fairly and effectively.
+
+Pakistan’s fiscal deficit remains high because of the government’s inability to mobilize new resources or cut current expenditures. Yet, unlike other developing countries with high fiscal deficits, Pakistan has experienced neither hyperinflation nor debt rescheduling. This can be attributed to high growth and the availability of concessional external financing and domestic nonbank borrowing. [19]
+
+Political Business Cycles; Role of Elections in Stimulating Deficit Spending
+
+Several theories explain business cycle fluctuations due to government interventions. The political business cycle theory suggests that industries resist government interference in employment matters, fearing it could affect their profitability.[20] In recent years, proponents of the “electoral business cycle” models have argued that incumbent governments prioritize short-term advancements leading up to elections to secure re-election, often at the expense of the voters who bear the brunt of economic downturns afterward. An alternative hypothesis, known as the political business cycle, suggests that when any type of government assumes power, it initially adopts a contractionary policy to curb inflation and establish credibility in economic management. As elections approach, the government then shifts to an expansionary policy to achieve low unemployment and inflation, aiming to reinforce support before election day. The democratization of political systems in many developing nations has further heightened governments’ focus on securing maximum votes. In democratic industrialized economies, there are indications of policy adjustments occurring near election periods.[21] ,[22] In terms of political business cycles, research suggests that additional IMF net disbursements are much greater ahead of elections and that IBRD financing is significantly smaller afterward.[23]
+
+Are the austerity measures targeting to improve the economy or just influenced by elections and placing the burden on the next elected government? There is something for the researchers to investigate.
+
+The Macroeconomic Tug-of-War: Tax Increases vs. Expenditure Cuts
+
+Austerity policies usually involve reducing government spending and/or increasing revenue to address budget deficits or reduce government debt.
+
+There has been a debate in the field of macroeconomics relating to Austerity (in relevance to the contractionary fiscal policy); in which the government tends to cut spending and raise taxes. The purpose is to influence the economy and conduct fine-tuning.[26] Austerity practice is much more common in times of fiscal deficit which have some quantifiable effects in terms of crowding-out of capital and intertemporal shifts of the tax burden. When the economies increase their debts, there may be hard landings in the future.[27] Interestingly, several findings address the presence of fiscal deficit as voluntary.
+
+This deficit is no despised orphan. It’s President Reagan’s child, and secretly, he loves it, as David Stockman has explained: The deficit rigorously discourages any idea of spending another dime on social welfare.[28]
+
+Now, the cut in spending and raising taxes are put under evaluation by various economists and there are certain important findings that in times of ever-increasing government deficit and debt, the cuts in government spending are less harmful and less costly than raising taxes.[29]
+
+Spending cuts are much less costly than tax increases in terms of austerity policy. (Alberto Alesina)
+
+Experts have raised questions over the use of fiscal policy, specifically in times of debt and deficit where the government was not able to adopt an optimum fiscal policy before the economic crisis or made certain mistakes that could have been avoided if they were dealt with accordingly.[30] Similarly, if the austerity practices induce the expectations of people and make them believe that future spending and taxes may get lower, there may arise an expansionary phase within the private sector.[31]
+
+What if the government is in excessive deficit and debt, and the interest rates have risen excessively? Sooner, or later, the government must do something about the situation as the market is not clearing and has failed to equilibrate.[32] Controlling spending or raising revenue is necessary to remove fiscal imbalances. It’s a challenging situation where the government must make a tough decision. It’s commonly observed that the government simply raises taxes to regulate fiscal imbalances, but that may not always sustainably resolve the issue.
+
+Why the government waits until the last moment to do things? When things get done at the last moment, you are against a wall, and you may make a decision that is a bad optimum because you don’t have the time to do the right thing…. Austerity comes about when, for some reason, government has gone out of whack and they increase debt and deficit too much. Or, there were a combination of, say, a financial crisis and government not having had [?] good fiscal policy before the financial crisis. (Alberto Alesina)
+
+So, there are different choices between raising taxes and cutting the spending to close the deficit and bring a fiscal balance, further reducing the need to borrow.
+
+Theoretical Implications of Fiscal Policy: Learning from the New Classical Synthesis
+
+The New Classical Synthesis in economics is a theoretical framework that emerged in the 1970s, which emphasizes the importance of expectations as endogenous, rational behavior, market-clearing in macroeconomic analysis, employing models with coherent intertemporal general equilibrium foundations (which makes it possible to analyze both the short-term fluctuations and long-run growth within a unified and consistent framework), analyzing the quantitative analysis through econometrically validated structured models, real disturbances as a source of economic fluctuations (these disturbances include and are not limited to disturbances in technology (the most important one), fiscal shocks, preferences, etc.) and so on.[33] Nevertheless, the New Classical Synthesis has been accustomed to intellectual diversity in understanding fiscal policy.[34] ,[35]
+
+However, there are also potential negative implications of austerity measures.[36] For instance, if the spending cuts and tax increases are too large or implemented too quickly, they can lead to a contraction in economic activity, which can exacerbate a recession or economic crisis.[37] Additionally, if the austerity measures disproportionately affect certain groups, such as low-income households, this can lead to social and political unrest, which can further harm the economy.[38]
+
+Nevertheless, it’s important to address the consensus in Macroeconomics when discussing Fiscal Policy and one may fail to address the economic issues if these are ignored. Individuals and firms have expectations, and they adjust their decisions accordingly. They also don’t assume the future will be the same as the present. Markets are not perfect, but markets do exist, and prices do adjust. Wages fall in the presence of massive unemployment. It might not be possible to perfect foresight and rely on forecasts based on a simple statistical model. Thus, the New Classical Synthesis underscores the integration of microeconomic and macroeconomic principles, emphasizing the relationship between individual behavior and aggregate economic outcomes. This approach allows for a comprehensive understanding of how austerity measures, like spending cuts or tax hikes, influence household and firm behavior. Such measures can trigger reduced consumption, increased savings, diminished investment, and restrained hiring, collectively impacting output, employment, and prices. By considering microeconomic foundations, including individual responses to government policies, and acknowledging inequalities, macroeconomic models can better elucidate the potential economic repercussions of austerity measures.[39]
+
+Austerity measures can increase the economy’s efficiency by reducing the government’s influence and promoting market-based decision-making. The reduction in government spending can also free up resources for the private sector to invest in productive activities, leading to economic growth.[40]
+
+Unfortunately, there has been a great disparity between academics and applied macroeconomics.[41] Academics believe that the practitioners have left behind in advancements made in academics and sometimes the policy tools being adopted may not be up to the mark.[42] In the debate of Fiscal Policy and Austerity, there has been a gap between the practitioners and the academics this gap has led to certain misunderstandings and the governments have failed to address the recurrent economic crisis optimally.
+
+Conclusionary Remarks
+
+Pakistan has always been facing fiscal challenges, prompting shifts in its policy stances and attempts to adapt austerity measures. However, their adaptability by the government and effectiveness is questioned. Despite efforts to save billions in austerity drives, critics find the measures insufficient, and their implementation has been criticized. The preference for raising taxes over reducing expenditures raises concerns, given its potential adverse effects on businesses and employment. Furthermore, the ongoing Public Sector Development Programme (PSDP) funding amidst deficits highlights Pakistan’s complex fiscal landscape. Political business cycle theories shed light on how elections influence fiscal policies, raising questions about the true motives behind austerity measures. The debate on raising taxes versus cutting spending underscores the need for informed decisions to address fiscal imbalances sustainably. There is a dire need to reduce inefficiencies, redundancies and ineffective administrative services while ensuring markets to be working effectively and independently with least influence/interventions by the government.
+
+[1] Alberto Alesina of Harvard University talks with EconTalk.org host Russ Roberts about his research on fiscal policy and austerity. Retrieved from https://www.econtalk.org/alberto-alesina-on-fiscal-policy-and-austerity/
+
+[2] Source World Bank Database.
+
+[3] Government of Pakistan, Finance Division (Expenditure Wing) No. 7(1)Exp.IV/2016-440 Islamabad, the 15 th July, 2021, retrieved from Austerity Measures for FY 2021-22 (finance.gov.pk)
+
+[4] Rashid, Q., What Austerity Measures! Even the IMF has spoken in favour of the poor, February 25, 2023. Retrieved from https://www.pakistantoday.com.pk/2023/02/25/what-austerity-measures/
+
+[5] Government of Pakistan, Finance Division, Expenditure Wing. Office Memorandum. No.F.7(1)Exp.IV/2016-340. Islamabad, 7th July 2022. Retrieved from https://www.finance.gov.pk/circulars/circular_07072022_1.pdf
+
+[6] International Labor Organization (ILO) Brief, Pakistan: Employment outlook in a setting of austerity, September 2023, retrieved from https://www.ilo.org/wcmsp5/groups/public/—asia/—ro-bangkok/—ilo-islamabad/documents/briefingnote/wcms_893724.pdf
+
+[7] Shahbaz Rana, IMF proposes high income tax, It will put more burden on salaried class already reeling from double-digit inflation, March 25, 2022, accessed https://tribune.com.pk/story/2349512/imf-proposes-high-income-tax
+
+[8] Government of Pakistan, Revenue Division, Federal Board of Revenue, C. No. 3(1)ST-L&P/2015 (Vol-III) Islamabad, the 21 st July, 2023, Circular No. 02 of 2023-24, Sales Tax, Federal Excise and ICT (Tax on Services). Accessed from Circular No. 02 of 2023-24 (fbr.gov.pk)
+
+[9] Govt imposes Rs415bn new taxes in budget 2023-24 – Profit by Pakistan Today
+
+[10] (i) See. Khan, W., Khan, M. Y., & Javeed, A. (2023). Government Revenues and Government Expenditures, or Fiscal Synchronization: Empirical Evidence from South and Eastern Asia. Journal of Tax Reform , 9 (3), 317-329.
+
+(ii) See. Madni, G. R. (2013). Instrumental Effects of Fiscal Policy for Pakistan Economy. Romanian Economic Journal , 16 (50). (iii) See. Akram, N., Muhammad, K., & Husnain, M. I. (2007). Fiscal Situation in Pakistan and its consequences for Economic Growth and Poverty. Economic Survey , 8 (3), 94-111.
+
+(iv) See. Hussain, I., Hussain, J., Ali, A., & Ahmad, S. (2021). A dynamic analysis of the impact of fiscal adjustment on economic growth: Evidence from Pakistan. Sage Open , 11 (2), 21582440211027167.
+
+[11] International Labor Organization (ILO) Brief, Pakistan: Employment outlook in a setting of austerity, September 2023, retrieved from https://www.ilo.org/wcmsp5/groups/public/—asia/—ro-bangkok/—ilo-islamabad/documents/briefingnote/wcms_893724.pdf
+
+[12] ANI, Pakistan’s state-owned entities worst in South Asia, witnessing gigantic losses: Report, 24th April 2023, 02:03 GMT+10, retrieved from Pakistan’s state-owned entities worst in South Asia, witnessing gigantic losses: Report (bignewsnetwork.com)
+
+[13] Iftikhar, M. N. (2015). State-owned enterprises in Pakistan: The need for corporate governance and private investment. Prime Institute, Islamabad.
+
+[14] Source: Pakistan’s PSDP data Portal. Accessed from https://gsc1.sgs-suparco.gov.pk/ppsdp/main.aspx
+
+[15] Jabeen, N., Jadoon, Z. I., Mubashar, U. E., & Salman, Y. (2016). Revisiting Public Policy Making Process and Strategies in Pakistan: A Governance Perspective. South Asian Studies (1026-678X), 31(2).
+
+[16] Franco-Rodriguez, S., Morrissey, O., & McGillivray, M. (1998). Aid and the public sector in Pakistan: evidence with endogenous aid. World Development, 26(7), 1241-1250.
+
+[17] Leftwich, A. (1993). Governance, democracy and development in the Third World. Third World Quarterly, 14(3), 605-624.
+
+[18] Rose-Ackerman, S. (1997). The political economy of corruption. Corruption and the global economy, 31(60), 54.
+
+[19] Haque, N. U., & Montiel, P. (1991). The macroeconomics of public sector deficits: The case of Pakistan (No. 673). The World Bank.
+
+[20] Kalecki, M. (1943). Political aspects of full employment. New York and London.
+
+[21] Rogoff, K., & Sibert, A. (1988). Elections and macroeconomic policy cycles. The review of economic studies, 55(1), 1-16.
+
+[22] Schuknecht, L. (1996). Political business cycles and fiscal policies in developing countries. kyklos, 49(2), 155-170.
+
+[23] Dreher, A., & Vaubel, R. (2004). Do IMF and IBRD cause moral hazards and political business cycles? Evidence from panel data. Open economies review, 15(1), 5-22.
+
+[24] https://www.ceicdata.com/en/indicator/pakistan/consolidated-fiscal-balance–of-nominal-gdp
+
+[25] Haque, N. U., & Montiel, P. (1991). The macroeconomics of public sector deficits: The case of Pakistan (No. 673). The World Bank.
+
+[26] Blyth, Mark. 2013. Austerity: The History of a Dangerous Idea. New York: Oxford University Press.
+
+[27] Ball, L. M., & Mankiw, N. G. (1995). What do budget deficits do?
+
+[28] Alesina, A., & Tabellini, G. (1990). A positive theory of fiscal deficits and… The review of economic studies, 57(3), 403-414.
+
+[29] Alesina, A., & Ardagna, S. (2010). Large changes in fiscal policy: taxes versus spending. Tax policy and the economy, 24(1), 35-68.
+
+[30] Alesina, A., Barbiero, O., Favero, C., Giavazzi, F., & Paradisi, M. (2017). The effects of fiscal consolidations: Theory and evidence (No. w23385). National Bureau of Economic Research.
+
+[31] Bertola, G., & Drazen, A. (1991). Trigger points and budget cuts: explaining the effects of fiscal austerity.
+
+[32] Alesina, A., Barbiero, O., Favero, C., Giavazzi, F., & Paradisi, M. (2017). The effects of fiscal consolidations: Theory and evidence (No. w23385). National Bureau of Economic Research.
+
+[33] Woodford, M. (2009). Convergence in macroeconomics: elements of the new synthesis. American economic journal: macroeconomics, 1(1), 267-279.
+
+[34] Hein, E., & Stockhammer, E. (Eds.). (2011). A modern guide to Keynesian macroeconomics and economic policies. Edward Elgar Publishing.
+
+[35] Mankiw, N. G. (2006). The macroeconomist as scientist and engineer. Journal of economic perspectives, 20(4), 29-46.
+
+[36] Ortiz, I., Chai, J., & Cummins, M. (2011). Austerity measures threaten children and poor households: recent evidence in public expenditures from 128 developing countries. Available at SSRN 1934510.
+
+[37] Elmendorf, D. W., & Furman, J. (2008). If, when, how: A primer on fiscal stimulus.
+
+[38] Karanikolos, M., & Kentikelenis, A. (2016). Health inequalities after austerity in Greece. International journal for equity in health, 15.
+
+[39] Greenwald, B., & Stiglitz, J. E. (1987). Keynesian, new Keynesian and new classical economics. Oxford Economic Papers, 39(1), 119-133.
+
+[40] Kohl, B. (2002). Stabilizing neoliberalism in Bolivia: popular participation and privatization. Political geography, 21(4), 449-472.
+
+[41] Mankiw, N. G. (1990). A quick refresher course in macroeconomics. Journal of Economic Literature, 28(3), 1645-1660.
+
+[42]Woodford, M. (2009). Convergence in macroeconomics: elements of the new synthesis. American economic journal: macroeconomics, 1(1), 267-79.

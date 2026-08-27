@@ -1,0 +1,161 @@
+Executive Summary
+
+Despite a high rate of electrification, electricity in Pakistan remains inequitable. Electricity equity goes beyond access; it also requires reliability, affordability, and reduced burden on vulnerable households. There are significant gaps in electricity accessibility and reliability across provinces and regions. Many communities face unreliable and inconsistent supply, even though they are connected to the grid. Electricity affordability for low-income households largely hinges on total subsidies, which constitute cross-subsidy, intra-DISCOs subsidy, and government subsidy; without such support, affordability is at serious risk for vulnerable groups. Pakistan urgently needs to reform its electricity subsidy system to ensure that subsidies are targeted only toward intended households, which is an essential to ensure equitable electricity, for achieving SDG 7 and advancing energy justice.
+
+Introduction
+
+Sustainable Development Goal (SDG) 7 seeks to ensure universal access to reliable, affordable, sustainable, and modern energy for all. Intuitively, it implies that true electricity equity goes beyond connections to include reliability, affordability, and a manageable energy burden, particularly for low-income and vulnerable households (Tarekegne, 2020). Affordable and uninterrupted energy is pivotal as a driver of economic growth and foundation for effective health and education systems, resilient infrastructure, and digital inclusion (UNDP, 2025). In the absence of equitable electricity access, initiatives aimed at poverty alleviation, livelihood enhancement, and inclusive development are likely to yield only partial and unsustainable outcomes (Mendelson, 2013).
+
+In line with SDG 7, this study defines and evaluates electricity equity across four dimensions, i.e., accessibility, reliability, affordability, and energy burden across Pakistan using recent household data and international benchmarks. By identifying equity gaps and their evolution over time, the analysis provides evidence to guide reforms toward a more equitable and sustainable energy
+
+Electricity Accessibility
+
+Electricity access is commonly measured as the percentage of households in an area with an electricity supply, often referred to as the electrification rate (IEA, 2017). Access to electricity is pivotal for economic inclusion, as it underpins human development by improving quality of life and fostering economic growth (Acheampong et al., 2022). On the other hand, unequal access across countries and regions highlights disparities in wealth, opportunities, and levels of development (Sarkodie & Adams, 2020). Globally, an estimated 733 million people, primarily in rural areas of Africa and Asia, still lack access to electricity, underscoring the persistent challenge of energy poverty (IEA, 2015; World Bank, 2022).
+
+Table 1 provides details on the electrification rate in Pakistan. Based on the HIES 2018–19 data, around 88.99% of households in Pakistan had electricity access, with urban areas having a high electrification rate of 96.8%, in contrast to rural areas, which had a lower rate of 84.21%, emphasizing the urban-rural gap in energy services. The 7th Population and Housing Census (2023) shows an updated national electrification rate of 84.03%. It also indicates a growing reliance on off-grid solar systems, which are now utilized by 7.73% of households, highlighting both innovation and gaps in grid access. Pakistan has made significant strides in expanding the electricity network. However, there are still significant disparities between provinces and urban and rural areas.
+
+Table 1: Electricity Accessibility in Pakistan
+
+Region
+HIES 2018-19
+7th Population and Housing Census-2023
+
+Total
+
+Households
+
+(Million)
+
+Electrification
+
+%
+Total
+
+Households
+
+(Million)
+
+Electrification
+
+%
+
+Solarization
+
+%
+
+Pakistan
+33.34
+88.99
+38.29
+84.03
+7.73
+
+Pakistan Rural
+20.67
+84.21
+23.27
+76.69
+11.19
+
+Pakistan Urban
+12.67
+96.80
+15.02
+95.41
+2.37
+
+Punjab
+19.40
+95.11
+19.84
+94.95
+1.69
+
+Punjab Rural
+12.10
+92.76
+11.71
+92.92
+2.18
+
+Punjab Urban
+7.30
+99.01
+8.13
+97.87
+0.97
+
+Sindh
+7.69
+83.36
+9.86
+70.33
+12.57
+
+Sindh Rural
+3.54
+70.83
+4.72
+46.22
+22.04
+
+Sindh Urban
+4.15
+94.05
+5.14
+92.45
+3.89
+
+KPK
+4.73
+77.99
+5.86
+79.90
+13.06
+
+KPK Rural
+3.94
+75.05
+4.95
+76.89
+15.00
+
+KPK Urban
+0.788
+92.64
+0.913
+96.23
+2.51
+
+Balochistan
+1.52
+73.62
+2.32
+57.11
+26.39
+
+Balochistan Rural
+1.09
+65.87
+1.66
+45.36
+33.89
+
+Balochistan
+
+Urban
+0.429
+93.34
+0.654
+86.98
+7.33
+
+Source: HIES 2018-19 & 7th Population and Housing Census (2023)
+
+The last column in Table 1 highlights the solarization process as a substitute for electricity accessibility. Punjab records the highest grid connectivity, with near-universal access in urban areas and extensive rural coverage, resulting in limited reliance on solar energy compared to other provinces. Sindh shows stark urban–rural disparities, where rural households (22%) increasingly turn to off-grid solar systems for electricity accessibility. Khyber Pakhtunkhwa also faces access gaps, driving greater solar adaptation for stability and reliability. Balochistan remains the most underserved province, with widespread lack of electricity, mainly due to poor infrastructure and line losses, and a significant number of rural households (approx. 34%) relying on independent solar energy systems not connected to the primary electricity grid.
+
+Electricity Reliability
+
+Electricity reliability is a core dimension of energy equity, reflecting the power system’s ability to consistently meet demand, withstand technical or weather-related disruptions, and recover quickly from outages. The reliability of electricity supply is shaped by multiple factors, including the adequacy of generation capacity, the state of power system infrastructure, the financial and operational performance of utilities, and the effectiveness of energy sector regulation (Arlet et al., 2017).
+
+Pakistan ranks 115th out of 137 economies for electricity supply reliability, and its per-capita electricity consumption has remained stagnant for nearly a decade (Global Competitive Report, 2018). For the household sector, the conservative estimate of the annual income loss due to unreliable electricity access is $4.5 billion, approximately 1.7% of the GDP (Samad & Zhang, 2018). For industrial and commercial sectors, electricity reliability is estimated through the Value of Lost Load (VoLL), which is estimated to be at USD 6.0–9.0 per kWh for commercial consumers and USD 4.0–7.5 per kWh for industrial consumers, varying by sector and region. Needless to say, small businesses face this disproportionate burden badly due to a lack of access to backup solutions like generators or solar panels. On aggregate, power supply outages and interruptions have resulted in an estimated total economic cost equivalent to 4–7 percent of Pakistan’s gross domestic product (Zhang, 2018).

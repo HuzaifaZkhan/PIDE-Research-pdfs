@@ -1,0 +1,31 @@
+INTRODUCTION
+
+Pakistan’s power sector confronts serious challenges in the form of institutional weaknesses, weak governance, and financial sustainability. Despite having surplus supplies, consumers are getting not only expensive electricity but sometimes have to face power outages due to inefficiencies in the power system. Inept corporate governance and unsustainable financial management in Pakistan’s power companies have led to a chronic shortfall between cash inflows and outflows_ famously known as circular debt.
+
+“Circular debt” is a shortfall of payments at the Central Power Purchasing Agency (CPPA). CPPA does not receive outstanding payments from power distribution companies (DISCOs) due to a shortfall in receivables by the state-owned distribution companies (DISCOS) and privatised K-Electric (K-El). Thus, CPPA does not make payments to other power companies in the supply chain, that is, state-owned generation companies (GENCOs), Independent Power Producers (IPPs), and National Transmission and Dispatch Company (NTDC). GENCOs fail to clear their dues to fuel suppliers. Due to delayed payments from the government, IPPs couldn’t pay fuel suppliers, who then defaulted on payments to refineries and international suppliers. As a consequence, most of the thermal plants are forced to operate at a very low’ capacity factor’.
+
+Fig. 1. Circular Debt—Payments and Supply Chain
+
+It was published in PIDE Working Paper Series, 2020:20.
+
+Outflows are guaranteed payments as they are contractual. On the other hand, inflows are not certain due to absence (in some cases) or delay (in others) in tariff payments, subsidies, or other discrepancies. This means that inflows (or receivables) from the distribution sector to CPPA always lag behind outflows (payables to generators), creating a deficit.
+
+As on June 10th, 2020, the power sector liability stood at Rs. 1.22 trillion. With addition of loans of Syndicated Term Finance Facility (STFF), that is, Rs. 1.00 trillion parked at the Power Holding Private Limited (PHPL), the total figure is more than Rs 2.22 trillion (Sattar, 2020). In FY2019, 122802 GWh was procured in the system, at the cost of Rs.766.6 billion (CPPA, 2019). This implies that the total value of circular debt or power sector deficit is far greater than the annual generation cost.
+
+Since FY2013 about 2.6 trillion have been injected into the power sector as equity adjustments to clear circular debt. In addition, about Rs 3.1 trillion has been injected as subsidy since FY2007 (Figure 2).
+
+The power sector is eating up a bulk of budgetary sources, which otherwise could have been used in other development activities. In FY2020, electricity subsidies account for almost 8 percent of net revenue. In comparison, education is hardly 2.6 percent (Budget in Brief, 2021). Despite various measures taken by successive governments, power sector financial losses are increasing. These are affecting not only the available capacity; the creditworthiness of the country/sector in the investor’s eye is also badly affected. Above all, it is adversely impacting the country’s economy.
+
+Circular debt is now like a chronic disease, Pakistan is suffering since 2006. Unless its underlying causes are deeply explored and treated, it will continue to haunt our financial managers. The goal of this paper is to carry out an in-depth analysis of the sector_ on supply-side and demand-side to understand the underlying causes of continuously rising debt despite receiving enormous financial support over the years. The analysis is based on available evidence/ data in various reports, research studies etc.
+
+Plan of the paper is: Section 2 describes the governance structure of Pakistan’s power sector. Section 3 reflects on the origin and growth of circular debt. Section 4 discusses in detail the supply and demand side issues behind the unstoppable debt. Finally, Section 5 offers a summary and suggestions for the future.
+
+GOVERNANCE STRUCTURE
+
+The Government of Pakistan prepared the strategic plan for restructuring in the electricity sector to improve efficiency, service, and quality in 1992. The government unbundled WAPDA’s vertically integrated power wing into separate generation, transmission, and distribution companies, whereas the hydroelectric power development and operation functions remained with WAPDA. Pakistan Electric Power Company Private Limited (PEPCO), a separate company, within WAPDA was made responsible for the restructuring and preparation for privatisation of the generation and distribution companies in due course through the Privatisation Commission.
+
+In 1994, the government formulated a Private Power Policy to invite private producers into the sector. In 1997, the National Electric Power Regulatory Authority (NEPRA) was created to ensure fair competition and consumer and producer protection; and to introduce transparent and judicious economic regulation. In 2009, Central Power Purchasing Guaranteed Limited (CPPA-G) was incorporated (as market operator) in the National Transmission and Dispatch System (NTDC) as a government body. Later in 2015, the Central Power Purchasing Agency (CPPA) was reformed as a corporate entity separate from NTDC; and NTDC remained as system operator.
+
+Now Pakistan power sector includes both private and state-owned companies. In the generation sector, almost 58 percent of the total installed capacity is in the private sector (IPPs) and the rest is in the public sector. In FY2019, about 61 percent of the total electricity generation was by the private sector companies. Transmission and distribution are mainly state-owned. The only exception is Karachi, where not only generation, transmission and distribution are controlled by privatised K-Electric. In the distribution sector, about 90 percent of total consumers are served by state-owned companies.
+
+The power sector restructuring process which began in 1992 is still in transition from a vertically integrated state-owned sector to a competitive multi-buyer structure. Currently, the power system is operating as a single-buyer model_ where the CPPA buy power from GENCOs, IPPs and WAPDA and other producers, pools it and sell it to all the DISCOs.

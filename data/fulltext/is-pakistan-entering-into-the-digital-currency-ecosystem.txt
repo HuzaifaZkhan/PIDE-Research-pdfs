@@ -1,0 +1,104 @@
+Is Pakistan Entering into the Digital Currency Ecosystem?
+
+Saddam Hussein and Abdul Jalil , Pakistan Institute of Development Economics, Islamabad.
+
+This brief aims to provide an analysis of the digital currency and its future in Pakistan. It discusses the key players and the dynamics of digital currency in Pakistan. Then, it tries to gauge the development of the overall ecosystem to make conducive the shift towards the economy based on digital currency.
+
+1. DEFINING DIGITAL CURRENCY
+
+Digital currency is defined as any currency available exclusively in electronic form. For instance, you could go to an Auto Teller Machine (ATM) or a bank and turn an electronic record of your currency holdings into physical dollars. However, it never takes physical form. It always remains on a computer network and is exchanged via digital means. For example, instead of using physical Rupee notes, you would make purchases by transferring digital currency to retailers using your mobile device. Digital currency is the future because of faster payments, less expensive, smooth international transactions, efficiency, lesser corruption, and maximum financial inclusion.
+
+2. IS DIGITAL CURRENCY THE FUTURE?
+
+In our contemporary times, technology is transforming the nature of currency faster than we ever thought, and it has a substantial impact on our day-to-day transactions. The world is plunging into the realm of digital currency, not to be confused with cryptocurrency (See Box No. 01). The convenience of using digital currency may soon push the cash currency to a corner. In this context, some central banks worldwide are introducing Central Banks Digital Currencies (CBDC), aimed at creating robust financial inclusion. Another immediate positive impact of digital currency would be taking the economic activity out of the shadows and bringing it under the documentation and then the tax net. Unlike cash, one cannot disguise any transaction through digital currency; it is always traceable.
+
+But there is a problem. Commercial banks cannot compete with the Central Bank’s sponsored low-cost digital currency and its transaction platforms. So what would happen? Commercial banks would be pushed out. What is the solution, then? Central banks may act as service providers regarding infrastructure and regulator; actual wallets and accounts may be held by commercial banks. It would be a two-tier system—a system Pakistan is embarking upon.
+
+Box 1: Decoding Cryptocurrency
+A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it. It has not worked very well, due to its unstable value. It means that the value of cryptocurrency is extremely volatile; one day you can buy a whole meal for say 100 coins, next day you might be able to buy just a small cup of coffee with the same number or value of coins. Now there emerged another concept of ‘stable coins’ which are backed by fiat money, but the question is who will regulate the whole system? It is hard to say at the moment, as its domain is beyond a single central bank of any country. It requires global policy and coordination. Plus, there is liquidity issues. Cryptocurrency may not be as liquid as it seems. Having said that using and understanding it is weird and not user friendly to masses. However, it has improved a lot since it was first introduced. So, the situation is unfolding. Perhaps the near future may provide us with a regulatory mechanism. SBP is also observing the trends and developments of cryptocurrency keenly and is not ruling it out completely, but not buying the idea as of now.
+
+3. KEY PLAYERS OF DIGITAL CURRENCY IN PAKISTAN
+
+State Bank of Pakistan (SBP) and the private sector, which includes Mobilinks’ JazzCash, Telenor’s Easypaisa and Ufone’s Upaisa are the key players in the sphere of digital currency. Whereas, the role of SBP is more of an enabler or facilitator. How these contributed to the promotion of digital currency is briefly explained in the lines below.
+
+3.1. SBP’s Interventions for Financial Inclusion via Digital Currency
+
+Financial inclusion, mainly via digital channels, is often considered a game-changer for a country’s economic development, and digital currency is the critical factor in the equation here. Many countries have implemented policy changes to enhance digital financial inclusion, though results vary. Recent estimates show that Pakistan lags significantly among its peers in financial inclusion, with only around 20 percent of its population using financial services. The country has been trying to up its levels of financial inclusion. In this context, the SBP took the following measures to speed up the efforts towards financial inclusion via digital currency:
+
+2015 – SBP introduced Pakistan’s National Financial Inclusion Strategy (NFIS), aimed to financially include 50 percent of the country’s adult population by 2020.
+
+2018 – SBP initiated Enhanced Financial Inclusion Strategy (EFIS), with a target to boost digital payments, among other goals.
+
+2019 – in pursuance of the above two, Regulations for Electronic Money Institutions were chalked out, allowing non-banking institutions to issue e-money for their customers to make digital payments.
+
+However, there are still concerns that the digital instant payment system was not moving fast enough to reach the poorest people and that financially excluded people remained digitally excluded. Barriers included:
+
+Poor financial literacy.
+
+Low internet coverage.
+
+Low smartphone penetration.
+
+According to the Financial Inclusion Insights (FII) survey conducted in 2020[1], Pakistan’s financial inclusion level was still low, at 21 percent. The SBP then moved towards a comprehensive Digital Financial Services (DFS) framework, which includes a broad range of financial services accessed and delivered through digital channels. DFS can be a catalyst in improving living standards, reducing poverty, decreasing fiscal deficit, and providing equal income opportunity to all Pakistanis.
+___________________
+[1] Cook, W., & Raman, A. (2019). National Payments Corporation of India and the remaking of payments in India. Consultative Group to Assist the Poor Working Paper.
+
+3.2. Entry of Easypaisa, JazzCash, and others
+
+Telenor and Mobilink have always been at the forefront of innovative services in Pakistan. In 2009, Telenor Pakistan partnered with Tameer Micro Finance Bank to introduce branchless banking for the first time in Pakistan. Likewise, Mobilink partnered with Waseela microfinance bank to mark its entry into this domain. Similar is the case of Upaisa, which is the collaboration between Ufone and U microfinance bank. With these innovative and handy financial services, customers have access to the easiest way to conduct their financial transactions. JazzCash has over 10 million, and Easy Paisa has over 08 million active users monthly.
+
+The graph below shows the number of mobile wallet users and their forecast for coming years in Pakistan. One thing is obvious: the trend is gradually increasing and will continue to grow (please see the graph below) [2]. This trend impresses upon a sense of urgency for a conducive and complimentary services to facilitate the users more without any hindrances to their digital transactions.
+
+_____________________
+[2] https://www.statista.com/statistics/1271411/mobile-wallet-user-forecast-in-pakistan/
+
+4. RAAST—THE INCEPTION
+
+The SBP has established Pakistan’s first instant payment system, called Raast, on February 04, 2022. The terminology is inspired by an Urdu word, meaning ‘correct’ or ‘direct’. As the name suggests, it offers instant, reliable, and zero-cost digital payment services to the people of Pakistan. The primary aim, according to SBP, is to encourage the adoption of digital financial services across the country. With the launch of Raast, Pakistan has joined a select club of countries that have either launched or are in the process of launching centralised and interoperable instant payment systems through a futuristic ISO20022 System for Raast (See Box No. 02).
+
+Under Raast P2P fund transfers and settlement services, bank customers would be able to send and receive funds in their accounts using their bank’s mobile application, internet banking, or over the counter services[3]. Moreover, to facilitate their customers, banks will also create a Raast ID by linking their preferred International Bank Account Number (IBAN) with their registered mobile phone number. The customers can then share Raast ID with others to receive funds in their accounts. Bank customers can use Raast service for sending or receiving funds using their IBANs even if they do not have a Raast ID.
+
+The basic idea of Raast was to encourage financial inclusion, but does it serve the purpose? However, it is pertinent to note that it didn’t include USSD (Unstructured Supplementary Service Data) service, which is the most common mode used by most people, as it does not require internet and smartphones. Though it is in the pipeline, commercial banks can opt for instant payments. Plus, there seems to be an overlapping of the process. Why use Raast if one can easily use other apps with fewer steps?
+______________________
+[3] SBP, in reference to Section 03 of the Payment Systems and Electronic Fund Transfers Act, 2007, SBP has instructed Raast Participant Banks that these shall make Raast service available on at least 03 channels, i.e., mobile apps, internet banking portals and over their branch counters.
+
+5. THE PROBLEM REMAINS
+
+According to the World Bank, Pakistan has the third largest unbanked adult population globally, with about 100 million adults without a bank account[4]. About 70 percent of the population doesn’t have a bank account. Women make up 82 percent of the unbanked population in Pakistan[5]. Potential customers complain about the lengthy documentation process and multiple branch visits needed to open an account. Perhaps that is why National Database and Registration Authority (NADRA) is going to launch digital wallets linked with CNIC number in few months’ time (See Box No. 03). This may exponentially boost the financial inclusion very comfortably.
+
+Box 3: CNIC based Digital Wallets
+The National Database and Registration Authority (NADRA) is working to make the computerised national identity cards digital wallets under the government’s Digital Pakistan vision and an update to an already existing app will likely be made available later this year. What is so encouraging about this initiative if materialised is that NADRA has registered 120 million adults (96 per cent of the total population aged above 18) to date. This could revolutionise the financial services sector and would be a great leap forward in terms of financial inclusion.
+
+___________________
+[4] https://www.bloomberg.com/news/articles/2021-06-03/world-s-fifth-largest-nation-gets-its-first-digital-bank-in-june (03 June 2021)
+[5] https://www.thenews.com.pk/print/914147-women-make-up-82-percent-of-unbanked-population-in-pakistan (05 December 2021)
+
+Yet, Raast has linked the usage of Raast ID through a bank account. One cannot create a RAAST ID without a bank account. Moreover, Raast is not an application or a consumer product of any sort; it is the back-end infrastructure or plumbing connected to banks, fintechs, EMIs, etc., allows service providers to build consumer or business service on top of it. Does this mean that Raast is not an application itself but a feature in the applications of others – banks, fintechs, and EMIs?
+
+Shouldn’t Raast be de-linked from bank account conditions to ensure broader financial inclusion? Here, the success of M-PESA in Kenya is noteworthy. M-PESA had introduced formal financial services to nearly 50 percent of the country’s population in less than a decade. M-PESA relied primarily on Short Message Service (SMS) to reach the country’s unbanked, few of whom had smartphones at the time of the product’s launch in 2007. Similarly, India’s National Payments Corporation of India (NPCI) has a great success in ensuring financial inclusion through its instant payment products, including biometrics.
+
+Likewise, numerous lessons can be drawn from Kenya’s M-PESA and India’s NPCI experience [6] . These include an industry-led approach to ownership and governance, with strong regulator backing; competitive economics through a utility model; mixed with smart growth and a start-up culture; a strategy of incremental product development; a government/regulator that uses carrots and not only sticks and also balances caution with progress.
+
+Point to Ponder: Does Digital Help in Minimizing the Corruption?
+Society incurs massive social costs is the use of cash to corrupt public officials. The social costs of corruption presumably are orders of magnitude greater than the scale of the bribes themselves, but even estimates of the payments are staggering. The World Bank attempted to create a comprehensive worldwide measure of bribes at the beginning of the 2000s. The World Bank came up with a round number for bribes globally of $1 trillion for the years 2001 and 2002. Assuming the figure has roughly doubled in line with global GDP — which seems very conservative given that developing countries have accounted for the lion’s share of global growth over the past 15 years — the worldwide scale of bribes would now be closer to $2 trillion. So, the digital currency can be of great help in minimising the corruption.
+Source: Kenneth Rogoﬀ’s Book, titled “The Curse of Cash: How Large-Denomination Bills Aid Crime and Tax Evasion and Constrain Monetary Policy”, published in 2017.
+
+6. A COMMON MAN’S VIEW
+
+Almost 40 percent of Pakistan’s population is illiterate. A big chunk of literate people can only read and write their name or simple phrases (as by the definition of literate). Another major problem Pakistan faces, like the majority of the people in developing nations, is the high compliance cost to operate legally. This accrues transaction costs on the part of the agent, doing any economic activity. In such circumstances, it is very simple for an individual to visit a nearby Easypaisa shop or any other such outlet, share his CNIC and phone number and send money. The job is done. Yes, the person has to pay charges, but isn’t it cheaper than the opportunity cost and other miscellaneous fees the bank charges?
+_____________________
+[6] Cook, W., & Raman, A. (2019). National Payments Corporation of India and the remaking of payments in India. Consultative Group to Assist the Poor Working Paper .
+
+In this context, Raast seems to be an added loop in the branchless banking network. Why can’t Raast create algorithmically generated accounts at the back-end of each mobile number transacting, just like EasyPaisa or JazzCash is doing? Why is the cost (read as monetary and non-monetary cost) of opening and maintaining a bank account on the consumer? Couldn’t the purpose be met by allowing all the bank to generate unique IDs of the bank accounts and the IDs should be nothing but the preferred cellphone number of the account holders? SBP could have also incentivised banks to make the transaction free.
+
+Regarding the ISO 20022 system, SBP could have also arranged with commercial banks for technology transfer. Moreover, linking IBAN with a phone number is an added benefit, not the central one, SBP officials agreed. As in other applications, you have to add beneficiary once, then just click the name next time.
+
+7. LIMITATIONS
+
+In conversations with SBP officials, it can concluded that Raast is not a competitor but a facilitator to all other digital financial services existing in the market. Raast serves as a coordination mechanism; in simple words, it would act like glue – binding together all financial services through a single channel.
+
+The best attribute about Raast is its state-of-the-art ISO 20022 system, which would bring in both efficiency and effectiveness with checks and balances. The system can offer more products with integration and absorb more services within itself overtime. We didn’t get a clear answer when we asked what happens if the account is hacked and money is withdrawn remotely? The onus seems to be on the end consumer. If the consumer does not click any random link or share sensitive information with anyone, it comes under cyber-crime. Afterward, the case may involve law enforcement, in particular the Federal Investigation Agency (FIA). The question arises, why the banks just not reimburse the consumer money and put up a case with FIA and other law enforcement agencies? After all, the money is insured, so no harm to the bank, and the onus of putting up and following a case should be on the bank, not the consumer. Would Raast tackle such issues? The answer is ‘most probably’. How? Only the time would tell. Having said that, one thing is crystal clear: Pakistan is moving into the digital currency domain faster than expected, and that is an encouraging development.
+
+8. CONCLUSION
+
+It can be concluded that the trend of digital currency is on the rise at the global level as well as in Pakistan. It has players already in this noted that new entrants also have a fascination with digital currency, sensing its enormous potential in the near future. In this context, Pakistan’s government and SBP seem to be conscious of the unfolding developments reading the changing nature of money and a global shift towards digital currency. Thus, SBP, through DFS and Raast is laying the groundwork, which would act as an effective launch-pad for the detrimental shift towards the digital currency

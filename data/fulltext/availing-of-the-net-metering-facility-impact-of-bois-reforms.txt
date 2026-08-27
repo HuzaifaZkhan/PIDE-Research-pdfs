@@ -1,0 +1,83 @@
+The world is now transiting from fossil fuels to clean and environment-friendly energy generation. Societies are shifting toward renewable energy sources, such as Photovoltaic (PV) and wind power generation, to meet their energy demands. The government of Pakistan is also taking drastic measures to improve the energy mix in order to cope with the environmental and climate challenges. Among these initiatives, one involves the promotion of the generation of small-scale distributed renewable energy. Accordingly, the concept of net-metering was formally announced in 2015 which allows the consumer to set up a renewable energy capacity like a PV system (commonly known as a solar system) to produce and sell the electricity.
+
+This report provides an overview of the process of installation of a PV system that is grid-connected and has a capacity of up to 25 kilowatts (kW). The objectives of the report are twofold: firstly, to walk the reader through different stages, processes, and administrative hurdles/burdens that one has to experience during the installation of the PV system. Secondly, to evaluate the impact of recent reforms that have been implemented by the efforts of the Board of Investment (BOI) in availing the net-metering facility.
+
+1. Net-metering: The Process The formal mechanism of the net metering has been elaborated in the Development of Renewable Energy for Power Generation Policy, 2006. The policy promulgates that power Distribution Companies (DISCO) shall enter into a net-metering agreement with qualified end-users upon the request of the end-user without any discrimination (section-8.4). The end-user under this agreement is allowed to produce electricity from a PV system for his/her own use and supply the excess produce to the national grid, which will be compensated by the consumption during peak hours or at the time of low own production. The consumer will pay or get paid according to the adjusted bill that is based on the net unit either exported or consumed.
+
+The National Electric Power Regulatory Authority (NEPRA) announced net-metering regulations in 2015 under which any customer of the national grid (having a three-phase connection) can avail of the net-metering facility on a small scale. As per the guide issued by the Alternative Energy Development Board (AEDB) on net-metering, the installation of a net-meter takes around 3 months 1 . The diagram below summarizes the process of net-metering as per the AEDB’s guide.
+
+________________________
+
+The AEDB’s guide can be accessed at: https://www.aedb.org/images/NetmeteringGuidlinesforConsumers.pdf.
+
+However, when we reached out to customers who are availing of the net-metering facility, their experience show that the actual process may take more than 4 months. The table below elaborates on the process of net-metering installation as per the end-user’s recollection.
+
+Since there are two government bodies involved, the DISCO and NEPRA, therefore, the administrative burden is enormous in availing the net-metering facility. Once the initial assessment and agreement are furnished by DISCO then the application moves to NEPRA. The table below describes the application processing at NEPRA.
+
+2. Reforms proposed and implemented by the Board of Investment (BOI)
+
+To promote investment in the renewable energy generation at a small-scale level, BOI proposes and is also able to implement two reforms:
+
+1. Condition of a three-phase connection with the national grid to avail net-metering facility has been eliminated (Reform ID: F006).
+
+2. The requirement of a generation license from NEPRA for net-metering up to 25 kW has been eliminated (Reform ID: F086).
+
+We have evaluated the impact of these reforms based on how much administrative and financial burdens have been reduced, and what increase is expected to happen in the usage of renewable energy generation. To evaluate the impact of reforms implemented with the efforts of BOI, we obtained data from NEPRA for the period 2017-2021.
+
+2.1. Impact assessment of eliminating three-phase connection requirement
+
+In the post-reform scenario, DISCOs can install a bi-directional meter (also known as a green meter) even if the customer does not have a three-phase connection. This intervention has not only saved the processing time but also lowers the cost of availing net-metering facility for the individual end-user by around Rs. 15,000 2 . Our key findings are:
+
+• Previously only 3% of consumers were eligible to avail net-metering facility. Now almost 100% of consumers with the national grid connection can avail this facility.
+
+• Based on the average number of applications for net-metering from 2017 to 2021, this reform will reduce the annual recurring cost by Rs. 180 million, which the society has to bear in the absence of this reform 3 .
+
+• The reform has reduced the processing time by eliminating the three-phase connection requirement and can reduce sludge by 8%.
+
+_____________________
+
+2This includes the cost of a three-phase meter that has to be installed before the installation of the net-meter.
+
+3There is a 200% increase in the number of applicants each year from 2017-to 2021. Based on this trend, the expected number of applications during 2022 would be around 12,000. The reform would also induce more consumers to avail of this facility, however, we have ignored this impact in calculating the reduction of monetary cost. Therefore, the estimates presented above are understated in that respect.
+
+2.2. Impact assessment of eliminating three-phase connection requirement
+
+Now the small-scale consumers can avail net-metering facility and interconnect their solar or wind power generation up to 25 kW without getting a license as well as paying any fee to NEPRA. Our findings under this reform are:
+
+• Based on the average number of applications for net-metering from 2017 to 2021, this reform will reduce the aggregate monetary cost by Rs. 170 million, which the society has to bear in the absence of this reform4 .
+
+• The reform has reduced the processing time by 18 days and is also able to reduce sludge by 22%.
+
+• The reform has eliminated one procedure (obtaining a license from NEPRA) directly and 6 indirect steps (the processing of application within NEPRA).
+
+3. Important Findings and Observations
+
+• 80% to 90% of consumers are of capacity less than 25kW.
+
+• 10% to 15% increase in the number of applications for net-metering is expected due to the reforms.
+
+• Overall reforms have reduced the processing time by 23 days and eliminated the sludge by 25%.
+
+• More than Rs. 350 million annual recurring administrative costs have been reduced.
+
+• NEPRA has raised transparency concerns. Since DISCOs entertain the net-metering application below 25 kW without notifying the authority.
+
+• The reforms have empowered DISCOs, and instances of misuse of power have also been reported by the respondents.
+
+• Members’ availability in NEPRA could cause a delay of around 15 – 20 days.
+
+• Consumers can only apply for the net-metering through certified vendors of the AEDB.
+
+_________________
+
+4Data reveals that there is a 15% annual increase in the applicants for net-metering below 25kW connections. DISCOs on average entertain around 10,000 applicants below 25 kW and the fee charged by NEPRA is Rs. 1,000 per kW. The expected number of applicants below 25 kW during 2022 is around 80% of total applications.
+
+4. Way Forward
+
+• Online integration of NEPRA and DISCOs can address the concerns of NEPRA related to the contractual validations between DISCOs and vendors.
+
+• Automation of application processing with a trace and track facility that is accessible to the vendor as well as the consumer may bring some transparency to the process.
+
+• For connection above 25 kW, the authorization by the member may also be received online.
+
+• To curtail the misuse of power by DISCOs, NEPRA should specify the timelines starting from the day of application submission till the day consumer receive the first adjusted bill. In the event of prolonged delays, a forum and a mechanism of complaint registration should also be initiated by NEPRA.

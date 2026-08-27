@@ -1,0 +1,83 @@
+As argued in PIDE Reform Agenda for Accelerated and Sustained Growth (2021), the pricing system in the real estate market of Pakistan is not efficient. The availability of information related to the price and characteristics of a property is either insufficient or vague. As a result, the price system in the real estate market does not perform its functions of coordination and efficient allocation of resources in the economy.
+
+One of the factors contributing to the inefficiency in the real estate market is the information asymmetry created by the existence of different property rates defined by different entities. Currently, at least three property rates are operational in the market and that includes:
+
+■ The Federal Board of Revenue (FBR) immovable property evaluation.
+
+■ The District Collector (DC) rate.
+
+■ The market rate.
+
+The existence of multiple rates in the real estate market is due to the revenue considerations of the agencies. Although the actual transaction happens at the market rate, the recorded price varies as per the need and suitability of buyers and sellers.
+
+Due to these factors, the price system of the real estate market is not producing the desired signals. Resultantly, efficient allocation of resources within the sector as well as across sectors is not happening. The real estate sector is heavily over-invested and the real estate is out of reach to the lower-middle and middle class.
+
+The inefficiencies created by multiple rates are far more damaging than the revenue generated from the market. Main distortions created by multiple pricing include:
+
+■ Increased transaction cost
+
+■ Information asymmetries
+
+■ Distorted pricing system
+
+■ Increased chances of fraudulent transaction
+
+■ A source of whitening black money
+
+■ Realized tax yield much lower than the potential.
+
+There are four types of taxes/duties applicable to real estate transactions:
+
+Th e Provincial Government collects stamp duty and capital value tax. Th e Federal Government collects the capital gain tax and withholding tax.
+
+1 . D i s t r ic t C o llector (DC) Rate
+
+Provincial governments use the District Collector (DC) rate to calculate the stamp duty and Capital Value Tax (CVT). Section
+
+27-A of the Stamp Act (1899) states that the duty on the immovable property shall be charged according to the value of the property, and for the valuation of the property DC
+
+notified value table/rate shall be used.
+
+The district collector announces the valuation of properties based on the characteristics of properties that include location (district, tehsil), type (urban, rural), and nature (the classification of land) of the property. The practice of applying the DC rate at the time of mutation was formally adopted during the 1980s with the following objectives:
+
+To make the sector more efficient. To maximize the tax revenue.
+
+To control price fall.
+
+Afterward, the stamp duty and CVT, which fall under the provincial jurisdictions, are calculated based on DC rates at the time of mutation.
+
+Initially, the Federal Government also adopted DC rates to calculate both capital gain and withholding taxes. However, in Income Tax Ordinance 2001, the power to determine the property price was given to the commissioner. The Income Tax Rules 2002 also prescribed the mechanism for the commissioner to determine the fair market price.
+
+Currently, provinces charge stamp duty at a rate of 3% for rural immovable property and 1% for urban properties evaluated at DC rates. While the capital value tax rate is 2% for the urban property evaluated the DC rate.
+
+2 . The Federal Bureau of Revenue Valuation of Immovable
+
+P r o p e r t y
+
+Issues in the adoption of the DC rate for charging taxes emerged in the mid-1990s when the DC rates were far below the market rates. Moreover, the revision of the DC rates was not carried out periodically. Resultantly, the real estate sector became a favorite sector to park black money.
+
+To tackle the valuation gap between the DC rate and market rate, the FBR started the practice of issuing the valuation of immovable property for different cities of Pakistan in 2016. These valuation tables are meant to be at par with the market rate, and the FBR has revised these tables two times, i.e., in 2019 and 2022, so far. Now the capital gain tax and withholding tax on the sale of immovable property are calculated based on FBR immovable property tables in localities where the tables are notified, while for all other localities, the DC rate is still applicable.
+
+However, the market rate often varies from both the FBR valuation and the DC rate. The market rate (the actual rate at which transactions are happening in the real estate market) is roughly 5 to 10 times higher than the DC rate and 2 to 4 times higher than the FBR rate.
+
+3 . Comparing Different Rates
+
+To highlight the difference in these rates, and show the anomalies in the objective for which DC rate and the FBR were introduced, we performed a small exercise. We selected two properties from Rawalpindi city (Satellite Town) and compared the market rates of these properties with the DC rate and the FBR valuation.[2]
+
+There exists a huge gap between the valuation of these properties at different rates. This valuation gap leads to a tax gap as well. The tables below show the magnitude of the valuation and the tax gap.
+
+4 . M u l t i p l e Li s t i n g : A Panacea
+
+To overcome the problem of information asymmetry in general and to ensure the availability of price-related information in particular, one of the possible solutions is the introduction of multiple listing services in the real estate sector. The introduction of multiple listing services would also enable the real estate market to get rid of the obsolete official pricing mechanisms that include the DC rates and the FBR valuation tables. The price information available or given in the listing service can be used for recording the transaction and for calculating tax liabilities.
+
+The key points to keep in mind while designing these services are:
+
+i. the fair market price is revealed during the auction
+
+ii. there is fair bidding without rigging
+
+iii. who will regulate the services and who can participate
+
+iv. How do the listing services get integrated with the mutation process
+
+[2] These properties are listed for sale at zameen.com, and we used asked price as the market rate. The calculation of the FBR valuation and the DC rates are based on the values given in respective tables.

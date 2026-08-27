@@ -1,0 +1,35 @@
+Pakistan finds itself in the throes of economic hardship, yet again. We have entered that endless cycle of boom and bust that the denizens of this country have experienced since its birth. As usual, there is extensive commentary on what needs to be done to ease the crushing burden of economic hardship. One frequently quoted solution comes up in the form of ‘debt restructuring’.
+
+So let us first understand what ‘restructuring’ of debt is. Put briefly, restructuring of debt basically denotes the change in maturity profile of debt; so, for example, if a certain portion of my debt is due this month, I sit down with the creditors and request them to extend the date of repayment (usually aimed at longer repayment times). If it happens, then we have ‘debt restructuring’.
+
+Now that we have a definition, it is imperative to look at Pakistan’s debt profile to get a better sense of where the real issue lies, which perpetuates the calls for restructuring. We get the following information on ‘Public Debt’ from Government’s own statistics[1]:
+
+Table 1. Currency Composition of Total Public Debt (In Percent of Total Public Debt)
+
+Table 2. Maturity Profile (In Percent of Total Public Debt)
+
+A cursory glance at the numbers presented in Tables 1 and 2 may lead the reader to presume that the real issue is domestic debt given both the composition and the maturity profile. However, domestic debt, for various reasons, is least of the government’s concern, primarily because domestic banks are more than happy to lend to the federal and provincial governments (being the safest, least risky option). It is the external debt about which we hear all the noise regarding restructuring: that is the main issue!
+
+For a start, we do not print dollars that constitute the largest portion of our external debt; we have to earn it! Pakistan cannot just run the printing press to wish away its dollar debt. And the sources of its dollar income (FDI, remittances and exports) are volatile, with net FDI accounting for almost nothing. The icing on the cake is the structure of the economy, which ensures that Pakistan cannot attain higher GDP growth rates without running dollar deficits (dollar inflows minus outflows), meaning that the deficits will have to be financed (as has been the usual case) through further external borrowings.
+
+Aside from the growth financing issue, unpredictable external shocks add to the repayment difficulties. We have seen this factor in play recently, in the form of COVID-19 and especially the Russo-Ukraine War, which has created the present difficulties for Pakistan and other developing nations.
+
+Figure 1. Breakdown of Pakistan’s Debt
+
+Of Pakistan’s external creditors, multilateral and commercial debt are the most troublesome aspect because these are the most difficult ones to restructure. As the accompanying graph shows, by December 22, it constituted almost 70 percent of our total external public debt[2]. Even the ‘bilateral’ debt, often taken as the ‘easier’ part of external repayments given its tendency to get ‘rolled over’ is not easy to negotiate anymore. This realisation that Pakistan may not be able to meet its debt obligations has what has led to the increasing calls for debt restructuring.
+
+But will it help?
+
+Given Pakistan’s debt profile and the discussion above, what can one interpret or infer about the question of whether debt restructuring can be of any help to Pakistan? Debt restructuring, if it happens, will only provide breathing space for a few years, but the issues that give rise to cumbersome debt would remain in place. Of these, the most pressing concern is the structure of Pakistan’s economy, whereby higher GDP growth will always beget higher imports and higher Current Account (CA) and trade deficits, which will have to be financed by taking recourse to external debt. Unless we change the very fundamentals of the economy, either in the form of shifting to internal/domestic sources as primary drivers of growth, or to long-term success in substantially increasing our sources of dollar earnings (FDI, remittances and exports), any bout of higher GDP growth (a must, especially in the case of countries like Pakistan) will only bring us back to square one: external debt will again assume troublesome proportions!
+
+This can be easily illustrated by our last debt restructuring exercise, in 2001. Being an ally in the ‘War on Terror’ brought Pakistan major debt relief. Just the USD 3.3 billion ‘Paris Club’ trilateral debt was rescheduled for 20 years, with a 10-year grace period[3]. It gave us breathing space for only a couple of years, until the external oil shock and limited flows sent Pakistani economy into another external payments tailspin.
+
+To conclude, as things stand, debt restructuring will not solve any of the long-standing, critical issues plaguing Pakistan’s economy. Any debt restructuring exercise in the absence of economic reforms will only set the stage for another bout of external repayment worries in the future.
+
+The author is a Research Fellow at the Pakistan Institute of Development Economics (PIDE), Islamabad.
+
+[1] Figures/Tables taken from Finance Division’s debt data, ‘Public Debt Bulletin: July-December 2022’. The reason only public debt is considered here is that it is by far the largest portion of Pakistan’s overall debt, and also the major source of concern (especially external debt)
+
+[2] Majority of the more recent external debt constitutes short-term loans, with lesser repayment times and higher interest rates given Pakistan’s higher politico-economic profile.
+
+[3] Some countries, like the US, even wrote off debt. To gauge how helpful this restructuring exercise was for Pakistan, the debt servicing burden was 41 percent of our dollar earnings in 1998-99 (almost the same as today)

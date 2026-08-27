@@ -1,0 +1,72 @@
+Ameliorating drug[1] shortages in Pakistan
+
+Introduction : In mid-March 2022, a letter by Pakistan Young Pharmacist Association (PYPA) caught the headline of major newspapers in Pakistan[2]. The letter, written in context of prevalent shortage of Paracetamol, more or less alleged that the drug manufacturing companies were deliberately causing the shortages. The reason, they argued, was that drug manufacturers wanted to compel customers to buyer higher dose of the said drug (665 mg) since it had a significantly higher price compared to lower doses[3].
+
+This letter again brings to light the critical (but lesser discussed) issue of persistent drug shortages in Pakistan. Every year, critically needed drugs tend to vanish off the shelves, to be either found in black or imported to meet shortages (the accompanying table contains a few sample cases of shortages since two decades). Mehmood (2017)[4], after a survey of major drug markets in Rawalpindi and Islamabad, found that 48 registered drugs were unavailable (drug manufacturers had stopped producing them), while 67 registered brands were experiencing shortages to varying degrees. Drug shortages, however, are not a recent phenomenon; in fact, it goes back to the time of the creation of the country. On 30 th March 1954, during Constituent Assembly session, Mr. Abdul Monem Khan pointed to the severe shortages of medicines in the country. The Health Minister, Mr. Tafazzal Ali, replied that import orders had been placed to ameliorate the shortages. In 1976, Arthur Homer Furnia, a US Health sector specialist, noted the shortages of medicines, especially in government facilities where the trend of siphoning off medicines was common[5].
+
+____________________
+[1] ‘Drug’ is the allopathic name for medicine, and is used here because only allopathic medicines are under consideration. ‘Medicine’ denotes a wider variety, including allopathic, homeo, and Ayurvedic, etc.
+[2] ‘Pharmacists seek PM Imran’s help as Paracetamol shortages gives headache’
+[3] 665 mg is priced at Rs. 5.80 per tablet, while lower dose 500 mg is priced at Rs. 1.70
+[4] ‘Access to essential medicines: Findings of survey’
+[5] ‘The Dynamics of Health: Islamic Republic of Pakistan’
+
+The difference is that in 1954, there was hardly any pharmaceutical plant in the country. In 1976, there were less than 100. Now, there are around 750! But shortages still persist. What, then, causes these persistent shortages? The following lines briefly present the main causes and then proposes solutions to lessen shortages in the future.
+
+The role of regulations Government mandated regulations are the biggest contributor to the shortages. To understand the issue, readers would need to understand the dynamics of the pharmaceutical industry. In context of shortages, two aspects are extremely critical- drug pricing policy, and that 95% of the raw material for manufacturing medicines is imported. First, since 95% of the raw material for manufacturing medicines is imported, that puts the industry in a precarious position given global supply disruptions (as in Coivd-19) and higher cost of imports (duties, tariffs, rupee depreciation, etc.)
+
+At this moment, industry officials state that not a single Active Pharmaceutical Ingredient (API), out of the 1,200 or so used in Pakistan, is being manufactured here (even in normal circumstances, domestic manufacture of APIs was never above 45, and quality wise, they don’t match foreign competitors)[6]. This implies that at this moment, Pakistan is completely dependent upon import of APIs to manufacture drugs. Given rupee’s losses against the dollar, raw material is now quiet expensive. Expensive raw material, in turn, begets higher cost of manufacturing the same product (along with steep rise in energy prices, etc.). Unless the producer gets this cost covered (profit margins are fixed by the Government pricing policy), production becomes unfeasible.
+
+Government Regulations and the Endemic of Hepatitis-C
+Hepatitis-C is a serious threat to health world-over. In Pakistan, an estimated 10 million people were suffering from this disease in 2016, of which 80,000 were expected to die. Yet the government regulations made a mess out of the issue of availability of its treatment drug ‘Sovaldi’ nad its local (cheaper) variants. ‘Sovaldi’ is considered a miracle drug for curing Hepatitis-C, and had been in market since 2013. But for unexplained reasons, government kept refusing to allow its import. Only in 2016, after Supreme Court took notice of the non-availability of drugs and deaths related to Hepatitis-C, did the government allow its import from the US – allowing only a temporary solution to the grave problem.
+It’s an expensive medicine. In 2016, it cost Rs. 32,000 per 28 tablets in Pakistan. A cheaper alternative was its proposed manufacture in Pakistan, under the generic name ‘Sofosbuvir’, costing around Rs. 10,000 per 28 tablets. Since 2014, 14 applications were approved by the regulator (DRAP) out of 61 received for manufacturing this drug locally. In February 2016, only 9 companies were allowed to sell generic brand of Sovaldi in Pakistan. Between 2013and 2017 (when the domestic manufacturers started manufacturing the drug), however, consumers had to pay billions of rupees extra for imported Sovaldi, mostly found in black at exorbitant rates.
+
+Historically speaking, Pakistan’s Governments have always been shy of granting price increases for drugs (primarily because it is seen as a politically sensitive). But in playing politics, they have only ended up propelling shortages[7]. This is exactly what we see in recent case of countrywide shortage of Panadol. Depreciation of rupee and other factors (like supply disruptions, higher freight costs) shot up the raw material price of paracetamol from Rs. 600/kg to Rs. 2,600/kg. The industry has been asking the government to increase the price, met by persistent refusal. Resultantly, as production became financially unfeasible, firms stopped producing products containing the ingredient paracetamol (like Panadol), resulting in shortages. Only now, as shortages became debilitating amidst consumers’ misery, did the official regulator (Drug Regulatory Authority of Pakistan or DRAP) proposed increasing the prices. The proposal, however, still remains at the Cabinet table. Meanwhile, consumers have lost millions of rupees in paying for either imported paracetamol products[8] or ones found in black market.
+
+________________________
+[6] Discussions with industry officials
+[7] See box on Hepatitis-C. Taken from ‘Access to essential medicines: Findings of survey’, PRIME Institute
+[8] There are online retail shops like MEDICALMARTPK.COM that offer imported Panadol and other such variants, aside from plethora of other imported drugs whose generic variants are manufactured by domestic producers
+
+How the industry responds? As the recent Panadol shortages became rampant, in one specific instance, around 27 thousand boxes containing Panadol tablets were confiscated from a large storage in Peshawar. As expected, the media blamed the ‘drug mafia’, inadvertently accusing the pharmaceutical manufacturers, dealers and sellers of conspiring to cause the shortages. However, there is little substance to this accusation, repeated often whenever drug shortages occur. As discussed above, the foremost reason propelling these shortages were pricing and supply related issues! Regarding the confiscation of Panadol boxes from the storage, it is usually one big retailer who mops up the remaining supplies of a drug that suffers shortages, and then sells it back at exorbitant prices[9]. Stopping this practice, by law, is the job of provincial governments[10].
+
+Over time, drug manufacturers have responded in different ways to the issues persistently being faced in terms of pricing regulation. One particular strategy is to move to manufacture higher potency doses. The movement towards 665 mg dosages of Panadol, whose price is much higher than 500 mg dose, is a reflection of this strategy. Simply put, higher prices help maintain the profit margin (fixed by pricing policy) and the production costs, making production financially feasible. Similarly, another strategy is to stop production of a certain drug, apply for its production under a new generic name, under a different category (like ‘Neutraceuticals’, whose prices are less regulated) and at a higher price[11].
+
+Yet another strategy (usually used by lower quality drug manufacturers) is to sell in-demand raw material on black market rates or smuggle it. For e.g, in March, Anti-Narcotics Force (ANF) caught 1,086 liters of Ketamine (API used in psychotropic drugs) worth Rs. 34 billion that was being smuggled to UAE.
+
+Conclusion The availability and affordability of drugs affects our health and our lives. Georgieva (2019)[12] estimated 1.5% per annum growth in GDP due to a healthy workforce. Poor health, in contrast, reduces global GDP growth by 15 percent per year[13] (Remes, Dewhurst and Woetzel, 2020). Quality and effective medicines have a large role to play in ensuring a healthy workforce.
+
+__________________________
+[9] Shared with the author by industry officials, retailers and hospital officials. The large retailer gets advanced information on coming shortages, and starts buying all the supply from stores within a city
+[10] As per DRAP Act 2012, Coordinating and supervising sales of drugs is provincial government’s domain
+[11] This is precisely why the number of drugs produced is not even half of those registered with DRAP
+[12] ‘Healthy people drive strong economies’
+[13] ‘Research: Poor health reduces GDP by 15% each year’
+
+In Pakistan, unfortunately, the population carries a heavy disease burden[14]. To make matters worse, many critically needed drugs suffer from persistent shortages, which are primarily driven by Government’s regulation, especially its pricing policy[15]! There are other factors, which again illustrate voids in regulations and implementation. One of the drug, for e.g, suffering persistent shortage since its introduction in 2001 is Ritalin. An invaluable drug in terms of Attention Disorders (like ADHD), it contains a ‘controlled’ substance (Methylphedate), which can have the same effects as opium. There is enough evidence to indicate that due to loose controls on sales, large quantity of Ritalin is consumed by those who don’t need it in the first place. A 2019 survey, for e.g, found that the drug was being used extensively by students in Pakistan’s medical colleges[16].
+
+____________________
+[14] For e.g, see ‘WHO country cooperation strategic agenda (2011-2017)’, WHO
+[15] For a detailed discussion on drug pricing and its outcomes, see PIDE evaluation ‘Regulating the pharmaceutical industry: An analysis of DRAP’
+[16] ‘Prevalence of Methylphenidate misuse in medical colleges in Pakistan: A cross-sectional study’
+
+In conclusion, given ground realities, drug shortages will likely be a presence in the future.
+
+Policy suggestions The following suggestions are aimed at ameliorating the persistent shortages of drugs-
+
+Government should leave drug pricing to the market. It has done enough damage to the industry and consumers. Is role in terms of pricing, at best, should be that of coordinator of prices. For e.g, prices should be allowed to move in consonance with input prices, and price adjustments should be immediate rather than late
+
+The federal Cabinet should have absolutely no role to play in fixing drug prices because pricing then becomes a political decision, biased towards lowering or maintaining prices
+
+The main job of the federal and provincial drug regulators should be maintenance of quality, subsidizing R&D and keeping track of sales, especially of those substances that fall under the ‘controlled’ category so that there is no misuse
+
+References
+
+Furnia, Arthur Homer (1976). ‘The Dynamics of Health: Islamic Republic of Pakistan’
+Georgieva, Kristalina (2019). ‘Healthy people drive strong economies’. World Bank (WB)
+Javed, Nismat et.al (2019). ‘Prevalence of Methylphenidate misuse in medical colleges in Pakistan: A cross-sectional study’
+Mehmood, Shahid (2017). ‘‘Access to essential medicines: Findings of survey’. PRIME Institute
+Mehmood, Shahid (2022). “Regulating the pharmaceutical industry: An analysis of DRAP”. Pakistan Institute of Development Economics (PIDE)
+‘Pharmacists seek PM Imran’s help as Paracetamol shortages gives headache’, DAWN, 14 th March 2022
+Remes, Jaana. Dewhurst, Martin and Woetzel, Jonathan (2020). ‘Research: Poor health reduces global GDP by 15% each year’, Harvard Business Review.
+World Health Organization (2017). ‘WHO country cooperation strategic agenda (2011-2017)’

@@ -1,0 +1,47 @@
+Parental Smoking And Child Health
+
+Based on “Parental Tobacco Smoking and Child Malnutrition”
+
+WITH THE HEALTH OF THE FUTURE GENERATIONS AT STAKE, CONTROLLING TOBACCO USE IS A PUBLIC HEALTH EMERGENCY!
+
+Key Messages:
+
+Prevalence of malnutrition is higher among children whose parents smoke tobacco than those with non-smoking parents.
+
+Stunting prevalence is higher among children of smoking parents in lower-income quantiles, where tobacco use is already crowding out health expenditures.
+
+Given that the adverse effects of tobacco consumption go beyond the tobacco users to their children, controlling its use should be an integral part of public health policies.
+
+Introduction
+
+Parental tobacco use can harm child health outcomes. From adverse developmental effects during pregnancy to an illness linked to second-hand smoke and spending scarce household economic resources, tobacco use has a detrimental impact on children’s health. Smoking or exposure to tobacco smoke can lead to low weight and premature births, increased risk of fetal mortality, congenital abnormalities, and childhood obesity 1,2,3. Children with tobacco-using parents are at a higher risk of sudden infant death syndrome, severe asthma, and ear and respiratory infections, among other health issues 4. This policy brief is based on a study titled, ‘Parental Smoking and Children’s Malnutrition’ conducted by the Pakistan Institute of Development Economics. The study employs multivariate analyses through Ordinary Least Square (OLS) and Propensity Score Matching, using the Pakistan Demographic and Health Survey (PDHS) 2017-18. It focuses on smoking tobacco, including manufactured cigarettes, hand-rolled cigarettes, kreteks, pipes full of tobacco, cigars, cheroots, and cigarillos. Nutritional status is indicated by height-for-age (HAZ), weight-for-age (WAZ), and weight-for-height (WHZ) z-scores.
+
+More than 1 in 5 children has at least one parent who smokes.
+
+Tobacco is smoked by 7 percent of mothers and 16.3 percent of fathers in Pakistan, with 21.6 percent of children having at least one parent who smokes (see Figure 1). More fathers smoke than mothers across the country, with varying magnitude across provinces and regions: The province with the lowest income levels, Balochistan, has the highest rates of parental smoking; conversely, the rates are lowest for KP, where instead of smoked tobacco, chewing tobacco is more common.
+
+Children of smoking parents have lower health status.
+
+Mean malnutrition prevalence (stunting, underweight, and wasting) among children with tobacco-smoking mothers, fathers, or at least one smoking parent is higher than their counterparts (see Figure 2). The correlation between mothers’ smoking tobacco and children’s poor health is higher than fathers’ smoking. Children of smokers in rural areas are more likely to suffer from malnutrition than in urban areas. Likewise, children in lower-income quintiles have a more significant nutritional disadvantage when parents smoke.
+
+Parental tobacco smoking has a statistically significant negative association with stunting.
+
+The findings indicate that the prevalence of stunting is almost doubly associated with maternal smoking than paternal smoking, as the former has a HAZ score of -0.412 standard deviation against the latter’s -0.237. The negative relationship between parental smoking and stunting is consistent across regions; however, fathers’ smoking status is strongly associated with children’s HAZ scores in urban areas instead of mothers’.
+
+Stunting is significantly higher in male children.
+
+The prevalence of stunting is significantly higher among male children. The trend holds whether the mother, father or at least one parent smokes tobacco. Only maternal smoking has a statistically significant association with stunting for female children.
+
+REFERENCES
+
+Niu, Z., Xie, C., Wen, X., Tian, F., Yuan, S., Jia, D., & Chen, W.-Q., “Potential pathways by which maternal second-hand smoke exposure during pregnancy causes full-term low birth weight,” Scientific Reports, 2016, 6(1), 1-8.
+
+Sunday, S., & Kabir, Z., “Impact of carers’ smoking status on childhood obesity in the growing up in Ireland cohort study,” International Journal of Environmental Research and Public Health, 2019, 16(15), 2759.
+
+Wahabi, H. A., Alzeidan, R. A., Fayed, A. A., Mandil, A., Al-Shaikh, G., & Esmaeil, S. A., “Effects of second-hand smoke on the birth weight of term infants and the demographic profile of Saudi exposed women,” BMC Public Health , 2013, 13(1), 1-6.
+
+US Department of Health and Human Services, A report of the surgeon general: How tobacco smoke causes disease: What it means to you, 2010, Retrieved from http://www. cdc. gov/tobacco/data_statistics/sgr//consumer_booklet/pdfs/consumer. pdf
+
+Saleem,W, and M. Asif, 2021, The Crowding Out Effect of Tobacco Spending in Pakistan . Karachi: SPDC.
+
+The Pakistan Institute of Development Economics (PIDE) is funded by the University of Illinois Chicago’s (UIC) Institute for Health Research and Policy to conduct economic research on tobaccotaxation in Pakistan. UIC is a partner of the Bloomberg Initiative to Reduce Tobacco Use. The views expressed in this document cannot be attributed to, nor do they represent, the views of UIC,the Institute for Health Research and Policy, or Bloomberg Philanthropies.

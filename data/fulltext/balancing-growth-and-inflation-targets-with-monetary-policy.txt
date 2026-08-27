@@ -1,0 +1,61 @@
+The Monetary Policy Statement (MPS) by the State Bank of Pakistan (SBP), dated June 12, 2023, reflects the ongoing efforts to manage inflation and promote economic growth. The MacroPolicy Lab at the Pakistan Institute of Development Economics (PIDE) has critically reviewed the MPS and offers valuable insights to policymakers. This policy note highlights the relationship between inflation and interest rates, analyzes the rationale behind the SBP’s monetary policy decisions, and discusses the challenges of balancing growth and inflation targets in the current economic landscape.
+
+Monetary Policy Statement (MPS) Highlights: The Monetary Policy Committee (MPC) has decided to maintain the policy rate unchanged at 21 percent in its Monetary Policy Statement (MPS) dated June 12, 2023. The Committee observed that the higher inflation outturns for April and May were broadly in line with expectations and noted a sequential ease in inflation expectations of both consumers and businesses from their recent peaks. Additionally, the provisional National Accounts estimates indicate a considerable deceleration in real GDP growth during FY23, while the current account balance recorded back-to-back surpluses in March and April 2023, alleviating some pressures on foreign exchange reserves. These developments, along with the declining month-on-month trend, led the MPC to believe that inflation peaked at 38 percent in May 2023 and is expected to start declining from June onwards. The MPC emphasized the importance of effectively addressing domestic uncertainty and external vulnerabilities to maintain the current monetary policy stance, which is deemed appropriate for anchoring inflation expectations and bringing inflation down towards the medium-term target.
+
+Relationship between Inflation and Interest Rate : SBP utilizes various instruments, including the policy rate, to transmit monetary policy signals to key interest rates such as KIBOR, lending and deposit rates, and financial markets. Historically, interest rates have shown a tendency to move in the same direction as inflation, albeit with lags (Figure 1). The rising trend in interest rates since September 2021 reflects the SBP’s efforts to curb the persistently high inflation rates.
+
+Figure 1: Inflation and interest rate behavior
+
+Source: Various reports by SBP.
+
+Review of Monetary Policy Announcements : The MPS highlights the rationale behind the MPC’s decision to adjust the policy rate in response to inflationary pressures. The series of rate hikes were aimed at addressing these pressures and mitigating potential risks to the economy. The MPC’s decision to maintain the policy rate at 21% in the latest announcement acknowledges the sequential easing of inflation expectations from their recent peaks.
+
+Table 1: Monetary Policy rationale for Policy Rate Changes
+
+Challenges in Balancing Growth and Inflation Targets : Achieving the targeted growth rate of 3.5% and managing inflation at 20% with a higher policy rate presents significant challenges. While a higher policy rate can help control inflation, it may also hinder economic growth by increasing borrowing costs for businesses and consumers. Several factors contribute to the complexities of this balancing act, including.
+
+A. Inflation Expectations : Expectations of future inflation play a pivotal role in shaping current inflation dynamics. If inflation expectations remain elevated, higher policy rates may not effectively anchor expectations and curb actual inflation. The Consumer Confidence Survey indicates persistent expectations of higher inflation among consumers, suggesting that policy rate changes alone may not be sufficient to address inflationary pressures (Figure 2).
+
+Figure 2: Inflation expectation Index
+
+Source: Consumer Conﬁdence Survey of SBP
+
+B. Fiscal Imbalances : Fiscal imbalances pose a challenge to the effectiveness of raising interest rates as a tool to control inflation. The government’s reliance on debt borrowing to finance the budget deficit leads to increased debt payments and the potential removal of subsidies and tax hikes. These fiscal measures can inadvertently contribute to higher price levels, counteracting the intended impact of higher interest rates (Hina, et al., 2022).
+
+C. Time Lag in Monetary Policy Transmission : When inflation is already high, it may take several months for changes in policy rates to impact inflation significantly. Studies suggest that a 100 basis point increase in interest rates may reduce inflation by 0.26% over a period of 12 to 14 months (. Jalil et al., 2022). This time lag phenomenon, known as the price puzzle, highlights the need for additional measures to complement monetary policy actions (Sims (1992)
+
+Key Takeaways:
+
+Achieving the targeted growth rate of 3.5% and managing inflation at 20% with a higher policy rate of 21% requires a comprehensive approach that goes beyond solely relying on rising policy rates.
+
+Suggestion : Implement a multi-faceted strategy that combines monetary policy measures with other complementary measures to effectively control inflation and promote economic growth.
+
+Inflation expectations have a significant impact on current inflation dynamics. Merely increasing policy rates may not successfully anchor expectations and curb actual inflation if expectations remain elevated.
+
+Suggestion : Implement communication strategies to manage and anchor inflation expectations through clear and transparent communication about monetary policy objectives, measures, and economic outlook.
+
+Fiscal imbalances can limit the effectiveness of raising interest rates as a means to control inflation. Government borrowing to finance deficits can lead to higher debt payments, potentially resulting in higher price levels through increased taxes.
+
+Suggestion : Implement fiscal reforms to address underlying fiscal imbalances, reduce reliance on debt financing, and improve the efficiency of government spending. This can be done through measures such as enhancing tax collection, rationalizing expenditures, and promoting fiscal discipline.
+
+Changes in policy rates may take time to impact inflation, particularly when inflation is already high. Additional measures such as fiscal reforms, targeted stimulus packages, and structural reforms may be necessary to stimulate economic activity and bring inflation within the desired range while maintaining supportive monetary policies.
+
+Suggestion : Implement a comprehensive set of policies, including fiscal reforms to address structural issues, targeted stimulus packages to boost key sectors of the economy, and structural reforms to enhance productivity and competitiveness.
+
+Overall, successfully balancing the objectives of controlling inflation and promoting economic growth requires a holistic approach that considers the interplay of various factors. This includes managing inflation expectations, addressing fiscal imbalances, implementing timely and effective policy measures, and complementing monetary policy with fiscal, structural, and stimulus measures. By adopting a comprehensive and practical approach, policymakers can navigate the challenges and work towards achieving sustainable economic growth while maintaining price stability.
+
+References
+
+Bullard, J. (2015). “Permazero as a Possible Medium-Term Outcome for the U.S. and G-7. The Cato Institute’s 33rd Annual Monetary Conference, Washington D.C.
+
+Cochrane, J. (2016). Do Higher Interest Rates Raise or Lower Inflation?. Hoover Institution Working Paper.
+
+Fisher, I. (1930). The Theory of Interest. New York: Macmillan.
+
+Hina, H., Henna, A. and Hania, A. (2022). “ The Information in the Yield Spread for the Recession in the Case of Pakistan ,” PIDE-Working Papers 2022:11, Pakistan Institute of Development Economics.
+
+Jalil, A. Nasir, H. R., Mukhtar, U.H and Farrukh, A. M. (2022), Inflation Analytics, Published by Research for Social Transformation & Advancement (RASTA) at the Pakistan Institute of Development Economics.
+
+Sims, C. A., 1992. Interpreting the macroeconomic time series facts: The effects of monetary policy. European Economic Review 36 (5), 975–1000.
+
+Williamson, S. (2016). “Neo-Fisherism A Radical Idea or the Most Obvious Solution to the Low-Inflation Problem?. The Regional Economist, A Quarterly Review of Business and Economic Conditions, Vol:24, No:3, 1-24.
