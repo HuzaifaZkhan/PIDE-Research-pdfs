@@ -11,3 +11,6 @@ node_modules/
 *.part
 data/*.log
 .DS_Store
+
+# unpublished FYP proposal drafts - do not publish to a public repo
+project proposal/

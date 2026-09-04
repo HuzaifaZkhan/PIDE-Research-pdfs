@@ -94,6 +94,7 @@ def main():
             "slug": slug,
             "title": html.unescape(re.sub(r"<[^>]+>", "", r.get("title", ""))).strip(),
             "date": (r.get("date") or "")[:10],
+            "month": (r.get("date") or "")[:7],
             "year": names("year", t.get("year")),
             "category": names("category", t.get("category")),
             "sub_category": names("sub-category", t.get("sub_category")),
