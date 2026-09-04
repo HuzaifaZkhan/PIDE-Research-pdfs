@@ -14,3 +14,6 @@ data/*.log
 
 # unpublished FYP proposal drafts - do not publish to a public repo
 project proposal/
+
+# non-PIDE PDFs cited inside articles, kept out of the corpus
+cited_external_pdfs/
